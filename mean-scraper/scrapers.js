@@ -7,11 +7,17 @@ async function scrapePrevalencia(url) {
         const page = await browser.newPage();
         await page.goto(url);
 
+        //Format After 1 May //*[@id="cuerpo"]/div[1]/div[2]/p[2]
+        //Format exlusively for 2 and 3 of May //*[@id="cuerpo"]/div[1]/div[2]/p[1]
+        //Format After 16 May //*[@id="cuerpo"]/div[1]/div[2]/p[1]
         const [el1] = await page.$x('//*[@id="cuerpo"]/div[1]/div[2]/p[1]');
         const txtAn = await el1.getProperty('textContent');
         const rawTxtAn = await txtAn.jsonValue();
         const rawTxtAnNoSpaces = rawTxtAn.replace(/\s/g,'');
 
+        //Format After 1 May //*[@id="cuerpo"]/div[1]/div[2]/p[4]
+        //Format exlusively for 2 and 3 of May //*[@id="cuerpo"]/div[1]/div[2]/p[3]
+        //Format After 16 May //*[@id="cuerpo"]/div[1]/div[2]/p[3]
         const [el2] = await page.$x('//*[@id="cuerpo"]/div[1]/div[2]/p[3]');
         const txt = await el2.getProperty('textContent');
         const rawTxt = await txt.jsonValue();
@@ -22,10 +28,15 @@ async function scrapePrevalencia(url) {
         const rawFecha = await fecha.jsonValue();
         const rawfechaNoSpaces = rawFecha.replace(/\s/g,'');
 
-        console.log({rawTxt, rawFecha});
+        console.log({rawTxtAn, rawTxt, rawFecha});
 
         var reFecha = rawfechaNoSpaces.substring(rawfechaNoSpaces.indexOf('Andalucía,')+10, rawfechaNoSpaces.length);
 
+        //Format After 1 May
+        // var ANHosp = rawTxtAnNoSpaces.substring(rawTxtAnNoSpaces.indexOf('Actualmente,')+12, rawTxtAnNoSpaces.indexOf('pacientes'));
+        // var ANUCI = rawTxtAnNoSpaces.substring(rawTxtAnNoSpaces.indexOf('delosque')+8, rawTxtAnNoSpaces.indexOf('seencuentran'));
+
+        //Format After 16 May 
         var ANHosp = rawTxtAnNoSpaces.substring(rawTxtAnNoSpaces.indexOf('actualmente,')+12, rawTxtAnNoSpaces.indexOf('pacientes'));
         var ANUCI = rawTxtAnNoSpaces.substring(rawTxtAnNoSpaces.indexOf('delosque')+8, rawTxtAnNoSpaces.indexOf('seencuentran'));
 
@@ -87,21 +98,11 @@ async function postPrevalenciaJSON(url) {
         })
 }
 
-var prevURL_16_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236172.html';
-var prevURL_17_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236181.html';
-var prevURL_18_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236254.html';
-var prevURL_19_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236338.html';
-var prevURL_20_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236457.html';
-
-var prevURL_21_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236522.html';
-var prevURL_22_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236605.html';
-var prevURL_23_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236622.html';
 var prevURL_24_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236629.html';
 
-postPrevalenciaJSON(prevURL_21_05);
-postPrevalenciaJSON(prevURL_22_05);
-postPrevalenciaJSON(prevURL_23_05);
 postPrevalenciaJSON(prevURL_24_05);
+
+
 
 
 

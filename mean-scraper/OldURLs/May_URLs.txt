@@ -1,0 +1,27 @@
+var prevURL_01_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235346.html';
+var prevURL_02_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235358.html';
+var prevURL_03_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235365.html';
+var prevURL_04_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235429.html';
+var prevURL_05_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235510.html';
+
+var prevURL_06_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235631.html';
+var prevURL_07_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235690.html';
+var prevURL_08_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235757.html';
+var prevURL_09_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235791.html';
+var prevURL_10_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235810.html';
+
+var prevURL_11_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235866.html';
+var prevURL_12_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235942.html';
+var prevURL_13_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236000.html';
+var prevURL_14_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236054.html';
+var prevURL_15_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236128.html';
+
+var prevURL_16_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236172.html';
+var prevURL_17_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236181.html';
+var prevURL_18_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236254.html';
+var prevURL_19_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236338.html';
+var prevURL_20_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236457.html';
+
+var prevURL_21_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236522.html';
+var prevURL_22_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236605.html';
+var prevURL_23_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236622.html';
