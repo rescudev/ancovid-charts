@@ -72,7 +72,6 @@ function convertToJSONDate(strDate){
         return newDate;
 }
       
-
 async function postPrevalenciaJSON(url) {
         var json = await scrapePrevalencia(url);
         axios.post('http://localhost:3000/prevalencia', {
