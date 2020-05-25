@@ -1,4 +1,3 @@
-var prevURL_25_04 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235036.html';
 var prevURL_26_04 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235041.html';
 var prevURL_27_04 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235087.html';
 var prevURL_28_04 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235135.html';

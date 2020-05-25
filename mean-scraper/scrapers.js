@@ -49,7 +49,7 @@ async function scrapePrevalencia(url) {
         var reMalaga = addComunidad(rawTxtNoSpaces, 'Málaga', 'MA', 'ySevilla');
         var reSevilla = addComunidad(rawTxtNoSpaces, 'Sevilla', 'SE', '.');
 
-        var obj = JSON.parse('{ "Fecha": "'+reFecha+'", "ANHosp": '+ANHosp+', "ANUCI": '+ANUCI+', '+reAlmeria+', '+reCadiz+', '+reCordoba+', '+reGranada+', '+reHuelva+', '+reJaen+', '+reMalaga+', '+reSevilla+'}');
+        var obj = JSON.parse('{"Date": "'+convertToJSONDate(reFecha)+'", "Fecha": "'+reFecha+'", "ANHosp": '+ANHosp+', "ANUCI": '+ANUCI+', '+reAlmeria+', '+reCadiz+', '+reCordoba+', '+reGranada+', '+reHuelva+', '+reJaen+', '+reMalaga+', '+reSevilla+'}');
         
         console.log({obj});
         await browser.close();
@@ -66,9 +66,17 @@ function addComunidad(rawTxt, comunidad, siglas, siguiente) {
         return res;
 }    
 
+function convertToJSONDate(strDate){
+        var splitted = strDate.split("/");
+        var newDate = splitted[2]+'-'+splitted[1]+'-'+splitted[0];
+        return newDate;
+}
+      
+
 async function postPrevalenciaJSON(url) {
         var json = await scrapePrevalencia(url);
         axios.post('http://localhost:3000/prevalencia', {
+                Date: json.Date,
                 Fecha: json.Fecha,
                 ANHosp: json.ANHosp,
                 ANUCI: json.ANUCI,

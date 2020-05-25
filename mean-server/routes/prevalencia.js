@@ -15,6 +15,7 @@ router.get('/', async (req, res) => {
 //post a prevalencia
 router.post('/', async (req,res) => {
     const prevalencia = new Prevalencia({
+        Date: req.body.Date,
         Fecha: req.body.Fecha,
         ANHosp: req.body.ANHosp,
         ANUCI: req.body.ANUCI,
