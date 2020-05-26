@@ -10,13 +10,15 @@ app.use(cors());
 app.use(bodyParser.json());
 
 //Import Routes
-const postsRoute = require('./routes/prevalencia');
+const prevalenciaRoute = require('./routes/prevalencia');
+const pcrRoute = require('./routes/pcr');
 
-app.use('/prevalencia', postsRoute);
+app.use('/prevalencia', prevalenciaRoute);
+app.use('/pcr', pcrRoute);
 
 //ROUTES
 app.get('/', (req, res) => {
-    res.send('We are on home')
+    res.send('We are on home');
 });
 
 //connect to db
