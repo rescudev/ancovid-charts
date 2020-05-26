@@ -11,7 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
+    "fs": "0.0.1-security",
+    "pdf-parse": "^1.1.1",
     "puppeteer": "^3.1.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8",
     "xmlhttprequest": "^1.8.0"
   }
 }

@@ -1,6 +1,5 @@
 const puppeteer = require('puppeteer');
 const axios = require('axios');
-const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 
 async function scrapePrevalencia(url) {
         const browser = await puppeteer.launch({});
@@ -105,9 +104,10 @@ async function postPrevalenciaJSON(url) {
         })
 }
 
-var prevURL_24_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236629.html';
+var prevURL_25_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/236691.html';
 
-postPrevalenciaJSON(prevURL_24_05);
+postPrevalenciaJSON(prevURL_25_05);
+
 
 
 

@@ -1,3 +1,6 @@
+*.pdf
+!Actualizacion_115_COVID-19.pdf
+
 # Logs
 logs
 *.log
