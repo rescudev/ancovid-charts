@@ -17,7 +17,7 @@ router.post('/', async (req,res) => {
     const residencia = new Residencia({
         Date: req.body.Date,
         Fecha: req.body.Fecha,
-        CCAAs: req.body.CCAAs
+        Residencias: req.body.Residencias
     });
     try{
         const savedResidencia= await residencia.save();
