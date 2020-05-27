@@ -12,9 +12,11 @@ app.use(bodyParser.json());
 //Import Routes
 const prevalenciaRoute = require('./routes/prevalencia');
 const pcrRoute = require('./routes/pcr');
+const hospitalizadoRoute = require('./routes/hospitalizado');
 
 app.use('/prevalencia', prevalenciaRoute);
 app.use('/pcr', pcrRoute);
+app.use('/hospitalizado', hospitalizadoRoute);
 
 //ROUTES
 app.get('/', (req, res) => {
