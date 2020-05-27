@@ -13,10 +13,12 @@ app.use(bodyParser.json());
 const prevalenciaRoute = require('./routes/prevalencia');
 const pcrRoute = require('./routes/pcr');
 const hospitalizadoRoute = require('./routes/hospitalizado');
+const residenciaRoute = require('./routes/residencia');
 
 app.use('/prevalencia', prevalenciaRoute);
 app.use('/pcr', pcrRoute);
 app.use('/hospitalizado', hospitalizadoRoute);
+app.use('/residencia', residenciaRoute);
 
 //ROUTES
 app.get('/', (req, res) => {
