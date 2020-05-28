@@ -1,0 +1,2147 @@
+[{
+  "_id": {
+    "$oid": "5ecf9aa3392e472930b6cf2f"
+  },
+  "Residencias": [
+    {
+      "Residencia": "Sevilla",
+      "Poblacion": 1949860,
+      "Confirmados": 2452,
+      "ConfirmadosPCR": 24,
+      "Fallecidos": 284,
+      "Curados": 2375,
+      "ConfirmadosTotal": 3149
+    },
+    {
+      "Residencia": "SevillaSur",
+      "Poblacion": 426417,
+      "Confirmados": 481,
+      "ConfirmadosPCR": 5,
+      "Fallecidos": 58,
+      "Curados": 434,
+      "ConfirmadosTotal": 603
+    },
+    {
+      "Residencia": "AlcaládeGuadaíra",
+      "Poblacion": 75279,
+      "Confirmados": 61,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 5,
+      "Curados": 58,
+      "ConfirmadosTotal": 80
+    },
+    {
+      "Residencia": "DosHermanas",
+      "Poblacion": 133968,
+      "Confirmados": 172,
+      "ConfirmadosPCR": 3,
+      "Fallecidos": 10,
+      "Curados": 179,
+      "ConfirmadosTotal": 224
+    },
+    {
+      "Residencia": "Arahal",
+      "Poblacion": 19526,
+      "Confirmados": 50,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 12,
+      "Curados": 38,
+      "ConfirmadosTotal": 65
+    },
+    {
+      "Residencia": "Paradas",
+      "Poblacion": 6908,
+      "Confirmados": 26,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 4,
+      "Curados": 22,
+      "ConfirmadosTotal": 29
+    },
+    {
+      "Residencia": "CabezasdeSanJuan(Las)",
+      "Poblacion": 16417,
+      "Confirmados": 14,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 2,
+      "Curados": 5,
+      "ConfirmadosTotal": 15
+    },
+    {
+      "Residencia": "CuervodeSevilla(El)",
+      "Poblacion": 8610,
+      "Confirmados": 11,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 2,
+      "Curados": 6,
+      "ConfirmadosTotal": 12
+    },
+    {
+      "Residencia": "Lebrija",
+      "Poblacion": 27524,
+      "Confirmados": 81,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 14,
+      "Curados": 62,
+      "ConfirmadosTotal": 95
+    },
+    {
+      "Residencia": "PalaciosyVillafranca(Los)",
+      "Poblacion": 38354,
+      "Confirmados": 18,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 4,
+      "Curados": 13,
+      "ConfirmadosTotal": 21
+    },
+    {
+      "Residencia": "Coripe",
+      "Poblacion": 1251,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Montellano",
+      "Poblacion": 7056,
+      "Confirmados": 6,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 5,
+      "ConfirmadosTotal": 6
+    },
+    {
+      "Residencia": "MoróndelaFrontera",
+      "Poblacion": 27627,
+      "Confirmados": 20,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 2,
+      "Curados": 18,
+      "ConfirmadosTotal": 23
+    },
+    {
+      "Residencia": "Pruna",
+      "Poblacion": 2603,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Coronil(El)",
+      "Poblacion": 4746,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Molares(Los)",
+      "Poblacion": 3480,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "PalmardeTroya(El)",
+      "Poblacion": 2340,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Utrera",
+      "Poblacion": 50728,
+      "Confirmados": 21,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 2,
+      "Curados": 27,
+      "ConfirmadosTotal": 32
+    },
+    {
+      "Residencia": "Aljarafe",
+      "Poblacion": 388572,
+      "Confirmados": 452,
+      "ConfirmadosPCR": 8,
+      "Fallecidos": 52,
+      "Curados": 486,
+      "ConfirmadosTotal": 594
+    },
+    {
+      "Residencia": "Camas",
+      "Poblacion": 27509,
+      "Confirmados": 18,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 22,
+      "ConfirmadosTotal": 23
+    },
+    {
+      "Residencia": "CastillejadeGuzmán",
+      "Poblacion": 2821,
+      "Confirmados": 2,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "Santiponce",
+      "Poblacion": 8554,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 2,
+      "ConfirmadosTotal": 4
+    },
+    {
+      "Residencia": "ValencinadelaConcepción",
+      "Poblacion": 7751,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 6
+    },
+    {
+      "Residencia": "CastillejadelaCuesta",
+      "Poblacion": 17418,
+      "Confirmados": 19,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 27,
+      "ConfirmadosTotal": 29
+    },
+    {
+      "Residencia": "Gines",
+      "Poblacion": 13420,
+      "Confirmados": 6,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 8,
+      "ConfirmadosTotal": 11
+    },
+    {
+      "Residencia": "Almensilla",
+      "Poblacion": 6080,
+      "Confirmados": 8,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 8,
+      "ConfirmadosTotal": 10
+    },
+    {
+      "Residencia": "CoriadelRío",
+      "Poblacion": 30777,
+      "Confirmados": 27,
+      "ConfirmadosPCR": 3,
+      "Fallecidos": 2,
+      "Curados": 27,
+      "ConfirmadosTotal": 35
+    },
+    {
+      "Residencia": "IslaMayor",
+      "Poblacion": 5839,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "PuebladelRío(La)",
+      "Poblacion": 11868,
+      "Confirmados": 7,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 8,
+      "ConfirmadosTotal": 8
+    },
+    {
+      "Residencia": "MairenadelAljarafe",
+      "Poblacion": 46089,
+      "Confirmados": 60,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 5,
+      "Curados": 68,
+      "ConfirmadosTotal": 80
+    },
+    {
+      "Residencia": "PalomaresdelRío",
+      "Poblacion": 8767,
+      "Confirmados": 9,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 0,
+      "Curados": 8,
+      "ConfirmadosTotal": 10
+    },
+    {
+      "Residencia": "AlbaidadelAljarafe",
+      "Poblacion": 3197,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "Olivares",
+      "Poblacion": 9394,
+      "Confirmados": 5,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 6
+    },
+    {
+      "Residencia": "Salteras",
+      "Poblacion": 5530,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 7,
+      "ConfirmadosTotal": 7
+    },
+    {
+      "Residencia": "VillanuevadelAriscal",
+      "Poblacion": 6610,
+      "Confirmados": 3,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 2,
+      "ConfirmadosTotal": 5
+    },
+    {
+      "Residencia": "Aznalcázar",
+      "Poblacion": 4586,
+      "Confirmados": 5,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 6
+    },
+    {
+      "Residencia": "CarrióndelosCéspedes",
+      "Poblacion": 2544,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Chucena",
+      "Poblacion": 2222,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Hinojos",
+      "Poblacion": 3976,
+      "Confirmados": 3,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 4
+    },
+    {
+      "Residencia": "HuévardelAljarafe",
+      "Poblacion": 3015,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Pilas",
+      "Poblacion": 13974,
+      "Confirmados": 8,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 10,
+      "ConfirmadosTotal": 11
+    },
+    {
+      "Residencia": "VillamanriquedelaCondesa",
+      "Poblacion": 4459,
+      "Confirmados": 2,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "Gelves",
+      "Poblacion": 10184,
+      "Confirmados": 14,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 11,
+      "ConfirmadosTotal": 16
+    },
+    {
+      "Residencia": "SanJuandeAznalfarache",
+      "Poblacion": 21416,
+      "Confirmados": 127,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 34,
+      "Curados": 119,
+      "ConfirmadosTotal": 162
+    },
+    {
+      "Residencia": "Aznalcóllar",
+      "Poblacion": 6091,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 1,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "Benacazón",
+      "Poblacion": 7241,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 4,
+      "ConfirmadosTotal": 4
+    },
+    {
+      "Residencia": "BollullosdelaMitación",
+      "Poblacion": 10787,
+      "Confirmados": 5,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 9,
+      "ConfirmadosTotal": 10
+    },
+    {
+      "Residencia": "CastillejadelCampo",
+      "Poblacion": 629,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Espartinas",
+      "Poblacion": 15791,
+      "Confirmados": 20,
+      "ConfirmadosPCR": 2,
+      "Fallecidos": 0,
+      "Curados": 25,
+      "ConfirmadosTotal": 29
+    },
+    {
+      "Residencia": "SanlúcarlaMayor",
+      "Poblacion": 13808,
+      "Confirmados": 13,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 14,
+      "ConfirmadosTotal": 16
+    },
+    {
+      "Residencia": "Umbrete",
+      "Poblacion": 8894,
+      "Confirmados": 11,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 13,
+      "ConfirmadosTotal": 14
+    },
+    {
+      "Residencia": "Bormujos",
+      "Poblacion": 21972,
+      "Confirmados": 21,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 27,
+      "ConfirmadosTotal": 30
+    },
+    {
+      "Residencia": "Tomares",
+      "Poblacion": 25359,
+      "Confirmados": 37,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 3,
+      "Curados": 39,
+      "ConfirmadosTotal": 46
+    },
+    {
+      "Residencia": "SevillaEste",
+      "Poblacion": 169515,
+      "Confirmados": 130,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 18,
+      "Curados": 124,
+      "ConfirmadosTotal": 168
+    },
+    {
+      "Residencia": "Écija",
+      "Poblacion": 39873,
+      "Confirmados": 17,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 3,
+      "Curados": 19,
+      "ConfirmadosTotal": 25
+    },
+    {
+      "Residencia": "Algámitas",
+      "Poblacion": 1255,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Corrales(Los)",
+      "Poblacion": 3941,
+      "Confirmados": 2,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 4,
+      "ConfirmadosTotal": 4
+    },
+    {
+      "Residencia": "MartíndelaJara",
+      "Poblacion": 2704,
+      "Confirmados": 3,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 3
+    },
+    {
+      "Residencia": "Saucejo(El)",
+      "Poblacion": 4284,
+      "Confirmados": 2,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "VillanuevadeSanJuan",
+      "Poblacion": 1120,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 0,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Badolatosa",
+      "Poblacion": 3078,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Casariche",
+      "Poblacion": 5456,
+      "Confirmados": 2,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "Estepa",
+      "Poblacion": 12505,
+      "Confirmados": 18,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 4,
+      "Curados": 12,
+      "ConfirmadosTotal": 21
+    },
+    {
+      "Residencia": "Gilena",
+      "Poblacion": 3727,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "Herrera",
+      "Poblacion": 6461,
+      "Confirmados": 7,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 7,
+      "ConfirmadosTotal": 11
+    },
+    {
+      "Residencia": "LoradeEstepa",
+      "Poblacion": 862,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Marinaleda",
+      "Poblacion": 2627,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Pedrera",
+      "Poblacion": 5194,
+      "Confirmados": 3,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 6
+    },
+    {
+      "Residencia": "RodadeAndalucía(La)",
+      "Poblacion": 4183,
+      "Confirmados": 10,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 8,
+      "ConfirmadosTotal": 11
+    },
+    {
+      "Residencia": "CañadaRosal",
+      "Poblacion": 3320,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 3,
+      "ConfirmadosTotal": 4
+    },
+    {
+      "Residencia": "FuentesdeAndalucía",
+      "Poblacion": 7111,
+      "Confirmados": 5,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 5
+    },
+    {
+      "Residencia": "Luisiana(La)",
+      "Poblacion": 4576,
+      "Confirmados": 2,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 5
+    },
+    {
+      "Residencia": "Marchena",
+      "Poblacion": 19457,
+      "Confirmados": 32,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 8,
+      "Curados": 23,
+      "ConfirmadosTotal": 36
+    },
+    {
+      "Residencia": "Aguadulce",
+      "Poblacion": 2020,
+      "Confirmados": 0,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Lantejuela",
+      "Poblacion": 3814,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Osuna",
+      "Poblacion": 17560,
+      "Confirmados": 14,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 14,
+      "ConfirmadosTotal": 16
+    },
+    {
+      "Residencia": "Rubio(El)",
+      "Poblacion": 3408,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 3,
+      "ConfirmadosTotal": 3
+    },
+    {
+      "Residencia": "PuebladeCazalla(La)",
+      "Poblacion": 10979,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 2,
+      "Curados": 6,
+      "ConfirmadosTotal": 8
+    },
+    {
+      "Residencia": "SevillaNorte",
+      "Poblacion": 276764,
+      "Confirmados": 191,
+      "ConfirmadosPCR": 3,
+      "Fallecidos": 27,
+      "Curados": 194,
+      "ConfirmadosTotal": 249
+    },
+    {
+      "Residencia": "AlcaládelRío",
+      "Poblacion": 12029,
+      "Confirmados": 5,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 7
+    },
+    {
+      "Residencia": "Burguillos",
+      "Poblacion": 6716,
+      "Confirmados": 7,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 9
+    },
+    {
+      "Residencia": "CastilblancodelosArroyos",
+      "Poblacion": 4864,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 4
+    },
+    {
+      "Residencia": "Brenes",
+      "Poblacion": 12471,
+      "Confirmados": 9,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 1,
+      "Curados": 9,
+      "ConfirmadosTotal": 11
+    },
+    {
+      "Residencia": "VillaverdedelRío",
+      "Poblacion": 7818,
+      "Confirmados": 7,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 3,
+      "Curados": 4,
+      "ConfirmadosTotal": 7
+    },
+    {
+      "Residencia": "Cantillana",
+      "Poblacion": 10684,
+      "Confirmados": 7,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 7,
+      "ConfirmadosTotal": 10
+    },
+    {
+      "Residencia": "Tocina",
+      "Poblacion": 9501,
+      "Confirmados": 9,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 8,
+      "ConfirmadosTotal": 9
+    },
+    {
+      "Residencia": "VillanuevadelRíoyMinas",
+      "Poblacion": 4858,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 5
+    },
+    {
+      "Residencia": "Carmona",
+      "Poblacion": 28531,
+      "Confirmados": 15,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 2,
+      "Curados": 17,
+      "ConfirmadosTotal": 21
+    },
+    {
+      "Residencia": "Alanís",
+      "Poblacion": 1723,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "CazalladelaSierra",
+      "Poblacion": 4718,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 2,
+      "ConfirmadosTotal": 3
+    },
+    {
+      "Residencia": "Guadalcanal",
+      "Poblacion": 2627,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Constantina",
+      "Poblacion": 5896,
+      "Confirmados": 2,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 3,
+      "ConfirmadosTotal": 3
+    },
+    {
+      "Residencia": "NavasdelaConcepción(Las)",
+      "Poblacion": 1559,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "Pedroso(El)",
+      "Poblacion": 2018,
+      "Confirmados": 6,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 3,
+      "Curados": 4,
+      "ConfirmadosTotal": 7
+    },
+    {
+      "Residencia": "SanNicolásdelPuerto",
+      "Poblacion": 596,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "AlmadéndelaPlata",
+      "Poblacion": 1355,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "CastillodelasGuardas(El)",
+      "Poblacion": 1443,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 0,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Garrobo(El)",
+      "Poblacion": 790,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Gerena",
+      "Poblacion": 7585,
+      "Confirmados": 6,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 6,
+      "ConfirmadosTotal": 6
+    },
+    {
+      "Residencia": "Guillena",
+      "Poblacion": 12788,
+      "Confirmados": 5,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 6,
+      "ConfirmadosTotal": 8
+    },
+    {
+      "Residencia": "Madroño(El)",
+      "Poblacion": 278,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "RealdelaJara(El)",
+      "Poblacion": 1503,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Ronquillo(El)",
+      "Poblacion": 1364,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Algaba(La)",
+      "Poblacion": 16374,
+      "Confirmados": 15,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 15,
+      "ConfirmadosTotal": 19
+    },
+    {
+      "Residencia": "Rinconada(La)",
+      "Poblacion": 38628,
+      "Confirmados": 26,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 1,
+      "Curados": 31,
+      "ConfirmadosTotal": 36
+    },
+    {
+      "Residencia": "AlcoleadelRío",
+      "Poblacion": 3373,
+      "Confirmados": 5,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 2,
+      "Curados": 2,
+      "ConfirmadosTotal": 5
+    },
+    {
+      "Residencia": "Campana(La)",
+      "Poblacion": 5276,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "LoradelRío",
+      "Poblacion": 18662,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 4,
+      "ConfirmadosTotal": 6
+    },
+    {
+      "Residencia": "PuebladelosInfantes(La)",
+      "Poblacion": 2991,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "MairenadelAlcor",
+      "Poblacion": 23550,
+      "Confirmados": 22,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 3,
+      "Curados": 30,
+      "ConfirmadosTotal": 35
+    },
+    {
+      "Residencia": "VisodelAlcor(El)",
+      "Poblacion": 19266,
+      "Confirmados": 27,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 7,
+      "Curados": 24,
+      "ConfirmadosTotal": 32
+    },
+    {
+      "Residencia": "ArroyomolinosdeLeón",
+      "Poblacion": 953,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Cala",
+      "Poblacion": 1167,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "SantaOlalladelCala",
+      "Poblacion": 2001,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Zufre",
+      "Poblacion": 808,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Sevilla(distrito)",
+      "Poblacion": 688592,
+      "Confirmados": 1198,
+      "ConfirmadosPCR": 8,
+      "Fallecidos": 129,
+      "Curados": 1136,
+      "ConfirmadosTotal": 1534
+    },
+    {
+      "Residencia": "Sevilla(capital)",
+      "Poblacion": 688592,
+      "Confirmados": 1198,
+      "ConfirmadosPCR": 8,
+      "Fallecidos": 129,
+      "Curados": 1136,
+      "ConfirmadosTotal": 1534
+    },
+    {
+      "Residencia": "MunicipiodeSevillasinespecificar",
+      "Poblacion": null,
+      "Confirmados": 0,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-26T00:00:00Z"
+  },
+  "Fecha": "26/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9aa9392e472930b6cf30"
+  },
+  "Residencias": [
+    {
+      "Residencia": "Sevilla",
+      "Poblacion": 1949860,
+      "Confirmados": 2456,
+      "ConfirmadosPCR": 22,
+      "Fallecidos": 285,
+      "Curados": 2392,
+      "ConfirmadosTotal": 3146
+    },
+    {
+      "Residencia": "SevillaSur",
+      "Poblacion": 426417,
+      "Confirmados": 483,
+      "ConfirmadosPCR": 5,
+      "Fallecidos": 58,
+      "Curados": 438,
+      "ConfirmadosTotal": 600
+    },
+    {
+      "Residencia": "AlcaládeGuadaíra",
+      "Poblacion": 75279,
+      "Confirmados": 62,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 5,
+      "Curados": 58,
+      "ConfirmadosTotal": 81
+    },
+    {
+      "Residencia": "DosHermanas",
+      "Poblacion": 133968,
+      "Confirmados": 172,
+      "ConfirmadosPCR": 2,
+      "Fallecidos": 10,
+      "Curados": 176,
+      "ConfirmadosTotal": 220
+    },
+    {
+      "Residencia": "Arahal",
+      "Poblacion": 19526,
+      "Confirmados": 50,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 12,
+      "Curados": 38,
+      "ConfirmadosTotal": 65
+    },
+    {
+      "Residencia": "Paradas",
+      "Poblacion": 6908,
+      "Confirmados": 26,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 4,
+      "Curados": 22,
+      "ConfirmadosTotal": 29
+    },
+    {
+      "Residencia": "CabezasdeSanJuan(Las)",
+      "Poblacion": 16417,
+      "Confirmados": 14,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 2,
+      "Curados": 5,
+      "ConfirmadosTotal": 15
+    },
+    {
+      "Residencia": "CuervodeSevilla(El)",
+      "Poblacion": 8610,
+      "Confirmados": 11,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 2,
+      "Curados": 6,
+      "ConfirmadosTotal": 12
+    },
+    {
+      "Residencia": "Lebrija",
+      "Poblacion": 27524,
+      "Confirmados": 82,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 14,
+      "Curados": 70,
+      "ConfirmadosTotal": 96
+    },
+    {
+      "Residencia": "PalaciosyVillafranca(Los)",
+      "Poblacion": 38354,
+      "Confirmados": 18,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 4,
+      "Curados": 13,
+      "ConfirmadosTotal": 21
+    },
+    {
+      "Residencia": "Coripe",
+      "Poblacion": 1251,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Montellano",
+      "Poblacion": 7056,
+      "Confirmados": 6,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 5,
+      "ConfirmadosTotal": 6
+    },
+    {
+      "Residencia": "MoróndelaFrontera",
+      "Poblacion": 27627,
+      "Confirmados": 20,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 2,
+      "Curados": 18,
+      "ConfirmadosTotal": 23
+    },
+    {
+      "Residencia": "Pruna",
+      "Poblacion": 2603,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Coronil(El)",
+      "Poblacion": 4746,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Molares(Los)",
+      "Poblacion": 3480,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "PalmardeTroya(El)",
+      "Poblacion": 2340,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Utrera",
+      "Poblacion": 50728,
+      "Confirmados": 21,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 2,
+      "Curados": 26,
+      "ConfirmadosTotal": 31
+    },
+    {
+      "Residencia": "Aljarafe",
+      "Poblacion": 388572,
+      "Confirmados": 452,
+      "ConfirmadosPCR": 6,
+      "Fallecidos": 52,
+      "Curados": 492,
+      "ConfirmadosTotal": 595
+    },
+    {
+      "Residencia": "Camas",
+      "Poblacion": 27509,
+      "Confirmados": 18,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 22,
+      "ConfirmadosTotal": 23
+    },
+    {
+      "Residencia": "CastillejadeGuzmán",
+      "Poblacion": 2821,
+      "Confirmados": 2,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "Santiponce",
+      "Poblacion": 8554,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 2,
+      "ConfirmadosTotal": 4
+    },
+    {
+      "Residencia": "ValencinadelaConcepción",
+      "Poblacion": 7751,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 6
+    },
+    {
+      "Residencia": "CastillejadelaCuesta",
+      "Poblacion": 17418,
+      "Confirmados": 19,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 27,
+      "ConfirmadosTotal": 29
+    },
+    {
+      "Residencia": "Gines",
+      "Poblacion": 13420,
+      "Confirmados": 6,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 8,
+      "ConfirmadosTotal": 12
+    },
+    {
+      "Residencia": "Almensilla",
+      "Poblacion": 6080,
+      "Confirmados": 8,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 8,
+      "ConfirmadosTotal": 10
+    },
+    {
+      "Residencia": "CoriadelRío",
+      "Poblacion": 30777,
+      "Confirmados": 27,
+      "ConfirmadosPCR": 3,
+      "Fallecidos": 2,
+      "Curados": 27,
+      "ConfirmadosTotal": 35
+    },
+    {
+      "Residencia": "IslaMayor",
+      "Poblacion": 5839,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "PuebladelRío(La)",
+      "Poblacion": 11868,
+      "Confirmados": 7,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 8,
+      "ConfirmadosTotal": 8
+    },
+    {
+      "Residencia": "MairenadelAljarafe",
+      "Poblacion": 46089,
+      "Confirmados": 60,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 5,
+      "Curados": 68,
+      "ConfirmadosTotal": 80
+    },
+    {
+      "Residencia": "PalomaresdelRío",
+      "Poblacion": 8767,
+      "Confirmados": 9,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 0,
+      "Curados": 8,
+      "ConfirmadosTotal": 10
+    },
+    {
+      "Residencia": "AlbaidadelAljarafe",
+      "Poblacion": 3197,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "Olivares",
+      "Poblacion": 9394,
+      "Confirmados": 5,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 6
+    },
+    {
+      "Residencia": "Salteras",
+      "Poblacion": 5530,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 7,
+      "ConfirmadosTotal": 7
+    },
+    {
+      "Residencia": "VillanuevadelAriscal",
+      "Poblacion": 6610,
+      "Confirmados": 3,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 2,
+      "ConfirmadosTotal": 5
+    },
+    {
+      "Residencia": "Aznalcázar",
+      "Poblacion": 4586,
+      "Confirmados": 5,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 6
+    },
+    {
+      "Residencia": "CarrióndelosCéspedes",
+      "Poblacion": 2544,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Chucena",
+      "Poblacion": 2222,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Hinojos",
+      "Poblacion": 3976,
+      "Confirmados": 3,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 4
+    },
+    {
+      "Residencia": "HuévardelAljarafe",
+      "Poblacion": 3015,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Pilas",
+      "Poblacion": 13974,
+      "Confirmados": 8,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 11,
+      "ConfirmadosTotal": 11
+    },
+    {
+      "Residencia": "VillamanriquedelaCondesa",
+      "Poblacion": 4459,
+      "Confirmados": 2,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "Gelves",
+      "Poblacion": 10184,
+      "Confirmados": 14,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 11,
+      "ConfirmadosTotal": 16
+    },
+    {
+      "Residencia": "SanJuandeAznalfarache",
+      "Poblacion": 21416,
+      "Confirmados": 127,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 34,
+      "Curados": 123,
+      "ConfirmadosTotal": 162
+    },
+    {
+      "Residencia": "Aznalcóllar",
+      "Poblacion": 6091,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 1,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "Benacazón",
+      "Poblacion": 7241,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 4,
+      "ConfirmadosTotal": 4
+    },
+    {
+      "Residencia": "BollullosdelaMitación",
+      "Poblacion": 10787,
+      "Confirmados": 5,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 9,
+      "ConfirmadosTotal": 10
+    },
+    {
+      "Residencia": "CastillejadelCampo",
+      "Poblacion": 629,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Espartinas",
+      "Poblacion": 15791,
+      "Confirmados": 20,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 0,
+      "Curados": 26,
+      "ConfirmadosTotal": 29
+    },
+    {
+      "Residencia": "SanlúcarlaMayor",
+      "Poblacion": 13808,
+      "Confirmados": 13,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 14,
+      "ConfirmadosTotal": 16
+    },
+    {
+      "Residencia": "Umbrete",
+      "Poblacion": 8894,
+      "Confirmados": 11,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 13,
+      "ConfirmadosTotal": 14
+    },
+    {
+      "Residencia": "Bormujos",
+      "Poblacion": 21972,
+      "Confirmados": 21,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 27,
+      "ConfirmadosTotal": 30
+    },
+    {
+      "Residencia": "Tomares",
+      "Poblacion": 25359,
+      "Confirmados": 37,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 3,
+      "Curados": 39,
+      "ConfirmadosTotal": 46
+    },
+    {
+      "Residencia": "SevillaEste",
+      "Poblacion": 169515,
+      "Confirmados": 131,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 18,
+      "Curados": 126,
+      "ConfirmadosTotal": 168
+    },
+    {
+      "Residencia": "Écija",
+      "Poblacion": 39873,
+      "Confirmados": 17,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 3,
+      "Curados": 20,
+      "ConfirmadosTotal": 25
+    },
+    {
+      "Residencia": "Algámitas",
+      "Poblacion": 1255,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Corrales(Los)",
+      "Poblacion": 3941,
+      "Confirmados": 2,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 4,
+      "ConfirmadosTotal": 4
+    },
+    {
+      "Residencia": "MartíndelaJara",
+      "Poblacion": 2704,
+      "Confirmados": 3,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 3
+    },
+    {
+      "Residencia": "Saucejo(El)",
+      "Poblacion": 4284,
+      "Confirmados": 2,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "VillanuevadeSanJuan",
+      "Poblacion": 1120,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 0,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Badolatosa",
+      "Poblacion": 3078,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Casariche",
+      "Poblacion": 5456,
+      "Confirmados": 2,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "Estepa",
+      "Poblacion": 12505,
+      "Confirmados": 18,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 4,
+      "Curados": 12,
+      "ConfirmadosTotal": 21
+    },
+    {
+      "Residencia": "Gilena",
+      "Poblacion": 3727,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "Herrera",
+      "Poblacion": 6461,
+      "Confirmados": 7,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 7,
+      "ConfirmadosTotal": 11
+    },
+    {
+      "Residencia": "LoradeEstepa",
+      "Poblacion": 862,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Marinaleda",
+      "Poblacion": 2627,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Pedrera",
+      "Poblacion": 5194,
+      "Confirmados": 3,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 6,
+      "ConfirmadosTotal": 6
+    },
+    {
+      "Residencia": "RodadeAndalucía(La)",
+      "Poblacion": 4183,
+      "Confirmados": 10,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 8,
+      "ConfirmadosTotal": 11
+    },
+    {
+      "Residencia": "CañadaRosal",
+      "Poblacion": 3320,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 3,
+      "ConfirmadosTotal": 4
+    },
+    {
+      "Residencia": "FuentesdeAndalucía",
+      "Poblacion": 7111,
+      "Confirmados": 5,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 5
+    },
+    {
+      "Residencia": "Luisiana(La)",
+      "Poblacion": 4576,
+      "Confirmados": 2,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 5
+    },
+    {
+      "Residencia": "Marchena",
+      "Poblacion": 19457,
+      "Confirmados": 32,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 8,
+      "Curados": 23,
+      "ConfirmadosTotal": 36
+    },
+    {
+      "Residencia": "Aguadulce",
+      "Poblacion": 2020,
+      "Confirmados": 0,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Lantejuela",
+      "Poblacion": 3814,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Osuna",
+      "Poblacion": 17560,
+      "Confirmados": 15,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 14,
+      "ConfirmadosTotal": 16
+    },
+    {
+      "Residencia": "Rubio(El)",
+      "Poblacion": 3408,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 3,
+      "ConfirmadosTotal": 3
+    },
+    {
+      "Residencia": "PuebladeCazalla(La)",
+      "Poblacion": 10979,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 2,
+      "Curados": 6,
+      "ConfirmadosTotal": 8
+    },
+    {
+      "Residencia": "SevillaNorte",
+      "Poblacion": 276764,
+      "Confirmados": 191,
+      "ConfirmadosPCR": 3,
+      "Fallecidos": 27,
+      "Curados": 194,
+      "ConfirmadosTotal": 248
+    },
+    {
+      "Residencia": "AlcaládelRío",
+      "Poblacion": 12029,
+      "Confirmados": 5,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 7
+    },
+    {
+      "Residencia": "Burguillos",
+      "Poblacion": 6716,
+      "Confirmados": 7,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 8
+    },
+    {
+      "Residencia": "CastilblancodelosArroyos",
+      "Poblacion": 4864,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 4
+    },
+    {
+      "Residencia": "Brenes",
+      "Poblacion": 12471,
+      "Confirmados": 9,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 1,
+      "Curados": 9,
+      "ConfirmadosTotal": 11
+    },
+    {
+      "Residencia": "VillaverdedelRío",
+      "Poblacion": 7818,
+      "Confirmados": 7,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 3,
+      "Curados": 4,
+      "ConfirmadosTotal": 7
+    },
+    {
+      "Residencia": "Cantillana",
+      "Poblacion": 10684,
+      "Confirmados": 7,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 7,
+      "ConfirmadosTotal": 10
+    },
+    {
+      "Residencia": "Tocina",
+      "Poblacion": 9501,
+      "Confirmados": 9,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 8,
+      "ConfirmadosTotal": 9
+    },
+    {
+      "Residencia": "VillanuevadelRíoyMinas",
+      "Poblacion": 4858,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 5,
+      "ConfirmadosTotal": 5
+    },
+    {
+      "Residencia": "Carmona",
+      "Poblacion": 28531,
+      "Confirmados": 15,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 2,
+      "Curados": 17,
+      "ConfirmadosTotal": 21
+    },
+    {
+      "Residencia": "Alanís",
+      "Poblacion": 1723,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "CazalladelaSierra",
+      "Poblacion": 4718,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 2,
+      "ConfirmadosTotal": 3
+    },
+    {
+      "Residencia": "Guadalcanal",
+      "Poblacion": 2627,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Constantina",
+      "Poblacion": 5896,
+      "Confirmados": 2,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 3,
+      "ConfirmadosTotal": 3
+    },
+    {
+      "Residencia": "NavasdelaConcepción(Las)",
+      "Poblacion": 1559,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 2,
+      "ConfirmadosTotal": 2
+    },
+    {
+      "Residencia": "Pedroso(El)",
+      "Poblacion": 2018,
+      "Confirmados": 6,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 3,
+      "Curados": 4,
+      "ConfirmadosTotal": 7
+    },
+    {
+      "Residencia": "SanNicolásdelPuerto",
+      "Poblacion": 596,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "AlmadéndelaPlata",
+      "Poblacion": 1355,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "CastillodelasGuardas(El)",
+      "Poblacion": 1443,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 0,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Garrobo(El)",
+      "Poblacion": 790,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Gerena",
+      "Poblacion": 7585,
+      "Confirmados": 6,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 6,
+      "ConfirmadosTotal": 6
+    },
+    {
+      "Residencia": "Guillena",
+      "Poblacion": 12788,
+      "Confirmados": 5,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 6,
+      "ConfirmadosTotal": 8
+    },
+    {
+      "Residencia": "Madroño(El)",
+      "Poblacion": 278,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "RealdelaJara(El)",
+      "Poblacion": 1503,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Ronquillo(El)",
+      "Poblacion": 1364,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "Algaba(La)",
+      "Poblacion": 16374,
+      "Confirmados": 15,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 15,
+      "ConfirmadosTotal": 20
+    },
+    {
+      "Residencia": "Rinconada(La)",
+      "Poblacion": 38628,
+      "Confirmados": 26,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 1,
+      "Curados": 32,
+      "ConfirmadosTotal": 36
+    },
+    {
+      "Residencia": "AlcoleadelRío",
+      "Poblacion": 3373,
+      "Confirmados": 5,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 2,
+      "Curados": 2,
+      "ConfirmadosTotal": 5
+    },
+    {
+      "Residencia": "Campana(La)",
+      "Poblacion": 5276,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "LoradelRío",
+      "Poblacion": 18662,
+      "Confirmados": 4,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 1,
+      "Curados": 4,
+      "ConfirmadosTotal": 6
+    },
+    {
+      "Residencia": "PuebladelosInfantes(La)",
+      "Poblacion": 2991,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "MairenadelAlcor",
+      "Poblacion": 23550,
+      "Confirmados": 22,
+      "ConfirmadosPCR": 1,
+      "Fallecidos": 3,
+      "Curados": 29,
+      "ConfirmadosTotal": 34
+    },
+    {
+      "Residencia": "VisodelAlcor(El)",
+      "Poblacion": 19266,
+      "Confirmados": 27,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 7,
+      "Curados": 24,
+      "ConfirmadosTotal": 32
+    },
+    {
+      "Residencia": "ArroyomolinosdeLeón",
+      "Poblacion": 953,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Cala",
+      "Poblacion": 1167,
+      "Confirmados": 1,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    },
+    {
+      "Residencia": "SantaOlalladelCala",
+      "Poblacion": 2001,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Zufre",
+      "Poblacion": 808,
+      "Confirmados": null,
+      "ConfirmadosPCR": null,
+      "Fallecidos": null,
+      "Curados": null,
+      "ConfirmadosTotal": null
+    },
+    {
+      "Residencia": "Sevilla(distrito)",
+      "Poblacion": 688592,
+      "Confirmados": 1199,
+      "ConfirmadosPCR": 8,
+      "Fallecidos": 130,
+      "Curados": 1141,
+      "ConfirmadosTotal": 1534
+    },
+    {
+      "Residencia": "Sevilla(capital)",
+      "Poblacion": 688592,
+      "Confirmados": 1199,
+      "ConfirmadosPCR": 8,
+      "Fallecidos": 130,
+      "Curados": 1141,
+      "ConfirmadosTotal": 1534
+    },
+    {
+      "Residencia": "MunicipiodeSevillasinespecificar",
+      "Poblacion": null,
+      "Confirmados": 0,
+      "ConfirmadosPCR": 0,
+      "Fallecidos": 0,
+      "Curados": 1,
+      "ConfirmadosTotal": 1
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-27T00:00:00Z"
+  },
+  "Fecha": "27/05/2020",
+  "__v": 0
+}]

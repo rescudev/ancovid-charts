@@ -752,4 +752,82 @@
   "SEHosp": 112,
   "SEUCI": 36,
   "__v": 0
+},{
+  "_id": {
+    "$oid": "5eccca6ce42801278850013f"
+  },
+  "Date": {
+    "$date": "2020-05-25T00:00:00Z"
+  },
+  "Fecha": "25/05/2020",
+  "ANHosp": 178,
+  "ALHosp": 15,
+  "ALUCI": 3,
+  "CAHosp": 22,
+  "CAUCI": 7,
+  "COHosp": 21,
+  "COUCI": 10,
+  "GRHosp": 37,
+  "GRUCI": 7,
+  "HUHosp": 4,
+  "HUUCI": 3,
+  "JAHosp": 25,
+  "JAUCI": 8,
+  "MAHosp": 33,
+  "MAUCI": 4,
+  "SEHosp": 21,
+  "SEUCI": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ece220782585c470c949f59"
+  },
+  "Date": {
+    "$date": "2020-05-26T00:00:00Z"
+  },
+  "Fecha": "26/05/2020",
+  "ANHosp": 171,
+  "ALHosp": 15,
+  "ALUCI": 2,
+  "CAHosp": 19,
+  "CAUCI": 7,
+  "COHosp": 20,
+  "COUCI": 9,
+  "GRHosp": 37,
+  "GRUCI": 7,
+  "HUHosp": 4,
+  "HUUCI": 3,
+  "JAHosp": 27,
+  "JAUCI": 9,
+  "MAHosp": 29,
+  "MAUCI": 4,
+  "SEHosp": 20,
+  "SEUCI": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf775feda91c48f064ad21"
+  },
+  "Date": {
+    "$date": "2020-05-27T00:00:00Z"
+  },
+  "Fecha": "27/05/2020",
+  "ANHosp": 174,
+  "ALHosp": 13,
+  "ALUCI": 2,
+  "CAHosp": 22,
+  "CAUCI": 6,
+  "COHosp": 24,
+  "COUCI": 9,
+  "GRHosp": 37,
+  "GRUCI": 7,
+  "HUHosp": 4,
+  "HUUCI": 2,
+  "JAHosp": 27,
+  "JAUCI": 8,
+  "MAHosp": 26,
+  "MAUCI": 3,
+  "SEHosp": 21,
+  "SEUCI": 7,
+  "__v": 0
 }]

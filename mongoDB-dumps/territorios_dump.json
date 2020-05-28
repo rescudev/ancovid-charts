@@ -1,0 +1,8654 @@
+[{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f38"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12617,
+      "ConfirmadosPCR14d": 191,
+      "Hospitalizados": 6245,
+      "TotalUCI": 766,
+      "Fallecimientos": 1406,
+      "Curados": 12494,
+      "ConfirmadosTotal": 17345
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 501,
+      "ConfirmadosPCR14d": 15,
+      "Hospitalizados": 235,
+      "TotalUCI": 40,
+      "Fallecimientos": 53,
+      "Curados": 605,
+      "ConfirmadosTotal": 770
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1256,
+      "ConfirmadosPCR14d": 21,
+      "Hospitalizados": 583,
+      "TotalUCI": 81,
+      "Fallecimientos": 158,
+      "Curados": 830,
+      "ConfirmadosTotal": 1561
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1340,
+      "ConfirmadosPCR14d": 10,
+      "Hospitalizados": 558,
+      "TotalUCI": 75,
+      "Fallecimientos": 116,
+      "Curados": 1454,
+      "ConfirmadosTotal": 1740
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2444,
+      "ConfirmadosPCR14d": 33,
+      "Hospitalizados": 1201,
+      "TotalUCI": 132,
+      "Fallecimientos": 284,
+      "Curados": 2686,
+      "ConfirmadosTotal": 3228
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 403,
+      "ConfirmadosPCR14d": 4,
+      "Hospitalizados": 220,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 456,
+      "ConfirmadosTotal": 527
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1452,
+      "ConfirmadosPCR14d": 45,
+      "Hospitalizados": 766,
+      "TotalUCI": 90,
+      "Fallecimientos": 180,
+      "Curados": 1308,
+      "ConfirmadosTotal": 1911
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2769,
+      "ConfirmadosPCR14d": 39,
+      "Hospitalizados": 1477,
+      "TotalUCI": 169,
+      "Fallecimientos": 283,
+      "Curados": 2780,
+      "ConfirmadosTotal": 4459
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2452,
+      "ConfirmadosPCR14d": 24,
+      "Hospitalizados": 1205,
+      "TotalUCI": 149,
+      "Fallecimientos": 284,
+      "Curados": 2375,
+      "ConfirmadosTotal": 3149
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-26T00:00:00Z"
+  },
+  "Fecha": "26/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f39"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12599,
+      "ConfirmadosPCR14d": 208,
+      "Hospitalizados": 6233,
+      "TotalUCI": 766,
+      "Fallecimientos": 1392,
+      "Curados": 12230,
+      "ConfirmadosTotal": 17292
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 500,
+      "ConfirmadosPCR14d": 15,
+      "Hospitalizados": 235,
+      "TotalUCI": 40,
+      "Fallecimientos": 52,
+      "Curados": 595,
+      "ConfirmadosTotal": 763
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1257,
+      "ConfirmadosPCR14d": 22,
+      "Hospitalizados": 578,
+      "TotalUCI": 81,
+      "Fallecimientos": 153,
+      "Curados": 797,
+      "ConfirmadosTotal": 1558
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1340,
+      "ConfirmadosPCR14d": 12,
+      "Hospitalizados": 558,
+      "TotalUCI": 75,
+      "Fallecimientos": 115,
+      "Curados": 1443,
+      "ConfirmadosTotal": 1740
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2442,
+      "ConfirmadosPCR14d": 35,
+      "Hospitalizados": 1199,
+      "TotalUCI": 132,
+      "Fallecimientos": 282,
+      "Curados": 2666,
+      "ConfirmadosTotal": 3217
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 403,
+      "ConfirmadosPCR14d": 4,
+      "Hospitalizados": 220,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 448,
+      "ConfirmadosTotal": 527
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1443,
+      "ConfirmadosPCR14d": 50,
+      "Hospitalizados": 764,
+      "TotalUCI": 90,
+      "Fallecimientos": 179,
+      "Curados": 1291,
+      "ConfirmadosTotal": 1908
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2767,
+      "ConfirmadosPCR14d": 43,
+      "Hospitalizados": 1476,
+      "TotalUCI": 169,
+      "Fallecimientos": 281,
+      "Curados": 2715,
+      "ConfirmadosTotal": 4429
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2447,
+      "ConfirmadosPCR14d": 27,
+      "Hospitalizados": 1203,
+      "TotalUCI": 149,
+      "Fallecimientos": 282,
+      "Curados": 2275,
+      "ConfirmadosTotal": 3150
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-25T00:00:00Z"
+  },
+  "Fecha": "25/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f37"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12627,
+      "ConfirmadosPCR14d": 169,
+      "Hospitalizados": 6245,
+      "TotalUCI": 767,
+      "Fallecimientos": 1411,
+      "Curados": 12690,
+      "ConfirmadosTotal": 17380
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 502,
+      "ConfirmadosPCR14d": 12,
+      "Hospitalizados": 235,
+      "TotalUCI": 40,
+      "Fallecimientos": 53,
+      "Curados": 621,
+      "ConfirmadosTotal": 770
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1259,
+      "ConfirmadosPCR14d": 19,
+      "Hospitalizados": 582,
+      "TotalUCI": 81,
+      "Fallecimientos": 157,
+      "Curados": 888,
+      "ConfirmadosTotal": 1567
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1341,
+      "ConfirmadosPCR14d": 11,
+      "Hospitalizados": 558,
+      "TotalUCI": 75,
+      "Fallecimientos": 116,
+      "Curados": 1505,
+      "ConfirmadosTotal": 1741
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2445,
+      "ConfirmadosPCR14d": 33,
+      "Hospitalizados": 1201,
+      "TotalUCI": 133,
+      "Fallecimientos": 286,
+      "Curados": 2711,
+      "ConfirmadosTotal": 3239
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 403,
+      "ConfirmadosPCR14d": 3,
+      "Hospitalizados": 220,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 460,
+      "ConfirmadosTotal": 528
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1454,
+      "ConfirmadosPCR14d": 41,
+      "Hospitalizados": 767,
+      "TotalUCI": 90,
+      "Fallecimientos": 181,
+      "Curados": 1311,
+      "ConfirmadosTotal": 1914
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2767,
+      "ConfirmadosPCR14d": 28,
+      "Hospitalizados": 1477,
+      "TotalUCI": 169,
+      "Fallecimientos": 285,
+      "Curados": 2802,
+      "ConfirmadosTotal": 4475
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2456,
+      "ConfirmadosPCR14d": 22,
+      "Hospitalizados": 1205,
+      "TotalUCI": 149,
+      "Fallecimientos": 285,
+      "Curados": 2392,
+      "ConfirmadosTotal": 3146
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-27T00:00:00Z"
+  },
+  "Fecha": "27/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f3a"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12600,
+      "ConfirmadosPCR14d": 218,
+      "Hospitalizados": 6230,
+      "TotalUCI": 766,
+      "Fallecimientos": 1391,
+      "Curados": 12181,
+      "ConfirmadosTotal": 17267
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 499,
+      "ConfirmadosPCR14d": 16,
+      "Hospitalizados": 234,
+      "TotalUCI": 40,
+      "Fallecimientos": 52,
+      "Curados": 596,
+      "ConfirmadosTotal": 763
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1257,
+      "ConfirmadosPCR14d": 22,
+      "Hospitalizados": 578,
+      "TotalUCI": 81,
+      "Fallecimientos": 153,
+      "Curados": 797,
+      "ConfirmadosTotal": 1558
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1341,
+      "ConfirmadosPCR14d": 13,
+      "Hospitalizados": 558,
+      "TotalUCI": 75,
+      "Fallecimientos": 114,
+      "Curados": 1443,
+      "ConfirmadosTotal": 1741
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2442,
+      "ConfirmadosPCR14d": 35,
+      "Hospitalizados": 1196,
+      "TotalUCI": 132,
+      "Fallecimientos": 282,
+      "Curados": 2669,
+      "ConfirmadosTotal": 3221
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 403,
+      "ConfirmadosPCR14d": 4,
+      "Hospitalizados": 220,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 447,
+      "ConfirmadosTotal": 526
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1443,
+      "ConfirmadosPCR14d": 52,
+      "Hospitalizados": 765,
+      "TotalUCI": 90,
+      "Fallecimientos": 179,
+      "Curados": 1291,
+      "ConfirmadosTotal": 1908
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2767,
+      "ConfirmadosPCR14d": 44,
+      "Hospitalizados": 1476,
+      "TotalUCI": 169,
+      "Fallecimientos": 281,
+      "Curados": 2703,
+      "ConfirmadosTotal": 4418
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2448,
+      "ConfirmadosPCR14d": 32,
+      "Hospitalizados": 1203,
+      "TotalUCI": 149,
+      "Fallecimientos": 282,
+      "Curados": 2235,
+      "ConfirmadosTotal": 3132
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-24T00:00:00Z"
+  },
+  "Fecha": "24/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f3b"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12597,
+      "ConfirmadosPCR14d": 229,
+      "Hospitalizados": 6229,
+      "TotalUCI": 766,
+      "Fallecimientos": 1389,
+      "Curados": 12081,
+      "ConfirmadosTotal": 17215
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 499,
+      "ConfirmadosPCR14d": 20,
+      "Hospitalizados": 234,
+      "TotalUCI": 40,
+      "Fallecimientos": 52,
+      "Curados": 595,
+      "ConfirmadosTotal": 763
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1257,
+      "ConfirmadosPCR14d": 22,
+      "Hospitalizados": 578,
+      "TotalUCI": 81,
+      "Fallecimientos": 153,
+      "Curados": 797,
+      "ConfirmadosTotal": 1558
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1341,
+      "ConfirmadosPCR14d": 15,
+      "Hospitalizados": 558,
+      "TotalUCI": 75,
+      "Fallecimientos": 114,
+      "Curados": 1443,
+      "ConfirmadosTotal": 1741
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2439,
+      "ConfirmadosPCR14d": 34,
+      "Hospitalizados": 1195,
+      "TotalUCI": 132,
+      "Fallecimientos": 280,
+      "Curados": 2669,
+      "ConfirmadosTotal": 3217
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 403,
+      "ConfirmadosPCR14d": 4,
+      "Hospitalizados": 220,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 447,
+      "ConfirmadosTotal": 526
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1443,
+      "ConfirmadosPCR14d": 53,
+      "Hospitalizados": 766,
+      "TotalUCI": 90,
+      "Fallecimientos": 179,
+      "Curados": 1293,
+      "ConfirmadosTotal": 1909
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2767,
+      "ConfirmadosPCR14d": 45,
+      "Hospitalizados": 1476,
+      "TotalUCI": 169,
+      "Fallecimientos": 281,
+      "Curados": 2702,
+      "ConfirmadosTotal": 4418
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2448,
+      "ConfirmadosPCR14d": 36,
+      "Hospitalizados": 1202,
+      "TotalUCI": 149,
+      "Fallecimientos": 282,
+      "Curados": 2135,
+      "ConfirmadosTotal": 3083
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-23T00:00:00Z"
+  },
+  "Fecha": "23/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f3c"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12576,
+      "ConfirmadosPCR14d": 239,
+      "Hospitalizados": 6215,
+      "TotalUCI": 767,
+      "Fallecimientos": 1377,
+      "Curados": 11812,
+      "ConfirmadosTotal": 17078
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 498,
+      "ConfirmadosPCR14d": 21,
+      "Hospitalizados": 231,
+      "TotalUCI": 41,
+      "Fallecimientos": 51,
+      "Curados": 564,
+      "ConfirmadosTotal": 755
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1258,
+      "ConfirmadosPCR14d": 24,
+      "Hospitalizados": 577,
+      "TotalUCI": 81,
+      "Fallecimientos": 149,
+      "Curados": 737,
+      "ConfirmadosTotal": 1554
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1340,
+      "ConfirmadosPCR14d": 14,
+      "Hospitalizados": 554,
+      "TotalUCI": 75,
+      "Fallecimientos": 110,
+      "Curados": 1410,
+      "ConfirmadosTotal": 1694
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2437,
+      "ConfirmadosPCR14d": 37,
+      "Hospitalizados": 1194,
+      "TotalUCI": 132,
+      "Fallecimientos": 280,
+      "Curados": 2651,
+      "ConfirmadosTotal": 3198
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 402,
+      "ConfirmadosPCR14d": 3,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 442,
+      "ConfirmadosTotal": 525
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1431,
+      "ConfirmadosPCR14d": 52,
+      "Hospitalizados": 763,
+      "TotalUCI": 90,
+      "Fallecimientos": 178,
+      "Curados": 1276,
+      "ConfirmadosTotal": 1891
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2766,
+      "ConfirmadosPCR14d": 47,
+      "Hospitalizados": 1475,
+      "TotalUCI": 169,
+      "Fallecimientos": 281,
+      "Curados": 2623,
+      "ConfirmadosTotal": 4386
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2444,
+      "ConfirmadosPCR14d": 41,
+      "Hospitalizados": 1202,
+      "TotalUCI": 149,
+      "Fallecimientos": 280,
+      "Curados": 2109,
+      "ConfirmadosTotal": 3075
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-22T00:00:00Z"
+  },
+  "Fecha": "22/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f3d"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12547,
+      "ConfirmadosPCR14d": 234,
+      "Hospitalizados": 6210,
+      "TotalUCI": 766,
+      "Fallecimientos": 1375,
+      "Curados": 11624,
+      "ConfirmadosTotal": 17025
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 498,
+      "ConfirmadosPCR14d": 21,
+      "Hospitalizados": 232,
+      "TotalUCI": 42,
+      "Fallecimientos": 52,
+      "Curados": 551,
+      "ConfirmadosTotal": 748
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1252,
+      "ConfirmadosPCR14d": 21,
+      "Hospitalizados": 575,
+      "TotalUCI": 80,
+      "Fallecimientos": 147,
+      "Curados": 721,
+      "ConfirmadosTotal": 1542
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1341,
+      "ConfirmadosPCR14d": 17,
+      "Hospitalizados": 558,
+      "TotalUCI": 75,
+      "Fallecimientos": 111,
+      "Curados": 1460,
+      "ConfirmadosTotal": 1773
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2431,
+      "ConfirmadosPCR14d": 35,
+      "Hospitalizados": 1191,
+      "TotalUCI": 132,
+      "Fallecimientos": 280,
+      "Curados": 2642,
+      "ConfirmadosTotal": 3186
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 402,
+      "ConfirmadosPCR14d": 3,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 437,
+      "ConfirmadosTotal": 525
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1422,
+      "ConfirmadosPCR14d": 48,
+      "Hospitalizados": 761,
+      "TotalUCI": 89,
+      "Fallecimientos": 177,
+      "Curados": 1220,
+      "ConfirmadosTotal": 1868
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2764,
+      "ConfirmadosPCR14d": 47,
+      "Hospitalizados": 1474,
+      "TotalUCI": 169,
+      "Fallecimientos": 281,
+      "Curados": 2537,
+      "ConfirmadosTotal": 4327
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2437,
+      "ConfirmadosPCR14d": 42,
+      "Hospitalizados": 1200,
+      "TotalUCI": 149,
+      "Fallecimientos": 279,
+      "Curados": 2056,
+      "ConfirmadosTotal": 3056
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-21T00:00:00Z"
+  },
+  "Fecha": "21/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f3e"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12502,
+      "ConfirmadosPCR14d": 228,
+      "Hospitalizados": 6196,
+      "TotalUCI": 764,
+      "Fallecimientos": 1371,
+      "Curados": 11289,
+      "ConfirmadosTotal": 16842
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 497,
+      "ConfirmadosPCR14d": 20,
+      "Hospitalizados": 229,
+      "TotalUCI": 42,
+      "Fallecimientos": 52,
+      "Curados": 506,
+      "ConfirmadosTotal": 739
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1245,
+      "ConfirmadosPCR14d": 15,
+      "Hospitalizados": 572,
+      "TotalUCI": 80,
+      "Fallecimientos": 147,
+      "Curados": 681,
+      "ConfirmadosTotal": 1531
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1337,
+      "ConfirmadosPCR14d": 15,
+      "Hospitalizados": 556,
+      "TotalUCI": 75,
+      "Fallecimientos": 110,
+      "Curados": 1428,
+      "ConfirmadosTotal": 1729
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2426,
+      "ConfirmadosPCR14d": 39,
+      "Hospitalizados": 1190,
+      "TotalUCI": 132,
+      "Fallecimientos": 280,
+      "Curados": 2630,
+      "ConfirmadosTotal": 3171
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 402,
+      "ConfirmadosPCR14d": 3,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 435,
+      "ConfirmadosTotal": 525
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1403,
+      "ConfirmadosPCR14d": 43,
+      "Hospitalizados": 758,
+      "TotalUCI": 87,
+      "Fallecimientos": 176,
+      "Curados": 1201,
+      "ConfirmadosTotal": 1841
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2757,
+      "ConfirmadosPCR14d": 44,
+      "Hospitalizados": 1473,
+      "TotalUCI": 169,
+      "Fallecimientos": 281,
+      "Curados": 2435,
+      "ConfirmadosTotal": 4261
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2435,
+      "ConfirmadosPCR14d": 49,
+      "Hospitalizados": 1199,
+      "TotalUCI": 149,
+      "Fallecimientos": 277,
+      "Curados": 1973,
+      "ConfirmadosTotal": 3045
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-20T00:00:00Z"
+  },
+  "Fecha": "20/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f3f"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12489,
+      "ConfirmadosPCR14d": 228,
+      "Hospitalizados": 6182,
+      "TotalUCI": 760,
+      "Fallecimientos": 1367,
+      "Curados": 10963,
+      "ConfirmadosTotal": 16689
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 498,
+      "ConfirmadosPCR14d": 20,
+      "Hospitalizados": 229,
+      "TotalUCI": 42,
+      "Fallecimientos": 52,
+      "Curados": 499,
+      "ConfirmadosTotal": 734
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1242,
+      "ConfirmadosPCR14d": 17,
+      "Hospitalizados": 571,
+      "TotalUCI": 79,
+      "Fallecimientos": 147,
+      "Curados": 593,
+      "ConfirmadosTotal": 1524
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1334,
+      "ConfirmadosPCR14d": 12,
+      "Hospitalizados": 554,
+      "TotalUCI": 75,
+      "Fallecimientos": 107,
+      "Curados": 1359,
+      "ConfirmadosTotal": 1705
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2422,
+      "ConfirmadosPCR14d": 41,
+      "Hospitalizados": 1187,
+      "TotalUCI": 132,
+      "Fallecimientos": 280,
+      "Curados": 2581,
+      "ConfirmadosTotal": 3141
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 401,
+      "ConfirmadosPCR14d": 2,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 414,
+      "ConfirmadosTotal": 523
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1397,
+      "ConfirmadosPCR14d": 41,
+      "Hospitalizados": 754,
+      "TotalUCI": 87,
+      "Fallecimientos": 176,
+      "Curados": 1190,
+      "ConfirmadosTotal": 1820
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2763,
+      "ConfirmadosPCR14d": 47,
+      "Hospitalizados": 1472,
+      "TotalUCI": 167,
+      "Fallecimientos": 281,
+      "Curados": 2377,
+      "ConfirmadosTotal": 4216
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2432,
+      "ConfirmadosPCR14d": 48,
+      "Hospitalizados": 1196,
+      "TotalUCI": 148,
+      "Fallecimientos": 276,
+      "Curados": 1950,
+      "ConfirmadosTotal": 3026
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-19T00:00:00Z"
+  },
+  "Fecha": "19/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f40"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12473,
+      "ConfirmadosPCR14d": 260,
+      "Hospitalizados": 6176,
+      "TotalUCI": 760,
+      "Fallecimientos": 1361,
+      "Curados": 10743,
+      "ConfirmadosTotal": 16511
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 498,
+      "ConfirmadosPCR14d": 20,
+      "Hospitalizados": 228,
+      "TotalUCI": 42,
+      "Fallecimientos": 52,
+      "Curados": 490,
+      "ConfirmadosTotal": 728
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1239,
+      "ConfirmadosPCR14d": 18,
+      "Hospitalizados": 570,
+      "TotalUCI": 79,
+      "Fallecimientos": 147,
+      "Curados": 566,
+      "ConfirmadosTotal": 1508
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1331,
+      "ConfirmadosPCR14d": 13,
+      "Hospitalizados": 552,
+      "TotalUCI": 75,
+      "Fallecimientos": 106,
+      "Curados": 1351,
+      "ConfirmadosTotal": 1696
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2420,
+      "ConfirmadosPCR14d": 44,
+      "Hospitalizados": 1184,
+      "TotalUCI": 132,
+      "Fallecimientos": 279,
+      "Curados": 2527,
+      "ConfirmadosTotal": 3109
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 400,
+      "ConfirmadosPCR14d": 1,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 392,
+      "ConfirmadosTotal": 521
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1392,
+      "ConfirmadosPCR14d": 55,
+      "Hospitalizados": 753,
+      "TotalUCI": 87,
+      "Fallecimientos": 176,
+      "Curados": 1169,
+      "ConfirmadosTotal": 1797
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2763,
+      "ConfirmadosPCR14d": 56,
+      "Hospitalizados": 1474,
+      "TotalUCI": 167,
+      "Fallecimientos": 278,
+      "Curados": 2324,
+      "ConfirmadosTotal": 4153
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2430,
+      "ConfirmadosPCR14d": 53,
+      "Hospitalizados": 1196,
+      "TotalUCI": 148,
+      "Fallecimientos": 275,
+      "Curados": 1924,
+      "ConfirmadosTotal": 2999
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-18T00:00:00Z"
+  },
+  "Fecha": "18/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f41"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12458,
+      "ConfirmadosPCR14d": 261,
+      "Hospitalizados": 6178,
+      "TotalUCI": 761,
+      "Fallecimientos": 1358,
+      "Curados": 10671,
+      "ConfirmadosTotal": 16457
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 498,
+      "ConfirmadosPCR14d": 20,
+      "Hospitalizados": 229,
+      "TotalUCI": 42,
+      "Fallecimientos": 52,
+      "Curados": 487,
+      "ConfirmadosTotal": 729
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1240,
+      "ConfirmadosPCR14d": 22,
+      "Hospitalizados": 571,
+      "TotalUCI": 79,
+      "Fallecimientos": 145,
+      "Curados": 565,
+      "ConfirmadosTotal": 1508
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1331,
+      "ConfirmadosPCR14d": 13,
+      "Hospitalizados": 552,
+      "TotalUCI": 76,
+      "Fallecimientos": 106,
+      "Curados": 1350,
+      "ConfirmadosTotal": 1696
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2417,
+      "ConfirmadosPCR14d": 43,
+      "Hospitalizados": 1184,
+      "TotalUCI": 132,
+      "Fallecimientos": 279,
+      "Curados": 2524,
+      "ConfirmadosTotal": 3106
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 400,
+      "ConfirmadosPCR14d": 1,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 392,
+      "ConfirmadosTotal": 521
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1387,
+      "ConfirmadosPCR14d": 50,
+      "Hospitalizados": 754,
+      "TotalUCI": 87,
+      "Fallecimientos": 175,
+      "Curados": 1171,
+      "ConfirmadosTotal": 1793
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2760,
+      "ConfirmadosPCR14d": 59,
+      "Hospitalizados": 1473,
+      "TotalUCI": 167,
+      "Fallecimientos": 278,
+      "Curados": 2302,
+      "ConfirmadosTotal": 4122
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2425,
+      "ConfirmadosPCR14d": 53,
+      "Hospitalizados": 1196,
+      "TotalUCI": 148,
+      "Fallecimientos": 275,
+      "Curados": 1880,
+      "ConfirmadosTotal": 2982
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-17T00:00:00Z"
+  },
+  "Fecha": "17/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f42"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12450,
+      "ConfirmadosPCR14d": 265,
+      "Hospitalizados": 6174,
+      "TotalUCI": 760,
+      "Fallecimientos": 1358,
+      "Curados": 10611,
+      "ConfirmadosTotal": 16432
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 498,
+      "ConfirmadosPCR14d": 20,
+      "Hospitalizados": 228,
+      "TotalUCI": 41,
+      "Fallecimientos": 52,
+      "Curados": 484,
+      "ConfirmadosTotal": 728
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1240,
+      "ConfirmadosPCR14d": 23,
+      "Hospitalizados": 570,
+      "TotalUCI": 79,
+      "Fallecimientos": 145,
+      "Curados": 560,
+      "ConfirmadosTotal": 1500
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1331,
+      "ConfirmadosPCR14d": 13,
+      "Hospitalizados": 552,
+      "TotalUCI": 76,
+      "Fallecimientos": 106,
+      "Curados": 1350,
+      "ConfirmadosTotal": 1696
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2413,
+      "ConfirmadosPCR14d": 41,
+      "Hospitalizados": 1183,
+      "TotalUCI": 132,
+      "Fallecimientos": 279,
+      "Curados": 2520,
+      "ConfirmadosTotal": 3101
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 400,
+      "ConfirmadosPCR14d": 1,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 391,
+      "ConfirmadosTotal": 521
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1387,
+      "ConfirmadosPCR14d": 55,
+      "Hospitalizados": 754,
+      "TotalUCI": 87,
+      "Fallecimientos": 175,
+      "Curados": 1171,
+      "ConfirmadosTotal": 1793
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2758,
+      "ConfirmadosPCR14d": 57,
+      "Hospitalizados": 1472,
+      "TotalUCI": 167,
+      "Fallecimientos": 278,
+      "Curados": 2295,
+      "ConfirmadosTotal": 4115
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2423,
+      "ConfirmadosPCR14d": 55,
+      "Hospitalizados": 1196,
+      "TotalUCI": 148,
+      "Fallecimientos": 275,
+      "Curados": 1840,
+      "ConfirmadosTotal": 2978
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-16T00:00:00Z"
+  },
+  "Fecha": "16/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f43"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12420,
+      "ConfirmadosPCR14d": 257,
+      "Hospitalizados": 6161,
+      "TotalUCI": 758,
+      "Fallecimientos": 1355,
+      "Curados": 10319,
+      "ConfirmadosTotal": 16263
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 494,
+      "ConfirmadosPCR14d": 18,
+      "Hospitalizados": 224,
+      "TotalUCI": 41,
+      "Fallecimientos": 51,
+      "Curados": 474,
+      "ConfirmadosTotal": 713
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1235,
+      "ConfirmadosPCR14d": 22,
+      "Hospitalizados": 568,
+      "TotalUCI": 79,
+      "Fallecimientos": 145,
+      "Curados": 530,
+      "ConfirmadosTotal": 1487
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1329,
+      "ConfirmadosPCR14d": 14,
+      "Hospitalizados": 552,
+      "TotalUCI": 75,
+      "Fallecimientos": 105,
+      "Curados": 1335,
+      "ConfirmadosTotal": 1688
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2407,
+      "ConfirmadosPCR14d": 40,
+      "Hospitalizados": 1183,
+      "TotalUCI": 132,
+      "Fallecimientos": 279,
+      "Curados": 2499,
+      "ConfirmadosTotal": 3070
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 399,
+      "ConfirmadosPCR14d": 0,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 351,
+      "ConfirmadosTotal": 520
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1379,
+      "ConfirmadosPCR14d": 49,
+      "Hospitalizados": 753,
+      "TotalUCI": 86,
+      "Fallecimientos": 174,
+      "Curados": 1129,
+      "ConfirmadosTotal": 1771
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2754,
+      "ConfirmadosPCR14d": 54,
+      "Hospitalizados": 1466,
+      "TotalUCI": 167,
+      "Fallecimientos": 278,
+      "Curados": 2214,
+      "ConfirmadosTotal": 4068
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2423,
+      "ConfirmadosPCR14d": 60,
+      "Hospitalizados": 1196,
+      "TotalUCI": 148,
+      "Fallecimientos": 275,
+      "Curados": 1787,
+      "ConfirmadosTotal": 2946
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-15T00:00:00Z"
+  },
+  "Fecha": "15/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f44"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12401,
+      "ConfirmadosPCR14d": 281,
+      "Hospitalizados": 6146,
+      "TotalUCI": 754,
+      "Fallecimientos": 1344,
+      "Curados": 10148,
+      "ConfirmadosTotal": 16068
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 492,
+      "ConfirmadosPCR14d": 18,
+      "Hospitalizados": 218,
+      "TotalUCI": 39,
+      "Fallecimientos": 50,
+      "Curados": 452,
+      "ConfirmadosTotal": 695
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1236,
+      "ConfirmadosPCR14d": 25,
+      "Hospitalizados": 566,
+      "TotalUCI": 79,
+      "Fallecimientos": 142,
+      "Curados": 517,
+      "ConfirmadosTotal": 1480
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1328,
+      "ConfirmadosPCR14d": 13,
+      "Hospitalizados": 551,
+      "TotalUCI": 74,
+      "Fallecimientos": 105,
+      "Curados": 1331,
+      "ConfirmadosTotal": 1682
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2401,
+      "ConfirmadosPCR14d": 50,
+      "Hospitalizados": 1184,
+      "TotalUCI": 132,
+      "Fallecimientos": 278,
+      "Curados": 2480,
+      "ConfirmadosTotal": 3033
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 399,
+      "ConfirmadosPCR14d": 0,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 344,
+      "ConfirmadosTotal": 520
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1375,
+      "ConfirmadosPCR14d": 58,
+      "Hospitalizados": 751,
+      "TotalUCI": 85,
+      "Fallecimientos": 173,
+      "Curados": 1121,
+      "ConfirmadosTotal": 1751
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2746,
+      "ConfirmadosPCR14d": 55,
+      "Hospitalizados": 1463,
+      "TotalUCI": 167,
+      "Fallecimientos": 274,
+      "Curados": 2161,
+      "ConfirmadosTotal": 3983
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2424,
+      "ConfirmadosPCR14d": 62,
+      "Hospitalizados": 1194,
+      "TotalUCI": 148,
+      "Fallecimientos": 274,
+      "Curados": 1742,
+      "ConfirmadosTotal": 2924
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-14T00:00:00Z"
+  },
+  "Fecha": "14/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f45"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12359,
+      "ConfirmadosPCR14d": 304,
+      "Hospitalizados": 6128,
+      "TotalUCI": 751,
+      "Fallecimientos": 1336,
+      "Curados": 9918,
+      "ConfirmadosTotal": 15823
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 488,
+      "ConfirmadosPCR14d": 14,
+      "Hospitalizados": 216,
+      "TotalUCI": 39,
+      "Fallecimientos": 50,
+      "Curados": 447,
+      "ConfirmadosTotal": 677
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1235,
+      "ConfirmadosPCR14d": 41,
+      "Hospitalizados": 566,
+      "TotalUCI": 79,
+      "Fallecimientos": 142,
+      "Curados": 511,
+      "ConfirmadosTotal": 1477
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1326,
+      "ConfirmadosPCR14d": 16,
+      "Hospitalizados": 549,
+      "TotalUCI": 74,
+      "Fallecimientos": 105,
+      "Curados": 1308,
+      "ConfirmadosTotal": 1656
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2399,
+      "ConfirmadosPCR14d": 58,
+      "Hospitalizados": 1183,
+      "TotalUCI": 132,
+      "Fallecimientos": 275,
+      "Curados": 2412,
+      "ConfirmadosTotal": 2965
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 398,
+      "ConfirmadosPCR14d": 0,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 328,
+      "ConfirmadosTotal": 510
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1366,
+      "ConfirmadosPCR14d": 62,
+      "Hospitalizados": 749,
+      "TotalUCI": 83,
+      "Fallecimientos": 170,
+      "Curados": 1103,
+      "ConfirmadosTotal": 1724
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2732,
+      "ConfirmadosPCR14d": 55,
+      "Hospitalizados": 1455,
+      "TotalUCI": 166,
+      "Fallecimientos": 273,
+      "Curados": 2098,
+      "ConfirmadosTotal": 3919
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2415,
+      "ConfirmadosPCR14d": 58,
+      "Hospitalizados": 1191,
+      "TotalUCI": 148,
+      "Fallecimientos": 273,
+      "Curados": 1711,
+      "ConfirmadosTotal": 2895
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-13T00:00:00Z"
+  },
+  "Fecha": "13/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f46"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12317,
+      "ConfirmadosPCR14d": 323,
+      "Hospitalizados": 6114,
+      "TotalUCI": 750,
+      "Fallecimientos": 1332,
+      "Curados": 9481,
+      "ConfirmadosTotal": 15629
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 485,
+      "ConfirmadosPCR14d": 14,
+      "Hospitalizados": 214,
+      "TotalUCI": 39,
+      "Fallecimientos": 50,
+      "Curados": 433,
+      "ConfirmadosTotal": 662
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1232,
+      "ConfirmadosPCR14d": 43,
+      "Hospitalizados": 566,
+      "TotalUCI": 79,
+      "Fallecimientos": 142,
+      "Curados": 489,
+      "ConfirmadosTotal": 1464
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1326,
+      "ConfirmadosPCR14d": 21,
+      "Hospitalizados": 547,
+      "TotalUCI": 74,
+      "Fallecimientos": 105,
+      "Curados": 1176,
+      "ConfirmadosTotal": 1632
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2381,
+      "ConfirmadosPCR14d": 65,
+      "Hospitalizados": 1179,
+      "TotalUCI": 132,
+      "Fallecimientos": 274,
+      "Curados": 2326,
+      "ConfirmadosTotal": 2966
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 398,
+      "ConfirmadosPCR14d": 0,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 48,
+      "Curados": 320,
+      "ConfirmadosTotal": 510
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1358,
+      "ConfirmadosPCR14d": 62,
+      "Hospitalizados": 745,
+      "TotalUCI": 82,
+      "Fallecimientos": 168,
+      "Curados": 1099,
+      "ConfirmadosTotal": 1689
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2723,
+      "ConfirmadosPCR14d": 55,
+      "Hospitalizados": 1454,
+      "TotalUCI": 166,
+      "Fallecimientos": 272,
+      "Curados": 2010,
+      "ConfirmadosTotal": 3838
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2414,
+      "ConfirmadosPCR14d": 63,
+      "Hospitalizados": 1190,
+      "TotalUCI": 148,
+      "Fallecimientos": 273,
+      "Curados": 1628,
+      "ConfirmadosTotal": 2868
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-12T00:00:00Z"
+  },
+  "Fecha": "12/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f47"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12293,
+      "ConfirmadosPCR14d": 351,
+      "Hospitalizados": 6101,
+      "TotalUCI": 745,
+      "Fallecimientos": 1326,
+      "Curados": 9297,
+      "ConfirmadosTotal": 15522
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 483,
+      "ConfirmadosPCR14d": 13,
+      "Hospitalizados": 213,
+      "TotalUCI": 38,
+      "Fallecimientos": 50,
+      "Curados": 427,
+      "ConfirmadosTotal": 652
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1232,
+      "ConfirmadosPCR14d": 45,
+      "Hospitalizados": 566,
+      "TotalUCI": 79,
+      "Fallecimientos": 142,
+      "Curados": 473,
+      "ConfirmadosTotal": 1449
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1324,
+      "ConfirmadosPCR14d": 22,
+      "Hospitalizados": 546,
+      "TotalUCI": 73,
+      "Fallecimientos": 104,
+      "Curados": 1147,
+      "ConfirmadosTotal": 1600
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2378,
+      "ConfirmadosPCR14d": 71,
+      "Hospitalizados": 1178,
+      "TotalUCI": 132,
+      "Fallecimientos": 274,
+      "Curados": 2315,
+      "ConfirmadosTotal": 3002
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 398,
+      "ConfirmadosPCR14d": 4,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 47,
+      "Curados": 309,
+      "ConfirmadosTotal": 510
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1355,
+      "ConfirmadosPCR14d": 64,
+      "Hospitalizados": 742,
+      "TotalUCI": 81,
+      "Fallecimientos": 166,
+      "Curados": 1082,
+      "ConfirmadosTotal": 1669
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2714,
+      "ConfirmadosPCR14d": 64,
+      "Hospitalizados": 1449,
+      "TotalUCI": 165,
+      "Fallecimientos": 271,
+      "Curados": 1960,
+      "ConfirmadosTotal": 3790
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2409,
+      "ConfirmadosPCR14d": 68,
+      "Hospitalizados": 1188,
+      "TotalUCI": 147,
+      "Fallecimientos": 272,
+      "Curados": 1584,
+      "ConfirmadosTotal": 2850
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-11T00:00:00Z"
+  },
+  "Fecha": "11/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f48"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12341,
+      "ConfirmadosPCR14d": 359,
+      "Hospitalizados": 6092,
+      "TotalUCI": 745,
+      "Fallecimientos": 1322,
+      "Curados": 9205,
+      "ConfirmadosTotal": 15478
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 482,
+      "ConfirmadosPCR14d": 12,
+      "Hospitalizados": 212,
+      "TotalUCI": 38,
+      "Fallecimientos": 50,
+      "Curados": 423,
+      "ConfirmadosTotal": 649
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1232,
+      "ConfirmadosPCR14d": 49,
+      "Hospitalizados": 567,
+      "TotalUCI": 79,
+      "Fallecimientos": 142,
+      "Curados": 472,
+      "ConfirmadosTotal": 1450
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1326,
+      "ConfirmadosPCR14d": 24,
+      "Hospitalizados": 544,
+      "TotalUCI": 73,
+      "Fallecimientos": 104,
+      "Curados": 1148,
+      "ConfirmadosTotal": 1600
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2438,
+      "ConfirmadosPCR14d": 74,
+      "Hospitalizados": 1176,
+      "TotalUCI": 132,
+      "Fallecimientos": 274,
+      "Curados": 2302,
+      "ConfirmadosTotal": 2987
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 398,
+      "ConfirmadosPCR14d": 6,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 47,
+      "Curados": 303,
+      "ConfirmadosTotal": 510
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1349,
+      "ConfirmadosPCR14d": 61,
+      "Hospitalizados": 743,
+      "TotalUCI": 81,
+      "Fallecimientos": 165,
+      "Curados": 1060,
+      "ConfirmadosTotal": 1661
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2714,
+      "ConfirmadosPCR14d": 66,
+      "Hospitalizados": 1448,
+      "TotalUCI": 165,
+      "Fallecimientos": 271,
+      "Curados": 1955,
+      "ConfirmadosTotal": 3779
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2402,
+      "ConfirmadosPCR14d": 67,
+      "Hospitalizados": 1183,
+      "TotalUCI": 147,
+      "Fallecimientos": 269,
+      "Curados": 1542,
+      "ConfirmadosTotal": 2842
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-10T00:00:00Z"
+  },
+  "Fecha": "10/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f49"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12315,
+      "ConfirmadosPCR14d": 362,
+      "Hospitalizados": 6080,
+      "TotalUCI": 744,
+      "Fallecimientos": 1320,
+      "Curados": 9020,
+      "ConfirmadosTotal": 15403
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 479,
+      "ConfirmadosPCR14d": 9,
+      "Hospitalizados": 211,
+      "TotalUCI": 38,
+      "Fallecimientos": 50,
+      "Curados": 403,
+      "ConfirmadosTotal": 642
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1232,
+      "ConfirmadosPCR14d": 52,
+      "Hospitalizados": 566,
+      "TotalUCI": 79,
+      "Fallecimientos": 142,
+      "Curados": 469,
+      "ConfirmadosTotal": 1444
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1323,
+      "ConfirmadosPCR14d": 22,
+      "Hospitalizados": 542,
+      "TotalUCI": 73,
+      "Fallecimientos": 104,
+      "Curados": 1143,
+      "ConfirmadosTotal": 1589
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2431,
+      "ConfirmadosPCR14d": 77,
+      "Hospitalizados": 1173,
+      "TotalUCI": 132,
+      "Fallecimientos": 273,
+      "Curados": 2269,
+      "ConfirmadosTotal": 2973
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 398,
+      "ConfirmadosPCR14d": 7,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 47,
+      "Curados": 303,
+      "ConfirmadosTotal": 510
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1345,
+      "ConfirmadosPCR14d": 58,
+      "Hospitalizados": 743,
+      "TotalUCI": 81,
+      "Fallecimientos": 165,
+      "Curados": 1042,
+      "ConfirmadosTotal": 1654
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2712,
+      "ConfirmadosPCR14d": 70,
+      "Hospitalizados": 1445,
+      "TotalUCI": 165,
+      "Fallecimientos": 271,
+      "Curados": 1942,
+      "ConfirmadosTotal": 3760
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2395,
+      "ConfirmadosPCR14d": 67,
+      "Hospitalizados": 1181,
+      "TotalUCI": 146,
+      "Fallecimientos": 268,
+      "Curados": 1449,
+      "ConfirmadosTotal": 2831
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-09T00:00:00Z"
+  },
+  "Fecha": "09/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f4a"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12298,
+      "ConfirmadosPCR14d": 420,
+      "Hospitalizados": 6069,
+      "TotalUCI": 745,
+      "Fallecimientos": 1317,
+      "Curados": 8779,
+      "ConfirmadosTotal": 15228
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 477,
+      "ConfirmadosPCR14d": 9,
+      "Hospitalizados": 210,
+      "TotalUCI": 38,
+      "Fallecimientos": 49,
+      "Curados": 391,
+      "ConfirmadosTotal": 630
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1228,
+      "ConfirmadosPCR14d": 55,
+      "Hospitalizados": 565,
+      "TotalUCI": 79,
+      "Fallecimientos": 141,
+      "Curados": 449,
+      "ConfirmadosTotal": 1426
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1322,
+      "ConfirmadosPCR14d": 25,
+      "Hospitalizados": 541,
+      "TotalUCI": 73,
+      "Fallecimientos": 104,
+      "Curados": 1105,
+      "ConfirmadosTotal": 1547
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2443,
+      "ConfirmadosPCR14d": 120,
+      "Hospitalizados": 1171,
+      "TotalUCI": 132,
+      "Fallecimientos": 273,
+      "Curados": 2201,
+      "ConfirmadosTotal": 2946
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 398,
+      "ConfirmadosPCR14d": 9,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 46,
+      "Curados": 296,
+      "ConfirmadosTotal": 507
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1332,
+      "ConfirmadosPCR14d": 52,
+      "Hospitalizados": 742,
+      "TotalUCI": 82,
+      "Fallecimientos": 166,
+      "Curados": 1039,
+      "ConfirmadosTotal": 1638
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2707,
+      "ConfirmadosPCR14d": 81,
+      "Hospitalizados": 1440,
+      "TotalUCI": 165,
+      "Fallecimientos": 270,
+      "Curados": 1884,
+      "ConfirmadosTotal": 3718
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2391,
+      "ConfirmadosPCR14d": 69,
+      "Hospitalizados": 1181,
+      "TotalUCI": 146,
+      "Fallecimientos": 268,
+      "Curados": 1414,
+      "ConfirmadosTotal": 2816
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-08T00:00:00Z"
+  },
+  "Fecha": "08/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecf9e9bd729022600556f4b"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "ConfirmadosPCR": 12287,
+      "ConfirmadosPCR14d": 506,
+      "Hospitalizados": 6038,
+      "TotalUCI": 742,
+      "Fallecimientos": 1301,
+      "Curados": 8435,
+      "ConfirmadosTotal": 15050
+    },
+    {
+      "Territorio": "Almería",
+      "ConfirmadosPCR": 477,
+      "ConfirmadosPCR14d": 10,
+      "Hospitalizados": 210,
+      "TotalUCI": 37,
+      "Fallecimientos": 49,
+      "Curados": 376,
+      "ConfirmadosTotal": 618
+    },
+    {
+      "Territorio": "Cádiz",
+      "ConfirmadosPCR": 1222,
+      "ConfirmadosPCR14d": 59,
+      "Hospitalizados": 559,
+      "TotalUCI": 78,
+      "Fallecimientos": 138,
+      "Curados": 412,
+      "ConfirmadosTotal": 1406
+    },
+    {
+      "Territorio": "Córdoba",
+      "ConfirmadosPCR": 1320,
+      "ConfirmadosPCR14d": 27,
+      "Hospitalizados": 540,
+      "TotalUCI": 73,
+      "Fallecimientos": 104,
+      "Curados": 1093,
+      "ConfirmadosTotal": 1527
+    },
+    {
+      "Territorio": "Granada",
+      "ConfirmadosPCR": 2469,
+      "ConfirmadosPCR14d": 168,
+      "Hospitalizados": 1166,
+      "TotalUCI": 132,
+      "Fallecimientos": 271,
+      "Curados": 2126,
+      "ConfirmadosTotal": 2905
+    },
+    {
+      "Territorio": "Huelva",
+      "ConfirmadosPCR": 398,
+      "ConfirmadosPCR14d": 10,
+      "Hospitalizados": 219,
+      "TotalUCI": 30,
+      "Fallecimientos": 45,
+      "Curados": 275,
+      "ConfirmadosTotal": 500
+    },
+    {
+      "Territorio": "Jaén",
+      "ConfirmadosPCR": 1321,
+      "ConfirmadosPCR14d": 48,
+      "Hospitalizados": 733,
+      "TotalUCI": 81,
+      "Fallecimientos": 164,
+      "Curados": 1001,
+      "ConfirmadosTotal": 1609
+    },
+    {
+      "Territorio": "Málaga",
+      "ConfirmadosPCR": 2701,
+      "ConfirmadosPCR14d": 104,
+      "Hospitalizados": 1438,
+      "TotalUCI": 165,
+      "Fallecimientos": 266,
+      "Curados": 1811,
+      "ConfirmadosTotal": 3703
+    },
+    {
+      "Territorio": "Sevilla",
+      "ConfirmadosPCR": 2379,
+      "ConfirmadosPCR14d": 80,
+      "Hospitalizados": 1173,
+      "TotalUCI": 146,
+      "Fallecimientos": 264,
+      "Curados": 1341,
+      "ConfirmadosTotal": 2782
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-07T00:00:00Z"
+  },
+  "Fecha": "07/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f4c"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 14870,
+      "Hospitalizados": 6027,
+      "TotalUCI": 744,
+      "Fallecimientos": 1294,
+      "Curados": 8076,
+      "NuevosCasos": 231
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 612,
+      "Hospitalizados": 209,
+      "TotalUCI": 37,
+      "Fallecimientos": 49,
+      "Curados": 367,
+      "NuevosCasos": 12
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1386,
+      "Hospitalizados": 557,
+      "TotalUCI": 78,
+      "Fallecimientos": 138,
+      "Curados": 400,
+      "NuevosCasos": 21
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1508,
+      "Hospitalizados": 540,
+      "TotalUCI": 73,
+      "Fallecimientos": 103,
+      "Curados": 1027,
+      "NuevosCasos": 13
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2888,
+      "Hospitalizados": 1164,
+      "TotalUCI": 133,
+      "Fallecimientos": 270,
+      "Curados": 2072,
+      "NuevosCasos": 65
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 487,
+      "Hospitalizados": 220,
+      "TotalUCI": 30,
+      "Fallecimientos": 44,
+      "Curados": 236,
+      "NuevosCasos": 13
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1600,
+      "Hospitalizados": 737,
+      "TotalUCI": 82,
+      "Fallecimientos": 164,
+      "Curados": 962,
+      "NuevosCasos": 16
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 3638,
+      "Hospitalizados": 1432,
+      "TotalUCI": 165,
+      "Fallecimientos": 264,
+      "Curados": 1752,
+      "NuevosCasos": 73
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2751,
+      "Hospitalizados": 1168,
+      "TotalUCI": 146,
+      "Fallecimientos": 262,
+      "Curados": 1260,
+      "NuevosCasos": 18
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-06T00:00:00Z"
+  },
+  "Fecha": "06/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f4d"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 14639,
+      "Hospitalizados": 6012,
+      "TotalUCI": 740,
+      "Fallecimientos": 1281,
+      "Curados": 7679,
+      "NuevosCasos": 245
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 600,
+      "Hospitalizados": 208,
+      "TotalUCI": 37,
+      "Fallecimientos": 49,
+      "Curados": 353,
+      "NuevosCasos": 7
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1365,
+      "Hospitalizados": 557,
+      "TotalUCI": 78,
+      "Fallecimientos": 138,
+      "Curados": 392,
+      "NuevosCasos": 23
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1495,
+      "Hospitalizados": 538,
+      "TotalUCI": 73,
+      "Fallecimientos": 102,
+      "Curados": 960,
+      "NuevosCasos": 12
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2823,
+      "Hospitalizados": 1159,
+      "TotalUCI": 131,
+      "Fallecimientos": 261,
+      "Curados": 2006,
+      "NuevosCasos": 42
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 474,
+      "Hospitalizados": 220,
+      "TotalUCI": 30,
+      "Fallecimientos": 44,
+      "Curados": 226,
+      "NuevosCasos": 8
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1584,
+      "Hospitalizados": 734,
+      "TotalUCI": 80,
+      "Fallecimientos": 164,
+      "Curados": 934,
+      "NuevosCasos": 28
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 3565,
+      "Hospitalizados": 1429,
+      "TotalUCI": 165,
+      "Fallecimientos": 263,
+      "Curados": 1707,
+      "NuevosCasos": 103
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2733,
+      "Hospitalizados": 1167,
+      "TotalUCI": 146,
+      "Fallecimientos": 260,
+      "Curados": 1101,
+      "NuevosCasos": 22
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-05T00:00:00Z"
+  },
+  "Fecha": "05/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f4e"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 14394,
+      "Hospitalizados": 5983,
+      "TotalUCI": 738,
+      "Fallecimientos": 1267,
+      "Curados": 7230,
+      "NuevosCasos": 45
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 593,
+      "Hospitalizados": 208,
+      "TotalUCI": 37,
+      "Fallecimientos": 49,
+      "Curados": 349,
+      "NuevosCasos": -2
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1342,
+      "Hospitalizados": 548,
+      "TotalUCI": 78,
+      "Fallecimientos": 136,
+      "Curados": 379,
+      "NuevosCasos": 7
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1483,
+      "Hospitalizados": 537,
+      "TotalUCI": 73,
+      "Fallecimientos": 102,
+      "Curados": 952,
+      "NuevosCasos": 3
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2781,
+      "Hospitalizados": 1156,
+      "TotalUCI": 130,
+      "Fallecimientos": 255,
+      "Curados": 1929,
+      "NuevosCasos": 15
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 466,
+      "Hospitalizados": 220,
+      "TotalUCI": 30,
+      "Fallecimientos": 43,
+      "Curados": 219,
+      "NuevosCasos": 0
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1556,
+      "Hospitalizados": 734,
+      "TotalUCI": 80,
+      "Fallecimientos": 162,
+      "Curados": 712,
+      "NuevosCasos": 9
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 3462,
+      "Hospitalizados": 1417,
+      "TotalUCI": 164,
+      "Fallecimientos": 261,
+      "Curados": 1637,
+      "NuevosCasos": 10
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2711,
+      "Hospitalizados": 1163,
+      "TotalUCI": 146,
+      "Fallecimientos": 259,
+      "Curados": 1053,
+      "NuevosCasos": 3
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-04T00:00:00Z"
+  },
+  "Fecha": "04/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f4f"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 14349,
+      "Hospitalizados": 5973,
+      "TotalUCI": 738,
+      "Fallecimientos": 1263,
+      "Curados": 7021,
+      "NuevosCasos": 62
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 595,
+      "Hospitalizados": 208,
+      "TotalUCI": 37,
+      "Fallecimientos": 49,
+      "Curados": 349,
+      "NuevosCasos": 0
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1335,
+      "Hospitalizados": 546,
+      "TotalUCI": 78,
+      "Fallecimientos": 135,
+      "Curados": 373,
+      "NuevosCasos": 0
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1480,
+      "Hospitalizados": 534,
+      "TotalUCI": 73,
+      "Fallecimientos": 101,
+      "Curados": 952,
+      "NuevosCasos": 2
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2766,
+      "Hospitalizados": 1155,
+      "TotalUCI": 130,
+      "Fallecimientos": 254,
+      "Curados": 1758,
+      "NuevosCasos": 15
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 466,
+      "Hospitalizados": 220,
+      "TotalUCI": 30,
+      "Fallecimientos": 43,
+      "Curados": 219,
+      "NuevosCasos": 0
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1547,
+      "Hospitalizados": 732,
+      "TotalUCI": 80,
+      "Fallecimientos": 162,
+      "Curados": 689,
+      "NuevosCasos": 19
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 3452,
+      "Hospitalizados": 1416,
+      "TotalUCI": 164,
+      "Fallecimientos": 261,
+      "Curados": 1636,
+      "NuevosCasos": 20
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2708,
+      "Hospitalizados": 1162,
+      "TotalUCI": 146,
+      "Fallecimientos": 258,
+      "Curados": 1045,
+      "NuevosCasos": 6
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-03T00:00:00Z"
+  },
+  "Fecha": "03/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f50"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 14287,
+      "Hospitalizados": 5961,
+      "TotalUCI": 736,
+      "Fallecimientos": 1256,
+      "Curados": 6897,
+      "NuevosCasos": 92
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 595,
+      "Hospitalizados": 208,
+      "TotalUCI": 37,
+      "Fallecimientos": 49,
+      "Curados": 349,
+      "NuevosCasos": 3
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1335,
+      "Hospitalizados": 546,
+      "TotalUCI": 78,
+      "Fallecimientos": 135,
+      "Curados": 372,
+      "NuevosCasos": 5
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1478,
+      "Hospitalizados": 534,
+      "TotalUCI": 73,
+      "Fallecimientos": 100,
+      "Curados": 952,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2751,
+      "Hospitalizados": 1152,
+      "TotalUCI": 130,
+      "Fallecimientos": 251,
+      "Curados": 1700,
+      "NuevosCasos": 12
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 466,
+      "Hospitalizados": 220,
+      "TotalUCI": 30,
+      "Fallecimientos": 43,
+      "Curados": 212,
+      "NuevosCasos": 0
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1528,
+      "Hospitalizados": 725,
+      "TotalUCI": 79,
+      "Fallecimientos": 162,
+      "Curados": 675,
+      "NuevosCasos": 15
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 3432,
+      "Hospitalizados": 1415,
+      "TotalUCI": 164,
+      "Fallecimientos": 261,
+      "Curados": 1612,
+      "NuevosCasos": 16
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2702,
+      "Hospitalizados": 1161,
+      "TotalUCI": 145,
+      "Fallecimientos": 255,
+      "Curados": 1025,
+      "NuevosCasos": 40
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-02T00:00:00Z"
+  },
+  "Fecha": "02/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f51"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 14195,
+      "Hospitalizados": 5962,
+      "TotalUCI": 735,
+      "Fallecimientos": 1253,
+      "Curados": 6821,
+      "NuevosCasos": 249
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 592,
+      "Hospitalizados": 208,
+      "TotalUCI": 37,
+      "Fallecimientos": 49,
+      "Curados": 343,
+      "NuevosCasos": 13
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1330,
+      "Hospitalizados": 545,
+      "TotalUCI": 78,
+      "Fallecimientos": 135,
+      "Curados": 372,
+      "NuevosCasos": 20
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1477,
+      "Hospitalizados": 535,
+      "TotalUCI": 74,
+      "Fallecimientos": 100,
+      "Curados": 952,
+      "NuevosCasos": 15
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2739,
+      "Hospitalizados": 1154,
+      "TotalUCI": 129,
+      "Fallecimientos": 248,
+      "Curados": 1675,
+      "NuevosCasos": 46
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 466,
+      "Hospitalizados": 220,
+      "TotalUCI": 30,
+      "Fallecimientos": 43,
+      "Curados": 210,
+      "NuevosCasos": 20
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1513,
+      "Hospitalizados": 724,
+      "TotalUCI": 78,
+      "Fallecimientos": 162,
+      "Curados": 652,
+      "NuevosCasos": 30
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 3416,
+      "Hospitalizados": 1415,
+      "TotalUCI": 164,
+      "Fallecimientos": 261,
+      "Curados": 1607,
+      "NuevosCasos": 92
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2662,
+      "Hospitalizados": 1161,
+      "TotalUCI": 145,
+      "Fallecimientos": 255,
+      "Curados": 1010,
+      "NuevosCasos": 13
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-01T00:00:00Z"
+  },
+  "Fecha": "01/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f52"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 13946,
+      "Hospitalizados": 5936,
+      "TotalUCI": 729,
+      "Fallecimientos": 1238,
+      "Curados": 6334,
+      "NuevosCasos": 258
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 579,
+      "Hospitalizados": 207,
+      "TotalUCI": 37,
+      "Fallecimientos": 48,
+      "Curados": 336,
+      "NuevosCasos": 24
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1310,
+      "Hospitalizados": 541,
+      "TotalUCI": 77,
+      "Fallecimientos": 132,
+      "Curados": 360,
+      "NuevosCasos": 28
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1462,
+      "Hospitalizados": 533,
+      "TotalUCI": 71,
+      "Fallecimientos": 99,
+      "Curados": 861,
+      "NuevosCasos": 27
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2693,
+      "Hospitalizados": 1144,
+      "TotalUCI": 129,
+      "Fallecimientos": 244,
+      "Curados": 1567,
+      "NuevosCasos": 57
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 446,
+      "Hospitalizados": 220,
+      "TotalUCI": 30,
+      "Fallecimientos": 43,
+      "Curados": 196,
+      "NuevosCasos": 12
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1483,
+      "Hospitalizados": 719,
+      "TotalUCI": 78,
+      "Fallecimientos": 161,
+      "Curados": 559,
+      "NuevosCasos": 14
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 3324,
+      "Hospitalizados": 1415,
+      "TotalUCI": 163,
+      "Fallecimientos": 259,
+      "Curados": 1498,
+      "NuevosCasos": 76
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2649,
+      "Hospitalizados": 1157,
+      "TotalUCI": 144,
+      "Fallecimientos": 252,
+      "Curados": 957,
+      "NuevosCasos": 20
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-30T00:00:00Z"
+  },
+  "Fecha": "30/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f53"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 13688,
+      "Hospitalizados": 5874,
+      "TotalUCI": 721,
+      "Fallecimientos": 1207,
+      "Curados": 5710,
+      "NuevosCasos": 187
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 555,
+      "Hospitalizados": 207,
+      "TotalUCI": 37,
+      "Fallecimientos": 48,
+      "Curados": 299,
+      "NuevosCasos": 13
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1282,
+      "Hospitalizados": 532,
+      "TotalUCI": 75,
+      "Fallecimientos": 116,
+      "Curados": 347,
+      "NuevosCasos": 15
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1435,
+      "Hospitalizados": 531,
+      "TotalUCI": 71,
+      "Fallecimientos": 98,
+      "Curados": 728,
+      "NuevosCasos": 21
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2636,
+      "Hospitalizados": 1131,
+      "TotalUCI": 128,
+      "Fallecimientos": 241,
+      "Curados": 1377,
+      "NuevosCasos": 43
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 434,
+      "Hospitalizados": 221,
+      "TotalUCI": 30,
+      "Fallecimientos": 43,
+      "Curados": 183,
+      "NuevosCasos": 9
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1469,
+      "Hospitalizados": 709,
+      "TotalUCI": 76,
+      "Fallecimientos": 159,
+      "Curados": 458,
+      "NuevosCasos": 24
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 3248,
+      "Hospitalizados": 1407,
+      "TotalUCI": 161,
+      "Fallecimientos": 254,
+      "Curados": 1423,
+      "NuevosCasos": 38
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2629,
+      "Hospitalizados": 1136,
+      "TotalUCI": 143,
+      "Fallecimientos": 248,
+      "Curados": 895,
+      "NuevosCasos": 24
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-29T00:00:00Z"
+  },
+  "Fecha": "29/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f54"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 13501,
+      "Hospitalizados": 5832,
+      "TotalUCI": 722,
+      "Fallecimientos": 1188,
+      "Curados": 5272,
+      "NuevosCasos": 251
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 542,
+      "Hospitalizados": 203,
+      "TotalUCI": 37,
+      "Fallecimientos": 47,
+      "Curados": 246,
+      "NuevosCasos": 9
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1267,
+      "Hospitalizados": 529,
+      "TotalUCI": 76,
+      "Fallecimientos": 111,
+      "Curados": 344,
+      "NuevosCasos": 12
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1414,
+      "Hospitalizados": 526,
+      "TotalUCI": 71,
+      "Fallecimientos": 98,
+      "Curados": 730,
+      "NuevosCasos": 10
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2593,
+      "Hospitalizados": 1128,
+      "TotalUCI": 127,
+      "Fallecimientos": 238,
+      "Curados": 1214,
+      "NuevosCasos": 57
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 425,
+      "Hospitalizados": 214,
+      "TotalUCI": 30,
+      "Fallecimientos": 41,
+      "Curados": 163,
+      "NuevosCasos": 5
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1445,
+      "Hospitalizados": 701,
+      "TotalUCI": 75,
+      "Fallecimientos": 156,
+      "Curados": 364,
+      "NuevosCasos": 11
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 3210,
+      "Hospitalizados": 1404,
+      "TotalUCI": 161,
+      "Fallecimientos": 253,
+      "Curados": 1405,
+      "NuevosCasos": 117
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2605,
+      "Hospitalizados": 1127,
+      "TotalUCI": 145,
+      "Fallecimientos": 244,
+      "Curados": 806,
+      "NuevosCasos": 30
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-28T00:00:00Z"
+  },
+  "Fecha": "28/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f55"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 13250,
+      "Hospitalizados": 5793,
+      "TotalUCI": 721,
+      "Fallecimientos": 1168,
+      "Curados": 5039,
+      "NuevosCasos": 90
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 533,
+      "Hospitalizados": 204,
+      "TotalUCI": 38,
+      "Fallecimientos": 47,
+      "Curados": 245,
+      "NuevosCasos": 6
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1255,
+      "Hospitalizados": 522,
+      "TotalUCI": 76,
+      "Fallecimientos": 107,
+      "Curados": 329,
+      "NuevosCasos": 11
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1404,
+      "Hospitalizados": 523,
+      "TotalUCI": 71,
+      "Fallecimientos": 96,
+      "Curados": 727,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2536,
+      "Hospitalizados": 1123,
+      "TotalUCI": 126,
+      "Fallecimientos": 234,
+      "Curados": 1133,
+      "NuevosCasos": 32
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 420,
+      "Hospitalizados": 214,
+      "TotalUCI": 30,
+      "Fallecimientos": 40,
+      "Curados": 154,
+      "NuevosCasos": 3
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1434,
+      "Hospitalizados": 690,
+      "TotalUCI": 74,
+      "Fallecimientos": 155,
+      "Curados": 345,
+      "NuevosCasos": 8
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 3093,
+      "Hospitalizados": 1400,
+      "TotalUCI": 161,
+      "Fallecimientos": 250,
+      "Curados": 1357,
+      "NuevosCasos": 17
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2575,
+      "Hospitalizados": 1117,
+      "TotalUCI": 145,
+      "Fallecimientos": 239,
+      "Curados": 749,
+      "NuevosCasos": 12
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-27T00:00:00Z"
+  },
+  "Fecha": "27/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f56"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 13160,
+      "Hospitalizados": 5768,
+      "TotalUCI": 720,
+      "Fallecimientos": 1157,
+      "Curados": 4890,
+      "NuevosCasos": 137
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 527,
+      "Hospitalizados": 204,
+      "TotalUCI": 38,
+      "Fallecimientos": 46,
+      "Curados": 238,
+      "NuevosCasos": 0
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1244,
+      "Hospitalizados": 516,
+      "TotalUCI": 76,
+      "Fallecimientos": 102,
+      "Curados": 319,
+      "NuevosCasos": 3
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1403,
+      "Hospitalizados": 523,
+      "TotalUCI": 71,
+      "Fallecimientos": 95,
+      "Curados": 694,
+      "NuevosCasos": 6
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2504,
+      "Hospitalizados": 1125,
+      "TotalUCI": 126,
+      "Fallecimientos": 233,
+      "Curados": 1110,
+      "NuevosCasos": 85
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 417,
+      "Hospitalizados": 211,
+      "TotalUCI": 30,
+      "Fallecimientos": 40,
+      "Curados": 153,
+      "NuevosCasos": 2
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1426,
+      "Hospitalizados": 686,
+      "TotalUCI": 74,
+      "Fallecimientos": 155,
+      "Curados": 325,
+      "NuevosCasos": 16
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 3076,
+      "Hospitalizados": 1396,
+      "TotalUCI": 160,
+      "Fallecimientos": 250,
+      "Curados": 1342,
+      "NuevosCasos": 16
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2563,
+      "Hospitalizados": 1107,
+      "TotalUCI": 145,
+      "Fallecimientos": 236,
+      "Curados": 709,
+      "NuevosCasos": 9
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-26T00:00:00Z"
+  },
+  "Fecha": "26/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f57"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 13023,
+      "Hospitalizados": 5748,
+      "TotalUCI": 716,
+      "Fallecimientos": 1145,
+      "Curados": 4741,
+      "NuevosCasos": 199
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 527,
+      "Hospitalizados": 204,
+      "TotalUCI": 38,
+      "Fallecimientos": 45,
+      "Curados": 229,
+      "NuevosCasos": 9
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1241,
+      "Hospitalizados": 514,
+      "TotalUCI": 76,
+      "Fallecimientos": 101,
+      "Curados": 319,
+      "NuevosCasos": 12
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1397,
+      "Hospitalizados": 522,
+      "TotalUCI": 71,
+      "Fallecimientos": 94,
+      "Curados": 647,
+      "NuevosCasos": 15
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2419,
+      "Hospitalizados": 1120,
+      "TotalUCI": 124,
+      "Fallecimientos": 229,
+      "Curados": 1064,
+      "NuevosCasos": 71
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 415,
+      "Hospitalizados": 210,
+      "TotalUCI": 30,
+      "Fallecimientos": 40,
+      "Curados": 152,
+      "NuevosCasos": 7
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1410,
+      "Hospitalizados": 682,
+      "TotalUCI": 72,
+      "Fallecimientos": 152,
+      "Curados": 323,
+      "NuevosCasos": 5
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 3060,
+      "Hospitalizados": 1394,
+      "TotalUCI": 160,
+      "Fallecimientos": 249,
+      "Curados": 1329,
+      "NuevosCasos": 51
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2554,
+      "Hospitalizados": 1102,
+      "TotalUCI": 145,
+      "Fallecimientos": 235,
+      "Curados": 678,
+      "NuevosCasos": 29
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-25T00:00:00Z"
+  },
+  "Fecha": "25/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f58"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 12824,
+      "Hospitalizados": 5715,
+      "TotalUCI": 717,
+      "Fallecimientos": 1131,
+      "Curados": 4295,
+      "NuevosCasos": 329
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 518,
+      "Hospitalizados": 202,
+      "TotalUCI": 38,
+      "Fallecimientos": 45,
+      "Curados": 213,
+      "NuevosCasos": 5
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1229,
+      "Hospitalizados": 510,
+      "TotalUCI": 76,
+      "Fallecimientos": 100,
+      "Curados": 317,
+      "NuevosCasos": 9
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1382,
+      "Hospitalizados": 517,
+      "TotalUCI": 71,
+      "Fallecimientos": 88,
+      "Curados": 516,
+      "NuevosCasos": 19
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2348,
+      "Hospitalizados": 1108,
+      "TotalUCI": 124,
+      "Fallecimientos": 225,
+      "Curados": 987,
+      "NuevosCasos": 54
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 408,
+      "Hospitalizados": 209,
+      "TotalUCI": 30,
+      "Fallecimientos": 39,
+      "Curados": 150,
+      "NuevosCasos": 7
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1405,
+      "Hospitalizados": 678,
+      "TotalUCI": 72,
+      "Fallecimientos": 152,
+      "Curados": 285,
+      "NuevosCasos": 22
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 3009,
+      "Hospitalizados": 1396,
+      "TotalUCI": 161,
+      "Fallecimientos": 247,
+      "Curados": 1189,
+      "NuevosCasos": 170
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2525,
+      "Hospitalizados": 1095,
+      "TotalUCI": 145,
+      "Fallecimientos": 235,
+      "Curados": 638,
+      "NuevosCasos": 43
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-24T00:00:00Z"
+  },
+  "Fecha": "24/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f59"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 12495,
+      "Hospitalizados": 5675,
+      "TotalUCI": 714,
+      "Fallecimientos": 1107,
+      "Curados": 3992,
+      "NuevosCasos": 258
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 513,
+      "Hospitalizados": 200,
+      "TotalUCI": 37,
+      "Fallecimientos": 44,
+      "Curados": 196,
+      "NuevosCasos": 21
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1220,
+      "Hospitalizados": 502,
+      "TotalUCI": 76,
+      "Fallecimientos": 92,
+      "Curados": 316,
+      "NuevosCasos": 16
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1363,
+      "Hospitalizados": 516,
+      "TotalUCI": 71,
+      "Fallecimientos": 87,
+      "Curados": 402,
+      "NuevosCasos": 21
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2294,
+      "Hospitalizados": 1099,
+      "TotalUCI": 124,
+      "Fallecimientos": 223,
+      "Curados": 958,
+      "NuevosCasos": 43
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 401,
+      "Hospitalizados": 216,
+      "TotalUCI": 30,
+      "Fallecimientos": 37,
+      "Curados": 138,
+      "NuevosCasos": 5
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1383,
+      "Hospitalizados": 674,
+      "TotalUCI": 72,
+      "Fallecimientos": 152,
+      "Curados": 280,
+      "NuevosCasos": 35
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2839,
+      "Hospitalizados": 1383,
+      "TotalUCI": 161,
+      "Fallecimientos": 241,
+      "Curados": 1119,
+      "NuevosCasos": 98
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2482,
+      "Hospitalizados": 1085,
+      "TotalUCI": 143,
+      "Fallecimientos": 231,
+      "Curados": 583,
+      "NuevosCasos": 19
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-23T00:00:00Z"
+  },
+  "Fecha": "23/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f5a"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 12237,
+      "Hospitalizados": 5616,
+      "TotalUCI": 702,
+      "Fallecimientos": 1079,
+      "Curados": 3847,
+      "NuevosCasos": 316
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 492,
+      "Hospitalizados": 198,
+      "TotalUCI": 37,
+      "Fallecimientos": 44,
+      "Curados": 185,
+      "NuevosCasos": 19
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1204,
+      "Hospitalizados": 500,
+      "TotalUCI": 74,
+      "Fallecimientos": 88,
+      "Curados": 314,
+      "NuevosCasos": 43
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1342,
+      "Hospitalizados": 506,
+      "TotalUCI": 69,
+      "Fallecimientos": 83,
+      "Curados": 400,
+      "NuevosCasos": 42
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2251,
+      "Hospitalizados": 1093,
+      "TotalUCI": 124,
+      "Fallecimientos": 219,
+      "Curados": 947,
+      "NuevosCasos": 51
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 396,
+      "Hospitalizados": 214,
+      "TotalUCI": 29,
+      "Fallecimientos": 35,
+      "Curados": 136,
+      "NuevosCasos": 5
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1348,
+      "Hospitalizados": 663,
+      "TotalUCI": 68,
+      "Fallecimientos": 147,
+      "Curados": 263,
+      "NuevosCasos": 23
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2741,
+      "Hospitalizados": 1377,
+      "TotalUCI": 161,
+      "Fallecimientos": 237,
+      "Curados": 1054,
+      "NuevosCasos": 84
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2463,
+      "Hospitalizados": 1065,
+      "TotalUCI": 140,
+      "Fallecimientos": 226,
+      "Curados": 548,
+      "NuevosCasos": 49
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-22T00:00:00Z"
+  },
+  "Fecha": "22/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f5b"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 11921,
+      "Hospitalizados": 5565,
+      "TotalUCI": 696,
+      "Fallecimientos": 1050,
+      "Curados": 3569,
+      "NuevosCasos": 232
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 473,
+      "Hospitalizados": 197,
+      "TotalUCI": 37,
+      "Fallecimientos": 44,
+      "Curados": 165,
+      "NuevosCasos": 7
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1161,
+      "Hospitalizados": 493,
+      "TotalUCI": 74,
+      "Fallecimientos": 83,
+      "Curados": 298,
+      "NuevosCasos": 0
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1300,
+      "Hospitalizados": 504,
+      "TotalUCI": 69,
+      "Fallecimientos": 83,
+      "Curados": 386,
+      "NuevosCasos": 10
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2200,
+      "Hospitalizados": 1081,
+      "TotalUCI": 122,
+      "Fallecimientos": 214,
+      "Curados": 869,
+      "NuevosCasos": 58
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 391,
+      "Hospitalizados": 212,
+      "TotalUCI": 29,
+      "Fallecimientos": 35,
+      "Curados": 130,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1325,
+      "Hospitalizados": 650,
+      "TotalUCI": 68,
+      "Fallecimientos": 141,
+      "Curados": 260,
+      "NuevosCasos": 8
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2657,
+      "Hospitalizados": 1376,
+      "TotalUCI": 159,
+      "Fallecimientos": 232,
+      "Curados": 956,
+      "NuevosCasos": 105
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2414,
+      "Hospitalizados": 1052,
+      "TotalUCI": 138,
+      "Fallecimientos": 218,
+      "Curados": 505,
+      "NuevosCasos": 43
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-21T00:00:00Z"
+  },
+  "Fecha": "21/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f5c"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 11689,
+      "Hospitalizados": 5509,
+      "TotalUCI": 692,
+      "Fallecimientos": 1017,
+      "Curados": 3411,
+      "NuevosCasos": 134
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 466,
+      "Hospitalizados": 193,
+      "TotalUCI": 36,
+      "Fallecimientos": 43,
+      "Curados": 160,
+      "NuevosCasos": 5
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1161,
+      "Hospitalizados": 494,
+      "TotalUCI": 74,
+      "Fallecimientos": 75,
+      "Curados": 294,
+      "NuevosCasos": 15
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1290,
+      "Hospitalizados": 501,
+      "TotalUCI": 69,
+      "Fallecimientos": 79,
+      "Curados": 369,
+      "NuevosCasos": 9
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2142,
+      "Hospitalizados": 1066,
+      "TotalUCI": 121,
+      "Fallecimientos": 208,
+      "Curados": 846,
+      "NuevosCasos": 64
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 390,
+      "Hospitalizados": 212,
+      "TotalUCI": 29,
+      "Fallecimientos": 34,
+      "Curados": 130,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1317,
+      "Hospitalizados": 646,
+      "TotalUCI": 68,
+      "Fallecimientos": 140,
+      "Curados": 254,
+      "NuevosCasos": 8
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2552,
+      "Hospitalizados": 1353,
+      "TotalUCI": 158,
+      "Fallecimientos": 223,
+      "Curados": 877,
+      "NuevosCasos": 6
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2371,
+      "Hospitalizados": 1044,
+      "TotalUCI": 137,
+      "Fallecimientos": 215,
+      "Curados": 481,
+      "NuevosCasos": 26
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-20T00:00:00Z"
+  },
+  "Fecha": "20/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f5d"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 11555,
+      "Hospitalizados": 5473,
+      "TotalUCI": 690,
+      "Fallecimientos": 1013,
+      "Curados": 3229,
+      "NuevosCasos": 130
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 461,
+      "Hospitalizados": 191,
+      "TotalUCI": 36,
+      "Fallecimientos": 43,
+      "Curados": 153,
+      "NuevosCasos": 3
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1146,
+      "Hospitalizados": 490,
+      "TotalUCI": 74,
+      "Fallecimientos": 75,
+      "Curados": 283,
+      "NuevosCasos": 7
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1281,
+      "Hospitalizados": 496,
+      "TotalUCI": 67,
+      "Fallecimientos": 79,
+      "Curados": 368,
+      "NuevosCasos": 10
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2078,
+      "Hospitalizados": 1057,
+      "TotalUCI": 121,
+      "Fallecimientos": 205,
+      "Curados": 704,
+      "NuevosCasos": 55
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 389,
+      "Hospitalizados": 212,
+      "TotalUCI": 29,
+      "Fallecimientos": 34,
+      "Curados": 120,
+      "NuevosCasos": 12
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1309,
+      "Hospitalizados": 640,
+      "TotalUCI": 68,
+      "Fallecimientos": 140,
+      "Curados": 254,
+      "NuevosCasos": 12
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2546,
+      "Hospitalizados": 1350,
+      "TotalUCI": 158,
+      "Fallecimientos": 223,
+      "Curados": 873,
+      "NuevosCasos": 15
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2345,
+      "Hospitalizados": 1037,
+      "TotalUCI": 137,
+      "Fallecimientos": 214,
+      "Curados": 474,
+      "NuevosCasos": 16
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-19T00:00:00Z"
+  },
+  "Fecha": "19/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f5e"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 11425,
+      "Hospitalizados": 5424,
+      "TotalUCI": 687,
+      "Fallecimientos": 993,
+      "Curados": 3116,
+      "NuevosCasos": 221
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 458,
+      "Hospitalizados": 190,
+      "TotalUCI": 36,
+      "Fallecimientos": 42,
+      "Curados": 147,
+      "NuevosCasos": 14
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1139,
+      "Hospitalizados": 487,
+      "TotalUCI": 74,
+      "Fallecimientos": 75,
+      "Curados": 283,
+      "NuevosCasos": 17
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1271,
+      "Hospitalizados": 492,
+      "TotalUCI": 67,
+      "Fallecimientos": 74,
+      "Curados": 371,
+      "NuevosCasos": 5
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 2023,
+      "Hospitalizados": 1041,
+      "TotalUCI": 119,
+      "Fallecimientos": 196,
+      "Curados": 616,
+      "NuevosCasos": 54
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 377,
+      "Hospitalizados": 206,
+      "TotalUCI": 29,
+      "Fallecimientos": 34,
+      "Curados": 118,
+      "NuevosCasos": 19
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1297,
+      "Hospitalizados": 636,
+      "TotalUCI": 67,
+      "Fallecimientos": 137,
+      "Curados": 253,
+      "NuevosCasos": 23
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2531,
+      "Hospitalizados": 1346,
+      "TotalUCI": 158,
+      "Fallecimientos": 223,
+      "Curados": 869,
+      "NuevosCasos": 59
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2329,
+      "Hospitalizados": 1026,
+      "TotalUCI": 137,
+      "Fallecimientos": 212,
+      "Curados": 459,
+      "NuevosCasos": 30
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-18T00:00:00Z"
+  },
+  "Fecha": "18/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f5f"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 11204,
+      "Hospitalizados": 5341,
+      "TotalUCI": 677,
+      "Fallecimientos": 967,
+      "Curados": 2948,
+      "NuevosCasos": 151
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 444,
+      "Hospitalizados": 188,
+      "TotalUCI": 35,
+      "Fallecimientos": 41,
+      "Curados": 126,
+      "NuevosCasos": 8
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1122,
+      "Hospitalizados": 468,
+      "TotalUCI": 73,
+      "Fallecimientos": 74,
+      "Curados": 280,
+      "NuevosCasos": 12
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1266,
+      "Hospitalizados": 490,
+      "TotalUCI": 66,
+      "Fallecimientos": 72,
+      "Curados": 353,
+      "NuevosCasos": 7
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1969,
+      "Hospitalizados": 1025,
+      "TotalUCI": 117,
+      "Fallecimientos": 193,
+      "Curados": 563,
+      "NuevosCasos": 13
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 358,
+      "Hospitalizados": 204,
+      "TotalUCI": 29,
+      "Fallecimientos": 32,
+      "Curados": 107,
+      "NuevosCasos": 6
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1274,
+      "Hospitalizados": 625,
+      "TotalUCI": 63,
+      "Fallecimientos": 131,
+      "Curados": 252,
+      "NuevosCasos": 41
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2472,
+      "Hospitalizados": 1325,
+      "TotalUCI": 158,
+      "Fallecimientos": 217,
+      "Curados": 835,
+      "NuevosCasos": 43
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2299,
+      "Hospitalizados": 1016,
+      "TotalUCI": 136,
+      "Fallecimientos": 207,
+      "Curados": 432,
+      "NuevosCasos": 21
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-17T00:00:00Z"
+  },
+  "Fecha": "17/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f60"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 11053,
+      "Hospitalizados": 5298,
+      "TotalUCI": 675,
+      "Fallecimientos": 940,
+      "Curados": 2790,
+      "NuevosCasos": 246
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 436,
+      "Hospitalizados": 186,
+      "TotalUCI": 35,
+      "Fallecimientos": 39,
+      "Curados": 118,
+      "NuevosCasos": 8
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1110,
+      "Hospitalizados": 466,
+      "TotalUCI": 73,
+      "Fallecimientos": 71,
+      "Curados": 276,
+      "NuevosCasos": 38
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1259,
+      "Hospitalizados": 486,
+      "TotalUCI": 64,
+      "Fallecimientos": 70,
+      "Curados": 317,
+      "NuevosCasos": 12
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1956,
+      "Hospitalizados": 1018,
+      "TotalUCI": 117,
+      "Fallecimientos": 191,
+      "Curados": 513,
+      "NuevosCasos": 30
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 352,
+      "Hospitalizados": 201,
+      "TotalUCI": 29,
+      "Fallecimientos": 29,
+      "Curados": 89,
+      "NuevosCasos": 5
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1233,
+      "Hospitalizados": 612,
+      "TotalUCI": 62,
+      "Fallecimientos": 129,
+      "Curados": 252,
+      "NuevosCasos": 32
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2429,
+      "Hospitalizados": 1317,
+      "TotalUCI": 157,
+      "Fallecimientos": 214,
+      "Curados": 809,
+      "NuevosCasos": 66
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2278,
+      "Hospitalizados": 1012,
+      "TotalUCI": 138,
+      "Fallecimientos": 197,
+      "Curados": 416,
+      "NuevosCasos": 55
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-16T00:00:00Z"
+  },
+  "Fecha": "16/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f61"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 10807,
+      "Hospitalizados": 5226,
+      "TotalUCI": 671,
+      "Fallecimientos": 912,
+      "Curados": 2634,
+      "NuevosCasos": 212
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 428,
+      "Hospitalizados": 181,
+      "TotalUCI": 35,
+      "Fallecimientos": 38,
+      "Curados": 90,
+      "NuevosCasos": 12
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1072,
+      "Hospitalizados": 460,
+      "TotalUCI": 71,
+      "Fallecimientos": 68,
+      "Curados": 264,
+      "NuevosCasos": 28
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1247,
+      "Hospitalizados": 479,
+      "TotalUCI": 62,
+      "Fallecimientos": 63,
+      "Curados": 301,
+      "NuevosCasos": 36
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1926,
+      "Hospitalizados": 1004,
+      "TotalUCI": 117,
+      "Fallecimientos": 187,
+      "Curados": 480,
+      "NuevosCasos": 15
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 347,
+      "Hospitalizados": 200,
+      "TotalUCI": 30,
+      "Fallecimientos": 28,
+      "Curados": 73,
+      "NuevosCasos": 3
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1201,
+      "Hospitalizados": 608,
+      "TotalUCI": 62,
+      "Fallecimientos": 128,
+      "Curados": 252,
+      "NuevosCasos": 12
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2363,
+      "Hospitalizados": 1302,
+      "TotalUCI": 156,
+      "Fallecimientos": 211,
+      "Curados": 772,
+      "NuevosCasos": 42
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2223,
+      "Hospitalizados": 992,
+      "TotalUCI": 138,
+      "Fallecimientos": 189,
+      "Curados": 402,
+      "NuevosCasos": 64
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-15T00:00:00Z"
+  },
+  "Fecha": "15/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f62"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 10595,
+      "Hospitalizados": 5147,
+      "TotalUCI": 665,
+      "Fallecimientos": 865,
+      "Curados": 2224,
+      "NuevosCasos": 289
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 416,
+      "Hospitalizados": 179,
+      "TotalUCI": 34,
+      "Fallecimientos": 38,
+      "Curados": 100,
+      "NuevosCasos": 2
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1044,
+      "Hospitalizados": 455,
+      "TotalUCI": 71,
+      "Fallecimientos": 62,
+      "Curados": 235,
+      "NuevosCasos": 43
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1211,
+      "Hospitalizados": 468,
+      "TotalUCI": 61,
+      "Fallecimientos": 59,
+      "Curados": 207,
+      "NuevosCasos": 21
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1911,
+      "Hospitalizados": 994,
+      "TotalUCI": 115,
+      "Fallecimientos": 181,
+      "Curados": 409,
+      "NuevosCasos": 47
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 344,
+      "Hospitalizados": 185,
+      "TotalUCI": 30,
+      "Fallecimientos": 27,
+      "Curados": 62,
+      "NuevosCasos": 7
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1189,
+      "Hospitalizados": 600,
+      "TotalUCI": 62,
+      "Fallecimientos": 115,
+      "Curados": 220,
+      "NuevosCasos": 12
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2321,
+      "Hospitalizados": 1284,
+      "TotalUCI": 156,
+      "Fallecimientos": 201,
+      "Curados": 664,
+      "NuevosCasos": 81
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2159,
+      "Hospitalizados": 982,
+      "TotalUCI": 136,
+      "Fallecimientos": 182,
+      "Curados": 327,
+      "NuevosCasos": 76
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-14T00:00:00Z"
+  },
+  "Fecha": "14/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f63"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 10306,
+      "Hospitalizados": 5054,
+      "TotalUCI": 631,
+      "Fallecimientos": 836,
+      "Curados": 2032,
+      "NuevosCasos": 119
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 414,
+      "Hospitalizados": 176,
+      "TotalUCI": 34,
+      "Fallecimientos": 38,
+      "Curados": 96,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1001,
+      "Hospitalizados": 452,
+      "TotalUCI": 70,
+      "Fallecimientos": 60,
+      "Curados": 203,
+      "NuevosCasos": 11
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1190,
+      "Hospitalizados": 462,
+      "TotalUCI": 57,
+      "Fallecimientos": 58,
+      "Curados": 197,
+      "NuevosCasos": 21
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1864,
+      "Hospitalizados": 973,
+      "TotalUCI": 110,
+      "Fallecimientos": 180,
+      "Curados": 375,
+      "NuevosCasos": 32
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 337,
+      "Hospitalizados": 177,
+      "TotalUCI": 27,
+      "Fallecimientos": 27,
+      "Curados": 61,
+      "NuevosCasos": 6
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1177,
+      "Hospitalizados": 590,
+      "TotalUCI": 59,
+      "Fallecimientos": 111,
+      "Curados": 209,
+      "NuevosCasos": 8
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2240,
+      "Hospitalizados": 1253,
+      "TotalUCI": 145,
+      "Fallecimientos": 184,
+      "Curados": 597,
+      "NuevosCasos": 23
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2083,
+      "Hospitalizados": 971,
+      "TotalUCI": 129,
+      "Fallecimientos": 178,
+      "Curados": 294,
+      "NuevosCasos": 17
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-13T00:00:00Z"
+  },
+  "Fecha": "13/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f64"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 10187,
+      "Hospitalizados": 4993,
+      "TotalUCI": 621,
+      "Fallecimientos": 815,
+      "Curados": 1967,
+      "NuevosCasos": 181
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 413,
+      "Hospitalizados": 176,
+      "TotalUCI": 34,
+      "Fallecimientos": 35,
+      "Curados": 86,
+      "NuevosCasos": 4
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 990,
+      "Hospitalizados": 439,
+      "TotalUCI": 70,
+      "Fallecimientos": 60,
+      "Curados": 200,
+      "NuevosCasos": 19
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1169,
+      "Hospitalizados": 456,
+      "TotalUCI": 56,
+      "Fallecimientos": 56,
+      "Curados": 197,
+      "NuevosCasos": 16
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1832,
+      "Hospitalizados": 957,
+      "TotalUCI": 104,
+      "Fallecimientos": 170,
+      "Curados": 360,
+      "NuevosCasos": 60
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 331,
+      "Hospitalizados": 171,
+      "TotalUCI": 27,
+      "Fallecimientos": 27,
+      "Curados": 61,
+      "NuevosCasos": 3
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1169,
+      "Hospitalizados": 590,
+      "TotalUCI": 59,
+      "Fallecimientos": 107,
+      "Curados": 205,
+      "NuevosCasos": 33
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2217,
+      "Hospitalizados": 1240,
+      "TotalUCI": 143,
+      "Fallecimientos": 183,
+      "Curados": 583,
+      "NuevosCasos": 14
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2066,
+      "Hospitalizados": 964,
+      "TotalUCI": 128,
+      "Fallecimientos": 177,
+      "Curados": 275,
+      "NuevosCasos": 32
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-12T00:00:00Z"
+  },
+  "Fecha": "12/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f65"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 10006,
+      "Hospitalizados": 4950,
+      "TotalUCI": 619,
+      "Fallecimientos": 799,
+      "Curados": 1838,
+      "NuevosCasos": 294
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 409,
+      "Hospitalizados": 176,
+      "TotalUCI": 35,
+      "Fallecimientos": 36,
+      "Curados": 85,
+      "NuevosCasos": 6
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 971,
+      "Hospitalizados": 436,
+      "TotalUCI": 70,
+      "Fallecimientos": 59,
+      "Curados": 194,
+      "NuevosCasos": 28
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1153,
+      "Hospitalizados": 453,
+      "TotalUCI": 56,
+      "Fallecimientos": 56,
+      "Curados": 176,
+      "NuevosCasos": 17
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1772,
+      "Hospitalizados": 943,
+      "TotalUCI": 103,
+      "Fallecimientos": 165,
+      "Curados": 317,
+      "NuevosCasos": 47
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 328,
+      "Hospitalizados": 169,
+      "TotalUCI": 27,
+      "Fallecimientos": 26,
+      "Curados": 61,
+      "NuevosCasos": 10
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1136,
+      "Hospitalizados": 579,
+      "TotalUCI": 59,
+      "Fallecimientos": 105,
+      "Curados": 200,
+      "NuevosCasos": 39
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2203,
+      "Hospitalizados": 1239,
+      "TotalUCI": 142,
+      "Fallecimientos": 183,
+      "Curados": 558,
+      "NuevosCasos": 60
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2034,
+      "Hospitalizados": 955,
+      "TotalUCI": 127,
+      "Fallecimientos": 169,
+      "Curados": 247,
+      "NuevosCasos": 87
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-11T00:00:00Z"
+  },
+  "Fecha": "11/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f66"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 9712,
+      "Hospitalizados": 4808,
+      "TotalUCI": 602,
+      "Fallecimientos": 737,
+      "Curados": 1630,
+      "NuevosCasos": 202
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 403,
+      "Hospitalizados": 171,
+      "TotalUCI": 33,
+      "Fallecimientos": 32,
+      "Curados": 83,
+      "NuevosCasos": 3
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 943,
+      "Hospitalizados": 421,
+      "TotalUCI": 65,
+      "Fallecimientos": 52,
+      "Curados": 157,
+      "NuevosCasos": 14
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1136,
+      "Hospitalizados": 449,
+      "TotalUCI": 55,
+      "Fallecimientos": 49,
+      "Curados": 161,
+      "NuevosCasos": 20
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1725,
+      "Hospitalizados": 915,
+      "TotalUCI": 102,
+      "Fallecimientos": 157,
+      "Curados": 272,
+      "NuevosCasos": 39
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 318,
+      "Hospitalizados": 170,
+      "TotalUCI": 27,
+      "Fallecimientos": 22,
+      "Curados": 57,
+      "NuevosCasos": 8
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1097,
+      "Hospitalizados": 561,
+      "TotalUCI": 57,
+      "Fallecimientos": 96,
+      "Curados": 156,
+      "NuevosCasos": 42
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2143,
+      "Hospitalizados": 1199,
+      "TotalUCI": 137,
+      "Fallecimientos": 170,
+      "Curados": 523,
+      "NuevosCasos": 16
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 1947,
+      "Hospitalizados": 922,
+      "TotalUCI": 126,
+      "Fallecimientos": 159,
+      "Curados": 221,
+      "NuevosCasos": 60
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-10T00:00:00Z"
+  },
+  "Fecha": "10/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f67"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 9510,
+      "Hospitalizados": 4715,
+      "TotalUCI": 582,
+      "Fallecimientos": 691,
+      "Curados": 1437,
+      "NuevosCasos": 249
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 400,
+      "Hospitalizados": 169,
+      "TotalUCI": 33,
+      "Fallecimientos": 29,
+      "Curados": 73,
+      "NuevosCasos": 5
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 929,
+      "Hospitalizados": 413,
+      "TotalUCI": 64,
+      "Fallecimientos": 49,
+      "Curados": 144,
+      "NuevosCasos": 14
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1116,
+      "Hospitalizados": 439,
+      "TotalUCI": 54,
+      "Fallecimientos": 48,
+      "Curados": 159,
+      "NuevosCasos": 32
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1686,
+      "Hospitalizados": 890,
+      "TotalUCI": 102,
+      "Fallecimientos": 148,
+      "Curados": 251,
+      "NuevosCasos": 47
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 310,
+      "Hospitalizados": 165,
+      "TotalUCI": 26,
+      "Fallecimientos": 21,
+      "Curados": 48,
+      "NuevosCasos": 2
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1055,
+      "Hospitalizados": 557,
+      "TotalUCI": 56,
+      "Fallecimientos": 92,
+      "Curados": 111,
+      "NuevosCasos": 34
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2127,
+      "Hospitalizados": 1182,
+      "TotalUCI": 123,
+      "Fallecimientos": 154,
+      "Curados": 451,
+      "NuevosCasos": 53
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 1887,
+      "Hospitalizados": 900,
+      "TotalUCI": 124,
+      "Fallecimientos": 150,
+      "Curados": 200,
+      "NuevosCasos": 62
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-09T00:00:00Z"
+  },
+  "Fecha": "09/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f68"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 9261,
+      "Hospitalizados": 4599,
+      "TotalUCI": 538,
+      "Fallecimientos": 652,
+      "Curados": 1193,
+      "NuevosCasos": 264
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 395,
+      "Hospitalizados": 168,
+      "TotalUCI": 32,
+      "Fallecimientos": 27,
+      "Curados": 63,
+      "NuevosCasos": 17
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 915,
+      "Hospitalizados": 403,
+      "TotalUCI": 58,
+      "Fallecimientos": 45,
+      "Curados": 128,
+      "NuevosCasos": 14
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1084,
+      "Hospitalizados": 424,
+      "TotalUCI": 52,
+      "Fallecimientos": 45,
+      "Curados": 131,
+      "NuevosCasos": 15
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1639,
+      "Hospitalizados": 865,
+      "TotalUCI": 95,
+      "Fallecimientos": 142,
+      "Curados": 205,
+      "NuevosCasos": 39
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 308,
+      "Hospitalizados": 159,
+      "TotalUCI": 25,
+      "Fallecimientos": 21,
+      "Curados": 40,
+      "NuevosCasos": 12
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1021,
+      "Hospitalizados": 548,
+      "TotalUCI": 51,
+      "Fallecimientos": 84,
+      "Curados": 80,
+      "NuevosCasos": 31
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2074,
+      "Hospitalizados": 1158,
+      "TotalUCI": 111,
+      "Fallecimientos": 147,
+      "Curados": 355,
+      "NuevosCasos": 68
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 1825,
+      "Hospitalizados": 874,
+      "TotalUCI": 114,
+      "Fallecimientos": 141,
+      "Curados": 191,
+      "NuevosCasos": 68
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-08T00:00:00Z"
+  },
+  "Fecha": "08/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f69"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 8997,
+      "Hospitalizados": 4463,
+      "TotalUCI": 520,
+      "Fallecimientos": 605,
+      "Curados": 1041,
+      "NuevosCasos": 230
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 378,
+      "Hospitalizados": 161,
+      "TotalUCI": 32,
+      "Fallecimientos": 26,
+      "Curados": 54,
+      "NuevosCasos": 7
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 901,
+      "Hospitalizados": 385,
+      "TotalUCI": 55,
+      "Fallecimientos": 36,
+      "Curados": 118,
+      "NuevosCasos": 20
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1069,
+      "Hospitalizados": 419,
+      "TotalUCI": 50,
+      "Fallecimientos": 42,
+      "Curados": 101,
+      "NuevosCasos": 14
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1600,
+      "Hospitalizados": 844,
+      "TotalUCI": 93,
+      "Fallecimientos": 138,
+      "Curados": 177,
+      "NuevosCasos": 50
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 296,
+      "Hospitalizados": 154,
+      "TotalUCI": 25,
+      "Fallecimientos": 20,
+      "Curados": 41,
+      "NuevosCasos": 4
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 990,
+      "Hospitalizados": 534,
+      "TotalUCI": 49,
+      "Fallecimientos": 72,
+      "Curados": 74,
+      "NuevosCasos": 17
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 2006,
+      "Hospitalizados": 1130,
+      "TotalUCI": 107,
+      "Fallecimientos": 140,
+      "Curados": 318,
+      "NuevosCasos": 74
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 1757,
+      "Hospitalizados": 836,
+      "TotalUCI": 109,
+      "Fallecimientos": 131,
+      "Curados": 158,
+      "NuevosCasos": 44
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-07T00:00:00Z"
+  },
+  "Fecha": "07/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f6a"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 8767,
+      "Hospitalizados": 4335,
+      "TotalUCI": 499,
+      "Fallecimientos": 528,
+      "Curados": 900,
+      "NuevosCasos": 186
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 371,
+      "Hospitalizados": 154,
+      "TotalUCI": 32,
+      "Fallecimientos": 23,
+      "Curados": 50,
+      "NuevosCasos": 0
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 881,
+      "Hospitalizados": 370,
+      "TotalUCI": 56,
+      "Fallecimientos": 32,
+      "Curados": 109,
+      "NuevosCasos": 19
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1055,
+      "Hospitalizados": 408,
+      "TotalUCI": 50,
+      "Fallecimientos": 39,
+      "Curados": 84,
+      "NuevosCasos": 9
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1550,
+      "Hospitalizados": 830,
+      "TotalUCI": 88,
+      "Fallecimientos": 128,
+      "Curados": 182,
+      "NuevosCasos": 49
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 292,
+      "Hospitalizados": 147,
+      "TotalUCI": 25,
+      "Fallecimientos": 16,
+      "Curados": 19,
+      "NuevosCasos": 4
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 973,
+      "Hospitalizados": 520,
+      "TotalUCI": 47,
+      "Fallecimientos": 53,
+      "Curados": 62,
+      "NuevosCasos": 39
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 1932,
+      "Hospitalizados": 1095,
+      "TotalUCI": 97,
+      "Fallecimientos": 125,
+      "Curados": 289,
+      "NuevosCasos": 16
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 1713,
+      "Hospitalizados": 811,
+      "TotalUCI": 104,
+      "Fallecimientos": 112,
+      "Curados": 105,
+      "NuevosCasos": 50
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-06T00:00:00Z"
+  },
+  "Fecha": "06/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f6b"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 8581,
+      "Hospitalizados": 4227,
+      "TotalUCI": 489,
+      "Fallecimientos": 491,
+      "Curados": 798,
+      "NuevosCasos": 280
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 371,
+      "Hospitalizados": 153,
+      "TotalUCI": 32,
+      "Fallecimientos": 23,
+      "Curados": 49,
+      "NuevosCasos": 25
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 862,
+      "Hospitalizados": 367,
+      "TotalUCI": 56,
+      "Fallecimientos": 31,
+      "Curados": 104,
+      "NuevosCasos": 16
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1046,
+      "Hospitalizados": 401,
+      "TotalUCI": 48,
+      "Fallecimientos": 37,
+      "Curados": 84,
+      "NuevosCasos": 72
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1501,
+      "Hospitalizados": 808,
+      "TotalUCI": 85,
+      "Fallecimientos": 114,
+      "Curados": 129,
+      "NuevosCasos": 24
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 288,
+      "Hospitalizados": 143,
+      "TotalUCI": 25,
+      "Fallecimientos": 16,
+      "Curados": 18,
+      "NuevosCasos": 9
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 934,
+      "Hospitalizados": 490,
+      "TotalUCI": 46,
+      "Fallecimientos": 52,
+      "Curados": 61,
+      "NuevosCasos": 20
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 1916,
+      "Hospitalizados": 1087,
+      "TotalUCI": 96,
+      "Fallecimientos": 121,
+      "Curados": 258,
+      "NuevosCasos": 53
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 1663,
+      "Hospitalizados": 778,
+      "TotalUCI": 101,
+      "Fallecimientos": 97,
+      "Curados": 95,
+      "NuevosCasos": 61
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-05T00:00:00Z"
+  },
+  "Fecha": "05/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f6c"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 8301,
+      "Hospitalizados": 4107,
+      "TotalUCI": 474,
+      "Fallecimientos": 470,
+      "Curados": 665,
+      "NuevosCasos": 432
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 346,
+      "Hospitalizados": 151,
+      "TotalUCI": 30,
+      "Fallecimientos": 22,
+      "Curados": 39,
+      "NuevosCasos": 27
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 846,
+      "Hospitalizados": 365,
+      "TotalUCI": 49,
+      "Fallecimientos": 31,
+      "Curados": 88,
+      "NuevosCasos": 50
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 974,
+      "Hospitalizados": 385,
+      "TotalUCI": 46,
+      "Fallecimientos": 32,
+      "Curados": 66,
+      "NuevosCasos": 82
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1477,
+      "Hospitalizados": 787,
+      "TotalUCI": 84,
+      "Fallecimientos": 114,
+      "Curados": 101,
+      "NuevosCasos": 98
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 279,
+      "Hospitalizados": 140,
+      "TotalUCI": 25,
+      "Fallecimientos": 11,
+      "Curados": 18,
+      "NuevosCasos": 5
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 914,
+      "Hospitalizados": 475,
+      "TotalUCI": 46,
+      "Fallecimientos": 49,
+      "Curados": 60,
+      "NuevosCasos": 40
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 1863,
+      "Hospitalizados": 1057,
+      "TotalUCI": 94,
+      "Fallecimientos": 118,
+      "Curados": 211,
+      "NuevosCasos": 63
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 1602,
+      "Hospitalizados": 747,
+      "TotalUCI": 100,
+      "Fallecimientos": 93,
+      "Curados": 82,
+      "NuevosCasos": 67
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-04T00:00:00Z"
+  },
+  "Fecha": "04/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f6d"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 7869,
+      "Hospitalizados": 3896,
+      "TotalUCI": 364,
+      "Fallecimientos": 426,
+      "Curados": 463,
+      "NuevosCasos": 495
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 319,
+      "Hospitalizados": 146,
+      "TotalUCI": 11,
+      "Fallecimientos": 22,
+      "Curados": 37,
+      "NuevosCasos": 18
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 796,
+      "Hospitalizados": 345,
+      "TotalUCI": 27,
+      "Fallecimientos": 27,
+      "Curados": 62,
+      "NuevosCasos": 42
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 892,
+      "Hospitalizados": 365,
+      "TotalUCI": 79,
+      "Fallecimientos": 30,
+      "Curados": 55,
+      "NuevosCasos": 110
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1379,
+      "Hospitalizados": 727,
+      "TotalUCI": 68,
+      "Fallecimientos": 105,
+      "Curados": 47,
+      "NuevosCasos": 87
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 274,
+      "Hospitalizados": 132,
+      "TotalUCI": 27,
+      "Fallecimientos": 11,
+      "Curados": 8,
+      "NuevosCasos": 37
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 874,
+      "Hospitalizados": 459,
+      "TotalUCI": 48,
+      "Fallecimientos": 46,
+      "Curados": 39,
+      "NuevosCasos": 53
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 1800,
+      "Hospitalizados": 1010,
+      "TotalUCI": 33,
+      "Fallecimientos": 110,
+      "Curados": 162,
+      "NuevosCasos": 75
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 1535,
+      "Hospitalizados": 712,
+      "TotalUCI": 71,
+      "Fallecimientos": 75,
+      "Curados": 53,
+      "NuevosCasos": 73
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-03T00:00:00Z"
+  },
+  "Fecha": "03/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f6e"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 7374,
+      "Hospitalizados": 3673,
+      "TotalUCI": 338,
+      "Fallecimientos": 376,
+      "Curados": 258,
+      "NuevosCasos": 402
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 301,
+      "Hospitalizados": 145,
+      "TotalUCI": 25,
+      "Fallecimientos": 20,
+      "Curados": 25,
+      "NuevosCasos": 11
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 754,
+      "Hospitalizados": 319,
+      "TotalUCI": 42,
+      "Fallecimientos": 22,
+      "Curados": 28,
+      "NuevosCasos": 57
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 782,
+      "Hospitalizados": 338,
+      "TotalUCI": 32,
+      "Fallecimientos": 25,
+      "Curados": 10,
+      "NuevosCasos": 54
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1292,
+      "Hospitalizados": 681,
+      "TotalUCI": 68,
+      "Fallecimientos": 93,
+      "Curados": 25,
+      "NuevosCasos": 62
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 237,
+      "Hospitalizados": 123,
+      "TotalUCI": 10,
+      "Fallecimientos": 10,
+      "Curados": 4,
+      "NuevosCasos": 13
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 821,
+      "Hospitalizados": 440,
+      "TotalUCI": 21,
+      "Fallecimientos": 43,
+      "Curados": 23,
+      "NuevosCasos": 33
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 1725,
+      "Hospitalizados": 968,
+      "TotalUCI": 77,
+      "Fallecimientos": 98,
+      "Curados": 110,
+      "NuevosCasos": 81
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 1462,
+      "Hospitalizados": 659,
+      "TotalUCI": 63,
+      "Fallecimientos": 65,
+      "Curados": 33,
+      "NuevosCasos": 91
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-02T00:00:00Z"
+  },
+  "Fecha": "02/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f6f"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 6972,
+      "Hospitalizados": 3444,
+      "TotalUCI": 280,
+      "Fallecimientos": 343,
+      "Curados": 228,
+      "NuevosCasos": 580
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 290,
+      "Hospitalizados": 129,
+      "TotalUCI": 19,
+      "Fallecimientos": 18,
+      "Curados": 22,
+      "NuevosCasos": 28
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 697,
+      "Hospitalizados": 295,
+      "TotalUCI": 23,
+      "Fallecimientos": 19,
+      "Curados": 22,
+      "NuevosCasos": 52
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 728,
+      "Hospitalizados": 321,
+      "TotalUCI": 20,
+      "Fallecimientos": 25,
+      "Curados": 7,
+      "NuevosCasos": 41
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1230,
+      "Hospitalizados": 636,
+      "TotalUCI": 58,
+      "Fallecimientos": 86,
+      "Curados": 23,
+      "NuevosCasos": 48
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 224,
+      "Hospitalizados": 115,
+      "TotalUCI": 10,
+      "Fallecimientos": 6,
+      "Curados": 2,
+      "NuevosCasos": 29
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 788,
+      "Hospitalizados": 420,
+      "TotalUCI": 16,
+      "Fallecimientos": 39,
+      "Curados": 21,
+      "NuevosCasos": 46
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 1644,
+      "Hospitalizados": 917,
+      "TotalUCI": 74,
+      "Fallecimientos": 93,
+      "Curados": 101,
+      "NuevosCasos": 180
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 1371,
+      "Hospitalizados": 611,
+      "TotalUCI": 60,
+      "Fallecimientos": 57,
+      "Curados": 30,
+      "NuevosCasos": 156
+    }
+  ],
+  "Date": {
+    "$date": "2020-04-01T00:00:00Z"
+  },
+  "Fecha": "01/04/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f70"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 6392,
+      "Hospitalizados": 3147,
+      "TotalUCI": 260,
+      "Fallecimientos": 308,
+      "Curados": 182,
+      "NuevosCasos": 574
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 262,
+      "Hospitalizados": 124,
+      "TotalUCI": 18,
+      "Fallecimientos": 17,
+      "Curados": 14,
+      "NuevosCasos": 11
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 645,
+      "Hospitalizados": 266,
+      "TotalUCI": 22,
+      "Fallecimientos": 17,
+      "Curados": 17,
+      "NuevosCasos": 106
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 687,
+      "Hospitalizados": 302,
+      "TotalUCI": 19,
+      "Fallecimientos": 21,
+      "Curados": 4,
+      "NuevosCasos": 26
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1182,
+      "Hospitalizados": 603,
+      "TotalUCI": 56,
+      "Fallecimientos": 80,
+      "Curados": 15,
+      "NuevosCasos": 121
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 195,
+      "Hospitalizados": 106,
+      "TotalUCI": 7,
+      "Fallecimientos": 4,
+      "Curados": 2,
+      "NuevosCasos": 18
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 742,
+      "Hospitalizados": 395,
+      "TotalUCI": 16,
+      "Fallecimientos": 37,
+      "Curados": 17,
+      "NuevosCasos": 81
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 1464,
+      "Hospitalizados": 815,
+      "TotalUCI": 65,
+      "Fallecimientos": 77,
+      "Curados": 93,
+      "NuevosCasos": 115
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 1215,
+      "Hospitalizados": 536,
+      "TotalUCI": 57,
+      "Fallecimientos": 55,
+      "Curados": 20,
+      "NuevosCasos": 96
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-31T00:00:00Z"
+  },
+  "Fecha": "31/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f71"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 5818,
+      "Hospitalizados": 2867,
+      "TotalUCI": 235,
+      "Fallecimientos": 248,
+      "Curados": 160,
+      "NuevosCasos": 413
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 251,
+      "Hospitalizados": 108,
+      "TotalUCI": 15,
+      "Fallecimientos": 16,
+      "Curados": 6,
+      "NuevosCasos": 28
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 539,
+      "Hospitalizados": 216,
+      "TotalUCI": 19,
+      "Fallecimientos": 14,
+      "Curados": 16,
+      "NuevosCasos": 32
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 661,
+      "Hospitalizados": 288,
+      "TotalUCI": 17,
+      "Fallecimientos": 15,
+      "Curados": 4,
+      "NuevosCasos": 89
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 1061,
+      "Hospitalizados": 556,
+      "TotalUCI": 50,
+      "Fallecimientos": 67,
+      "Curados": 15,
+      "NuevosCasos": 98
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 177,
+      "Hospitalizados": 96,
+      "TotalUCI": 7,
+      "Fallecimientos": 4,
+      "Curados": 2,
+      "NuevosCasos": 9
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 661,
+      "Hospitalizados": 358,
+      "TotalUCI": 13,
+      "Fallecimientos": 26,
+      "Curados": 17,
+      "NuevosCasos": 62
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 1349,
+      "Hospitalizados": 745,
+      "TotalUCI": 61,
+      "Fallecimientos": 70,
+      "Curados": 83,
+      "NuevosCasos": 28
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 1119,
+      "Hospitalizados": 500,
+      "TotalUCI": 53,
+      "Fallecimientos": 36,
+      "Curados": 17,
+      "NuevosCasos": 67
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-30T00:00:00Z"
+  },
+  "Fecha": "30/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f72"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 5405,
+      "Hospitalizados": 2671,
+      "TotalUCI": 216,
+      "Fallecimientos": 236,
+      "Curados": 155,
+      "NuevosCasos": 723
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 223,
+      "Hospitalizados": 96,
+      "TotalUCI": 12,
+      "Fallecimientos": 14,
+      "Curados": 6,
+      "NuevosCasos": 23
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 507,
+      "Hospitalizados": 207,
+      "TotalUCI": 16,
+      "Fallecimientos": 13,
+      "Curados": 10,
+      "NuevosCasos": 60
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 572,
+      "Hospitalizados": 269,
+      "TotalUCI": 15,
+      "Fallecimientos": 13,
+      "Curados": 4,
+      "NuevosCasos": 99
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 963,
+      "Hospitalizados": 493,
+      "TotalUCI": 50,
+      "Fallecimientos": 66,
+      "Curados": 15,
+      "NuevosCasos": 103
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 168,
+      "Hospitalizados": 92,
+      "TotalUCI": 7,
+      "Fallecimientos": 4,
+      "Curados": 2,
+      "NuevosCasos": 37
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 599,
+      "Hospitalizados": 319,
+      "TotalUCI": 10,
+      "Fallecimientos": 23,
+      "Curados": 17,
+      "NuevosCasos": 98
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 1321,
+      "Hospitalizados": 725,
+      "TotalUCI": 61,
+      "Fallecimientos": 69,
+      "Curados": 83,
+      "NuevosCasos": 163
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 1052,
+      "Hospitalizados": 470,
+      "TotalUCI": 45,
+      "Fallecimientos": 34,
+      "Curados": 18,
+      "NuevosCasos": 140
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-29T00:00:00Z"
+  },
+  "Fecha": "29/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f73"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 4682,
+      "Hospitalizados": 2294,
+      "TotalUCI": 201,
+      "Fallecimientos": 207,
+      "Curados": 148,
+      "NuevosCasos": 405
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 200,
+      "Hospitalizados": 86,
+      "TotalUCI": 8,
+      "Fallecimientos": 12,
+      "Curados": 6,
+      "NuevosCasos": 27
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 447,
+      "Hospitalizados": 170,
+      "TotalUCI": 16,
+      "Fallecimientos": 9,
+      "Curados": 9,
+      "NuevosCasos": 41
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 473,
+      "Hospitalizados": 221,
+      "TotalUCI": 14,
+      "Fallecimientos": 11,
+      "Curados": 4,
+      "NuevosCasos": 49
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 860,
+      "Hospitalizados": 427,
+      "TotalUCI": 48,
+      "Fallecimientos": 57,
+      "Curados": 13,
+      "NuevosCasos": 54
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 131,
+      "Hospitalizados": 72,
+      "TotalUCI": 6,
+      "Fallecimientos": 4,
+      "Curados": 2,
+      "NuevosCasos": 11
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 501,
+      "Hospitalizados": 279,
+      "TotalUCI": 10,
+      "Fallecimientos": 20,
+      "Curados": 16,
+      "NuevosCasos": 36
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 1158,
+      "Hospitalizados": 642,
+      "TotalUCI": 57,
+      "Fallecimientos": 64,
+      "Curados": 81,
+      "NuevosCasos": 105
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 912,
+      "Hospitalizados": 397,
+      "TotalUCI": 42,
+      "Fallecimientos": 30,
+      "Curados": 17,
+      "NuevosCasos": 82
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-28T00:00:00Z"
+  },
+  "Fecha": "28/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f74"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 4277,
+      "Hospitalizados": 2106,
+      "TotalUCI": 172,
+      "Fallecimientos": 175,
+      "Curados": 139,
+      "NuevosCasos": 484
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 173,
+      "Hospitalizados": 72,
+      "TotalUCI": 8,
+      "Fallecimientos": 10,
+      "Curados": 6,
+      "NuevosCasos": 31
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 406,
+      "Hospitalizados": 156,
+      "TotalUCI": 13,
+      "Fallecimientos": 7,
+      "Curados": 8,
+      "NuevosCasos": 58
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 424,
+      "Hospitalizados": 200,
+      "TotalUCI": 13,
+      "Fallecimientos": 9,
+      "Curados": 4,
+      "NuevosCasos": 65
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 806,
+      "Hospitalizados": 396,
+      "TotalUCI": 39,
+      "Fallecimientos": 49,
+      "Curados": 11,
+      "NuevosCasos": 95
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 120,
+      "Hospitalizados": 66,
+      "TotalUCI": 4,
+      "Fallecimientos": 2,
+      "Curados": 2,
+      "NuevosCasos": 15
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 465,
+      "Hospitalizados": 258,
+      "TotalUCI": 10,
+      "Fallecimientos": 16,
+      "Curados": 15,
+      "NuevosCasos": 51
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 1053,
+      "Hospitalizados": 575,
+      "TotalUCI": 48,
+      "Fallecimientos": 56,
+      "Curados": 80,
+      "NuevosCasos": 47
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 830,
+      "Hospitalizados": 383,
+      "TotalUCI": 37,
+      "Fallecimientos": 26,
+      "Curados": 13,
+      "NuevosCasos": 122
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-27T00:00:00Z"
+  },
+  "Fecha": "27/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f75"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 3793,
+      "Hospitalizados": 1843,
+      "TotalUCI": 148,
+      "Fallecimientos": 144,
+      "Curados": 92,
+      "NuevosCasos": 387
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 142,
+      "Hospitalizados": 65,
+      "TotalUCI": 8,
+      "Fallecimientos": 8,
+      "Curados": 6,
+      "NuevosCasos": 8
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 348,
+      "Hospitalizados": 117,
+      "TotalUCI": 7,
+      "Fallecimientos": 6,
+      "Curados": 6,
+      "NuevosCasos": 49
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 359,
+      "Hospitalizados": 168,
+      "TotalUCI": 13,
+      "Fallecimientos": 8,
+      "Curados": 1,
+      "NuevosCasos": 10
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 711,
+      "Hospitalizados": 336,
+      "TotalUCI": 38,
+      "Fallecimientos": 34,
+      "Curados": 1,
+      "NuevosCasos": 63
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 105,
+      "Hospitalizados": 60,
+      "TotalUCI": 4,
+      "Fallecimientos": 2,
+      "Curados": 2,
+      "NuevosCasos": 10
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 414,
+      "Hospitalizados": 228,
+      "TotalUCI": 7,
+      "Fallecimientos": 15,
+      "Curados": 7,
+      "NuevosCasos": 65
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 1006,
+      "Hospitalizados": 540,
+      "TotalUCI": 40,
+      "Fallecimientos": 46,
+      "Curados": 61,
+      "NuevosCasos": 101
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 708,
+      "Hospitalizados": 329,
+      "TotalUCI": 31,
+      "Fallecimientos": 25,
+      "Curados": 8,
+      "NuevosCasos": 81
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-26T00:00:00Z"
+  },
+  "Fecha": "26/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f76"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 3406,
+      "Hospitalizados": 1626,
+      "TotalUCI": null,
+      "Fallecimientos": 134,
+      "Curados": 77,
+      "NuevosCasos": 396
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 134,
+      "Hospitalizados": 62,
+      "TotalUCI": null,
+      "Fallecimientos": 7,
+      "Curados": 5,
+      "NuevosCasos": 19
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 299,
+      "Hospitalizados": 92,
+      "TotalUCI": null,
+      "Fallecimientos": 5,
+      "Curados": 4,
+      "NuevosCasos": 21
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 349,
+      "Hospitalizados": 161,
+      "TotalUCI": null,
+      "Fallecimientos": 7,
+      "Curados": 0,
+      "NuevosCasos": 58
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 648,
+      "Hospitalizados": 287,
+      "TotalUCI": null,
+      "Fallecimientos": 32,
+      "Curados": 1,
+      "NuevosCasos": 69
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 95,
+      "Hospitalizados": 52,
+      "TotalUCI": null,
+      "Fallecimientos": 2,
+      "Curados": 2,
+      "NuevosCasos": 18
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 349,
+      "Hospitalizados": 189,
+      "TotalUCI": null,
+      "Fallecimientos": 15,
+      "Curados": 5,
+      "NuevosCasos": 33
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 905,
+      "Hospitalizados": 490,
+      "TotalUCI": null,
+      "Fallecimientos": 42,
+      "Curados": 52,
+      "NuevosCasos": 86
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 627,
+      "Hospitalizados": 293,
+      "TotalUCI": null,
+      "Fallecimientos": 24,
+      "Curados": 8,
+      "NuevosCasos": 92
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-25T00:00:00Z"
+  },
+  "Fecha": "25/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f77"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 3010,
+      "Hospitalizados": 1433,
+      "TotalUCI": null,
+      "Fallecimientos": 113,
+      "Curados": 71,
+      "NuevosCasos": 539
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 115,
+      "Hospitalizados": 50,
+      "TotalUCI": null,
+      "Fallecimientos": 5,
+      "Curados": 5,
+      "NuevosCasos": 24
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 278,
+      "Hospitalizados": 84,
+      "TotalUCI": null,
+      "Fallecimientos": 4,
+      "Curados": 4,
+      "NuevosCasos": 33
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 291,
+      "Hospitalizados": 135,
+      "TotalUCI": null,
+      "Fallecimientos": 6,
+      "Curados": 0,
+      "NuevosCasos": 57
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 579,
+      "Hospitalizados": 263,
+      "TotalUCI": null,
+      "Fallecimientos": 25,
+      "Curados": 1,
+      "NuevosCasos": 99
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 77,
+      "Hospitalizados": 42,
+      "TotalUCI": null,
+      "Fallecimientos": 1,
+      "Curados": 2,
+      "NuevosCasos": 7
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 316,
+      "Hospitalizados": 167,
+      "TotalUCI": null,
+      "Fallecimientos": 14,
+      "Curados": 5,
+      "NuevosCasos": 57
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 819,
+      "Hospitalizados": 431,
+      "TotalUCI": null,
+      "Fallecimientos": 40,
+      "Curados": 48,
+      "NuevosCasos": 154
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 535,
+      "Hospitalizados": 261,
+      "TotalUCI": null,
+      "Fallecimientos": 18,
+      "Curados": 6,
+      "NuevosCasos": 108
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-24T00:00:00Z"
+  },
+  "Fecha": "24/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f78"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 2471,
+      "Hospitalizados": 1132,
+      "TotalUCI": null,
+      "Fallecimientos": 87,
+      "Curados": 66,
+      "NuevosCasos": 510
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 91,
+      "Hospitalizados": 39,
+      "TotalUCI": null,
+      "Fallecimientos": 5,
+      "Curados": 3,
+      "NuevosCasos": 17
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 245,
+      "Hospitalizados": 73,
+      "TotalUCI": null,
+      "Fallecimientos": 3,
+      "Curados": 4,
+      "NuevosCasos": 67
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 234,
+      "Hospitalizados": 100,
+      "TotalUCI": null,
+      "Fallecimientos": 6,
+      "Curados": 0,
+      "NuevosCasos": 43
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 480,
+      "Hospitalizados": 215,
+      "TotalUCI": null,
+      "Fallecimientos": 21,
+      "Curados": 1,
+      "NuevosCasos": 106
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 70,
+      "Hospitalizados": 38,
+      "TotalUCI": null,
+      "Fallecimientos": 1,
+      "Curados": 2,
+      "NuevosCasos": 12
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 259,
+      "Hospitalizados": 134,
+      "TotalUCI": null,
+      "Fallecimientos": 12,
+      "Curados": 5,
+      "NuevosCasos": 44
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 665,
+      "Hospitalizados": 333,
+      "TotalUCI": null,
+      "Fallecimientos": 26,
+      "Curados": 46,
+      "NuevosCasos": 145
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 427,
+      "Hospitalizados": 200,
+      "TotalUCI": null,
+      "Fallecimientos": 13,
+      "Curados": 5,
+      "NuevosCasos": 76
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-23T00:00:00Z"
+  },
+  "Fecha": "23/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f79"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 1961,
+      "Hospitalizados": 744,
+      "TotalUCI": null,
+      "Fallecimientos": 58,
+      "Curados": 50,
+      "NuevosCasos": 236
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 74,
+      "Hospitalizados": 23,
+      "TotalUCI": null,
+      "Fallecimientos": 2,
+      "Curados": 2,
+      "NuevosCasos": 16
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 178,
+      "Hospitalizados": 50,
+      "TotalUCI": null,
+      "Fallecimientos": 3,
+      "Curados": 4,
+      "NuevosCasos": 44
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 191,
+      "Hospitalizados": 50,
+      "TotalUCI": null,
+      "Fallecimientos": 4,
+      "Curados": 0,
+      "NuevosCasos": 11
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 374,
+      "Hospitalizados": 169,
+      "TotalUCI": null,
+      "Fallecimientos": 17,
+      "Curados": 0,
+      "NuevosCasos": 39
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 58,
+      "Hospitalizados": 29,
+      "TotalUCI": null,
+      "Fallecimientos": 1,
+      "Curados": 0,
+      "NuevosCasos": 11
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 215,
+      "Hospitalizados": 79,
+      "TotalUCI": null,
+      "Fallecimientos": 5,
+      "Curados": 5,
+      "NuevosCasos": 44
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 520,
+      "Hospitalizados": 192,
+      "TotalUCI": null,
+      "Fallecimientos": 21,
+      "Curados": 34,
+      "NuevosCasos": 15
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 351,
+      "Hospitalizados": 152,
+      "TotalUCI": null,
+      "Fallecimientos": 5,
+      "Curados": 5,
+      "NuevosCasos": 56
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-22T00:00:00Z"
+  },
+  "Fecha": "22/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f7a"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 1725,
+      "Hospitalizados": 616,
+      "TotalUCI": null,
+      "Fallecimientos": 47,
+      "Curados": null,
+      "NuevosCasos": 210
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 58,
+      "Hospitalizados": 17,
+      "TotalUCI": null,
+      "Fallecimientos": 1,
+      "Curados": null,
+      "NuevosCasos": 5
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 134,
+      "Hospitalizados": 34,
+      "TotalUCI": null,
+      "Fallecimientos": 2,
+      "Curados": null,
+      "NuevosCasos": 8
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 180,
+      "Hospitalizados": 39,
+      "TotalUCI": null,
+      "Fallecimientos": 3,
+      "Curados": null,
+      "NuevosCasos": 37
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 335,
+      "Hospitalizados": 145,
+      "TotalUCI": null,
+      "Fallecimientos": 13,
+      "Curados": null,
+      "NuevosCasos": 46
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 47,
+      "Hospitalizados": 24,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 10
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 171,
+      "Hospitalizados": 62,
+      "TotalUCI": null,
+      "Fallecimientos": 3,
+      "Curados": null,
+      "NuevosCasos": 33
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 505,
+      "Hospitalizados": 169,
+      "TotalUCI": null,
+      "Fallecimientos": 21,
+      "Curados": null,
+      "NuevosCasos": 21
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 295,
+      "Hospitalizados": 126,
+      "TotalUCI": null,
+      "Fallecimientos": 4,
+      "Curados": null,
+      "NuevosCasos": 50
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-21T00:00:00Z"
+  },
+  "Fecha": "21/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f7b"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 1515,
+      "Hospitalizados": 503,
+      "TotalUCI": null,
+      "Fallecimientos": 40,
+      "Curados": null,
+      "NuevosCasos": 228
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 53,
+      "Hospitalizados": 13,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 7
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 126,
+      "Hospitalizados": 27,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 23
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 143,
+      "Hospitalizados": 34,
+      "TotalUCI": null,
+      "Fallecimientos": 3,
+      "Curados": null,
+      "NuevosCasos": 18
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 289,
+      "Hospitalizados": 100,
+      "TotalUCI": null,
+      "Fallecimientos": 13,
+      "Curados": null,
+      "NuevosCasos": 45
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 37,
+      "Hospitalizados": 16,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 138,
+      "Hospitalizados": 63,
+      "TotalUCI": null,
+      "Fallecimientos": 2,
+      "Curados": null,
+      "NuevosCasos": 19
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 484,
+      "Hospitalizados": 161,
+      "TotalUCI": null,
+      "Fallecimientos": 20,
+      "Curados": null,
+      "NuevosCasos": 60
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 245,
+      "Hospitalizados": 89,
+      "TotalUCI": null,
+      "Fallecimientos": 2,
+      "Curados": null,
+      "NuevosCasos": 55
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-20T00:00:00Z"
+  },
+  "Fecha": "20/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f7c"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 1287,
+      "Hospitalizados": 367,
+      "TotalUCI": null,
+      "Fallecimientos": 30,
+      "Curados": null,
+      "NuevosCasos": 279
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 46,
+      "Hospitalizados": 9,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 9
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 103,
+      "Hospitalizados": 19,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 19
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 125,
+      "Hospitalizados": 25,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 24
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 244,
+      "Hospitalizados": 87,
+      "TotalUCI": null,
+      "Fallecimientos": 10,
+      "Curados": null,
+      "NuevosCasos": 68
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 36,
+      "Hospitalizados": 13,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 13
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 119,
+      "Hospitalizados": 41,
+      "TotalUCI": null,
+      "Fallecimientos": 2,
+      "Curados": null,
+      "NuevosCasos": 31
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 424,
+      "Hospitalizados": 109,
+      "TotalUCI": null,
+      "Fallecimientos": 17,
+      "Curados": null,
+      "NuevosCasos": 63
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 190,
+      "Hospitalizados": 64,
+      "TotalUCI": null,
+      "Fallecimientos": 1,
+      "Curados": null,
+      "NuevosCasos": 52
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-19T00:00:00Z"
+  },
+  "Fecha": "19/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f7d"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 1008,
+      "Hospitalizados": 307,
+      "TotalUCI": null,
+      "Fallecimientos": 23,
+      "Curados": null,
+      "NuevosCasos": 149
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 37,
+      "Hospitalizados": 7,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 7
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 84,
+      "Hospitalizados": 15,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 10
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 101,
+      "Hospitalizados": 26,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 23
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 176,
+      "Hospitalizados": 66,
+      "TotalUCI": null,
+      "Fallecimientos": 7,
+      "Curados": null,
+      "NuevosCasos": 46
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 23,
+      "Hospitalizados": 15,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 9
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 88,
+      "Hospitalizados": 32,
+      "TotalUCI": null,
+      "Fallecimientos": 2,
+      "Curados": null,
+      "NuevosCasos": 11
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 361,
+      "Hospitalizados": 93,
+      "TotalUCI": null,
+      "Fallecimientos": 13,
+      "Curados": null,
+      "NuevosCasos": 28
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 138,
+      "Hospitalizados": 53,
+      "TotalUCI": null,
+      "Fallecimientos": 1,
+      "Curados": null,
+      "NuevosCasos": 15
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-18T00:00:00Z"
+  },
+  "Fecha": "18/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f7f"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 683,
+      "Hospitalizados": 200,
+      "TotalUCI": null,
+      "Fallecimientos": 11,
+      "Curados": null,
+      "NuevosCasos": 129
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 26,
+      "Hospitalizados": 3,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 3
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 56,
+      "Hospitalizados": 3,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 8
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 68,
+      "Hospitalizados": 18,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 27
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 95,
+      "Hospitalizados": 36,
+      "TotalUCI": null,
+      "Fallecimientos": 2,
+      "Curados": null,
+      "NuevosCasos": 28
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 8,
+      "Hospitalizados": 1,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 2
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 52,
+      "Hospitalizados": 8,
+      "TotalUCI": null,
+      "Fallecimientos": 2,
+      "Curados": null,
+      "NuevosCasos": 2
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 278,
+      "Hospitalizados": 97,
+      "TotalUCI": null,
+      "Fallecimientos": 6,
+      "Curados": null,
+      "NuevosCasos": 43
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 100,
+      "Hospitalizados": 34,
+      "TotalUCI": null,
+      "Fallecimientos": 1,
+      "Curados": null,
+      "NuevosCasos": 16
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-16T00:00:00Z"
+  },
+  "Fecha": "16/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f7e"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 859,
+      "Hospitalizados": 223,
+      "TotalUCI": null,
+      "Fallecimientos": 19,
+      "Curados": null,
+      "NuevosCasos": 176
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 30,
+      "Hospitalizados": 3,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 4
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 74,
+      "Hospitalizados": 3,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 18
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 78,
+      "Hospitalizados": 19,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 10
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 130,
+      "Hospitalizados": 29,
+      "TotalUCI": null,
+      "Fallecimientos": 6,
+      "Curados": null,
+      "NuevosCasos": 35
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 14,
+      "Hospitalizados": 4,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 6
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 77,
+      "Hospitalizados": 10,
+      "TotalUCI": null,
+      "Fallecimientos": 2,
+      "Curados": null,
+      "NuevosCasos": 25
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 333,
+      "Hospitalizados": 113,
+      "TotalUCI": null,
+      "Fallecimientos": 10,
+      "Curados": null,
+      "NuevosCasos": 55
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 123,
+      "Hospitalizados": 42,
+      "TotalUCI": null,
+      "Fallecimientos": 1,
+      "Curados": null,
+      "NuevosCasos": 23
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-17T00:00:00Z"
+  },
+  "Fecha": "17/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f80"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 554,
+      "Hospitalizados": 160,
+      "TotalUCI": null,
+      "Fallecimientos": 7,
+      "Curados": null,
+      "NuevosCasos": 117
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 23,
+      "Hospitalizados": 1,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 9
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 48,
+      "Hospitalizados": 3,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 14
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 41,
+      "Hospitalizados": 7,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 4
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 67,
+      "Hospitalizados": 28,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 10
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 6,
+      "Hospitalizados": 5,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 0
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 50,
+      "Hospitalizados": 10,
+      "TotalUCI": null,
+      "Fallecimientos": 2,
+      "Curados": null,
+      "NuevosCasos": 3
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 235,
+      "Hospitalizados": 85,
+      "TotalUCI": null,
+      "Fallecimientos": 5,
+      "Curados": null,
+      "NuevosCasos": 55
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 84,
+      "Hospitalizados": 21,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 22
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-15T00:00:00Z"
+  },
+  "Fecha": "15/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f81"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 437,
+      "Hospitalizados": 134,
+      "TotalUCI": null,
+      "Fallecimientos": 6,
+      "Curados": null,
+      "NuevosCasos": 168
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 14,
+      "Hospitalizados": 1,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 34,
+      "Hospitalizados": 8,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 13
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 37,
+      "Hospitalizados": 6,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 19
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 57,
+      "Hospitalizados": 20,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 35
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 6,
+      "Hospitalizados": 0,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 2
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 47,
+      "Hospitalizados": 3,
+      "TotalUCI": null,
+      "Fallecimientos": 2,
+      "Curados": null,
+      "NuevosCasos": 13
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 180,
+      "Hospitalizados": 81,
+      "TotalUCI": null,
+      "Fallecimientos": 4,
+      "Curados": null,
+      "NuevosCasos": 52
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 62,
+      "Hospitalizados": 15,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 33
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-14T00:00:00Z"
+  },
+  "Fecha": "14/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f82"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 269,
+      "Hospitalizados": 75,
+      "TotalUCI": null,
+      "Fallecimientos": 2,
+      "Curados": null,
+      "NuevosCasos": 111
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 13,
+      "Hospitalizados": 0,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 9
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 21,
+      "Hospitalizados": 2,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 10
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 18,
+      "Hospitalizados": 3,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 15
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 22,
+      "Hospitalizados": 6,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 9
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 4,
+      "Hospitalizados": 0,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 2
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 34,
+      "Hospitalizados": 10,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 17
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 128,
+      "Hospitalizados": 46,
+      "TotalUCI": null,
+      "Fallecimientos": 2,
+      "Curados": null,
+      "NuevosCasos": 31
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 29,
+      "Hospitalizados": 8,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 18
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-13T00:00:00Z"
+  },
+  "Fecha": "13/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f83"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 158,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 4,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 11,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 3,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 13,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 2,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 17,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 97,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 11,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-12T00:00:00Z"
+  },
+  "Fecha": "12/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f84"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 95,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 13
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 3,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 6,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 4
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 2,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 10,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 67,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 8
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 6,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-11T00:00:00Z"
+  },
+  "Fecha": "11/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f85"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 82,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 23
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 3,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 2,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 10,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 3
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 59,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 17
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 6,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-10T00:00:00Z"
+  },
+  "Fecha": "10/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f86"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 59,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 18
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 2,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 2,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 7,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 42,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 15
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 5,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-09T00:00:00Z"
+  },
+  "Fecha": "09/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f87"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 41,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 7
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 2,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 6,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 27,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 5
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 5,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-08T00:00:00Z"
+  },
+  "Fecha": "08/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f88"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 34,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 8
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 5,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 2
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 22,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 4
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 5,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-07T00:00:00Z"
+  },
+  "Fecha": "07/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f89"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 26,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 11
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 3,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 2
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 18,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 9
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 4,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-06T00:00:00Z"
+  },
+  "Fecha": "06/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f8a"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 15,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 4
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 9,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 2
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 4,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 2
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-05T00:00:00Z"
+  },
+  "Fecha": "05/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f8b"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 11,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 7,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-04T00:00:00Z"
+  },
+  "Fecha": "04/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f8c"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 11,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 7,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-03T00:00:00Z"
+  },
+  "Fecha": "03/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f8d"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 10,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 6,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-02T00:00:00Z"
+  },
+  "Fecha": "02/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f8e"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 10,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 6,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    }
+  ],
+  "Date": {
+    "$date": "2020-03-01T00:00:00Z"
+  },
+  "Fecha": "01/03/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f90"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 8,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 2
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 4,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    }
+  ],
+  "Date": {
+    "$date": "2020-02-28T00:00:00Z"
+  },
+  "Fecha": "28/02/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f8f"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 10,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 2
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 6,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 2
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 2,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    }
+  ],
+  "Date": {
+    "$date": "2020-02-29T00:00:00Z"
+  },
+  "Fecha": "29/02/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f91"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 6,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 5
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 4,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 4
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    }
+  ],
+  "Date": {
+    "$date": "2020-02-27T00:00:00Z"
+  },
+  "Fecha": "27/02/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfa40cd729022600556f92"
+  },
+  "Territorios": [
+    {
+      "Territorio": "Andalucía",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    },
+    {
+      "Territorio": "Almería",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Cádiz",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Córdoba",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Granada",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Huelva",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Jaén",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Málaga",
+      "Confirmados": 0,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": null
+    },
+    {
+      "Territorio": "Sevilla",
+      "Confirmados": 1,
+      "Hospitalizados": null,
+      "TotalUCI": null,
+      "Fallecimientos": 0,
+      "Curados": null,
+      "NuevosCasos": 1
+    }
+  ],
+  "Date": {
+    "$date": "2020-02-26T00:00:00Z"
+  },
+  "Fecha": "26/02/2020",
+  "__v": 0
+}]
