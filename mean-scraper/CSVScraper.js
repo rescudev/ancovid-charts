@@ -1,5 +1,5 @@
 const axios = require('axios');
-const csvFilePath='ProvinciasCSV/27-05-2020.txt';
+const csvFilePath='ProvinciasCSV/28-05-2020.txt';
 const csv=require('csvtojson');
 const fs = require('fs');
  
@@ -23,7 +23,7 @@ fs.readFile(csvFilePath, 'utf-8', function(err, data) {
         }
         finalParts.push(dataInJSON);
     }
-    let finalJSON = {"Date": "2020-05-27", "Fecha": "27/05/2020", "Residencias": finalParts };
+    let finalJSON = {"Date": "2020-05-28", "Fecha": "28/05/2020", "Residencias": finalParts };
     axios.post('http://localhost:3000/residencia', {
                 Date: finalJSON.Date,
                 Fecha: finalJSON.Fecha,
