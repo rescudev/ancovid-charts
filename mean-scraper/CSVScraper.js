@@ -1,40 +1,99 @@
 const axios = require('axios');
-const csvFilePath='ProvinciasCSV/28-05-2020.txt';
-const csv=require('csvtojson');
 const fs = require('fs');
  
+function convertToJSONDate(strDate){
+    var splitted = strDate.split("/");
+    var newDate = splitted[2]+'-'+splitted[1]+'-'+splitted[0];
+    return newDate;
+}
 
-fs.readFile(csvFilePath, 'utf-8', function(err, data) {
-    if (err) throw err;
-    let finalParts = [];
-    let newValue = data.replace(/\s/g, '');
-    newValue = newValue.split(";");
-
-    for(var i = 0; i<newValue.length; i++){
-        if(newValue[i] == ''){
-            newValue[i] = null;
+function scrapResidencias(Fecha){
+    fs.readFile('ProvinciasCSV/'+convertToJSONDate(Fecha)+'.txt', 'utf-8', function(err, data) {
+        if (err) throw err;
+        let finalParts = [];
+        let newValue = data.replace(/\s/g, '');
+        newValue = newValue.split(";");
+    
+        for(var i = 0; i<newValue.length; i++){
+            if(newValue[i] == ''){
+                newValue[i] = null;
+            }
         }
-    }
-
-    for(var j = 0; j<(newValue.length-4); j+=18){
-        let dataInJSON;    
-        if(newValue[j+5]>-1){
-            dataInJSON = JSON.parse('{ "Residencia": "'+newValue[j+3]+'", "Poblacion": '+newValue[j+5]+', "Confirmados": '+newValue[j+8]+', "ConfirmadosPCR": '+newValue[j+11]+', "Fallecidos": '+newValue[j+14]+', "Curados": '+newValue[j+17]+', "ConfirmadosTotal": '+newValue[j+20]+'}');
+    
+        for(var j = 0; j<(newValue.length-4); j+=18){
+            let dataInJSON;    
+            if(newValue[j+5]>-1){
+                dataInJSON = JSON.parse('{ "Residencia": "'+newValue[j+3]+'", "Poblacion": '+newValue[j+5]+', "Confirmados": '+newValue[j+8]+', "ConfirmadosPCR": '+newValue[j+11]+', "Fallecidos": '+newValue[j+14]+', "Curados": '+newValue[j+17]+', "ConfirmadosTotal": '+newValue[j+20]+'}');
+            }
+            finalParts.push(dataInJSON);
         }
-        finalParts.push(dataInJSON);
-    }
-    let finalJSON = {"Date": "2020-05-28", "Fecha": "28/05/2020", "Residencias": finalParts };
-    axios.post('http://localhost:3000/residencia', {
-                Date: finalJSON.Date,
-                Fecha: finalJSON.Fecha,
-                Residencias: finalJSON.Residencias
-    })
-    .then((res) => {
-    console.log(`statusCode: ${res.statusCode}`)
-    console.log(res)
-    })
-    .catch((error) => {
-    console.error(error)
-    })
-    console.log(finalParts);
-});
+        let finalJSON = {"Date": convertToJSONDate(Fecha), "Fecha": Fecha, "Residencias": finalParts };
+    
+        axios.post('http://localhost:3000/residencia', {
+                    Date: finalJSON.Date,
+                    Fecha: finalJSON.Fecha,
+                    Residencias: finalJSON.Residencias
+        })
+        .then((res) => {
+        console.log(`statusCode: ${res.statusCode}`)
+        console.log(res)
+        })
+        .catch((error) => {
+        console.error(error)
+        })
+        console.log(finalParts);
+    });
+}
+
+function scrapTerritorios(){
+    fs.readFile('TerritoriosCVS/terMayo.txt', 'utf-8', function(err, data) {
+        if (err) throw err;
+        let newValue = data.replace(/\s/g, '');
+        newValue = newValue.split(";");
+    
+        for(var i = 0; i<newValue.length; i++){
+            if(newValue[i] == ''){
+                newValue[i] = null;
+            }
+        }
+        console.log(newValue.length);
+        //x JSON => j < (252*x)
+        for(var j = 0; j<(newValue.length-5); j+=28*9){
+            let finalParts = [];
+            for(var i = 0; i<28*9; i+=28){
+                let dataInJSON;    
+                dataInJSON = JSON.parse('{ "Territorio": "'+newValue[j+i+5]+'", "ConfirmadosPCR": '+newValue[j+i+7]+', "ConfirmadosPCR14d": '+newValue[j+i+11]+', "Hospitalizados": '+newValue[j+i+15]+', "TotalUCI": '+newValue[j+i+19]+', "Fallecimientos": '+newValue[j+i+23]+', "Curados": '+newValue[j+i+27]+', "ConfirmadosTotal": '+newValue[j+i+31]+'}');
+                finalParts.push(dataInJSON);
+            }
+            let finalJSON = {"Date": convertToJSONDate(newValue[j+4]), "Fecha": newValue[j+4], "Territorios": finalParts };
+            console.log(finalJSON);
+
+            axios.post('http://localhost:3000/territorio', {
+                    Date: finalJSON.Date,
+                    Fecha: finalJSON.Fecha,
+                    Territorios: finalJSON.Territorios
+            })
+            .then((res) => {
+            console.log(`statusCode: ${res.statusCode}`)
+            console.log(res)
+            })
+            .catch((error) => {
+            console.error(error)
+            })
+        }
+    });
+}
+
+scrapTerritorios();
+scrapResidencias("28/05/2020");
+
+//For terAbril.txt
+// for(var j = 0; j<(newValue.length-5); j+=24*9){
+//     let finalParts = [];
+//     for(var i = 0; i<24*9; i+=24){
+//         let dataInJSON;    
+//         dataInJSON = JSON.parse('{ "Territorio": "'+newValue[j+i+5]+'", "Confirmados": '+newValue[j+i+7]+', "Hospitalizados": '+newValue[j+i+11]+', "TotalUCI": '+newValue[j+i+15]+', "Fallecimientos": '+newValue[j+i+19]+', "Curados": '+newValue[j+i+23]+', "NuevosCasos": '+newValue[j+i+27]+'}');
+//         finalParts.push(dataInJSON);
+//     }
+//     let finalJSON = {"Date": convertToJSONDate(newValue[j+4]), "Fecha": newValue[j+4], "Territorios": finalParts };
+//     console.log(finalJSON); 

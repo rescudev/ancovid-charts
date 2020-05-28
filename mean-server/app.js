@@ -14,11 +14,13 @@ const prevalenciaRoute = require('./routes/prevalencia');
 const pcrRoute = require('./routes/pcr');
 const hospitalizadoRoute = require('./routes/hospitalizado');
 const residenciaRoute = require('./routes/residencia');
+const territorioRoute = require('./routes/territorio');
 
 app.use('/prevalencia', prevalenciaRoute);
 app.use('/pcr', pcrRoute);
 app.use('/hospitalizado', hospitalizadoRoute);
 app.use('/residencia', residenciaRoute);
+app.use('/territorio', territorioRoute);
 
 //ROUTES
 app.get('/', (req, res) => {
