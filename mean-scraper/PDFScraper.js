@@ -154,11 +154,11 @@ async function postPCRJSON(pdfName, dataType, postURL) {
     })
 }
 
-downloadPDF("https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_119_COVID-19.pdf", "Gobpdfs/Actualizacion_119_COVID-19.pdf");
-postPCRJSON('Gobpdfs/Actualizacion_119_COVID-19.pdf', 'hosp', 'http://localhost:3000/hospitalizado');
-postPCRJSON('Gobpdfs/Actualizacion_119_COVID-19.pdf', 'pcr', 'http://localhost:3000/pcr');
+downloadPDF("https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_120_COVID-19.pdf", "Gobpdfs/Actualizacion_120_COVID-19.pdf");
+postPCRJSON('Gobpdfs/Actualizacion_120_COVID-19.pdf', 'hosp', 'http://localhost:3000/hospitalizado');
+postPCRJSON('Gobpdfs/Actualizacion_120_COVID-19.pdf', 'pcr', 'http://localhost:3000/pcr');
 
-// getFullPCRJson('Gobpdfs/Actualizacion_118_COVID-19.pdf', 'hosp');
+// getFullPCRJson('Gobpdfs/Actualizacion_120_COVID-19.pdf', 'hosp');
 
 
 

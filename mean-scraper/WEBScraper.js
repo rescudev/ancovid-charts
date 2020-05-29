@@ -17,7 +17,8 @@ async function scrapePrevalencia(url) {
         //Format After 1 May //*[@id="cuerpo"]/div[1]/div[2]/p[4]
         //Format exlusively for 2 and 3 of May //*[@id="cuerpo"]/div[1]/div[2]/p[3]
         //Format After 16 May //*[@id="cuerpo"]/div[1]/div[2]/p[3]
-        const [el2] = await page.$x('//*[@id="cuerpo"]/div[1]/div[2]/p[3]');
+        //Format After 29 May //*[@id="cuerpo"]/div[1]/div[2]/p[2]
+        const [el2] = await page.$x(' //*[@id="cuerpo"]/div[1]/div[2]/p[2]');
         const txt = await el2.getProperty('textContent');
         const rawTxt = await txt.jsonValue();
         const rawTxtNoSpaces = rawTxt.replace(/\s/g,'');
@@ -104,9 +105,9 @@ async function postPrevalenciaJSON(url) {
         })
 }
 
-var prevURL_28_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/ ? .html';
+var prevURL_29_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/?.html';
 
-postPrevalenciaJSON(prevURL_28_05);
+postPrevalenciaJSON(prevURL_29_05);
 
 
 

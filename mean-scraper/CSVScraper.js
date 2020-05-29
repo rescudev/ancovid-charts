@@ -8,7 +8,7 @@ function convertToJSONDate(strDate){
 }
 
 function scrapResidencias(Fecha){
-    fs.readFile('ProvinciasCSV/'+convertToJSONDate(Fecha)+'.txt', 'utf-8', function(err, data) {
+    fs.readFile('ResidenciasCSV/'+convertToJSONDate(Fecha)+'.txt', 'utf-8', function(err, data) {
         if (err) throw err;
         let finalParts = [];
         let newValue = data.replace(/\s/g, '');
@@ -58,6 +58,7 @@ function scrapTerritorios(){
         }
         console.log(newValue.length);
         //x JSON => j < (252*x)
+        // for(var j = 0; j<(252*2); j+=28*9){
         for(var j = 0; j<(newValue.length-5); j+=28*9){
             let finalParts = [];
             for(var i = 0; i<28*9; i+=28){
@@ -85,7 +86,7 @@ function scrapTerritorios(){
 }
 
 scrapTerritorios();
-scrapResidencias("28/05/2020");
+scrapResidencias("29/05/2020");
 
 //For terAbril.txt
 // for(var j = 0; j<(newValue.length-5); j+=24*9){
