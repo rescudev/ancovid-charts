@@ -17,8 +17,8 @@ async function scrapePrevalencia(url) {
         //Format After 1 May //*[@id="cuerpo"]/div[1]/div[2]/p[4]
         //Format exlusively for 2 and 3 of May //*[@id="cuerpo"]/div[1]/div[2]/p[3]
         //Format After 16 May //*[@id="cuerpo"]/div[1]/div[2]/p[3]
-        //Format After 29 May //*[@id="cuerpo"]/div[1]/div[2]/p[2]
-        const [el2] = await page.$x(' //*[@id="cuerpo"]/div[1]/div[2]/p[2]');
+        //28 May //*[@id="cuerpo"]/div[1]/div[2]/p[2]
+        const [el2] = await page.$x(' //*[@id="cuerpo"]/div[1]/div[2]/p[3]');
         const txt = await el2.getProperty('textContent');
         const rawTxt = await txt.jsonValue();
         const rawTxtNoSpaces = rawTxt.replace(/\s/g,'');
@@ -60,7 +60,10 @@ async function scrapePrevalencia(url) {
 function addComunidad(rawTxt, comunidad, siglas, siguiente) {
         const soloCom = rawTxt.substring(rawTxt.indexOf(comunidad), rawTxt.indexOf(siguiente));
         const Hosp = soloCom.substring(soloCom.lastIndexOf(comunidad)+comunidad.length+1, soloCom.indexOf('hos'));
-        const UCI = soloCom.substring(soloCom.indexOf('que')+3, soloCom.indexOf('enUCI'));
+        let UCI = soloCom.substring(soloCom.indexOf('que')+3, soloCom.indexOf('enUCI'));
+        if(soloCom.includes('ninguno')){
+                UCI = 0;
+        }
         var res = '"'+siglas+'Hosp": '+Hosp+ ', "'+siglas+'UCI":'+UCI;
 
         return res;
@@ -105,9 +108,9 @@ async function postPrevalenciaJSON(url) {
         })
 }
 
-var prevURL_29_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/?.html';
+var prevURL_31_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/?.html';
 
-postPrevalenciaJSON(prevURL_29_05);
+postPrevalenciaJSON(prevURL_31_05);
 
 
 

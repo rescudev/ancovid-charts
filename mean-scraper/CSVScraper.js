@@ -46,7 +46,7 @@ function scrapResidencias(Fecha){
 }
 
 function scrapTerritorios(){
-    fs.readFile('TerritoriosCVS/terMayo.txt', 'utf-8', function(err, data) {
+    fs.readFile('TerritoriosCVS/terMayo30-05.txt', 'utf-8', function(err, data) {
         if (err) throw err;
         let newValue = data.replace(/\s/g, '');
         newValue = newValue.split(";");
@@ -58,8 +58,8 @@ function scrapTerritorios(){
         }
         console.log(newValue.length);
         //x JSON => j < (252*x)
-        // for(var j = 0; j<(252*2); j+=28*9){
-        for(var j = 0; j<(newValue.length-5); j+=28*9){
+        for(var j = 0; j<(252*2); j+=28*9){
+        // for(var j = 0; j<(newValue.length-5); j+=28*9){
             let finalParts = [];
             for(var i = 0; i<28*9; i+=28){
                 let dataInJSON;    
@@ -86,7 +86,7 @@ function scrapTerritorios(){
 }
 
 scrapTerritorios();
-scrapResidencias("29/05/2020");
+// scrapResidencias("30/05/2020");
 
 //For terAbril.txt
 // for(var j = 0; j<(newValue.length-5); j+=24*9){
