@@ -150,7 +150,7 @@ export class ChartPrevalenciaComponent implements OnInit {
       options:{
         title:{
           display:true,
-          text:'Prevalencia',
+          text:'Andalucía - Prevalencia - Hospitalizados',
           fontSize:25
         },
         legend:{
