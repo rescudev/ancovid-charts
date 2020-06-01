@@ -1,160 +1,88 @@
 import { Component, OnInit } from '@angular/core';
 import { Chart } from 'node_modules/chart.js';
+import {FormControl} from '@angular/forms';
 
 @Component({
   selector: 'app-chart-pcrs',
   templateUrl: './chart-pcrs.component.html',
   styleUrls: ['./chart-pcrs.component.css']
 })
-export class ChartPcrsComponent implements OnInit {
 
-  constructor() { }
+
+export class ChartPcrsComponent implements OnInit {
+  myChartPcrs;
+  date = new FormControl(new Date());
+  minDate: Date;
+  maxDate: Date;
+
+  constructor() {
+    this.minDate = new Date(2020, 3, 26);
+    this.maxDate =  new Date();
+  }
+
   onDownloadPDF() {
     alert("PDF saved");
   }
 
-  ngOnInit(): void {
-    this.makeChart();
+  changeDate(date) {
+
+    //console.log(event.target.date.value);
+    let dia = date.getDate().toString();
+    let month = date.getUTCMonth() + 1;
+    if(dia < 10){
+      dia = '0'+dia;
+      if(dia == 1){
+        month++;
+      }
+    }
+    if(month < 10){
+      month = '0'+month;
+    }
+    this.myChartPcrs.destroy();
+    this.makeChart(dia+'-'+month+'-'+date.getFullYear());
   }
 
-  async makeChart() {
-    let sortedArray = await this.httpGet('http://localhost:3000/prevalencia');
-    sortedArray = sortedArray.sort(this.sortByProperty("Date"));
-    console.log(sortedArray);
+  ngOnInit(): void {
+    this.makeChart('30-05-2020');
+  }
 
-    var ANHospArray = [];
-    var ALHospArray = [];
-    var CAHospArray = [];
-    var COHospArray = [];
-    var GRHospArray = [];
-    var HUHospArray = [];
-    var JAHospArray = [];
-    var MAHospArray = [];
-    var SEHospArray = [];
-    var Fechas = [];
+  async makeChart(date) {
+    let aux = date;
+    let sortedArray = await this.httpGet('http://localhost:3000/pcr/chart/'+aux);
 
-    for(var key in sortedArray){
-      ANHospArray.push(sortedArray[key].ANHosp);
-      ALHospArray.push(sortedArray[key].ALHosp);
-      CAHospArray.push(sortedArray[key].CAHosp);
-      COHospArray.push(sortedArray[key].COHosp);
-      GRHospArray.push(sortedArray[key].GRHosp);
-      HUHospArray.push(sortedArray[key].HUHosp);
-      JAHospArray.push(sortedArray[key].JAHosp);
-      MAHospArray.push(sortedArray[key].MAHosp);
-      SEHospArray.push(sortedArray[key].SEHosp);
-      Fechas.push(sortedArray[key].Fecha)
-    }
-
-
+    sortedArray.CCAAs.shift();
+    let TotalSpain = sortedArray.Totales.shift();
     //Global Options
     Chart.defaults.global.defaultFontFamily = 'Lato';
     Chart.defaults.global.defaultFontSize = 18;
     Chart.defaults.global.defaultFontColor = '#777';
-
-    let myChart = new Chart("myChartPcrs", {
-      type: 'line', // bar, horizontalBar, pie, line, doughnut, radar, polarArea
+    for(var key in sortedArray.CCAAs){
+      sortedArray.CCAAs[key] = sortedArray.CCAAs[key].replace(/_/g, ' ');
+    }
+    this.myChartPcrs = new Chart("myChartPcrs", {
+      type: 'horizontalBar', // bar, horizontalBar, pie, line, doughnut, radar, polarArea
       data:{
-        labels:Fechas,
+        labels: sortedArray.CCAAs,
         datasets:[{
-          label:'Andalucía',
-          data:ANHospArray,
-          backgroundColor:'rgba(92, 184, 92, 0.5)',
+          label:'Nº Confirmados',
+          data: sortedArray.Totales,
+          backgroundColor:'#2fc4b2',
           borderWidth:1,
           borderColor:'#777',
-          hoverBorderWidht:3,
-          hoverBorderColor:'#000'
-        },
-        {
-          label:'Almería',
-          data:ALHospArray,
-          backgroundColor:'rgba(2, 117, 216, 0.5)',
-          borderWidth:1,
-          borderColor:'#777',
-          hoverBorderWidht:3,
+          hoverBorderWidht:30,
           hoverBorderColor:'#000',
-          fill:true
-        },
-        {
-          label:'Cádiz',
-          data:CAHospArray,
-          backgroundColor:'rgba(255, 255, 0, 0.5)',
-          borderWidth:1,
-          borderColor:'#777',
-          hoverBorderWidht:3,
-          hoverBorderColor:'#000',
-          fill:true
-        },
-        {
-          label:'Córdoba',
-          data:COHospArray,
-          backgroundColor:'rgba(0, 51, 153, 0.5)',
-          borderWidth:1,
-          borderColor:'#777',
-          hoverBorderWidht:3,
-          hoverBorderColor:'#000',
-          fill:true
-        },
-        {
-          label:'Granada',
-          data:GRHospArray,
-          backgroundColor:'rgba(240, 173, 78, 0.5)',
-          borderWidth:1,
-          borderColor:'#777',
-          hoverBorderWidht:3,
-          hoverBorderColor:'#000',
-          fill:true
-        },
-        {
-          label:'Huelva',
-          data:HUHospArray,
-          backgroundColor:'rgba(204, 0, 204, 0.5)',
-          borderWidth:1,
-          borderColor:'#777',
-          hoverBorderWidht:3,
-          hoverBorderColor:'#000',
-          fill:true
-        },
-        {
-          label:'Jaén',
-          data:JAHospArray,
-          backgroundColor:'rgba(0, 255, 204, 0.5)',
-          borderWidth:1,
-          borderColor:'#777',
-          hoverBorderWidht:3,
-          hoverBorderColor:'#000',
-          fill:true
-        },
-        {
-          label:'Málaga',
-          data:MAHospArray,
-          backgroundColor:'rgba(0, 191, 255, 0.5)',
-          borderWidth:1,
-          borderColor:'#777',
-          hoverBorderWidht:3,
-          hoverBorderColor:'#000',
-          fill:true
-        },
-        {
-          label:'Sevilla',
-          data:SEHospArray,
-          backgroundColor:'rgba(217, 83, 79, 0.5)',
-          borderWidth:1,
-          borderColor:'#777',
-          hoverBorderWidht:3,
-          hoverBorderColor:'#000',
-          fill:true
+          fill:false
         }
       ]
       },
       options:{
         title:{
           display:true,
-          text:'Andalucía - Prevalencia - Hospitalizados',
+          text:'España - Nº Confirmados Totales por PCR ' + '('+TotalSpain+') a ' + aux,
           fontSize:25
         },
         legend:{
-          display:true,
+          display:false,
           position:'right',
           labels:{
             fontColor:'#000'
@@ -162,7 +90,7 @@ export class ChartPcrsComponent implements OnInit {
         },
         layout:{
           padding:{
-            left:50,
+            left:0,
             right:0,
             bottom:0,
             top:0
@@ -192,7 +120,19 @@ export class ChartPcrsComponent implements OnInit {
       var array = JSON.parse(xmlHttp.responseText);
       return array;
   }
-
-
 }
 
+
+    // var Fechas=[], ESPData=[], ANDData=[], ARAData=[], ASTData=[], BALData=[], CANData=[], CNTData=[], CLMData=[], CYLData=[], CATData=[], CEUData=[], VALData=[], EXTData=[]
+    // , GALData=[], MADData=[], MELData=[], MURData=[], NAVData=[], PVAData=[], RIOData=[];
+
+    // Fechas = sortedArray['Fechas'];
+
+    // ESPData = sortedArray['ESP'].Total, ANDData = sortedArray['AND'].Total, ARAData = sortedArray['ARA'].Total, ASTData = sortedArray['AST'].Total, BALData = sortedArray['BAL'].Total
+    // , CANData = sortedArray['CAN'].Total, CNTData = sortedArray['CNT'].Total, ESPData = sortedArray['ESP'].Total, CLMData = sortedArray['CLM'].Total, CYLData = sortedArray['CYL'].Total
+    // , CATData = sortedArray['CAT'].Total, CEUData = sortedArray['CEU'].Total, VALData = sortedArray['VAL'].Total, EXTData = sortedArray['EXT'].Total, GALData = sortedArray['GAL'].Total
+    // , MADData = sortedArray['MAD'].Total, MELData = sortedArray['MEL'].Total, MURData = sortedArray['MUR'].Total, NAVData = sortedArray['NAV'].Total, PVAData = sortedArray['PVA'].Total
+    // , RIOData = sortedArray['RIO'].Total;
+
+    // let day = Fechas.indexOf('25/05/2020');
+    // let data = [ANDData[day], ARAData[day], ASTData[day], BALData[day], CANData[day]]

@@ -108,9 +108,9 @@ async function postPrevalenciaJSON(url) {
         })
 }
 
-var prevURL_31_05 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/?.html';
+var prevURL_02_06 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/?.html';
 
-postPrevalenciaJSON(prevURL_31_05);
+postPrevalenciaJSON(prevURL_02_06);
 
 
 

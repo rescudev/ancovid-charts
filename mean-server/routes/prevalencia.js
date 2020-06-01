@@ -5,8 +5,59 @@ const Prevalencia = require('../models/Prevalencia');
 //get all prevalencias
 router.get('/', async (req, res) => {
     try{
-        const prevalencias = await Prevalencia.find();
+        const prevalencias = await Prevalencia.find().sort({Date:1});
         res.json(prevalencias);
+    }catch(err){
+        res.json({message: err});
+    }
+});
+
+//get arrays hospitalizados
+router.get('/chart', async (req, res) => {
+    try{
+        const prevalencias = await Prevalencia.find().sort({Date:1});
+        var ANHospArray=[], ALUCIArray=[], ALHospArray=[], CAHospArray=[], CAUCIArray=[], COHospArray=[], COUCIArray=[], GRHospArray=[], GRUCIArray=[], HUHospArray=[], HUUCIArray=[],
+        JAHospArray=[], JAUCIArray=[], MAHospArray=[], MAUCIArray=[], SEHospArray=[], SEUCIArray=[], Fechas=[];
+
+        for(var key in prevalencias){
+            ANHospArray.push(prevalencias[key].ANHosp);
+            ALHospArray.push(prevalencias[key].ALHosp);
+            ALUCIArray.push(prevalencias[key].ALUCI);
+            CAHospArray.push(prevalencias[key].CAHosp);
+            CAUCIArray.push(prevalencias[key].CAUCI);
+            COHospArray.push(prevalencias[key].COHosp);
+            COUCIArray.push(prevalencias[key].COUCI);
+            GRHospArray.push(prevalencias[key].GRHosp);
+            GRUCIArray.push(prevalencias[key].GRUCI);
+            HUHospArray.push(prevalencias[key].HUHosp);
+            HUUCIArray.push(prevalencias[key].HUUCI);
+            JAHospArray.push(prevalencias[key].JAHosp);
+            JAUCIArray.push(prevalencias[key].JAUCI);
+            MAHospArray.push(prevalencias[key].MAHosp);
+            MAUCIArray.push(prevalencias[key].MAUCI);
+            SEHospArray.push(prevalencias[key].SEHosp);
+            SEUCIArray.push(prevalencias[key].SEUCI);
+            Fechas.push(prevalencias[key].Fecha)
+        }
+        var chartArray = {};
+        chartArray["ANHosp"] = ANHospArray;
+        chartArray["ALHosp"] = ALHospArray;
+        chartArray["ALUCI"] = ALUCIArray;
+        chartArray["CAHosp"] = CAHospArray;
+        chartArray["CAUCI"] = CAUCIArray;
+        chartArray["GRHosp"] = GRHospArray;
+        chartArray["GRUCI"] = GRUCIArray;
+        chartArray["HUHosp"] = HUHospArray;
+        chartArray["HUUCI"] = HUUCIArray;
+        chartArray["JAHosp"] = JAHospArray;
+        chartArray["JAUCI"] = JAUCIArray;
+        chartArray["MAHosp"] = MAHospArray;
+        chartArray["MAUCI"] = MAUCIArray;
+        chartArray["SEHosp"] = SEHospArray;
+        chartArray["SEUCI"] = SEUCIArray;
+        chartArray["Fechas"] = Fechas;
+
+        res.json(chartArray);
     }catch(err){
         res.json({message: err});
     }

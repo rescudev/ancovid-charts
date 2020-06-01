@@ -46,7 +46,7 @@ function scrapResidencias(Fecha){
 }
 
 function scrapTerritorios(){
-    fs.readFile('TerritoriosCVS/terMayo30-05.txt', 'utf-8', function(err, data) {
+    fs.readFile('TerritoriosCVS/terMayo.txt', 'utf-8', function(err, data) {
         if (err) throw err;
         let newValue = data.replace(/\s/g, '');
         newValue = newValue.split(";");
@@ -86,7 +86,7 @@ function scrapTerritorios(){
 }
 
 scrapTerritorios();
-// scrapResidencias("30/05/2020");
+// scrapResidencias("02/06/2020");
 
 //For terAbril.txt
 // for(var j = 0; j<(newValue.length-5); j+=24*9){

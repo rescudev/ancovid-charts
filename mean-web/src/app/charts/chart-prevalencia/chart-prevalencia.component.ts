@@ -18,41 +18,17 @@ export class ChartPrevalenciaComponent implements OnInit {
   }
 
   async makeChart() {
-    let sortedArray = await this.httpGet('http://localhost:3000/prevalencia');
-    sortedArray = sortedArray.sort(this.sortByProperty("Date"));
-    console.log(sortedArray);
+    let sortedArray = await this.httpGet('http://localhost:3000/prevalencia/chart');
 
-    var ANHospArray = [];
-    var ALHospArray = [];
-    var CAHospArray = [];
-    var COHospArray = [];
-    var GRHospArray = [];
-    var HUHospArray = [];
-    var JAHospArray = [];
-    var MAHospArray = [];
-    var SEHospArray = [];
-    var Fechas = [];
-
-    for(var key in sortedArray){
-      ANHospArray.push(sortedArray[key].ANHosp);
-      ALHospArray.push(sortedArray[key].ALHosp);
-      CAHospArray.push(sortedArray[key].CAHosp);
-      COHospArray.push(sortedArray[key].COHosp);
-      GRHospArray.push(sortedArray[key].GRHosp);
-      HUHospArray.push(sortedArray[key].HUHosp);
-      JAHospArray.push(sortedArray[key].JAHosp);
-      MAHospArray.push(sortedArray[key].MAHosp);
-      SEHospArray.push(sortedArray[key].SEHosp);
-      Fechas.push(sortedArray[key].Fecha)
-    }
-
+    var ANHospArray = sortedArray["ANHosp"], ALHospArray = sortedArray["ALHosp"], CAHospArray = sortedArray["CAHosp"], COHospArray = sortedArray["COHosp"], GRHospArray = sortedArray["GRHosp"],
+    HUHospArray = sortedArray["HUHosp"], JAHospArray = sortedArray["JAHosp"], MAHospArray = sortedArray["MAHosp"], SEHospArray = sortedArray["SEHosp"], Fechas = sortedArray["Fechas"];
 
     //Global Options
     Chart.defaults.global.defaultFontFamily = 'Lato';
     Chart.defaults.global.defaultFontSize = 18;
     Chart.defaults.global.defaultFontColor = '#777';
 
-    let myChart = new Chart("myChart", {
+    let myChartPrevalencia = new Chart("myChartPrevalencia", {
       type: 'line', // bar, horizontalBar, pie, line, doughnut, radar, polarArea
       data:{
         labels:Fechas,

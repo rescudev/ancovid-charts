@@ -1,0 +1,1 @@
+var prevURL_01_06 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/237099.html';
