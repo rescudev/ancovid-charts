@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Chart } from 'node_modules/chart.js';
+import { DataApiService} from 'src/app/services/data-api.service';
 
 @Component({
   selector: 'app-chart-prevalencia',
@@ -8,17 +9,23 @@ import { Chart } from 'node_modules/chart.js';
 })
 export class ChartPrevalenciaComponent implements OnInit {
 
-  constructor() { }
+  constructor(private dataApi: DataApiService) { }
+
+  ngOnInit() {
+    this.getApiPrevalencias();
+  }
+
+  getApiPrevalencias(){
+    let dataSource;
+    this.dataApi.getPrevalencia().subscribe((prevalencia) => { this.makeChart(prevalencia) });
+    return dataSource;
+  }
+
   onDownloadPDF() {
     alert("PDF saved");
   }
 
-  ngOnInit(): void {
-    this.makeChart();
-  }
-
-  async makeChart() {
-    let sortedArray = await this.httpGet('http://localhost:3000/prevalencia/chart');
+  async makeChart(sortedArray) {
 
     var ANHospArray = sortedArray["ANHosp"], ALHospArray = sortedArray["ALHosp"], CAHospArray = sortedArray["CAHosp"], COHospArray = sortedArray["COHosp"], GRHospArray = sortedArray["GRHosp"],
     HUHospArray = sortedArray["HUHosp"], JAHospArray = sortedArray["JAHosp"], MAHospArray = sortedArray["MAHosp"], SEHospArray = sortedArray["SEHosp"], Fechas = sortedArray["Fechas"];
@@ -158,17 +165,6 @@ export class ChartPrevalenciaComponent implements OnInit {
         return 0;
     }
   }
-
-  async httpGet(theUrl)
-  {
-      var xmlHttp = new XMLHttpRequest();
-      xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
-      xmlHttp.send( null );
-
-      var array = JSON.parse(xmlHttp.responseText);
-      return array;
-  }
-
 
 }
 

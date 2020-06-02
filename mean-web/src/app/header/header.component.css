@@ -29,5 +29,9 @@
 #toggleSideBarIn {
   position: fixed;
   bottom: 50%;
-  left: 170px;
+  left: 145px;
+}
+
+.mat-icon {
+  font-size: 75px;
 }

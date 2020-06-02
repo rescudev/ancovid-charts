@@ -86,6 +86,18 @@ router.get('/chart/:Fecha', async (req, res) => {
     }
 });
 
+router.get('/date', async (req, res) => {
+    try{
+        const pcrs = await PCR.find().sort({Date:-1});
+        let lastDate = pcrs[0].Fecha;
+        let lastDateFormat = lastDate.replace(/\//g, '-');
+        let dateJson = {"Fecha": lastDateFormat, "Date": pcrs[0].Date}
+        res.json(dateJson);
+    }catch(err){
+        res.json({message: err});
+    }
+});
+
 function compareTotal( a, b ) {
     if ( a.Total < b.Total ){
       return 1;

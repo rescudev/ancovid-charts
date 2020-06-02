@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Chart } from 'node_modules/chart.js';
-import {FormControl} from '@angular/forms';
+import { FormControl } from '@angular/forms';
+import { DataApiService} from 'src/app/services/data-api.service';
 
 @Component({
   selector: 'app-chart-pcrs',
@@ -11,13 +12,33 @@ import {FormControl} from '@angular/forms';
 
 export class ChartPcrsComponent implements OnInit {
   myChartPcrs;
-  date = new FormControl(new Date());
+  date = new FormControl();
   minDate: Date;
   maxDate: Date;
 
-  constructor() {
+  constructor(private dataApi: DataApiService) {
     this.minDate = new Date(2020, 3, 26);
-    this.maxDate =  new Date();
+    dataApi.getLastDate().subscribe((lastDate) =>
+    {
+      this.maxDate = lastDate['Date'];
+    });
+  }
+
+  ngOnInit() {
+
+    this.getApiPcrsLastDate();
+
+  }
+
+  getApiPcrsLastDate(){
+    this.dataApi.getLastDate().subscribe((lastDate) => {
+      this.dataApi.getPcrs(lastDate['Fecha']).subscribe((sortedPcrs) => { this.makeChart(lastDate['Fecha'], sortedPcrs); });
+
+    });
+  }
+
+  getApiPcrsAnyDate(dateSelected){
+    this.dataApi.getPcrs(dateSelected).subscribe((sortedPcrs) => { this.makeChart(dateSelected, sortedPcrs); });
   }
 
   onDownloadPDF() {
@@ -25,8 +46,12 @@ export class ChartPcrsComponent implements OnInit {
   }
 
   changeDate(date) {
+    this.myChartPcrs.destroy();
+    let dateFormated = this.formatDate(date);
+    this.getApiPcrsAnyDate(dateFormated);
+  }
 
-    //console.log(event.target.date.value);
+  formatDate(date) {
     let dia = date.getDate().toString();
     let month = date.getUTCMonth() + 1;
     if(dia < 10){
@@ -38,17 +63,10 @@ export class ChartPcrsComponent implements OnInit {
     if(month < 10){
       month = '0'+month;
     }
-    this.myChartPcrs.destroy();
-    this.makeChart(dia+'-'+month+'-'+date.getFullYear());
+    return (dia+'-'+month+'-'+date.getFullYear());
   }
 
-  ngOnInit(): void {
-    this.makeChart('30-05-2020');
-  }
-
-  async makeChart(date) {
-    let aux = date;
-    let sortedArray = await this.httpGet('http://localhost:3000/pcr/chart/'+aux);
+  async makeChart(date, sortedArray) {
 
     sortedArray.CCAAs.shift();
     let TotalSpain = sortedArray.Totales.shift();
@@ -78,7 +96,7 @@ export class ChartPcrsComponent implements OnInit {
       options:{
         title:{
           display:true,
-          text:'España - Nº Confirmados Totales por PCR ' + '('+TotalSpain+') a ' + aux,
+          text:'España - Nº Confirmados Totales por PCR ' + '('+TotalSpain+') a ' + date,
           fontSize:25
         },
         legend:{
@@ -111,15 +129,6 @@ export class ChartPcrsComponent implements OnInit {
     }
   }
 
-  async httpGet(theUrl)
-  {
-      var xmlHttp = new XMLHttpRequest();
-      xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
-      xmlHttp.send( null );
-
-      var array = JSON.parse(xmlHttp.responseText);
-      return array;
-  }
 }
 
 

@@ -1,0 +1,23 @@
+div.GitDiv{
+  padding-top: 4px;
+}
+
+div.ContDiv{
+  padding-top: 6px;
+}
+
+div.GobDiv{
+  padding-top: 4px;
+}
+
+div.JuntaDiv{
+  padding-top: 6px;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+span{
+  padding-right: 15px;
+}
