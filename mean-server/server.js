@@ -30,11 +30,13 @@ app.use('/territorio', territorioRoute);
 //     res.send('We are on home');
 // });
 
-app.use(express.static('./mean-web/dist/mean-web'));
+if (process.env.NODE_ENV === 'production'){
+    app.use(express.static('./mean-web/dist/mean-web'));
 
-app.get('*', (req, res) => {
-    res.sendFile('index.html', {root: 'mean-web/dist/mean-web/'});
-});
+    app.get('*', (req, res) => {
+        res.sendFile('index.html', {root: 'mean-web/dist/mean-web/'});
+    });
+}    
 
 //connect to db
 mongoose.connect(

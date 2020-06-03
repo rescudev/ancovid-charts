@@ -1,0 +1,10 @@
+#divUci{
+  display: block;
+}
+
+mat-card {
+  position: relative;
+  padding-bottom: 1%;
+  margin: auto;
+  margin-bottom: 30px;
+}

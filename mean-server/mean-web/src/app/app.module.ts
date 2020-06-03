@@ -17,6 +17,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ChartPrevalenciaComponent } from './charts/chart-prevalencia/chart-prevalencia.component';
 import { ChartPcrsComponent } from './charts/chart-pcrs/chart-pcrs.component';
+import { ChartUciComponent } from './charts/chart-uci/chart-uci.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { LayoutModule } from '@angular/cdk/layout';
@@ -30,7 +31,8 @@ import { DataApiService } from 'src/app/services/data-api.service';
     HeaderComponent,
     FooterComponent,
     ChartPrevalenciaComponent,
-    ChartPcrsComponent
+    ChartPcrsComponent,
+    ChartUciComponent
   ],
   imports: [
     FormsModule,

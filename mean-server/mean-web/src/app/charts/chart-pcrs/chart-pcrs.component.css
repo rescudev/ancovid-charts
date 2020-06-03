@@ -9,49 +9,20 @@ mat-card {
   margin-bottom: 30px;
 }
 
-::ng-deep .mat-focused .mat-form-field-label {
-  /*change color of label*/
-  color: red !important;
- }
-
- ::ng-deep .mat-form-field-underline {
+::ng-deep .mat-form-field-underline {
   /*change color of underline*/
   background-color: red !important;
- }
+}
 
- input, select, textarea{
+input, select, textarea{
   color: red;
 }
- ::ng-deep .mat-form-field-ripple {
-  /*change color of underline when focused*/
-  background-color: red !important;;
- }
 
- ::ng-deep .mat-form-field-label {
+::ng-deep .mat-form-field-label {
   /*change color of label*/
   color: red !important;
- }
+}
 
- ::ng-deep .mat-form-input-value {
-  /*change color of label*/
+mat-datepicker-toggle {
   color: red !important;
- }
-
- ::ng-deep datepicker-value-example .mat-form-field-label{
-  color:red;
 }
-::ng-deep .mat-form-field-empty .mat-form-field-label {
-  color: blue;
-}
-
-.mat-focused .mat-form-input-value{
-  background-color: black !important;
-  color:red !important;
-}
-.mat-form-input-value{
-  background-color: black !important;
-  color:red !important;
-}
- mat-datepicker-toggle {
-  color: red !important;
- }

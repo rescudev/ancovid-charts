@@ -20,10 +20,14 @@ function scrapResidencias(Fecha){
             }
         }
     
-        for(var j = 0; j<(newValue.length-4); j+=18){
+        
+        // for(var j = 0; j<(newValue.length-4); j+=18){
+        //Since 2020-06-02
+        for(var j = 0; j<(newValue.length-4); j+=21){    
             let dataInJSON;    
             if(newValue[j+5]>-1){
-                dataInJSON = JSON.parse('{ "Residencia": "'+newValue[j+3]+'", "Poblacion": '+newValue[j+5]+', "Confirmados": '+newValue[j+8]+', "ConfirmadosPCR": '+newValue[j+11]+', "Fallecidos": '+newValue[j+14]+', "Curados": '+newValue[j+17]+', "ConfirmadosTotal": '+newValue[j+20]+'}');
+                // dataInJSON = JSON.parse('{ "Residencia": "'+newValue[j+3]+'", "Poblacion": '+newValue[j+5]+', "Confirmados": '+newValue[j+8]+', "ConfirmadosPCR": '+newValue[j+11]+', "Fallecidos": '+newValue[j+14]+', "Curados": '+newValue[j+17]+', "ConfirmadosTotal": '+newValue[j+20]+'}');
+                dataInJSON = JSON.parse('{ "Residencia": "'+newValue[j+3]+'", "Poblacion": '+newValue[j+5]+', "Confirmados": '+newValue[j+8]+', "ConfirmadosPCR": '+newValue[j+11]+', "ConfirmadosPCR7d": '+newValue[j+14]+', "Fallecidos": '+newValue[j+17]+', "Curados": '+newValue[j+20]+', "ConfirmadosTotal": '+newValue[j+23]+'}');
             }
             finalParts.push(dataInJSON);
         }
@@ -46,7 +50,7 @@ function scrapResidencias(Fecha){
 }
 
 function scrapTerritorios(){
-    fs.readFile('TerritoriosCVS/terMayo.txt', 'utf-8', function(err, data) {
+    fs.readFile('TerritoriosCVS/terJunio.txt', 'utf-8', function(err, data) {
         if (err) throw err;
         let newValue = data.replace(/\s/g, '');
         newValue = newValue.split(";");
@@ -58,8 +62,8 @@ function scrapTerritorios(){
         }
         console.log(newValue.length);
         //x JSON => j < (252*x)
-        for(var j = 0; j<(252*2); j+=28*9){
-        // for(var j = 0; j<(newValue.length-5); j+=28*9){
+        // for(var j = 0; j<(252*2); j+=28*9){
+        for(var j = 0; j<(newValue.length-5); j+=28*9){
             let finalParts = [];
             for(var i = 0; i<28*9; i+=28){
                 let dataInJSON;    
@@ -86,7 +90,7 @@ function scrapTerritorios(){
 }
 
 scrapTerritorios();
-// scrapResidencias("02/06/2020");
+// scrapResidencias("03/06/2020");
 
 //For terAbril.txt
 // for(var j = 0; j<(newValue.length-5); j+=24*9){

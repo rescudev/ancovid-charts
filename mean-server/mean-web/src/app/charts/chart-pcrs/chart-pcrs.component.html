@@ -1,14 +1,14 @@
-<mat-card class="mat-elevation-z6" [style.backgroundColor]="'white'">
+<mat-card id="divPcrs" class="mat-elevation-z6" [style.backgroundColor]="'white'">
 
     <mat-form-field color="accent">
       <mat-label>Fecha</mat-label>
       <input matInput [min]="minDate" [max]="maxDate" [matDatepicker]="picker1"
-       (dateChange)="changeDate(date.value)" [formControl]="date">
+       (dateChange)="changeDate(date.value)" [formControl]="date" readonly>
       <mat-datepicker-toggle matSuffix [for]="picker1"></mat-datepicker-toggle>
       <mat-datepicker #picker1></mat-datepicker>
     </mat-form-field>
 
-  <div id="divPcrs" style="position: relative; padding-bottom: 1%;" >
+  <div  style="position: relative; padding-bottom: 1%;" >
     <canvas id="myChartPcrs"></canvas>
   </div>
   <button
