@@ -40,7 +40,7 @@ app.get('*', (req, res) => {
 mongoose.connect(
     process.env.DB_CONNECTION || process.env.MONGOLAB_URI,
     { useNewUrlParser: true, useUnifiedTopology: true},() => 
-    console.log('Connected to db Heroku')
+    console.log('Connected to db')
 ); 
 
 //Listen to server
