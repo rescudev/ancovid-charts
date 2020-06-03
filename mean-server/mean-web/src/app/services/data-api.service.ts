@@ -10,17 +10,17 @@ export class DataApiService {
   constructor(private http: HttpClient) { }
 
   getPrevalencia(){
-    const url_api = 'prevalencia/chart';
+    const url_api = 'http://localhost:3000/prevalencia/chart';
     return this.http.get(url_api);
   }
 
   getPcrs(Fecha){
-    const url_api = 'pcr/chart/'+Fecha;
+    const url_api = 'http://localhost:3000/pcr/chart/'+Fecha;
     return this.http.get(url_api);
   }
 
   getLastDate(){
-    const url_api = 'pcr/date';
+    const url_api = 'http://localhost:3000/pcr/date';
     return this.http.get(url_api);
   }
 

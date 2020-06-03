@@ -17,7 +17,7 @@ const hospitalizadoRoute = require('./routes/hospitalizado');
 const residenciaRoute = require('./routes/residencia');
 const territorioRoute = require('./routes/territorio');
 
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 3000;
 
 app.use('/prevalencia', prevalenciaRoute);
 app.use('/pcr', pcrRoute);
