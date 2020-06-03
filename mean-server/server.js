@@ -39,7 +39,7 @@ app.get('*', (req, res) => {
 //connect to db
 mongoose.connect(
     process.env.DB_CONNECTION || process.env.MONGOLAB_URI,
-    { useNewUrlParser: true, useUnifiedTopology: true},() => 
+    { useNewUrlParser: true, useUnifiedTopology: true, dbName: "ancovid-db"},() => 
     console.log('Connected to db')
 ); 
 
