@@ -105,7 +105,7 @@ export class ChartPcrsComponent implements OnInit {
         title:{
           display:true,
           text:'España - Nº Confirmados Totales por PCR ' + '('+TotalSpain+') a ' + date,
-          fontSize:25
+          fontSize:23
         },
         legend:{
           display:false,

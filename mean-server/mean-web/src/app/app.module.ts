@@ -26,6 +26,8 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { DataApiService } from 'src/app/services/data-api.service';
 import { SelectProvinciasComponent } from './elements/select-provincias/select-provincias.component';
+import { FaqDialogComponent } from './elements/faq-dialog/faq-dialog.component';
+import { TipsDialogComponent } from './elements/tips-dialog/tips-dialog.component';
 
 @NgModule({
   declarations: [
@@ -35,7 +37,9 @@ import { SelectProvinciasComponent } from './elements/select-provincias/select-p
     ChartPrevalenciaComponent,
     ChartPcrsComponent,
     ChartUciComponent,
-    SelectProvinciasComponent
+    SelectProvinciasComponent,
+    FaqDialogComponent,
+    TipsDialogComponent
   ],
   imports: [
     FormsModule,

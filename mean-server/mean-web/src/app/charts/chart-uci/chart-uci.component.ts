@@ -105,7 +105,7 @@ export class ChartUciComponent implements OnInit {
         title:{
           display:true,
           text:'Almería - Prevalencia - Hospitalizados/UCI',
-          fontSize:25
+          fontSize:23
         },
         legend:{
           display:true,
