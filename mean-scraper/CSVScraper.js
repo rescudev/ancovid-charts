@@ -90,7 +90,7 @@ function scrapTerritorios(){
 }
 
 scrapTerritorios();
-// scrapResidencias("03/06/2020");
+// scrapResidencias("04/06/2020");
 
 //For terAbril.txt
 // for(var j = 0; j<(newValue.length-5); j+=24*9){

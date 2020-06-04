@@ -71,7 +71,7 @@ export class ChartPrevalenciaComponent implements OnInit {
         {
           label:'Córdoba',
           data:COHospArray,
-          backgroundColor:'rgba(0, 51, 153, 0.5)',
+          backgroundColor:'rgba(207, 117, 0, 0.5)',
           borderWidth:1,
           borderColor:'#777',
           hoverBorderWidht:3,
@@ -91,7 +91,7 @@ export class ChartPrevalenciaComponent implements OnInit {
         {
           label:'Huelva',
           data:HUHospArray,
-          backgroundColor:'rgba(204, 0, 204, 0.5)',
+          backgroundColor:'rgba(86, 35, 73, 0.8)',
           borderWidth:1,
           borderColor:'#777',
           hoverBorderWidht:3,
@@ -150,21 +150,18 @@ export class ChartPrevalenciaComponent implements OnInit {
             bottom:0,
             top:0
           }
+        },
+        scales: {
+          yAxes: [{
+            ticks: {
+              beginAtZero: true,
+            }
+          }]
         }
       }
     });
   }
 
-  sortByProperty(property){
-    return function(a,b){
-        if(a[property] > b[property])
-          return 1;
-        else if(a[property] < b[property])
-          return -1;
-
-        return 0;
-    }
-  }
 
 }
 

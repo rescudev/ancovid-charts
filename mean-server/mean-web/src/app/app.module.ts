@@ -11,6 +11,7 @@ import { MatListModule } from '@angular/material/list';
 import { MatDatepickerModule } from '@angular/material/datepicker';
 import { MatNativeDateModule } from '@angular/material/core';
 import { MatFormFieldModule } from '@angular/material/form-field';
+import { MatSelectModule } from '@angular/material/select';
 
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AppRoutingModule } from './app-routing.module';
@@ -24,6 +25,7 @@ import { LayoutModule } from '@angular/cdk/layout';
 import { HttpClientModule } from '@angular/common/http';
 
 import { DataApiService } from 'src/app/services/data-api.service';
+import { SelectProvinciasComponent } from './elements/select-provincias/select-provincias.component';
 
 @NgModule({
   declarations: [
@@ -32,7 +34,8 @@ import { DataApiService } from 'src/app/services/data-api.service';
     FooterComponent,
     ChartPrevalenciaComponent,
     ChartPcrsComponent,
-    ChartUciComponent
+    ChartUciComponent,
+    SelectProvinciasComponent
   ],
   imports: [
     FormsModule,
@@ -51,7 +54,8 @@ import { DataApiService } from 'src/app/services/data-api.service';
     MatDatepickerModule,
     MatFormFieldModule,
     MatNativeDateModule,
-    HttpClientModule
+    HttpClientModule,
+    MatSelectModule
   ],
   providers: [DataApiService],
   bootstrap: [AppComponent]
