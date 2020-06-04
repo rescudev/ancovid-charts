@@ -1,0 +1,20 @@
+
+mat-select {
+  color: red !important;
+}
+
+:host /deep/ .mat-select-value-text {
+  color: red !important;
+}
+
+:host /deep/ .mat-select-value-text.mat-focused {
+  color: red !important;
+}
+
+.mat-form-field.mat-focused {
+  color: red;
+}
+
+input, select, textarea{
+  color: red;
+}

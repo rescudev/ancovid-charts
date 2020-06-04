@@ -30,16 +30,18 @@ app.use('/territorio', territorioRoute);
 //     res.send('We are on home');
 // });
 
-app.use(express.static('./mean-web/dist/mean-web'));
+if (process.env.NODE_ENV === 'production'){
+    app.use(express.static('./mean-web/dist/mean-web'));
 
-app.get('*', (req, res) => {
-    res.sendFile('index.html', {root: 'mean-web/dist/mean-web/'});
-});
+    app.get('*', (req, res) => {
+        res.sendFile('index.html', {root: 'mean-web/dist/mean-web/'});
+    });
+}    
 
 //connect to db
 mongoose.connect(
     process.env.DB_CONNECTION || process.env.MONGOLAB_URI,
-    { useNewUrlParser: true, useUnifiedTopology: true},() => 
+    { useNewUrlParser: true, useUnifiedTopology: true, dbName: "ancovid-db"},() => 
     console.log('Connected to db')
 ); 
 

@@ -9,7 +9,6 @@ import { DataApiService} from 'src/app/services/data-api.service';
   styleUrls: ['./chart-pcrs.component.css']
 })
 
-
 export class ChartPcrsComponent implements OnInit {
   myChartPcrs;
   date = new FormControl();
@@ -25,30 +24,34 @@ export class ChartPcrsComponent implements OnInit {
   }
 
   ngOnInit() {
-
     this.getApiPcrsLastDate();
-
   }
 
   getApiPcrsLastDate(){
     this.dataApi.getLastDate().subscribe((lastDate) => {
       this.dataApi.getPcrs(lastDate['Fecha']).subscribe((sortedPcrs) => { this.makeChart(lastDate['Fecha'], sortedPcrs); });
-
     });
   }
 
   getApiPcrsAnyDate(dateSelected){
-    this.dataApi.getPcrs(dateSelected).subscribe((sortedPcrs) => { this.makeChart(dateSelected, sortedPcrs); });
-  }
-
-  onDownloadPDF() {
-    alert("PDF saved");
+    this.dataApi.getPcrs(dateSelected).subscribe((sortedPcrs) => {
+      this.updateChart(dateSelected, sortedPcrs);
+    });
   }
 
   changeDate(date) {
-    this.myChartPcrs.destroy();
     let dateFormated = this.formatDate(date);
     this.getApiPcrsAnyDate(dateFormated);
+  }
+
+  updateChart(date, sortedPcrs) {
+      let TotalSpain = sortedPcrs.Totales.shift();
+      for(var key in sortedPcrs.CCAAs){
+        sortedPcrs.CCAAs[key] = sortedPcrs.CCAAs[key].replace(/_/g, ' ');
+      }
+      this.myChartPcrs.data.datasets[0].data = sortedPcrs.Totales;
+      this.myChartPcrs.options.title.text = 'España - Nº Confirmados Totales por PCR ' + '('+TotalSpain+') a ' + date;
+      this.myChartPcrs.update();
   }
 
   formatDate(date) {
@@ -66,17 +69,22 @@ export class ChartPcrsComponent implements OnInit {
     return (dia+'-'+month+'-'+date.getFullYear());
   }
 
-  async makeChart(date, sortedArray) {
+  onDownloadPDF() {
+    alert("PDF saved");
+  }
 
-    sortedArray.CCAAs.shift();
-    let TotalSpain = sortedArray.Totales.shift();
+  async makeChart(date, sortedArray) {
     //Global Options
     Chart.defaults.global.defaultFontFamily = 'Lato';
     Chart.defaults.global.defaultFontSize = 18;
     Chart.defaults.global.defaultFontColor = '#777';
+
+    sortedArray.CCAAs.shift();
+    let TotalSpain = sortedArray.Totales.shift();
     for(var key in sortedArray.CCAAs){
       sortedArray.CCAAs[key] = sortedArray.CCAAs[key].replace(/_/g, ' ');
     }
+
     this.myChartPcrs = new Chart("myChartPcrs", {
       type: 'horizontalBar', // bar, horizontalBar, pie, line, doughnut, radar, polarArea
       data:{
@@ -116,17 +124,6 @@ export class ChartPcrsComponent implements OnInit {
         }
       }
     });
-  }
-
-  sortByProperty(property){
-    return function(a,b){
-        if(a[property] > b[property])
-          return 1;
-        else if(a[property] < b[property])
-          return -1;
-
-        return 0;
-    }
   }
 
 }
