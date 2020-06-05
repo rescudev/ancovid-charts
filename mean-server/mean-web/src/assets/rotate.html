@@ -26,10 +26,9 @@
     window.addEventListener("orientationchange", function() {
       console.log("the orientation of the device is now " + screen.orientation.angle);
       if(screen.orientation.angle > 45){
-        window.location.href = "http://localhost:4200/";
-        console.log('aaa');
+        window.location.href = "https://ancovidcharts.herokuapp.com/";
       }else{
-        window.location.href = "http://localhost:4200/assets/rotate.html";
+        window.location.href = "https://ancovidcharts.herokuapp.com/assets/rotate.html";
       }
     });
 </script>
