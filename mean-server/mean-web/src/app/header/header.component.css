@@ -34,9 +34,9 @@ span{
 #toggleSideBarIn {
   position: fixed;
   bottom: 50%;
-  left: 145px;
+  left: 155px;
 }
 
 .mat-icon {
-  font-size: 70px;
+  font-size: 65px;
 }

@@ -59,7 +59,7 @@ export class ChartUciComponent implements OnInit {
       let dataHosp = sortedArray[sigla+"Hosp"];
       this.myChartUci.data.datasets[0].data = dataUci;
       this.myChartUci.data.datasets[1].data = dataHosp;
-      this.myChartUci.options.title.text = prov + ' - Prevalencia - Hospitalizados/UCI';
+      this.myChartUci.options.title.text = prov + ' - Prevalencia - Hospitalizados&UCI';
       this.myChartUci.update();
     });
   }
@@ -104,7 +104,7 @@ export class ChartUciComponent implements OnInit {
       options:{
         title:{
           display:true,
-          text:'Almería - Prevalencia - Hospitalizados/UCI',
+          text:'Almería - Prevalencia - Hospitalizados&UCI',
           fontSize:23
         },
         legend:{
