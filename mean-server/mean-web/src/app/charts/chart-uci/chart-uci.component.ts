@@ -105,13 +105,16 @@ export class ChartUciComponent implements OnInit {
         title:{
           display:true,
           text:'Almería - Prevalencia - Hospitalizados/UCI',
-          fontSize:25
+          fontSize:23
         },
         legend:{
           display:true,
           position:'right',
           labels:{
-            fontColor:'#000'
+            boxWidth: 20,
+            padding: 6,
+            fontColor:'#000',
+            fontSize: 15
           }
         },
         tooltips: {

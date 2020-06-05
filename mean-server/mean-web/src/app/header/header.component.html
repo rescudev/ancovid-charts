@@ -21,10 +21,15 @@
       <img src="assets/img/ancovid-logo.png" width=75px>
       Ancovid
       <span class="spacer"></span>
-      <a mat-button href="#divPrevalencia">Prevalencia</a>
-      <a mat-button href="#divUci">Hospitalizados/UCI</a>
-      <a mat-button href="#divPcrs">PCRs</a>
-      <button mat-raised-button>FAQ</button>
+      <span>
+        <a mat-button href="#divPrevalencia">Prevalencia</a>
+        <a mat-button href="#divUci">Hospitalizados/UCI</a>
+        <a mat-button href="#divPcrs">PCRs</a>
+      </span>
+      <span>
+        <app-tips-dialog></app-tips-dialog>
+      </span>
+      <app-faq-dialog></app-faq-dialog>
     </mat-toolbar>
     <!-- Add Content Here -->
   </mat-sidenav-content>

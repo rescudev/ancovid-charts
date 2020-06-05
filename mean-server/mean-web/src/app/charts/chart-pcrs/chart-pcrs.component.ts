@@ -76,7 +76,7 @@ export class ChartPcrsComponent implements OnInit {
   async makeChart(date, sortedArray) {
     //Global Options
     Chart.defaults.global.defaultFontFamily = 'Lato';
-    Chart.defaults.global.defaultFontSize = 18;
+    Chart.defaults.global.defaultFontSize = 14;
     Chart.defaults.global.defaultFontColor = '#777';
 
     sortedArray.CCAAs.shift();
@@ -105,7 +105,7 @@ export class ChartPcrsComponent implements OnInit {
         title:{
           display:true,
           text:'España - Nº Confirmados Totales por PCR ' + '('+TotalSpain+') a ' + date,
-          fontSize:25
+          fontSize:22
         },
         legend:{
           display:false,

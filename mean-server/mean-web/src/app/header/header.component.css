@@ -1,6 +1,6 @@
-.mat-raised-button {
-  background-color: #ffd31d;
 
+span{
+  padding-right: 15px;
 }
 
 .sidenav-container {
@@ -28,7 +28,7 @@
 #toggleSideBarOut {
   position: fixed;
   bottom: 50%;
-  left: 0px;
+  left: -10px;
 }
 
 #toggleSideBarIn {
@@ -38,5 +38,5 @@
 }
 
 .mat-icon {
-  font-size: 75px;
+  font-size: 70px;
 }

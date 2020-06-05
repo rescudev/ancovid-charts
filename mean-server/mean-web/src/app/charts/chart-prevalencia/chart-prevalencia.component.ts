@@ -134,14 +134,23 @@ export class ChartPrevalenciaComponent implements OnInit {
         title:{
           display:true,
           text:'Andalucía - Prevalencia - Hospitalizados',
-          fontSize:25
+          fontSize: 23,
+          padding: 5
         },
         legend:{
+          fullWidth:false,
           display:true,
           position:'right',
+          reverse: true,
+          //TODO CONSEGUIR SEGUN VIEW A RIGHT O LEFT, LOCK SCREEN LANDSCAPE
           labels:{
-            fontColor:'#000'
-          }
+            // usePointStyle: true,
+            boxWidth: 20,
+            padding: 6,
+            fontColor:'#000',
+            fontSize: 15
+          },
+
         },
         layout:{
           padding:{
