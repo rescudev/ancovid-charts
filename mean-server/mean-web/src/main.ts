@@ -14,7 +14,7 @@ platformBrowserDynamic().bootstrapModule(AppModule)
   var orientation = (screen.orientation || {}).type;
 
   if (orientation === "portrait-secondary" || orientation === "portrait-primary") {
-    window.location.href = "assets/rotate.html";
+    window.location.href = "http://localhost:4200/assets/rotate.html";
   } else if (orientation === undefined) {
     console.log("The orientation API isn't supported in this browser :(");
   }
@@ -22,8 +22,8 @@ platformBrowserDynamic().bootstrapModule(AppModule)
   window.addEventListener("orientationchange", function() {
     console.log("the orientation of the device is now " + screen.orientation.angle);
     if(screen.orientation.angle < 45){
-      window.location.href = "assets/rotate.html";
+      window.location.href = "http://localhost:4200/assets/rotate.html";
     }else{
-      window.location.href = "#";
+      window.location.href = "http://localhost:4200/";
     }
   });
