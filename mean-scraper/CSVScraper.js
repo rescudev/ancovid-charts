@@ -63,11 +63,13 @@ function scrapTerritorios(){
         console.log(newValue.length);
         //x JSON => j < (252*x)
         // for(var j = 0; j<(252*2); j+=28*9){
-        for(var j = 0; j<(newValue.length-5); j+=28*9){
+        // for(var j = 0; j<(newValue.length-5); j+=28*9){
+        //Since June    
+        for(var j = 0; j<(newValue.length-5); j+=32*9){    
             let finalParts = [];
-            for(var i = 0; i<28*9; i+=28){
+            for(var i = 0; i<32*9; i+=32){
                 let dataInJSON;    
-                dataInJSON = JSON.parse('{ "Territorio": "'+newValue[j+i+5]+'", "ConfirmadosPCR": '+newValue[j+i+7]+', "ConfirmadosPCR14d": '+newValue[j+i+11]+', "Hospitalizados": '+newValue[j+i+15]+', "TotalUCI": '+newValue[j+i+19]+', "Fallecimientos": '+newValue[j+i+23]+', "Curados": '+newValue[j+i+27]+', "ConfirmadosTotal": '+newValue[j+i+31]+'}');
+                dataInJSON = JSON.parse('{ "Territorio": "'+newValue[j+i+5]+'", "ConfirmadosPCR": '+newValue[j+i+7]+', "ConfirmadosPCR14d": '+newValue[j+i+11]+', "ConfirmadosPCR7d": '+newValue[j+i+15]+', "Hospitalizados": '+newValue[j+i+19]+', "TotalUCI": '+newValue[j+i+23]+', "Fallecimientos": '+newValue[j+i+27]+', "Curados": '+newValue[j+i+31]+', "ConfirmadosTotal": '+newValue[j+i+35]+'}');
                 finalParts.push(dataInJSON);
             }
             let finalJSON = {"Date": convertToJSONDate(newValue[j+4]), "Fecha": newValue[j+4], "Territorios": finalParts };

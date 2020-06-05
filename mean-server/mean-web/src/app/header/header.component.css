@@ -28,7 +28,7 @@ span{
 #toggleSideBarOut {
   position: fixed;
   bottom: 50%;
-  left: 0px;
+  left: -10px;
 }
 
 #toggleSideBarIn {
@@ -38,5 +38,5 @@ span{
 }
 
 .mat-icon {
-  font-size: 75px;
+  font-size: 70px;
 }

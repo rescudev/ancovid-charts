@@ -12,6 +12,7 @@ import { MatDatepickerModule } from '@angular/material/datepicker';
 import { MatNativeDateModule } from '@angular/material/core';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatSelectModule } from '@angular/material/select';
+import { MatDialogModule } from '@angular/material/dialog';
 
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AppRoutingModule } from './app-routing.module';
@@ -27,7 +28,9 @@ import { HttpClientModule } from '@angular/common/http';
 import { DataApiService } from 'src/app/services/data-api.service';
 import { SelectProvinciasComponent } from './elements/select-provincias/select-provincias.component';
 import { FaqDialogComponent } from './elements/faq-dialog/faq-dialog.component';
+import { FaqDialogComponentDialog } from './elements/faq-dialog/faq-dialog.component';
 import { TipsDialogComponent } from './elements/tips-dialog/tips-dialog.component';
+import { TipsDialogComponentDialog } from './elements/tips-dialog/tips-dialog.component';
 
 @NgModule({
   declarations: [
@@ -39,7 +42,9 @@ import { TipsDialogComponent } from './elements/tips-dialog/tips-dialog.componen
     ChartUciComponent,
     SelectProvinciasComponent,
     FaqDialogComponent,
-    TipsDialogComponent
+    FaqDialogComponentDialog,
+    TipsDialogComponent,
+    TipsDialogComponentDialog
   ],
   imports: [
     FormsModule,
@@ -59,7 +64,8 @@ import { TipsDialogComponent } from './elements/tips-dialog/tips-dialog.componen
     MatFormFieldModule,
     MatNativeDateModule,
     HttpClientModule,
-    MatSelectModule
+    MatSelectModule,
+    MatDialogModule
   ],
   providers: [DataApiService],
   bootstrap: [AppComponent]

@@ -111,7 +111,10 @@ export class ChartUciComponent implements OnInit {
           display:true,
           position:'right',
           labels:{
-            fontColor:'#000'
+            boxWidth: 20,
+            padding: 6,
+            fontColor:'#000',
+            fontSize: 15
           }
         },
         tooltips: {

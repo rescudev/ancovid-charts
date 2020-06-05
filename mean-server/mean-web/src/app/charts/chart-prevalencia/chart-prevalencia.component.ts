@@ -141,9 +141,12 @@ export class ChartPrevalenciaComponent implements OnInit {
           fullWidth:false,
           display:true,
           position:'right',
-          //align:'start',
+          reverse: true,
           //TODO CONSEGUIR SEGUN VIEW A RIGHT O LEFT, LOCK SCREEN LANDSCAPE
           labels:{
+            // usePointStyle: true,
+            boxWidth: 20,
+            padding: 6,
             fontColor:'#000',
             fontSize: 15
           },
