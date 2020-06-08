@@ -1,0 +1,33 @@
+<mat-card id="divCCAAs" class="mat-elevation-z6" [style.backgroundColor]="'white'">
+
+  <mat-form-field color="warn">
+    <mat-label>Comunidades</mat-label>
+    <mat-select  [(ngModel)]="initialValue" (selectionChange)="changeProvincia(selectedValue)" [(ngModel)]="selectedValue" name="comunidades" multiple>
+      <mat-option *ngFor="let ccaa of CCAAs" [value]="ccaa.nombre">
+        {{ccaa.nombre}}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <!-- (selectionChange)="changeProvincia(selectedValue)" -->
+
+  <div style="position: relative; padding-bottom: 1%;" >
+    <canvas id="myChartCCAAs"></canvas>
+  </div>
+</mat-card>
+<div>
+  <button
+    mat-raised-button
+    color="warn"
+    style="position: relative;"
+    (click)="onDownloadPDF()">Descargar Pdf
+  </button>
+</div>
+
+
+
+
+
+
+
+

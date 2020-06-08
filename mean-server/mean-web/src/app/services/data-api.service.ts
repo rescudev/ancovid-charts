@@ -19,6 +19,11 @@ export class DataApiService {
     return this.http.get(url_api);
   }
 
+  getHospitalizados(){
+    const url_api = 'http://localhost:3000/hospitalizado/chart';
+    return this.http.get(url_api);
+  }
+
   getPcrs(Fecha){
     const url_api = 'http://localhost:3000/pcr/chart/'+Fecha;
     return this.http.get(url_api);

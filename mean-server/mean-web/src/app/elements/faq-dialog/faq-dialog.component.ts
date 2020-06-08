@@ -13,7 +13,7 @@ export class FaqDialogComponent {
   openDialog() {
     const dialogRef = this.dialog.open(FaqDialogComponentDialog , {
       height: '80%',
-      width: '50%',
+      width: '80%',
     });
 
     dialogRef.afterClosed().subscribe(result => {

@@ -74,7 +74,7 @@ export class ChartUciComponent implements OnInit {
 
     //Global Options
     Chart.defaults.global.defaultFontFamily = 'Lato';
-    Chart.defaults.global.defaultFontSize = 18;
+    Chart.defaults.global.defaultFontSize = 12;
     Chart.defaults.global.defaultFontColor = '#777';
 
     this.myChartUci = new Chart("myChartUci", {
@@ -140,7 +140,7 @@ export class ChartUciComponent implements OnInit {
         },
         layout:{
           padding:{
-            left:50,
+            left:0,
             right:0,
             bottom:0,
             top:0

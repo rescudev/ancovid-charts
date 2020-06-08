@@ -31,6 +31,19 @@ span{
   left: -10px;
 }
 
+#toggleFaq {
+  position: fixed;
+  top: 10px;
+  left: 140px;
+}
+
+#toggleInfo {
+  position: fixed;
+  top: 10px;
+  left: 90px;
+
+}
+
 #toggleSideBarIn {
   position: fixed;
   bottom: 50%;

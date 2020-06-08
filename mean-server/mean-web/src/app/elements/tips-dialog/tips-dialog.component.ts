@@ -13,7 +13,7 @@ export class TipsDialogComponent {
   openDialog() {
     const dialogRef = this.dialog.open(TipsDialogComponentDialog , {
       height: '80%',
-      width: '50%',
+      width: '80%',
     });
 
     dialogRef.afterClosed().subscribe(result => {

@@ -3,7 +3,7 @@
     <mat-toolbar>Gráficas</mat-toolbar>
     <mat-nav-list>
       <a mat-list-item href="#divPrevalencia">Prevalencia</a>
-      <a mat-list-item href="#divUci">Hospitalizados&UCI</a>
+      <a mat-list-item href="#divUci">Hosp&UCI</a>
       <a mat-list-item href="#divPcrs">PCRs</a>
       <a mat-list-item href="#">Volver Arriba</a>
     </mat-nav-list>
@@ -14,6 +14,22 @@
       mat-icon-button
       (click)="drawer.toggle()">
       <mat-icon aria-label="Side nav toggle icon">arrow_back_ios</mat-icon>
+    </button>
+    <button
+      id="toggleInfo"
+      type="button"
+      aria-label="Toggle info"
+      mat-icon-button
+      (click)="openDialogTips()">
+      <mat-icon style="font-size: 45px;" aria-label="Side nav toggle icon">info_outline</mat-icon>
+    </button>
+    <button
+      id="toggleFaq"
+      type="button"
+      aria-label="Toggle faq"
+      mat-icon-button
+      (click)="openDialogFaq()">
+      <mat-icon style="font-size: 45px;" aria-label="Side nav toggle icon">help_outline</mat-icon>
     </button>
   </mat-sidenav>
   <mat-sidenav-content>
@@ -41,5 +57,10 @@
   aria-label="Toggle sidenav"
   mat-icon-button
   (click)="drawer.toggle()">
-  <mat-icon aria-label="Side nav toggle icon">arrow_forward_ios</mat-icon>
+  <mat-icon aria-label="Side nav toggle icon">double_arrow</mat-icon>
 </button>
+
+
+
+
+

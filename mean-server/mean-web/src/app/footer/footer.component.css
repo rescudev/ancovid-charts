@@ -21,3 +21,7 @@ div.JuntaDiv{
 span{
   padding-right: 15px;
 }
+
+mat-toolbar{
+  margin-top: 30px;
+}
