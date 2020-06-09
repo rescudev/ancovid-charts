@@ -68,11 +68,6 @@ export class ChartCCAAsComponent implements OnInit {
 
         this.makeChart(ccaas, initialHosp, initialFall, initialUCI);
 
-
-        // for(var key in arrayHosp['Fechas']){
-
-        // }
-        // lastDate['Fecha'];
       });
     });
   }
@@ -82,16 +77,6 @@ export class ChartCCAAsComponent implements OnInit {
   }
 
   changeProvincia(ccaas) {
-
-    // let sigla;
-    // for(let i=0; i<this.provincias.length; i++){
-    //   if(this.provincias[i].nombre == prov){
-    //     sigla = this.provincias[i].sigla;
-    //   }
-    // }
-    // this.dataApi.getUci().subscribe((sortedArray) => {
-    //   let dataUci = sortedArray[sigla+"UCI"];
-    //   let dataHosp = sortedArray[sigla+"Hosp"];
     if(ccaas.length==1 && this.accFirstTime){
       this.accFirstTime=false;
       this.myChartCCAAs.destroy();
@@ -119,27 +104,12 @@ export class ChartCCAAsComponent implements OnInit {
         this.myChartCCAAs.data.labels = ccaas;
         this.myChartCCAAs.update();
 
-
-        // for(var key in arrayHosp['Fechas']){
-
-        // }
-        // lastDate['Fecha'];
       });
     });
-    //   this.myChartCCAAs.data.datasets[1].data = dataHosp;
-    //   this.myChartCCAAs.options.title.text = prov + ' - Prevalencia - Hospitalizados&UCI';
-    // });
   }
 
-  //FUNCION INTRODUCIR PROV STR, DEVOLVER ARRAY PAIR
   async makeChart(initialCCAAs, initialHosp, initialFall, initialUCI) {
 
-    // let selectedProv = Provincias[prov];
-    // let HospData = sortedArray[selectedProv.sigla + "Hosp"];
-    // let UCIData = sortedArray[selectedProv.sigla + "UCI"];
-    // let Fechas = sortedArray["Fechas"];
-
-    //Global Options
     Chart.defaults.global.defaultFontFamily = 'Lato';
     Chart.defaults.global.defaultFontSize = 12;
     Chart.defaults.global.defaultFontColor = '#777';
