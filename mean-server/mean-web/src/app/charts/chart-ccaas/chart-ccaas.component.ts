@@ -43,31 +43,17 @@ export class ChartCCAAsComponent implements OnInit {
   ];
 
   ngOnInit() {
-
     this.dataApi.getHospitalizados().subscribe((arrayHosp) => {
-
       this.dataApi.getLastDate().subscribe((lastDate) => {
-
         let ccaas = ['Andalucía','Aragón','Asturias','Baleares','Canarias'];
-
-        let initialHosp=[];
-        let initialFall=[];
-        let initialUCI=[];
-
+        let initialHosp=[], initialFall=[], initialUCI=[];
         let indexDay = arrayHosp['Fechas'].indexOf(lastDate['Fecha'].replace(/-/g, '/'));
-
-
         for(let i=0; i<5;i++){
           initialHosp[i] = arrayHosp[this.CCAAs[i].sigla].Hospitalizados[indexDay];
           initialFall[i] = arrayHosp[this.CCAAs[i].sigla].Fallecidos[indexDay];
           initialUCI[i] = arrayHosp[this.CCAAs[i].sigla].UCI[indexDay];
         }
-        console.log(initialHosp);
-        console.log(initialFall);
-        console.log(initialUCI);
-
         this.makeChart(ccaas, initialHosp, initialFall, initialUCI);
-
       });
     });
   }
@@ -90,7 +76,6 @@ export class ChartCCAAsComponent implements OnInit {
 
         if(this.myChartCCAAs.data.labels.length < ccaas.length){
           let nuevaCCAA = ccaas.filter(x => !this.myChartCCAAs.data.labels.includes(x));
-          console.log(nuevaCCAA);
           let nuevaSIG;
           for(var key in this.CCAAs){
             if(this.CCAAs[key].nombre == nuevaCCAA){
@@ -100,7 +85,16 @@ export class ChartCCAAsComponent implements OnInit {
           this.myChartCCAAs.data.datasets[0].data.splice(ccaas.indexOf(nuevaCCAA.toString()), 0, arrayHosp[nuevaSIG].Hospitalizados[indexDay]);
           this.myChartCCAAs.data.datasets[1].data.splice(ccaas.indexOf(nuevaCCAA.toString()), 0, arrayHosp[nuevaSIG].Fallecidos[indexDay]);
           this.myChartCCAAs.data.datasets[2].data.splice(ccaas.indexOf(nuevaCCAA.toString()), 0, arrayHosp[nuevaSIG].UCI[indexDay]);
+
+        }else if(this.myChartCCAAs.data.labels.length > ccaas.length){
+          let viejaCCAA = this.myChartCCAAs.data.labels.filter(x => !ccaas.includes(x));
+          console.log(viejaCCAA);
+          let aux = this.myChartCCAAs.data.labels.indexOf(viejaCCAA.toString());
+          this.myChartCCAAs.data.datasets[0].data.splice(aux,1);
+          this.myChartCCAAs.data.datasets[1].data.splice(aux,1);
+          this.myChartCCAAs.data.datasets[2].data.splice(aux,1);
         }
+
         this.myChartCCAAs.data.labels = ccaas;
         this.myChartCCAAs.update();
 
