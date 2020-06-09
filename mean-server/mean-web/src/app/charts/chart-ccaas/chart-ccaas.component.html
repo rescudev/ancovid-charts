@@ -2,7 +2,7 @@
 
   <mat-form-field color="warn">
     <mat-label>Comunidades</mat-label>
-    <mat-select  [(ngModel)]="initialValue" (selectionChange)="changeProvincia(selectedValue)" [(ngModel)]="selectedValue" name="comunidades" multiple>
+    <mat-select (selectionChange)="changeProvincia(selectedValue)" [(ngModel)]="selectedValue" name="comunidades" multiple>
       <mat-option *ngFor="let ccaa of CCAAs" [value]="ccaa.nombre">
         {{ccaa.nombre}}
       </mat-option>

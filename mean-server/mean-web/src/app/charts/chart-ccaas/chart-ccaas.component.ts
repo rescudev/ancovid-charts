@@ -18,6 +18,7 @@ export class ChartCCAAsComponent implements OnInit {
   constructor(private dataApi: DataApiService) { }
 
   myChartCCAAs;
+  accFirstTime = true;
   selectedValue: string;
   CCAAs: ccaa[] = [
     {nombre: 'Andalucía',sigla: 'AND', pos: 1},
@@ -26,31 +27,54 @@ export class ChartCCAAsComponent implements OnInit {
     {nombre: 'Baleares',sigla: 'BAL', pos: 4},
     {nombre: 'Canarias',sigla: 'CAN', pos: 5},
     {nombre: 'Cantabria',sigla: 'CNT', pos: 6},
-    {nombre: 'Castilla_La_Mancha',sigla: 'CLM', pos: 7},
-    {nombre: 'Castilla_y_León',sigla: 'CYL', pos: 8},
+    {nombre: 'Castilla La Mancha',sigla: 'CLM', pos: 7},
+    {nombre: 'Castilla y León',sigla: 'CYL', pos: 8},
     {nombre: 'Cataluña',sigla: 'CAT', pos: 9},
     {nombre: 'Ceuta',sigla: 'CEU', pos: 10},
-    {nombre: 'C._Valenciana',sigla: 'VAL', pos: 11},
+    {nombre: 'C.Valenciana',sigla: 'VAL', pos: 11},
     {nombre: 'Extremadura',sigla: 'EXT', pos: 12},
     {nombre: 'Galicia',sigla: 'GAL', pos: 13},
     {nombre: 'Madrid',sigla: 'MAD', pos: 14},
     {nombre: 'Melilla',sigla: 'MEL', pos: 15},
     {nombre: 'Murcia',sigla: 'MUR', pos: 16},
     {nombre: 'Navarra',sigla: 'NAV', pos: 17},
-    {nombre: 'País_Vasco',sigla: 'PVA', pos: 18},
-    {nombre: 'La_Rioja',sigla: 'RIO', pos: 19}
+    {nombre: 'País Vasco',sigla: 'PVA', pos: 18},
+    {nombre: 'La Rioja',sigla: 'RIO', pos: 19}
   ];
 
-  initialValue= this.CCAAs[1].nombre;
-
   ngOnInit() {
-    this.getApiCCAAs();
-  }
 
-  getApiCCAAs(){
-    let dataSource;
-    this.dataApi.getHospitalizados().subscribe((arrayHosp) => { this.makeChart(arrayHosp) });
-    return dataSource;
+    this.dataApi.getHospitalizados().subscribe((arrayHosp) => {
+
+      this.dataApi.getLastDate().subscribe((lastDate) => {
+
+        let ccaas = ['Andalucía','Aragón','Asturias','Baleares','Canarias'];
+
+        let initialHosp=[];
+        let initialFall=[];
+        let initialUCI=[];
+
+        let indexDay = arrayHosp['Fechas'].indexOf(lastDate['Fecha'].replace(/-/g, '/'));
+
+
+        for(let i=0; i<5;i++){
+          initialHosp[i] = arrayHosp[this.CCAAs[i].sigla].Hospitalizados[indexDay];
+          initialFall[i] = arrayHosp[this.CCAAs[i].sigla].Fallecidos[indexDay];
+          initialUCI[i] = arrayHosp[this.CCAAs[i].sigla].UCI[indexDay];
+        }
+        console.log(initialHosp);
+        console.log(initialFall);
+        console.log(initialUCI);
+
+        this.makeChart(ccaas, initialHosp, initialFall, initialUCI);
+
+
+        // for(var key in arrayHosp['Fechas']){
+
+        // }
+        // lastDate['Fecha'];
+      });
+    });
   }
 
   onDownloadPDF() {
@@ -58,7 +82,7 @@ export class ChartCCAAsComponent implements OnInit {
   }
 
   changeProvincia(ccaas) {
-    console.log(ccaas);
+
     // let sigla;
     // for(let i=0; i<this.provincias.length; i++){
     //   if(this.provincias[i].nombre == prov){
@@ -68,18 +92,47 @@ export class ChartCCAAsComponent implements OnInit {
     // this.dataApi.getUci().subscribe((sortedArray) => {
     //   let dataUci = sortedArray[sigla+"UCI"];
     //   let dataHosp = sortedArray[sigla+"Hosp"];
-    for(var key in ccaas){
-      ccaas[key] = ccaas[key].replace(/_/g, ' ');
+    if(ccaas.length==1 && this.accFirstTime){
+      this.accFirstTime=false;
+      this.myChartCCAAs.destroy();
+      this.makeChart([], [], [], []);
     }
-      this.myChartCCAAs.data.labels = ccaas;
+
+    this.dataApi.getHospitalizados().subscribe((arrayHosp) => {
+
+      this.dataApi.getLastDate().subscribe((lastDate) => {
+        let indexDay = arrayHosp['Fechas'].indexOf(lastDate['Fecha'].replace(/-/g, '/'));
+
+        if(this.myChartCCAAs.data.labels.length < ccaas.length){
+          let nuevaCCAA = ccaas.filter(x => !this.myChartCCAAs.data.labels.includes(x));
+          console.log(nuevaCCAA);
+          let nuevaSIG;
+          for(var key in this.CCAAs){
+            if(this.CCAAs[key].nombre == nuevaCCAA){
+              nuevaSIG = this.CCAAs[key].sigla;
+            }
+          }
+          this.myChartCCAAs.data.datasets[0].data.splice(ccaas.indexOf(nuevaCCAA.toString()), 0, arrayHosp[nuevaSIG].Hospitalizados[indexDay]);
+          this.myChartCCAAs.data.datasets[1].data.splice(ccaas.indexOf(nuevaCCAA.toString()), 0, arrayHosp[nuevaSIG].Fallecidos[indexDay]);
+          this.myChartCCAAs.data.datasets[2].data.splice(ccaas.indexOf(nuevaCCAA.toString()), 0, arrayHosp[nuevaSIG].UCI[indexDay]);
+        }
+        this.myChartCCAAs.data.labels = ccaas;
+        this.myChartCCAAs.update();
+
+
+        // for(var key in arrayHosp['Fechas']){
+
+        // }
+        // lastDate['Fecha'];
+      });
+    });
     //   this.myChartCCAAs.data.datasets[1].data = dataHosp;
     //   this.myChartCCAAs.options.title.text = prov + ' - Prevalencia - Hospitalizados&UCI';
-      this.myChartCCAAs.update();
     // });
   }
 
   //FUNCION INTRODUCIR PROV STR, DEVOLVER ARRAY PAIR
-  async makeChart(arrayHosp) {
+  async makeChart(initialCCAAs, initialHosp, initialFall, initialUCI) {
 
     // let selectedProv = Provincias[prov];
     // let HospData = sortedArray[selectedProv.sigla + "Hosp"];
@@ -94,21 +147,21 @@ export class ChartCCAAsComponent implements OnInit {
     this.myChartCCAAs = new Chart("myChartCCAAs", {
       type: 'radar', // bar, horizontalBar, pie, line, doughnut, radar, polarArea
       data:{
-        labels: [this.CCAAs[0].nombre, this.CCAAs[1].nombre, this.CCAAs[2].nombre, this.CCAAs[3].nombre],
+        labels: initialCCAAs,
         datasets: [{
           label: "Hospitalizados",
           backgroundColor: "rgba(92, 184, 92,0.2)",
-          data: [arrayHosp['AND'].Hospitalizados[10], arrayHosp['ARA'].Hospitalizados[10], arrayHosp['AST'].Hospitalizados[10], arrayHosp['BAL'].Hospitalizados[10]]
+          data: initialHosp
         },
         {
           label: "Fallecidos",
           backgroundColor: "rgba(0,0,200,0.3)",
-          data: [arrayHosp['AND'].Fallecidos[10], arrayHosp['ARA'].Fallecidos[10], arrayHosp['AST'].Fallecidos[10], arrayHosp['BAL'].Fallecidos[10]]
+          data: initialFall
         },
         {
           label: "UCI",
           backgroundColor: "rgba(200,0,0,0.4)",
-          data: [arrayHosp['AND'].UCI[10], arrayHosp['ARA'].UCI[10], arrayHosp['AST'].UCI[10], arrayHosp['BAL'].UCI[10]]
+          data: initialUCI
         }]
       },
       options:{

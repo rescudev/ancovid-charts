@@ -50,7 +50,7 @@ router.get('/chart', async (req, res) => {
             CLMHosp.push(hospitalizados[key].CCAAs[7].Hospitalizados), CLMUCI.push(hospitalizados[key].CCAAs[7].UCI), CLMFallecidos.push(hospitalizados[key].CCAAs[7].Fallecidos);
             CYLHosp.push(hospitalizados[key].CCAAs[8].Hospitalizados), CYLUCI.push(hospitalizados[key].CCAAs[8].UCI), CYLFallecidos.push(hospitalizados[key].CCAAs[8].Fallecidos);
             CATHosp.push(hospitalizados[key].CCAAs[9].Hospitalizados), CATUCI.push(hospitalizados[key].CCAAs[9].UCI), CATFallecidos.push(hospitalizados[key].CCAAs[9].Fallecidos);
-            CEUHosp.push(hospitalizados[key].CCAAs[11].Hospitalizados), CEUUCI.push(hospitalizados[key].CCAAs[10].UCI), CEUFallecidos.push(hospitalizados[key].CCAAs[10].Fallecidos);
+            CEUHosp.push(hospitalizados[key].CCAAs[10].Hospitalizados), CEUUCI.push(hospitalizados[key].CCAAs[10].UCI), CEUFallecidos.push(hospitalizados[key].CCAAs[10].Fallecidos);
             VALHosp.push(hospitalizados[key].CCAAs[11].Hospitalizados), VALUCI.push(hospitalizados[key].CCAAs[11].UCI), VALFallecidos.push(hospitalizados[key].CCAAs[11].Fallecidos);
             EXTHosp.push(hospitalizados[key].CCAAs[12].Hospitalizados), EXTUCI.push(hospitalizados[key].CCAAs[12].UCI), EXTFallecidos.push(hospitalizados[key].CCAAs[12].Fallecidos);
             GALHosp.push(hospitalizados[key].CCAAs[13].Hospitalizados), GALUCI.push(hospitalizados[key].CCAAs[13].UCI), GALFallecidos.push(hospitalizados[key].CCAAs[13].Fallecidos);
