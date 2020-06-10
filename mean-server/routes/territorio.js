@@ -12,6 +12,15 @@ router.get('/', async (req, res) => {
     }
 });
 
+router.get('/chart', async (req, res) => {
+    try{
+        const territorios = await Territorio.find().sort({Date:1});
+        res.json(territorios.pop());
+    }catch(err){
+        res.json({message: err});
+    }
+});
+
 //post a Territorio
 router.post('/', async (req,res) => {
     const territorio = new Territorio({

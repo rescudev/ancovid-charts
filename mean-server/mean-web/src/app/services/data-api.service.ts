@@ -24,6 +24,11 @@ export class DataApiService {
     return this.http.get(url_api);
   }
 
+  getProvincias(){
+    const url_api = 'http://localhost:3000/territorio/chart';
+    return this.http.get(url_api);
+  }
+
   getPcrs(Fecha){
     const url_api = 'http://localhost:3000/pcr/chart/'+Fecha;
     return this.http.get(url_api);
