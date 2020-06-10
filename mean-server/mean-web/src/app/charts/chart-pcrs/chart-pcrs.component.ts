@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Chart } from 'node_modules/chart.js';
 import { FormControl } from '@angular/forms';
 import { DataApiService} from 'src/app/services/data-api.service';
+import * as jsPDF from 'jspdf'
 
 @Component({
   selector: 'app-chart-pcrs',
@@ -69,8 +70,81 @@ export class ChartPcrsComponent implements OnInit {
     return (dia+'-'+month+'-'+date.getFullYear());
   }
 
+
+  onDownloadJsonTxt(){
+    this.dataApi.getLastDate().subscribe((lastDate) => {
+      this.dataApi.getPcrs(lastDate['Fecha']).subscribe((uci) => {
+        console.log(uci);
+        this.downloadString(uci, "text/plain", "PCRs-Chart.txt")
+      });
+    });
+  }
+
+  downloadString(text, fileType, fileName) {
+    text = JSON.stringify(text);
+    var blob = new Blob([text], { type: fileType });
+
+    var a = document.createElement('a');
+    a.download = fileName;
+    a.href = URL.createObjectURL(blob);
+    a.dataset.downloadurl = [fileType, a.download, a.href].join(':');
+    a.style.display = "none";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    setTimeout(function() { URL.revokeObjectURL(a.href); }, 1500);
+  }
+
+
+  onDownloadIMG() {
+    var base64Str = this.myChartPcrs.toBase64Image();
+    var blob = this.dataURItoBlob(base64Str);
+    saveAs(blob, "PCRs-Chart.gif");
+  }
+
   onDownloadPDF() {
-    alert("PDF saved");
+    var base64Str = this.myChartPcrs.toBase64Image();
+
+    var doc = new jsPDF("p","mm","a4");
+    doc.addImage(base64Str, 'JPEG', 15, 15, 180, 100);
+
+    var lMargin=15; //left margin in mm
+    var rMargin=15; //right margin in mm
+    var pdfInMM=350;  // width of A4 in mm
+
+    var paragraphCCAAs='CCAAs: '+this.myChartPcrs.data.labels.toString();
+    var paragraphTotales='Totales: '+this.myChartPcrs.data.datasets[0].data.toString();
+
+    var lines0 =doc.splitTextToSize(paragraphCCAAs, (pdfInMM-lMargin-rMargin));
+    var lines1 =doc.splitTextToSize(paragraphTotales, (pdfInMM-lMargin-rMargin));
+
+    doc.setFontSize(9);
+
+    doc.text(lMargin,130,lines0);
+    doc.text(lMargin,140,lines1);
+
+    doc.save('PCRs-Chart.pdf');
+
+  }
+
+  dataURItoBlob(dataURI) {
+    // convert base64/URLEncoded data component to raw binary data held in a string
+    var byteString;
+    if (dataURI.split(',')[0].indexOf('base64') >= 0)
+        byteString = atob(dataURI.split(',')[1]);
+    else
+        byteString = unescape(dataURI.split(',')[1]);
+
+    // separate out the mime component
+    var mimeString = dataURI.split(',')[0].split(':')[1].split(';')[0];
+
+    // write the bytes of the string to a typed array
+    var ia = new Uint8Array(byteString.length);
+    for (var i = 0; i < byteString.length; i++) {
+        ia[i] = byteString.charCodeAt(i);
+    }
+
+    return new Blob([ia], {type:mimeString});
   }
 
   async makeChart(date, sortedArray) {

@@ -14,12 +14,29 @@
   </div>
 </mat-card>
 <div>
-  <button
-    mat-raised-button
-    color="warn"
-    style="position: relative;"
-    (click)="onDownloadPDF()">Descargar Pdf
-  </button>
+  <span>
+    <button
+      mat-raised-button
+      color="warn"
+      style="position: relative;"
+      (click)="onDownloadPDF()">Descargar Pdf
+    </button>
+  </span>
+  <span>
+    <button
+      mat-raised-button
+      style="position: relative; background-color: #f3c623;"
+      (click)="onDownloadIMG()">Descargar Imagen
+    </button>
+  </span>
+  <span>
+    <button
+      mat-raised-button
+      color="primary"
+      style="position: relative;"
+      (click)="onDownloadJsonTxt()">Descargar Json
+    </button>
+  </span>
 </div>
 
 
