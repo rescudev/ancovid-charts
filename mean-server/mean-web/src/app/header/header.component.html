@@ -4,9 +4,10 @@
     <mat-nav-list>
       <a mat-list-item href="#divPrevalencia">Prevalencia</a>
       <a mat-list-item href="#divUci">Hosp&UCI</a>
+      <a mat-list-item href="#divProvincias">Provincias</a>
       <a mat-list-item href="#divPcrs">PCRs</a>
       <a mat-list-item href="#divCCAAs">CCAAs</a>
-      <a mat-list-item href="#">Volver Arriba</a>
+
     </mat-nav-list>
     <button
       id="toggleSideBarIn"
@@ -39,15 +40,13 @@
       Ancovid
       <span class="spacer"></span>
       <span>
-        <a mat-button href="#divPrevalencia">Prevalencia</a>
-        <a mat-button href="#divUci">Hospitalizados&UCI</a>
-        <a mat-button href="#divPcrs">PCRs</a>
-        <a mat-button href="#divCCAAs">CCAAs</a>
-      </span>
-      <span>
         <app-tips-dialog></app-tips-dialog>
       </span>
-      <app-faq-dialog></app-faq-dialog>
+      <span>
+        <app-faq-dialog></app-faq-dialog>
+      </span>
+
+      <button color='warn' id="APISevilla" mat-raised-button>API Sevilla</button>
     </mat-toolbar>
     <!-- Add Content Here -->
   </mat-sidenav-content>
