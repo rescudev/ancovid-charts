@@ -1,7 +1,7 @@
 <mat-card id="divUci" class="mat-elevation-z6" [style.backgroundColor]="'white'">
 
   <mat-form-field color="warn">
-    <mat-label>Provincia</mat-label>
+    <mat-label>Territorio</mat-label>
     <mat-select (selectionChange)="changeProvincia(selectedValue)" [(ngModel)]="initialValue" [(ngModel)]="selectedValue" name="provincia" >
       <mat-option *ngFor="let provincia of provincias" [value]="provincia.nombre">
         {{provincia.nombre}}
@@ -10,7 +10,7 @@
   </mat-form-field>
 
   <div style="position: relative; padding-bottom: 1%;" >
-    <canvas id="myChartUci"></canvas>
+    <canvas id="myChartProvincias"></canvas>
   </div>
 </mat-card>
 <div>

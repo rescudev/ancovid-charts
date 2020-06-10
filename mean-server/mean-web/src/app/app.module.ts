@@ -20,6 +20,8 @@ import { AppComponent } from './app.component';
 import { ChartPrevalenciaComponent } from './charts/chart-prevalencia/chart-prevalencia.component';
 import { ChartPcrsComponent } from './charts/chart-pcrs/chart-pcrs.component';
 import { ChartUciComponent } from './charts/chart-uci/chart-uci.component';
+import { ChartProvinciasComponent } from './charts/chart-provincias/chart-provincias.component';
+import { ChartCCAAsComponent } from './charts/chart-ccaas/chart-ccaas.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { LayoutModule } from '@angular/cdk/layout';
@@ -40,11 +42,13 @@ import { TipsDialogComponentDialog } from './elements/tips-dialog/tips-dialog.co
     ChartPrevalenciaComponent,
     ChartPcrsComponent,
     ChartUciComponent,
+    ChartProvinciasComponent,
     SelectProvinciasComponent,
     FaqDialogComponent,
     FaqDialogComponentDialog,
     TipsDialogComponent,
-    TipsDialogComponentDialog
+    TipsDialogComponentDialog,
+    ChartCCAAsComponent
   ],
   imports: [
     FormsModule,

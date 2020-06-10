@@ -3,7 +3,7 @@
 <head>
   <style>
       .aux {
-        padding-top: 50vw;
+        padding-top: 25vw;
         padding-left: 4vw;
       }
   </style>
@@ -17,18 +17,18 @@
 </head>
 <body class="mat-typography">
   <div class="aux">
-    <img src="assets/img/rotatedevice_0.gif" width=auto alt="Rotate Please"/>
+    <img src="assets/img/rotate.gif" width=auto alt="Rotate Please"/>
   </div>
-  <p style="text-align:center; font-size:8vw">Por favor</p>
-  <p style="text-align:center; font-size:8vw">Use el modo horizontal</p>
+  <p style="text-align:center; font-size:8vw; color:grey">Por favor</p>
+  <p style="text-align:center; font-size:8vw; color:grey" >Use el modo horizontal</p>
 </body>
 <script>
     window.addEventListener("orientationchange", function() {
       console.log("the orientation of the device is now " + screen.orientation.angle);
       if(screen.orientation.angle > 45){
-        window.location.href = "#";
+        window.location.href = "http://localhost:4200/";
       }else{
-        window.location.href = "assets/rotate.html";
+        window.location.href = "http://localhost:4200/assets/rotate.html";
       }
     });
 </script>

@@ -31,12 +31,25 @@ span{
   left: -10px;
 }
 
+#toggleFaq {
+  position: fixed;
+  top: 10px;
+  left: 140px;
+}
+
+#toggleInfo {
+  position: fixed;
+  top: 10px;
+  left: 90px;
+
+}
+
 #toggleSideBarIn {
   position: fixed;
   bottom: 50%;
-  left: 145px;
+  left: 155px;
 }
 
 .mat-icon {
-  font-size: 70px;
+  font-size: 65px;
 }

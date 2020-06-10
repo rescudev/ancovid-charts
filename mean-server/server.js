@@ -40,7 +40,7 @@ if (process.env.NODE_ENV === 'production'){
 
 //connect to db
 mongoose.connect(
-    process.env.DB_CONNECTION || process.env.MONGOLAB_URI,
+    process.env.MONGOLAB_URI || process.env.DB_CONNECTION,
     { useNewUrlParser: true, useUnifiedTopology: true, dbName: "ancovid-db"},() => 
     console.log('Connected to db')
 ); 

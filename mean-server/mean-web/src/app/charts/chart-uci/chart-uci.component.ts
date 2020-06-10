@@ -59,7 +59,7 @@ export class ChartUciComponent implements OnInit {
       let dataHosp = sortedArray[sigla+"Hosp"];
       this.myChartUci.data.datasets[0].data = dataUci;
       this.myChartUci.data.datasets[1].data = dataHosp;
-      this.myChartUci.options.title.text = prov + ' - Prevalencia - Hospitalizados/UCI';
+      this.myChartUci.options.title.text = prov + ' - Prevalencia - Hospitalizados&UCI';
       this.myChartUci.update();
     });
   }
@@ -74,7 +74,7 @@ export class ChartUciComponent implements OnInit {
 
     //Global Options
     Chart.defaults.global.defaultFontFamily = 'Lato';
-    Chart.defaults.global.defaultFontSize = 18;
+    Chart.defaults.global.defaultFontSize = 12;
     Chart.defaults.global.defaultFontColor = '#777';
 
     this.myChartUci = new Chart("myChartUci", {
@@ -104,7 +104,7 @@ export class ChartUciComponent implements OnInit {
       options:{
         title:{
           display:true,
-          text:'Almería - Prevalencia - Hospitalizados/UCI',
+          text:'Almería - Prevalencia - Hospitalizados&UCI',
           fontSize:23
         },
         legend:{
@@ -140,7 +140,7 @@ export class ChartUciComponent implements OnInit {
         },
         layout:{
           padding:{
-            left:50,
+            left:0,
             right:0,
             bottom:0,
             top:0
