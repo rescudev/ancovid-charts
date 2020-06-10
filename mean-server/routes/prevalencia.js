@@ -12,6 +12,7 @@ router.get('/', async (req, res) => {
     }
 });
 
+
 //get arrays hospitalizados
 router.get('/chart', async (req, res) => {
     try{
