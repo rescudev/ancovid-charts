@@ -11,11 +11,42 @@ import * as jsPDF from 'jspdf'
 export class ChartPrevalenciaComponent implements OnInit {
 
   constructor(private dataApi: DataApiService) { }
-
+  totalFechas=[];
+  totalHospAN=[];  totalHospAL=[];  totalHospCA=[];  totalHospCO=[];  totalHospGR=[];  totalHospHU=[];  totalHospJA=[];  totalHospMA=[];  totalHospSE=[];
+  catorceFechas=[];
+  catorceAN=[]; catorceAL=[]; catorceCA=[]; catorceCO=[]; catorceGR=[]; catorceHU=[]; catorceJA=[]; catorceMA=[]; catorceSE=[];
+  checked = false;
   myChartPrevalencia;
 
   ngOnInit() {
     this.getApiPrevalencias();
+  }
+
+  cambiaDias(){
+    let auxFechas =  [...this.myChartPrevalencia.data.labels];
+    let auxAN =  [...this.myChartPrevalencia.data.datasets[0].data], auxAL =  [...this.myChartPrevalencia.data.datasets[1].data], auxCA =  [...this.myChartPrevalencia.data.datasets[2].data]
+    , auxCO =  [...this.myChartPrevalencia.data.datasets[3].data], auxGR =  [...this.myChartPrevalencia.data.datasets[4].data], auxHU =  [...this.myChartPrevalencia.data.datasets[5].data]
+    , auxJA =  [...this.myChartPrevalencia.data.datasets[6].data] , auxMA =  [...this.myChartPrevalencia.data.datasets[7].data] , auxSE =  [...this.myChartPrevalencia.data.datasets[8].data];
+    while(auxFechas.length>14){
+      auxFechas.shift();
+      auxAN.shift(), auxAL.shift(), auxCA.shift(), auxCO.shift(), auxGR.shift(), auxHU.shift(), auxJA.shift(), auxMA.shift(), auxSE.shift();
+    }
+    this.catorceFechas = auxFechas, this.catorceAN = auxAN, this.catorceAL = auxAL, this.catorceCA = auxCA, this.catorceCO = auxCO, this.catorceGR = auxGR
+    , this.catorceHU = auxHU, this.catorceJA = auxJA, this.catorceMA = auxMA, this.catorceSE = auxSE;
+
+    if(this.checked == true){
+      this.myChartPrevalencia.data.labels = this.catorceFechas;
+      this.myChartPrevalencia.data.datasets[0].data = this.catorceAN, this.myChartPrevalencia.data.datasets[1].data = this.catorceAL, this.myChartPrevalencia.data.datasets[2].data = this.catorceCA
+      , this.myChartPrevalencia.data.datasets[3].data = this.catorceCO, this.myChartPrevalencia.data.datasets[4].data = this.catorceGR, this.myChartPrevalencia.data.datasets[5].data = this.catorceHU
+      , this.myChartPrevalencia.data.datasets[6].data = this.catorceJA, this.myChartPrevalencia.data.datasets[7].data = this.catorceMA, this.myChartPrevalencia.data.datasets[8].data = this.catorceSE;
+      this.myChartPrevalencia.update();
+    }else{
+      this.myChartPrevalencia.data.labels = this.totalFechas;
+      this.myChartPrevalencia.data.datasets[0].data = this.totalHospAN, this.myChartPrevalencia.data.datasets[1].data = this.totalHospAL, this.myChartPrevalencia.data.datasets[2].data = this.totalHospCA
+      , this.myChartPrevalencia.data.datasets[3].data = this.totalHospCO, this.myChartPrevalencia.data.datasets[4].data = this.totalHospGR, this.myChartPrevalencia.data.datasets[5].data = this.totalHospHU
+      , this.myChartPrevalencia.data.datasets[6].data = this.totalHospJA, this.myChartPrevalencia.data.datasets[7].data = this.totalHospMA, this.myChartPrevalencia.data.datasets[8].data = this.totalHospSE;
+      this.myChartPrevalencia.update();
+    }
   }
 
   getApiPrevalencias(){
@@ -53,16 +84,13 @@ export class ChartPrevalenciaComponent implements OnInit {
 
   onDownloadPDF() {
     var base64Str = this.myChartPrevalencia.toBase64Image();
-    var blob = this.dataURItoBlob(base64Str);
-    // saveAs(blob, "UCI-Chart.gif");
 
     var doc = new jsPDF("p","mm","a4");
     doc.addImage(base64Str, 'JPEG', 15, 15, 180, 100);
-    let j = 0;
 
-    var lMargin=15; //left margin in mm
-    var rMargin=15; //right margin in mm
-    var pdfInMM=350;  // width of A4 in mm
+    var lMargin=15;
+    var rMargin=15;
+    var pdfInMM=350;
 
     var paragraphFechas='Fechas: '+this.myChartPrevalencia.data.labels.toString();
     var paragraphAN='Andalucía: '+this.myChartPrevalencia.data.datasets[0].data.toString(), paragraphAL='Almería: '+this.myChartPrevalencia.data.datasets[1].data.toString()
@@ -87,17 +115,13 @@ export class ChartPrevalenciaComponent implements OnInit {
   }
 
   dataURItoBlob(dataURI) {
-    // convert base64/URLEncoded data component to raw binary data held in a string
     var byteString;
     if (dataURI.split(',')[0].indexOf('base64') >= 0)
         byteString = atob(dataURI.split(',')[1]);
     else
         byteString = unescape(dataURI.split(',')[1]);
 
-    // separate out the mime component
     var mimeString = dataURI.split(',')[0].split(':')[1].split(';')[0];
-
-    // write the bytes of the string to a typed array
     var ia = new Uint8Array(byteString.length);
     for (var i = 0; i < byteString.length; i++) {
         ia[i] = byteString.charCodeAt(i);
@@ -110,6 +134,9 @@ export class ChartPrevalenciaComponent implements OnInit {
 
     var ANHospArray = sortedArray["ANHosp"], ALHospArray = sortedArray["ALHosp"], CAHospArray = sortedArray["CAHosp"], COHospArray = sortedArray["COHosp"], GRHospArray = sortedArray["GRHosp"],
     HUHospArray = sortedArray["HUHosp"], JAHospArray = sortedArray["JAHosp"], MAHospArray = sortedArray["MAHosp"], SEHospArray = sortedArray["SEHosp"], Fechas = sortedArray["Fechas"];
+
+    this.totalFechas = [...Fechas], this.totalHospAN = [...ANHospArray], this.totalHospAL = [...ALHospArray], this.totalHospCA = [...CAHospArray], this.totalHospCO = [...COHospArray]
+    , this.totalHospGR = [...GRHospArray], this.totalHospHU = [...HUHospArray], this.totalHospJA = [...JAHospArray], this.totalHospMA = [...MAHospArray], this.totalHospSE = [...SEHospArray];
 
     //Global Options
     Chart.defaults.global.defaultFontFamily = 'Lato';
@@ -223,9 +250,7 @@ export class ChartPrevalenciaComponent implements OnInit {
           display:true,
           position:'right',
           reverse: true,
-          //TODO CONSEGUIR SEGUN VIEW A RIGHT O LEFT, LOCK SCREEN LANDSCAPE
           labels:{
-            // usePointStyle: true,
             boxWidth: 20,
             padding: 6,
             fontColor:'#000',

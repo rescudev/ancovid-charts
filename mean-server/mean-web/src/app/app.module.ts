@@ -13,6 +13,8 @@ import { MatNativeDateModule } from '@angular/material/core';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatSelectModule } from '@angular/material/select';
 import { MatDialogModule } from '@angular/material/dialog';
+import { MatCheckboxModule } from '@angular/material/checkbox';
+import {MatRadioModule} from '@angular/material/radio';
 
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AppRoutingModule } from './app-routing.module';
@@ -28,7 +30,6 @@ import { LayoutModule } from '@angular/cdk/layout';
 import { HttpClientModule } from '@angular/common/http';
 
 import { DataApiService } from 'src/app/services/data-api.service';
-import { SelectProvinciasComponent } from './elements/select-provincias/select-provincias.component';
 import { FaqDialogComponent } from './elements/faq-dialog/faq-dialog.component';
 import { FaqDialogComponentDialog } from './elements/faq-dialog/faq-dialog.component';
 import { TipsDialogComponent } from './elements/tips-dialog/tips-dialog.component';
@@ -43,7 +44,6 @@ import { TipsDialogComponentDialog } from './elements/tips-dialog/tips-dialog.co
     ChartPcrsComponent,
     ChartUciComponent,
     ChartProvinciasComponent,
-    SelectProvinciasComponent,
     FaqDialogComponent,
     FaqDialogComponentDialog,
     TipsDialogComponent,
@@ -69,7 +69,9 @@ import { TipsDialogComponentDialog } from './elements/tips-dialog/tips-dialog.co
     MatNativeDateModule,
     HttpClientModule,
     MatSelectModule,
-    MatDialogModule
+    MatDialogModule,
+    MatCheckboxModule,
+    MatRadioModule
   ],
   providers: [DataApiService],
   bootstrap: [AppComponent]

@@ -59,95 +59,13 @@ export class ChartCCAAsComponent implements OnInit {
     });
   }
 
-  onDownloadJsonTxt(){
-    this.dataApi.getProvincias().subscribe((provs) => {
-      this.downloadString(provs, "text/plain", "CCAAs-Chart.txt")
-    });
-  }
-
-  downloadString(text, fileType, fileName) {
-    text = JSON.stringify(text);
-    var blob = new Blob([text], { type: fileType });
-
-    var a = document.createElement('a');
-    a.download = fileName;
-    a.href = URL.createObjectURL(blob);
-    a.dataset.downloadurl = [fileType, a.download, a.href].join(':');
-    a.style.display = "none";
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-    setTimeout(function() { URL.revokeObjectURL(a.href); }, 1500);
-  }
-
-
-  onDownloadIMG() {
-    var base64Str = this.myChartCCAAs.toBase64Image();
-    var blob = this.dataURItoBlob(base64Str);
-    saveAs(blob, "CCAAs-Chart.gif");
-  }
-
-  onDownloadPDF() {
-    var base64Str = this.myChartCCAAs.toBase64Image();
-
-    var doc = new jsPDF("p","mm","a4");
-    doc.addImage(base64Str, 'JPEG', 15, 15, 180, 100);
-    let j = 0;
-
-    var lMargin=15; //left margin in mm
-    var rMargin=15; //right margin in mm
-    var pdfInMM=350;  // width of A4 in mm
-
-    var paragraphCCAAs='CCAAs: '+this.myChartCCAAs.data.labels.toString();
-    var paragraphHosp='Hospitalizados: '+this.myChartCCAAs.data.datasets[0].data.toString();
-    var paragraphFall='Fallecidos: '+this.myChartCCAAs.data.datasets[1].data.toString();
-    var paragraphUCI='UCI: '+this.myChartCCAAs.data.datasets[2].data.toString();
-
-    var lines0 =doc.splitTextToSize(paragraphCCAAs, (pdfInMM-lMargin-rMargin));
-    var lines1 =doc.splitTextToSize(paragraphHosp, (pdfInMM-lMargin-rMargin));
-    var lines2 =doc.splitTextToSize(paragraphFall, (pdfInMM-lMargin-rMargin));
-    var lines3 =doc.splitTextToSize(paragraphUCI, (pdfInMM-lMargin-rMargin));
-
-    doc.setFontSize(9);
-
-    doc.text(lMargin,135,lines0);
-    doc.text(lMargin,150,lines1);
-    doc.text(lMargin,165,lines2);
-    doc.text(lMargin,180,lines3);
-
-    doc.save('CCAAs-Chart.pdf');
-
-  }
-
-  dataURItoBlob(dataURI) {
-    // convert base64/URLEncoded data component to raw binary data held in a string
-    var byteString;
-    if (dataURI.split(',')[0].indexOf('base64') >= 0)
-        byteString = atob(dataURI.split(',')[1]);
-    else
-        byteString = unescape(dataURI.split(',')[1]);
-
-    // separate out the mime component
-    var mimeString = dataURI.split(',')[0].split(':')[1].split(';')[0];
-
-    // write the bytes of the string to a typed array
-    var ia = new Uint8Array(byteString.length);
-    for (var i = 0; i < byteString.length; i++) {
-        ia[i] = byteString.charCodeAt(i);
-    }
-
-    return new Blob([ia], {type:mimeString});
-  }
-
   changeProvincia(ccaas) {
     if(ccaas.length==1 && this.accFirstTime){
       this.accFirstTime=false;
       this.myChartCCAAs.destroy();
       this.makeChart([], [], [], []);
     }
-
     this.dataApi.getHospitalizados().subscribe((arrayHosp) => {
-
       this.dataApi.getLastDate().subscribe((lastDate) => {
         let indexDay = arrayHosp['Fechas'].indexOf(lastDate['Fecha'].replace(/-/g, '/'));
 
@@ -177,6 +95,80 @@ export class ChartCCAAsComponent implements OnInit {
 
       });
     });
+  }
+
+  onDownloadJsonTxt(){
+    this.dataApi.getProvincias().subscribe((provs) => {
+      this.downloadString(provs, "text/plain", "CCAAs-Chart.txt")
+    });
+  }
+
+  downloadString(text, fileType, fileName) {
+    text = JSON.stringify(text);
+    var blob = new Blob([text], { type: fileType });
+
+    var a = document.createElement('a');
+    a.download = fileName;
+    a.href = URL.createObjectURL(blob);
+    a.dataset.downloadurl = [fileType, a.download, a.href].join(':');
+    a.style.display = "none";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    setTimeout(function() { URL.revokeObjectURL(a.href); }, 1500);
+  }
+
+  onDownloadIMG() {
+    var base64Str = this.myChartCCAAs.toBase64Image();
+    var blob = this.dataURItoBlob(base64Str);
+    saveAs(blob, "CCAAs-Chart.gif");
+  }
+
+  onDownloadPDF() {
+    var base64Str = this.myChartCCAAs.toBase64Image();
+
+    var doc = new jsPDF("p","mm","a4");
+    doc.addImage(base64Str, 'JPEG', 15, 15, 180, 100);
+
+    var lMargin=15;
+    var rMargin=15;
+    var pdfInMM=350;
+
+    var paragraphCCAAs='CCAAs: '+this.myChartCCAAs.data.labels.toString();
+    var paragraphHosp='Hospitalizados: '+this.myChartCCAAs.data.datasets[0].data.toString();
+    var paragraphFall='Fallecidos: '+this.myChartCCAAs.data.datasets[1].data.toString();
+    var paragraphUCI='UCI: '+this.myChartCCAAs.data.datasets[2].data.toString();
+
+    var lines0 =doc.splitTextToSize(paragraphCCAAs, (pdfInMM-lMargin-rMargin));
+    var lines1 =doc.splitTextToSize(paragraphHosp, (pdfInMM-lMargin-rMargin));
+    var lines2 =doc.splitTextToSize(paragraphFall, (pdfInMM-lMargin-rMargin));
+    var lines3 =doc.splitTextToSize(paragraphUCI, (pdfInMM-lMargin-rMargin));
+
+    doc.setFontSize(9);
+
+    doc.text(lMargin,135,lines0);
+    doc.text(lMargin,150,lines1);
+    doc.text(lMargin,165,lines2);
+    doc.text(lMargin,180,lines3);
+
+    doc.save('CCAAs-Chart.pdf');
+
+  }
+
+  dataURItoBlob(dataURI) {
+    var byteString;
+    if (dataURI.split(',')[0].indexOf('base64') >= 0)
+        byteString = atob(dataURI.split(',')[1]);
+    else
+        byteString = unescape(dataURI.split(',')[1]);
+
+    var mimeString = dataURI.split(',')[0].split(':')[1].split(';')[0];
+    var ia = new Uint8Array(byteString.length);
+    for (var i = 0; i < byteString.length; i++) {
+        ia[i] = byteString.charCodeAt(i);
+    }
+
+    return new Blob([ia], {type:mimeString});
   }
 
   async makeChart(initialCCAAs, initialHosp, initialFall, initialUCI) {

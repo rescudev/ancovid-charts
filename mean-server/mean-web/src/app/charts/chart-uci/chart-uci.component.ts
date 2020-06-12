@@ -20,7 +20,11 @@ export class ChartUciComponent implements OnInit {
 
   constructor(private dataApi: DataApiService) { }
 
+  totalHospData=[]; totalUCIData=[]; totalFechas=[];
+  catorceFechas=[]; catorceHosp=[]; catorceUCI=[];
+  checked = false;
   myChartUci;
+
   selectedValue: string;
   provincias: Provincia[] = [
     {nombre: 'Almería',sigla: 'AL', pos: 0},
@@ -43,6 +47,56 @@ export class ChartUciComponent implements OnInit {
     let dataSource;
     this.dataApi.getUci().subscribe((uci) => { this.makeChart(uci, this.initialValue) });
     return dataSource;
+  }
+
+  changeProvincia(prov) {
+
+    let sigla;
+    for(let i=0; i<this.provincias.length; i++){
+      if(this.provincias[i].nombre == prov){
+        sigla = this.provincias[i].sigla;
+      }
+    }
+    this.dataApi.getUci().subscribe((sortedArray) => {
+      let dataUci = sortedArray[sigla+"UCI"];
+      let dataHosp = sortedArray[sigla+"Hosp"];
+      this.myChartUci.data.datasets[0].data = dataUci;
+      this.myChartUci.data.datasets[1].data = dataHosp;
+      this.myChartUci.options.title.text = prov + ' - Prevalencia - Hospitalizados&UCI';
+      this.totalHospData = [...dataHosp];
+      this.totalUCIData = [...dataUci];
+      if(this.checked == true){
+        this.checked = false;
+        this.cambiaDias();
+      }
+      this.myChartUci.update();
+    });
+  }
+
+  cambiaDias(){
+    let auxHosp =  [...this.myChartUci.data.datasets[1].data];
+    let auxUCI =  [...this.myChartUci.data.datasets[0].data];
+    let auxFechas =  [...this.myChartUci.data.labels];
+    while(auxFechas.length>14){
+      auxFechas.shift();
+      auxHosp.shift();
+      auxUCI.shift();
+    }
+    this.catorceFechas = auxFechas;
+    this.catorceHosp = auxHosp;
+    this.catorceUCI = auxUCI;
+
+    if(this.checked == true){
+      this.myChartUci.data.labels = this.catorceFechas;
+      this.myChartUci.data.datasets[0].data = this.catorceUCI;
+      this.myChartUci.data.datasets[1].data = this.catorceHosp;
+      this.myChartUci.update();
+    }else{
+      this.myChartUci.data.labels = this.totalFechas;
+      this.myChartUci.data.datasets[0].data = this.totalUCIData;
+      this.myChartUci.data.datasets[1].data = this.totalHospData;
+      this.myChartUci.update();
+    }
   }
 
   onDownloadJsonTxt(){
@@ -78,11 +132,10 @@ export class ChartUciComponent implements OnInit {
 
     var doc = new jsPDF("p","mm","a4");
     doc.addImage(base64Str, 'JPEG', 15, 15, 180, 100);
-    let j = 0;
 
-    var lMargin=15; //left margin in mm
-    var rMargin=15; //right margin in mm
-    var pdfInMM=350;  // width of A4 in mm
+    var lMargin=15;
+    var rMargin=15;
+    var pdfInMM=350;
 
     var paragraphFechas='Fechas: '+this.myChartUci.data.labels.toString();
     var paragraphHosp='Hospitalizados: '+this.myChartUci.data.datasets[1].data.toString();
@@ -103,17 +156,13 @@ export class ChartUciComponent implements OnInit {
   }
 
   dataURItoBlob(dataURI) {
-    // convert base64/URLEncoded data component to raw binary data held in a string
     var byteString;
     if (dataURI.split(',')[0].indexOf('base64') >= 0)
         byteString = atob(dataURI.split(',')[1]);
     else
         byteString = unescape(dataURI.split(',')[1]);
 
-    // separate out the mime component
     var mimeString = dataURI.split(',')[0].split(':')[1].split(';')[0];
-
-    // write the bytes of the string to a typed array
     var ia = new Uint8Array(byteString.length);
     for (var i = 0; i < byteString.length; i++) {
         ia[i] = byteString.charCodeAt(i);
@@ -122,30 +171,16 @@ export class ChartUciComponent implements OnInit {
     return new Blob([ia], {type:mimeString});
   }
 
-
-  changeProvincia(prov) {
-    let sigla;
-    for(let i=0; i<this.provincias.length; i++){
-      if(this.provincias[i].nombre == prov){
-        sigla = this.provincias[i].sigla;
-      }
-    }
-    this.dataApi.getUci().subscribe((sortedArray) => {
-      let dataUci = sortedArray[sigla+"UCI"];
-      let dataHosp = sortedArray[sigla+"Hosp"];
-      this.myChartUci.data.datasets[0].data = dataUci;
-      this.myChartUci.data.datasets[1].data = dataHosp;
-      this.myChartUci.options.title.text = prov + ' - Prevalencia - Hospitalizados&UCI';
-      this.myChartUci.update();
-    });
-  }
-
   async makeChart(sortedArray, prov) {
 
     let selectedProv = Provincias[prov];
     let HospData = sortedArray[selectedProv.sigla + "Hosp"];
     let UCIData = sortedArray[selectedProv.sigla + "UCI"];
     let Fechas = sortedArray["Fechas"];
+
+    this.totalFechas = [...Fechas];
+    this.totalHospData = [...HospData];
+    this.totalUCIData = [...UCIData];
 
     //Global Options
     Chart.defaults.global.defaultFontFamily = 'Lato';

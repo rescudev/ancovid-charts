@@ -13,3 +13,7 @@ mat-card {
 span{
   padding-right: 15px;
 }
+
+::ng-deep .mat-checkbox .mat-checkbox-frame {
+  border-color: black;
+}

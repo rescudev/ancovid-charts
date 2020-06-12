@@ -1,4 +1,9 @@
 <mat-card id="divPrevalencia" class="mat-elevation-z6" [style.backgroundColor]="'white'">
+  <section class="example-section">
+    <section class="example-section">
+      <mat-checkbox style="color:black" [(ngModel)]="checked" (change)="cambiaDias()" class="example-margin"> Últimos 14 Días</mat-checkbox>
+    </section>
+  </section>
   <div style="position: relative; padding-bottom: 1%;" >
     <canvas id="myChartPrevalencia"></canvas>
   </div>
