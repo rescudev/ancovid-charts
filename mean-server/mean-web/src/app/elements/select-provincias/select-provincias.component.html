@@ -1,9 +1,0 @@
-<mat-form-field color="warn">
-  <mat-label>Provincia</mat-label>
-  <mat-select (selectionChange)="changeProvincia(selectedValue)" [(ngModel)]="initialValue" [(ngModel)]="selectedValue" name="provincia" >
-    <mat-option *ngFor="let provincia of provincias" [value]="provincia.pos">
-      {{provincia.nombre}}
-    </mat-option>
-  </mat-select>
-</mat-form-field>
-

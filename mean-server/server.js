@@ -25,11 +25,6 @@ app.use('/hospitalizado', hospitalizadoRoute);
 app.use('/residencia', residenciaRoute);
 app.use('/territorio', territorioRoute);
 
-//ROUTES
-// app.get('/', (req, res) => {
-//     res.send('We are on home');
-// });
-
 if (process.env.NODE_ENV === 'production'){
     app.use(express.static('./mean-web/dist/mean-web'));
 

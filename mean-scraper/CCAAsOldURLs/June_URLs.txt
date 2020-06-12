@@ -8,3 +8,6 @@ var prevURL_06_06 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/a
 var prevURL_07_06 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/237464.html';
 var prevURL_08_06 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/237522.html';
 var prevURL_09_06 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/237629.html';
+var prevURL_10_06 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/237734.html';
+
+var prevURL_11_06 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/237757.html';

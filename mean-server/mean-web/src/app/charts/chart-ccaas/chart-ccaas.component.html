@@ -1,5 +1,4 @@
 <mat-card id="divCCAAs" class="mat-elevation-z6" [style.backgroundColor]="'white'">
-
   <mat-form-field color="warn">
     <mat-label>Comunidades</mat-label>
     <mat-select (selectionChange)="changeProvincia(selectedValue)" [(ngModel)]="selectedValue" name="comunidades" multiple>
@@ -8,9 +7,6 @@
       </mat-option>
     </mat-select>
   </mat-form-field>
-
-  <!-- (selectionChange)="changeProvincia(selectedValue)" -->
-
   <div style="position: relative; padding-bottom: 1%;" >
     <canvas id="myChartCCAAs"></canvas>
   </div>
