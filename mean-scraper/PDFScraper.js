@@ -25,9 +25,11 @@ async function getRawPCRData(pdfName){
     // Valid for 85-102 except (89-91)
     // const TxtPCRData = rawTxt.substring(rawTxt.indexOf("Confirmados por PCR"), rawTxt.indexOf("La Rioja")+150);
     // Valid from 116
-    const TxtPCRData = rawTxt.substring(rawTxt.indexOf("Andalucía")-100, rawTxt.indexOf("La Rioja")+150);
+    const TxtPCRData = rawTxt.substring(rawTxt.indexOf("Andalucía")-100, rawTxt.indexOf("Andalucía")+1800);
 
     var TxtPCRDataNoChar = TxtPCRData.replace(/\*/g, "");
+    var TxtPCRDataNoChar = TxtPCRData.replace(/(\r\n|\n|\r)/gm,"-");
+    var TxtPCRDataNoChar = TxtPCRData.replace(/\s\s+/g, ' ');
     // console.log(TxtPCRDataNoChar);
     return TxtPCRDataNoChar;
 }
@@ -37,6 +39,8 @@ async function getRawHospData(pdfName){
     const TxtPCRData = rawTxt.substring(rawTxt.indexOf("hospitalización"), rawTxt.indexOf("hospitalización")+1800);
 
     var TxtPCRDataNoChar = TxtPCRData.replace(/\*/g, "");
+    var TxtPCRDataNoChar = TxtPCRData.replace(/(\r\n|\n|\r)/gm,"-");
+    var TxtPCRDataNoChar = TxtPCRData.replace(/\s\s+/g, ' ');
     // console.log(TxtPCRDataNoChar);
     return TxtPCRDataNoChar;
 }
@@ -154,9 +158,9 @@ async function postPCRJSON(pdfName, dataType, postURL) {
     })
 }
 
-downloadPDF("https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_134_COVID-19.pdf", "Gobpdfs/Actualizacion_134_COVID-19.pdf");
-// postPCRJSON('Gobpdfs/Actualizacion_134_COVID-19.pdf', 'hosp', 'http://localhost:3000/hospitalizado');
-// postPCRJSON('Gobpdfs/Actualizacion_134_COVID-19.pdf', 'pcr', 'http://localhost:3000/pcr');
+downloadPDF("https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_148_COVID-19.pdf", "Gobpdfs/Actualizacion_148_COVID-19.pdf");
+// postPCRJSON('Gobpdfs/Actualizacion_148_COVID-19.pdf', 'hosp', 'http://localhost:3000/hospitalizado');
+// postPCRJSON('Gobpdfs/Actualizacion_148_COVID-19.pdf', 'pcr', 'http://localhost:3000/pcr');
 
 
 

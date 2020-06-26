@@ -1,4 +1,1012 @@
 Fecha;Territorio;Medida;Valor;
+25/06/2020;Andalucía;Confirmados PCR;12992;
+25/06/2020;Andalucía;Confirmados PCR 14 días;153;
+25/06/2020;Andalucía;Confirmados PCR 7 días;109;
+25/06/2020;Andalucía;Hospitalizados;6320;
+25/06/2020;Andalucía;Total UCI;778;
+25/06/2020;Andalucía;Fallecidos;1434;
+25/06/2020;Andalucía;Curados;15297;
+25/06/2020;Andalucía;Confirmados total;17844;
+25/06/2020;Almería;Confirmados PCR;535;
+25/06/2020;Almería;Confirmados PCR 14 días;6;
+25/06/2020;Almería;Confirmados PCR 7 días;3;
+25/06/2020;Almería;Hospitalizados;246;
+25/06/2020;Almería;Total UCI;41;
+25/06/2020;Almería;Fallecidos;53;
+25/06/2020;Almería;Curados;740;
+25/06/2020;Almería;Confirmados total;806;
+25/06/2020;Cádiz;Confirmados PCR;1311;
+25/06/2020;Cádiz;Confirmados PCR 14 días;28;
+25/06/2020;Cádiz;Confirmados PCR 7 días;20;
+25/06/2020;Cádiz;Hospitalizados;593;
+25/06/2020;Cádiz;Total UCI;84;
+25/06/2020;Cádiz;Fallecidos;168;
+25/06/2020;Cádiz;Curados;1364;
+25/06/2020;Cádiz;Confirmados total;1630;
+25/06/2020;Córdoba;Confirmados PCR;1352;
+25/06/2020;Córdoba;Confirmados PCR 14 días;3;
+25/06/2020;Córdoba;Confirmados PCR 7 días;1;
+25/06/2020;Córdoba;Hospitalizados;562;
+25/06/2020;Córdoba;Total UCI;76;
+25/06/2020;Córdoba;Fallecidos;115;
+25/06/2020;Córdoba;Curados;1628;
+25/06/2020;Córdoba;Confirmados total;1754;
+25/06/2020;Granada;Confirmados PCR;2508;
+25/06/2020;Granada;Confirmados PCR 14 días;43;
+25/06/2020;Granada;Confirmados PCR 7 días;37;
+25/06/2020;Granada;Hospitalizados;1209;
+25/06/2020;Granada;Total UCI;136;
+25/06/2020;Granada;Fallecidos;286;
+25/06/2020;Granada;Curados;2949;
+25/06/2020;Granada;Confirmados total;3311;
+25/06/2020;Huelva;Confirmados PCR;417;
+25/06/2020;Huelva;Confirmados PCR 14 días;9;
+25/06/2020;Huelva;Confirmados PCR 7 días;9;
+25/06/2020;Huelva;Hospitalizados;223;
+25/06/2020;Huelva;Total UCI;30;
+25/06/2020;Huelva;Fallecidos;48;
+25/06/2020;Huelva;Curados;479;
+25/06/2020;Huelva;Confirmados total;543;
+25/06/2020;Jaén;Confirmados PCR;1478;
+25/06/2020;Jaén;Confirmados PCR 14 días;6;
+25/06/2020;Jaén;Confirmados PCR 7 días;2;
+25/06/2020;Jaén;Hospitalizados;776;
+25/06/2020;Jaén;Total UCI;91;
+25/06/2020;Jaén;Fallecidos;188;
+25/06/2020;Jaén;Curados;1725;
+25/06/2020;Jaén;Confirmados total;1971;
+25/06/2020;Málaga;Confirmados PCR;2891;
+25/06/2020;Málaga;Confirmados PCR 14 días;48;
+25/06/2020;Málaga;Confirmados PCR 7 días;35;
+25/06/2020;Málaga;Hospitalizados;1498;
+25/06/2020;Málaga;Total UCI;168;
+25/06/2020;Málaga;Fallecidos;287;
+25/06/2020;Málaga;Curados;3543;
+25/06/2020;Málaga;Confirmados total;4656;
+25/06/2020;Sevilla;Confirmados PCR;2500;
+25/06/2020;Sevilla;Confirmados PCR 14 días;10;
+25/06/2020;Sevilla;Confirmados PCR 7 días;2;
+25/06/2020;Sevilla;Hospitalizados;1213;
+25/06/2020;Sevilla;Total UCI;152;
+25/06/2020;Sevilla;Fallecidos;289;
+25/06/2020;Sevilla;Curados;2869;
+25/06/2020;Sevilla;Confirmados total;3173;
+24/06/2020;Andalucía;Confirmados PCR;12950;
+24/06/2020;Andalucía;Confirmados PCR 14 días;114;
+24/06/2020;Andalucía;Confirmados PCR 7 días;77;
+24/06/2020;Andalucía;Hospitalizados;6317;
+24/06/2020;Andalucía;Total UCI;778;
+24/06/2020;Andalucía;Fallecidos;1434;
+24/06/2020;Andalucía;Curados;15248;
+24/06/2020;Andalucía;Confirmados total;17802;
+24/06/2020;Almería;Confirmados PCR;534;
+24/06/2020;Almería;Confirmados PCR 14 días;5;
+24/06/2020;Almería;Confirmados PCR 7 días;3;
+24/06/2020;Almería;Hospitalizados;246;
+24/06/2020;Almería;Total UCI;41;
+24/06/2020;Almería;Fallecidos;53;
+24/06/2020;Almería;Curados;740;
+24/06/2020;Almería;Confirmados total;805;
+24/06/2020;Cádiz;Confirmados PCR;1308;
+24/06/2020;Cádiz;Confirmados PCR 14 días;25;
+24/06/2020;Cádiz;Confirmados PCR 7 días;20;
+24/06/2020;Cádiz;Hospitalizados;593;
+24/06/2020;Cádiz;Total UCI;84;
+24/06/2020;Cádiz;Fallecidos;168;
+24/06/2020;Cádiz;Curados;1361;
+24/06/2020;Cádiz;Confirmados total;1627;
+24/06/2020;Córdoba;Confirmados PCR;1352;
+24/06/2020;Córdoba;Confirmados PCR 14 días;3;
+24/06/2020;Córdoba;Confirmados PCR 7 días;1;
+24/06/2020;Córdoba;Hospitalizados;562;
+24/06/2020;Córdoba;Total UCI;76;
+24/06/2020;Córdoba;Fallecidos;115;
+24/06/2020;Córdoba;Curados;1625;
+24/06/2020;Córdoba;Confirmados total;1754;
+24/06/2020;Granada;Confirmados PCR;2498;
+24/06/2020;Granada;Confirmados PCR 14 días;33;
+24/06/2020;Granada;Confirmados PCR 7 días;30;
+24/06/2020;Granada;Hospitalizados;1209;
+24/06/2020;Granada;Total UCI;136;
+24/06/2020;Granada;Fallecidos;286;
+24/06/2020;Granada;Curados;2948;
+24/06/2020;Granada;Confirmados total;3301;
+24/06/2020;Huelva;Confirmados PCR;409;
+24/06/2020;Huelva;Confirmados PCR 14 días;2;
+24/06/2020;Huelva;Confirmados PCR 7 días;1;
+24/06/2020;Huelva;Hospitalizados;223;
+24/06/2020;Huelva;Total UCI;30;
+24/06/2020;Huelva;Fallecidos;48;
+24/06/2020;Huelva;Curados;479;
+24/06/2020;Huelva;Confirmados total;535;
+24/06/2020;Jaén;Confirmados PCR;1478;
+24/06/2020;Jaén;Confirmados PCR 14 días;7;
+24/06/2020;Jaén;Confirmados PCR 7 días;2;
+24/06/2020;Jaén;Hospitalizados;774;
+24/06/2020;Jaén;Total UCI;91;
+24/06/2020;Jaén;Fallecidos;188;
+24/06/2020;Jaén;Curados;1720;
+24/06/2020;Jaén;Confirmados total;1971;
+24/06/2020;Málaga;Confirmados PCR;2872;
+24/06/2020;Málaga;Confirmados PCR 14 días;30;
+24/06/2020;Málaga;Confirmados PCR 7 días;16;
+24/06/2020;Málaga;Hospitalizados;1497;
+24/06/2020;Málaga;Total UCI;168;
+24/06/2020;Málaga;Fallecidos;287;
+24/06/2020;Málaga;Curados;3506;
+24/06/2020;Málaga;Confirmados total;4637;
+24/06/2020;Sevilla;Confirmados PCR;2499;
+24/06/2020;Sevilla;Confirmados PCR 14 días;9;
+24/06/2020;Sevilla;Confirmados PCR 7 días;4;
+24/06/2020;Sevilla;Hospitalizados;1213;
+24/06/2020;Sevilla;Total UCI;152;
+24/06/2020;Sevilla;Fallecidos;289;
+24/06/2020;Sevilla;Curados;2869;
+24/06/2020;Sevilla;Confirmados total;3172;
+23/06/2020;Andalucía;Confirmados PCR;12929;
+23/06/2020;Andalucía;Confirmados PCR 14 días;104;
+23/06/2020;Andalucía;Confirmados PCR 7 días;60;
+23/06/2020;Andalucía;Hospitalizados;6313;
+23/06/2020;Andalucía;Total UCI;777;
+23/06/2020;Andalucía;Fallecidos;1432;
+23/06/2020;Andalucía;Curados;15154;
+23/06/2020;Andalucía;Confirmados total;17778;
+23/06/2020;Almería;Confirmados PCR;533;
+23/06/2020;Almería;Confirmados PCR 14 días;5;
+23/06/2020;Almería;Confirmados PCR 7 días;3;
+23/06/2020;Almería;Hospitalizados;246;
+23/06/2020;Almería;Total UCI;41;
+23/06/2020;Almería;Fallecidos;53;
+23/06/2020;Almería;Curados;740;
+23/06/2020;Almería;Confirmados total;805;
+23/06/2020;Cádiz;Confirmados PCR;1307;
+23/06/2020;Cádiz;Confirmados PCR 14 días;26;
+23/06/2020;Cádiz;Confirmados PCR 7 días;21;
+23/06/2020;Cádiz;Hospitalizados;593;
+23/06/2020;Cádiz;Total UCI;84;
+23/06/2020;Cádiz;Fallecidos;168;
+23/06/2020;Cádiz;Curados;1358;
+23/06/2020;Cádiz;Confirmados total;1624;
+23/06/2020;Córdoba;Confirmados PCR;1352;
+23/06/2020;Córdoba;Confirmados PCR 14 días;4;
+23/06/2020;Córdoba;Confirmados PCR 7 días;1;
+23/06/2020;Córdoba;Hospitalizados;562;
+23/06/2020;Córdoba;Total UCI;76;
+23/06/2020;Córdoba;Fallecidos;115;
+23/06/2020;Córdoba;Curados;1618;
+23/06/2020;Córdoba;Confirmados total;1753;
+23/06/2020;Granada;Confirmados PCR;2491;
+23/06/2020;Granada;Confirmados PCR 14 días;27;
+23/06/2020;Granada;Confirmados PCR 7 días;24;
+23/06/2020;Granada;Hospitalizados;1209;
+23/06/2020;Granada;Total UCI;135;
+23/06/2020;Granada;Fallecidos;284;
+23/06/2020;Granada;Curados;2934;
+23/06/2020;Granada;Confirmados total;3294;
+23/06/2020;Huelva;Confirmados PCR;409;
+23/06/2020;Huelva;Confirmados PCR 14 días;2;
+23/06/2020;Huelva;Confirmados PCR 7 días;0;
+23/06/2020;Huelva;Hospitalizados;223;
+23/06/2020;Huelva;Total UCI;30;
+23/06/2020;Huelva;Fallecidos;48;
+23/06/2020;Huelva;Curados;479;
+23/06/2020;Huelva;Confirmados total;535;
+23/06/2020;Jaén;Confirmados PCR;1478;
+23/06/2020;Jaén;Confirmados PCR 14 días;7;
+23/06/2020;Jaén;Confirmados PCR 7 días;2;
+23/06/2020;Jaén;Hospitalizados;771;
+23/06/2020;Jaén;Total UCI;91;
+23/06/2020;Jaén;Fallecidos;188;
+23/06/2020;Jaén;Curados;1712;
+23/06/2020;Jaén;Confirmados total;1971;
+23/06/2020;Málaga;Confirmados PCR;2861;
+23/06/2020;Málaga;Confirmados PCR 14 días;23;
+23/06/2020;Málaga;Confirmados PCR 7 días;6;
+23/06/2020;Málaga;Hospitalizados;1497;
+23/06/2020;Málaga;Total UCI;168;
+23/06/2020;Málaga;Fallecidos;287;
+23/06/2020;Málaga;Curados;3446;
+23/06/2020;Málaga;Confirmados total;4625;
+23/06/2020;Sevilla;Confirmados PCR;2498;
+23/06/2020;Sevilla;Confirmados PCR 14 días;10;
+23/06/2020;Sevilla;Confirmados PCR 7 días;3;
+23/06/2020;Sevilla;Hospitalizados;1212;
+23/06/2020;Sevilla;Total UCI;152;
+23/06/2020;Sevilla;Fallecidos;289;
+23/06/2020;Sevilla;Curados;2867;
+23/06/2020;Sevilla;Confirmados total;3171;
+22/06/2020;Andalucía;Confirmados PCR;12925;
+22/06/2020;Andalucía;Confirmados PCR 14 días;105;
+22/06/2020;Andalucía;Confirmados PCR 7 días;59;
+22/06/2020;Andalucía;Hospitalizados;6313;
+22/06/2020;Andalucía;Total UCI;777;
+22/06/2020;Andalucía;Fallecidos;1429;
+22/06/2020;Andalucía;Curados;15113;
+22/06/2020;Andalucía;Confirmados total;17771;
+22/06/2020;Almería;Confirmados PCR;533;
+22/06/2020;Almería;Confirmados PCR 14 días;6;
+22/06/2020;Almería;Confirmados PCR 7 días;3;
+22/06/2020;Almería;Hospitalizados;246;
+22/06/2020;Almería;Total UCI;41;
+22/06/2020;Almería;Fallecidos;53;
+22/06/2020;Almería;Curados;740;
+22/06/2020;Almería;Confirmados total;804;
+22/06/2020;Cádiz;Confirmados PCR;1305;
+22/06/2020;Cádiz;Confirmados PCR 14 días;26;
+22/06/2020;Cádiz;Confirmados PCR 7 días;21;
+22/06/2020;Cádiz;Hospitalizados;592;
+22/06/2020;Cádiz;Total UCI;84;
+22/06/2020;Cádiz;Fallecidos;165;
+22/06/2020;Cádiz;Curados;1352;
+22/06/2020;Cádiz;Confirmados total;1621;
+22/06/2020;Córdoba;Confirmados PCR;1352;
+22/06/2020;Córdoba;Confirmados PCR 14 días;5;
+22/06/2020;Córdoba;Confirmados PCR 7 días;1;
+22/06/2020;Córdoba;Hospitalizados;562;
+22/06/2020;Córdoba;Total UCI;76;
+22/06/2020;Córdoba;Fallecidos;115;
+22/06/2020;Córdoba;Curados;1611;
+22/06/2020;Córdoba;Confirmados total;1753;
+22/06/2020;Granada;Confirmados PCR;2490;
+22/06/2020;Granada;Confirmados PCR 14 días;26;
+22/06/2020;Granada;Confirmados PCR 7 días;24;
+22/06/2020;Granada;Hospitalizados;1209;
+22/06/2020;Granada;Total UCI;135;
+22/06/2020;Granada;Fallecidos;284;
+22/06/2020;Granada;Curados;2933;
+22/06/2020;Granada;Confirmados total;3292;
+22/06/2020;Huelva;Confirmados PCR;407;
+22/06/2020;Huelva;Confirmados PCR 14 días;0;
+22/06/2020;Huelva;Confirmados PCR 7 días;0;
+22/06/2020;Huelva;Hospitalizados;222;
+22/06/2020;Huelva;Total UCI;30;
+22/06/2020;Huelva;Fallecidos;48;
+22/06/2020;Huelva;Curados;479;
+22/06/2020;Huelva;Confirmados total;533;
+22/06/2020;Jaén;Confirmados PCR;1478;
+22/06/2020;Jaén;Confirmados PCR 14 días;7;
+22/06/2020;Jaén;Confirmados PCR 7 días;2;
+22/06/2020;Jaén;Hospitalizados;771;
+22/06/2020;Jaén;Total UCI;91;
+22/06/2020;Jaén;Fallecidos;187;
+22/06/2020;Jaén;Curados;1704;
+22/06/2020;Jaén;Confirmados total;1971;
+22/06/2020;Málaga;Confirmados PCR;2861;
+22/06/2020;Málaga;Confirmados PCR 14 días;24;
+22/06/2020;Málaga;Confirmados PCR 7 días;5;
+22/06/2020;Málaga;Hospitalizados;1498;
+22/06/2020;Málaga;Total UCI;168;
+22/06/2020;Málaga;Fallecidos;288;
+22/06/2020;Málaga;Curados;3426;
+22/06/2020;Málaga;Confirmados total;4625;
+22/06/2020;Sevilla;Confirmados PCR;2499;
+22/06/2020;Sevilla;Confirmados PCR 14 días;11;
+22/06/2020;Sevilla;Confirmados PCR 7 días;3;
+22/06/2020;Sevilla;Hospitalizados;1213;
+22/06/2020;Sevilla;Total UCI;152;
+22/06/2020;Sevilla;Fallecidos;289;
+22/06/2020;Sevilla;Curados;2868;
+22/06/2020;Sevilla;Confirmados total;3172;
+21/06/2020;Andalucía;Confirmados PCR;12916;
+21/06/2020;Andalucía;Confirmados PCR 14 días;98;
+21/06/2020;Andalucía;Confirmados PCR 7 días;52;
+21/06/2020;Andalucía;Hospitalizados;6311;
+21/06/2020;Andalucía;Total UCI;777;
+21/06/2020;Andalucía;Fallecidos;1429;
+21/06/2020;Andalucía;Curados;15106;
+21/06/2020;Andalucía;Confirmados total;17762;
+21/06/2020;Almería;Confirmados PCR;533;
+21/06/2020;Almería;Confirmados PCR 14 días;6;
+21/06/2020;Almería;Confirmados PCR 7 días;3;
+21/06/2020;Almería;Hospitalizados;246;
+21/06/2020;Almería;Total UCI;41;
+21/06/2020;Almería;Fallecidos;53;
+21/06/2020;Almería;Curados;740;
+21/06/2020;Almería;Confirmados total;804;
+21/06/2020;Cádiz;Confirmados PCR;1304;
+21/06/2020;Cádiz;Confirmados PCR 14 días;25;
+21/06/2020;Cádiz;Confirmados PCR 7 días;20;
+21/06/2020;Cádiz;Hospitalizados;592;
+21/06/2020;Cádiz;Total UCI;84;
+21/06/2020;Cádiz;Fallecidos;165;
+21/06/2020;Cádiz;Curados;1352;
+21/06/2020;Cádiz;Confirmados total;1620;
+21/06/2020;Córdoba;Confirmados PCR;1351;
+21/06/2020;Córdoba;Confirmados PCR 14 días;4;
+21/06/2020;Córdoba;Confirmados PCR 7 días;0;
+21/06/2020;Córdoba;Hospitalizados;561;
+21/06/2020;Córdoba;Total UCI;76;
+21/06/2020;Córdoba;Fallecidos;115;
+21/06/2020;Córdoba;Curados;1611;
+21/06/2020;Córdoba;Confirmados total;1752;
+21/06/2020;Granada;Confirmados PCR;2487;
+21/06/2020;Granada;Confirmados PCR 14 días;24;
+21/06/2020;Granada;Confirmados PCR 7 días;21;
+21/06/2020;Granada;Hospitalizados;1208;
+21/06/2020;Granada;Total UCI;135;
+21/06/2020;Granada;Fallecidos;284;
+21/06/2020;Granada;Curados;2933;
+21/06/2020;Granada;Confirmados total;3289;
+21/06/2020;Huelva;Confirmados PCR;407;
+21/06/2020;Huelva;Confirmados PCR 14 días;0;
+21/06/2020;Huelva;Confirmados PCR 7 días;0;
+21/06/2020;Huelva;Hospitalizados;222;
+21/06/2020;Huelva;Total UCI;30;
+21/06/2020;Huelva;Fallecidos;48;
+21/06/2020;Huelva;Curados;479;
+21/06/2020;Huelva;Confirmados total;533;
+21/06/2020;Jaén;Confirmados PCR;1477;
+21/06/2020;Jaén;Confirmados PCR 14 días;6;
+21/06/2020;Jaén;Confirmados PCR 7 días;2;
+21/06/2020;Jaén;Hospitalizados;771;
+21/06/2020;Jaén;Total UCI;91;
+21/06/2020;Jaén;Fallecidos;187;
+21/06/2020;Jaén;Curados;1704;
+21/06/2020;Jaén;Confirmados total;1970;
+21/06/2020;Málaga;Confirmados PCR;2858;
+21/06/2020;Málaga;Confirmados PCR 14 días;22;
+21/06/2020;Málaga;Confirmados PCR 7 días;3;
+21/06/2020;Málaga;Hospitalizados;1498;
+21/06/2020;Málaga;Total UCI;168;
+21/06/2020;Málaga;Fallecidos;288;
+21/06/2020;Málaga;Curados;3426;
+21/06/2020;Málaga;Confirmados total;4622;
+21/06/2020;Sevilla;Confirmados PCR;2499;
+21/06/2020;Sevilla;Confirmados PCR 14 días;11;
+21/06/2020;Sevilla;Confirmados PCR 7 días;3;
+21/06/2020;Sevilla;Hospitalizados;1213;
+21/06/2020;Sevilla;Total UCI;152;
+21/06/2020;Sevilla;Fallecidos;289;
+21/06/2020;Sevilla;Curados;2861;
+21/06/2020;Sevilla;Confirmados total;3172;
+20/06/2020;Andalucía;Confirmados PCR;12907;
+20/06/2020;Andalucía;Confirmados PCR 14 días;96;
+20/06/2020;Andalucía;Confirmados PCR 7 días;48;
+20/06/2020;Andalucía;Hospitalizados;6309;
+20/06/2020;Andalucía;Total UCI;777;
+20/06/2020;Andalucía;Fallecidos;1429;
+20/06/2020;Andalucía;Curados;15103;
+20/06/2020;Andalucía;Confirmados total;17759;
+20/06/2020;Almería;Confirmados PCR;533;
+20/06/2020;Almería;Confirmados PCR 14 días;6;
+20/06/2020;Almería;Confirmados PCR 7 días;4;
+20/06/2020;Almería;Hospitalizados;246;
+20/06/2020;Almería;Total UCI;41;
+20/06/2020;Almería;Fallecidos;53;
+20/06/2020;Almería;Curados;738;
+20/06/2020;Almería;Confirmados total;805;
+20/06/2020;Cádiz;Confirmados PCR;1303;
+20/06/2020;Cádiz;Confirmados PCR 14 días;25;
+20/06/2020;Cádiz;Confirmados PCR 7 días;20;
+20/06/2020;Cádiz;Hospitalizados;592;
+20/06/2020;Cádiz;Total UCI;84;
+20/06/2020;Cádiz;Fallecidos;165;
+20/06/2020;Cádiz;Curados;1351;
+20/06/2020;Cádiz;Confirmados total;1619;
+20/06/2020;Córdoba;Confirmados PCR;1351;
+20/06/2020;Córdoba;Confirmados PCR 14 días;4;
+20/06/2020;Córdoba;Confirmados PCR 7 días;1;
+20/06/2020;Córdoba;Hospitalizados;561;
+20/06/2020;Córdoba;Total UCI;76;
+20/06/2020;Córdoba;Fallecidos;115;
+20/06/2020;Córdoba;Curados;1611;
+20/06/2020;Córdoba;Confirmados total;1754;
+20/06/2020;Granada;Confirmados PCR;2479;
+20/06/2020;Granada;Confirmados PCR 14 días;17;
+20/06/2020;Granada;Confirmados PCR 7 días;13;
+20/06/2020;Granada;Hospitalizados;1207;
+20/06/2020;Granada;Total UCI;135;
+20/06/2020;Granada;Fallecidos;284;
+20/06/2020;Granada;Curados;2933;
+20/06/2020;Granada;Confirmados total;3283;
+20/06/2020;Huelva;Confirmados PCR;407;
+20/06/2020;Huelva;Confirmados PCR 14 días;0;
+20/06/2020;Huelva;Confirmados PCR 7 días;0;
+20/06/2020;Huelva;Hospitalizados;222;
+20/06/2020;Huelva;Total UCI;30;
+20/06/2020;Huelva;Fallecidos;48;
+20/06/2020;Huelva;Curados;479;
+20/06/2020;Huelva;Confirmados total;533;
+20/06/2020;Jaén;Confirmados PCR;1477;
+20/06/2020;Jaén;Confirmados PCR 14 días;7;
+20/06/2020;Jaén;Confirmados PCR 7 días;4;
+20/06/2020;Jaén;Hospitalizados;770;
+20/06/2020;Jaén;Total UCI;91;
+20/06/2020;Jaén;Fallecidos;187;
+20/06/2020;Jaén;Curados;1704;
+20/06/2020;Jaén;Confirmados total;1970;
+20/06/2020;Málaga;Confirmados PCR;2858;
+20/06/2020;Málaga;Confirmados PCR 14 días;25;
+20/06/2020;Málaga;Confirmados PCR 7 días;3;
+20/06/2020;Málaga;Hospitalizados;1498;
+20/06/2020;Málaga;Total UCI;168;
+20/06/2020;Málaga;Fallecidos;288;
+20/06/2020;Málaga;Curados;3427;
+20/06/2020;Málaga;Confirmados total;4624;
+20/06/2020;Sevilla;Confirmados PCR;2499;
+20/06/2020;Sevilla;Confirmados PCR 14 días;12;
+20/06/2020;Sevilla;Confirmados PCR 7 días;3;
+20/06/2020;Sevilla;Hospitalizados;1213;
+20/06/2020;Sevilla;Total UCI;152;
+20/06/2020;Sevilla;Fallecidos;289;
+20/06/2020;Sevilla;Curados;2860;
+20/06/2020;Sevilla;Confirmados total;3171;
+19/06/2020;Andalucía;Confirmados PCR;12892;
+19/06/2020;Andalucía;Confirmados PCR 14 días;101;
+19/06/2020;Andalucía;Confirmados PCR 7 días;41;
+19/06/2020;Andalucía;Hospitalizados;6305;
+19/06/2020;Andalucía;Total UCI;777;
+19/06/2020;Andalucía;Fallecidos;1426;
+19/06/2020;Andalucía;Curados;15051;
+19/06/2020;Andalucía;Confirmados total;17739;
+19/06/2020;Almería;Confirmados PCR;531;
+19/06/2020;Almería;Confirmados PCR 14 días;9;
+19/06/2020;Almería;Confirmados PCR 7 días;2;
+19/06/2020;Almería;Hospitalizados;245;
+19/06/2020;Almería;Total UCI;41;
+19/06/2020;Almería;Fallecidos;53;
+19/06/2020;Almería;Curados;734;
+19/06/2020;Almería;Confirmados total;803;
+19/06/2020;Cádiz;Confirmados PCR;1302;
+19/06/2020;Cádiz;Confirmados PCR 14 días;25;
+19/06/2020;Cádiz;Confirmados PCR 7 días;19;
+19/06/2020;Cádiz;Hospitalizados;592;
+19/06/2020;Cádiz;Total UCI;84;
+19/06/2020;Cádiz;Fallecidos;164;
+19/06/2020;Cádiz;Curados;1347;
+19/06/2020;Cádiz;Confirmados total;1616;
+19/06/2020;Córdoba;Confirmados PCR;1351;
+19/06/2020;Córdoba;Confirmados PCR 14 días;5;
+19/06/2020;Córdoba;Confirmados PCR 7 días;1;
+19/06/2020;Córdoba;Hospitalizados;561;
+19/06/2020;Córdoba;Total UCI;76;
+19/06/2020;Córdoba;Fallecidos;115;
+19/06/2020;Córdoba;Curados;1608;
+19/06/2020;Córdoba;Confirmados total;1754;
+19/06/2020;Granada;Confirmados PCR;2471;
+19/06/2020;Granada;Confirmados PCR 14 días;12;
+19/06/2020;Granada;Confirmados PCR 7 días;7;
+19/06/2020;Granada;Hospitalizados;1206;
+19/06/2020;Granada;Total UCI;135;
+19/06/2020;Granada;Fallecidos;283;
+19/06/2020;Granada;Curados;2931;
+19/06/2020;Granada;Confirmados total;3274;
+19/06/2020;Huelva;Confirmados PCR;407;
+19/06/2020;Huelva;Confirmados PCR 14 días;0;
+19/06/2020;Huelva;Confirmados PCR 7 días;0;
+19/06/2020;Huelva;Hospitalizados;222;
+19/06/2020;Huelva;Total UCI;30;
+19/06/2020;Huelva;Fallecidos;48;
+19/06/2020;Huelva;Curados;478;
+19/06/2020;Huelva;Confirmados total;533;
+19/06/2020;Jaén;Confirmados PCR;1477;
+19/06/2020;Jaén;Confirmados PCR 14 días;9;
+19/06/2020;Jaén;Confirmados PCR 7 días;4;
+19/06/2020;Jaén;Hospitalizados;770;
+19/06/2020;Jaén;Total UCI;91;
+19/06/2020;Jaén;Fallecidos;187;
+19/06/2020;Jaén;Curados;1702;
+19/06/2020;Jaén;Confirmados total;1970;
+19/06/2020;Málaga;Confirmados PCR;2855;
+19/06/2020;Málaga;Confirmados PCR 14 días;28;
+19/06/2020;Málaga;Confirmados PCR 7 días;5;
+19/06/2020;Málaga;Hospitalizados;1496;
+19/06/2020;Málaga;Total UCI;168;
+19/06/2020;Málaga;Fallecidos;287;
+19/06/2020;Málaga;Curados;3393;
+19/06/2020;Málaga;Confirmados total;4620;
+19/06/2020;Sevilla;Confirmados PCR;2498;
+19/06/2020;Sevilla;Confirmados PCR 14 días;13;
+19/06/2020;Sevilla;Confirmados PCR 7 días;3;
+19/06/2020;Sevilla;Hospitalizados;1213;
+19/06/2020;Sevilla;Total UCI;152;
+19/06/2020;Sevilla;Fallecidos;289;
+19/06/2020;Sevilla;Curados;2858;
+19/06/2020;Sevilla;Confirmados total;3169;
+18/06/2020;Andalucía;Confirmados PCR;12871;
+18/06/2020;Andalucía;Confirmados PCR 14 días;94;
+18/06/2020;Andalucía;Confirmados PCR 7 días;28;
+18/06/2020;Andalucía;Hospitalizados;6309;
+18/06/2020;Andalucía;Total UCI;778;
+18/06/2020;Andalucía;Fallecidos;1433;
+18/06/2020;Andalucía;Curados;14978;
+18/06/2020;Andalucía;Confirmados total;17713;
+18/06/2020;Almería;Confirmados PCR;532;
+18/06/2020;Almería;Confirmados PCR 14 días;10;
+18/06/2020;Almería;Confirmados PCR 7 días;2;
+18/06/2020;Almería;Hospitalizados;246;
+18/06/2020;Almería;Total UCI;41;
+18/06/2020;Almería;Fallecidos;54;
+18/06/2020;Almería;Curados;726;
+18/06/2020;Almería;Confirmados total;804;
+18/06/2020;Cádiz;Confirmados PCR;1288;
+18/06/2020;Cádiz;Confirmados PCR 14 días;13;
+18/06/2020;Cádiz;Confirmados PCR 7 días;8;
+18/06/2020;Cádiz;Hospitalizados;592;
+18/06/2020;Cádiz;Total UCI;84;
+18/06/2020;Cádiz;Fallecidos;164;
+18/06/2020;Cádiz;Curados;1342;
+18/06/2020;Cádiz;Confirmados total;1602;
+18/06/2020;Córdoba;Confirmados PCR;1351;
+18/06/2020;Córdoba;Confirmados PCR 14 días;6;
+18/06/2020;Córdoba;Confirmados PCR 7 días;1;
+18/06/2020;Córdoba;Hospitalizados;562;
+18/06/2020;Córdoba;Total UCI;77;
+18/06/2020;Córdoba;Fallecidos;117;
+18/06/2020;Córdoba;Curados;1607;
+18/06/2020;Córdoba;Confirmados total;1752;
+18/06/2020;Granada;Confirmados PCR;2467;
+18/06/2020;Granada;Confirmados PCR 14 días;10;
+18/06/2020;Granada;Confirmados PCR 7 días;4;
+18/06/2020;Granada;Hospitalizados;1209;
+18/06/2020;Granada;Total UCI;135;
+18/06/2020;Granada;Fallecidos;287;
+18/06/2020;Granada;Curados;2930;
+18/06/2020;Granada;Confirmados total;3271;
+18/06/2020;Huelva;Confirmados PCR;407;
+18/06/2020;Huelva;Confirmados PCR 14 días;0;
+18/06/2020;Huelva;Confirmados PCR 7 días;0;
+18/06/2020;Huelva;Hospitalizados;222;
+18/06/2020;Huelva;Total UCI;30;
+18/06/2020;Huelva;Fallecidos;48;
+18/06/2020;Huelva;Curados;478;
+18/06/2020;Huelva;Confirmados total;533;
+18/06/2020;Jaén;Confirmados PCR;1474;
+18/06/2020;Jaén;Confirmados PCR 14 días;8;
+18/06/2020;Jaén;Confirmados PCR 7 días;2;
+18/06/2020;Jaén;Hospitalizados;769;
+18/06/2020;Jaén;Total UCI;91;
+18/06/2020;Jaén;Fallecidos;186;
+18/06/2020;Jaén;Curados;1701;
+18/06/2020;Jaén;Confirmados total;1966;
+18/06/2020;Málaga;Confirmados PCR;2854;
+18/06/2020;Málaga;Confirmados PCR 14 días;30;
+18/06/2020;Málaga;Confirmados PCR 7 días;7;
+18/06/2020;Málaga;Hospitalizados;1496;
+18/06/2020;Málaga;Total UCI;168;
+18/06/2020;Málaga;Fallecidos;288;
+18/06/2020;Málaga;Curados;3339;
+18/06/2020;Málaga;Confirmados total;4616;
+18/06/2020;Sevilla;Confirmados PCR;2498;
+18/06/2020;Sevilla;Confirmados PCR 14 días;17;
+18/06/2020;Sevilla;Confirmados PCR 7 días;4;
+18/06/2020;Sevilla;Hospitalizados;1213;
+18/06/2020;Sevilla;Total UCI;152;
+18/06/2020;Sevilla;Fallecidos;289;
+18/06/2020;Sevilla;Curados;2855;
+18/06/2020;Sevilla;Confirmados total;3169;
+17/06/2020;Andalucía;Confirmados PCR;12856;
+17/06/2020;Andalucía;Confirmados PCR 14 días;104;
+17/06/2020;Andalucía;Confirmados PCR 7 días;26;
+17/06/2020;Andalucía;Hospitalizados;6308;
+17/06/2020;Andalucía;Total UCI;778;
+17/06/2020;Andalucía;Fallecidos;1432;
+17/06/2020;Andalucía;Curados;14850;
+17/06/2020;Andalucía;Confirmados total;17678;
+17/06/2020;Almería;Confirmados PCR;531;
+17/06/2020;Almería;Confirmados PCR 14 días;13;
+17/06/2020;Almería;Confirmados PCR 7 días;1;
+17/06/2020;Almería;Hospitalizados;246;
+17/06/2020;Almería;Total UCI;41;
+17/06/2020;Almería;Fallecidos;54;
+17/06/2020;Almería;Curados;724;
+17/06/2020;Almería;Confirmados total;803;
+17/06/2020;Cádiz;Confirmados PCR;1285;
+17/06/2020;Cádiz;Confirmados PCR 14 días;11;
+17/06/2020;Cádiz;Confirmados PCR 7 días;5;
+17/06/2020;Cádiz;Hospitalizados;592;
+17/06/2020;Cádiz;Total UCI;84;
+17/06/2020;Cádiz;Fallecidos;163;
+17/06/2020;Cádiz;Curados;1328;
+17/06/2020;Cádiz;Confirmados total;1592;
+17/06/2020;Córdoba;Confirmados PCR;1351;
+17/06/2020;Córdoba;Confirmados PCR 14 días;7;
+17/06/2020;Córdoba;Confirmados PCR 7 días;1;
+17/06/2020;Córdoba;Hospitalizados;562;
+17/06/2020;Córdoba;Total UCI;77;
+17/06/2020;Córdoba;Fallecidos;117;
+17/06/2020;Córdoba;Curados;1606;
+17/06/2020;Córdoba;Confirmados total;1752;
+17/06/2020;Granada;Confirmados PCR;2465;
+17/06/2020;Granada;Confirmados PCR 14 días;10;
+17/06/2020;Granada;Confirmados PCR 7 días;2;
+17/06/2020;Granada;Hospitalizados;1209;
+17/06/2020;Granada;Total UCI;135;
+17/06/2020;Granada;Fallecidos;287;
+17/06/2020;Granada;Curados;2927;
+17/06/2020;Granada;Confirmados total;3269;
+17/06/2020;Huelva;Confirmados PCR;407;
+17/06/2020;Huelva;Confirmados PCR 14 días;1;
+17/06/2020;Huelva;Confirmados PCR 7 días;0;
+17/06/2020;Huelva;Hospitalizados;222;
+17/06/2020;Huelva;Total UCI;30;
+17/06/2020;Huelva;Fallecidos;48;
+17/06/2020;Huelva;Curados;478;
+17/06/2020;Huelva;Confirmados total;533;
+17/06/2020;Jaén;Confirmados PCR;1474;
+17/06/2020;Jaén;Confirmados PCR 14 días;8;
+17/06/2020;Jaén;Confirmados PCR 7 días;4;
+17/06/2020;Jaén;Hospitalizados;769;
+17/06/2020;Jaén;Total UCI;91;
+17/06/2020;Jaén;Fallecidos;186;
+17/06/2020;Jaén;Curados;1685;
+17/06/2020;Jaén;Confirmados total;1965;
+17/06/2020;Málaga;Confirmados PCR;2846;
+17/06/2020;Málaga;Confirmados PCR 14 días;35;
+17/06/2020;Málaga;Confirmados PCR 7 días;9;
+17/06/2020;Málaga;Hospitalizados;1496;
+17/06/2020;Málaga;Total UCI;168;
+17/06/2020;Málaga;Fallecidos;288;
+17/06/2020;Málaga;Curados;3256;
+17/06/2020;Málaga;Confirmados total;4597;
+17/06/2020;Sevilla;Confirmados PCR;2497;
+17/06/2020;Sevilla;Confirmados PCR 14 días;19;
+17/06/2020;Sevilla;Confirmados PCR 7 días;4;
+17/06/2020;Sevilla;Hospitalizados;1212;
+17/06/2020;Sevilla;Total UCI;152;
+17/06/2020;Sevilla;Fallecidos;289;
+17/06/2020;Sevilla;Curados;2846;
+17/06/2020;Sevilla;Confirmados total;3167;
+16/06/2020;Andalucía;Confirmados PCR;12846;
+16/06/2020;Andalucía;Confirmados PCR 14 días;112;
+16/06/2020;Andalucía;Confirmados PCR 7 días;32;
+16/06/2020;Andalucía;Hospitalizados;6305;
+16/06/2020;Andalucía;Total UCI;778;
+16/06/2020;Andalucía;Fallecidos;1431;
+16/06/2020;Andalucía;Curados;14722;
+16/06/2020;Andalucía;Confirmados total;17664;
+16/06/2020;Almería;Confirmados PCR;531;
+16/06/2020;Almería;Confirmados PCR 14 días;14;
+16/06/2020;Almería;Confirmados PCR 7 días;2;
+16/06/2020;Almería;Hospitalizados;246;
+16/06/2020;Almería;Total UCI;41;
+16/06/2020;Almería;Fallecidos;54;
+16/06/2020;Almería;Curados;721;
+16/06/2020;Almería;Confirmados total;803;
+16/06/2020;Cádiz;Confirmados PCR;1282;
+16/06/2020;Cádiz;Confirmados PCR 14 días;10;
+16/06/2020;Cádiz;Confirmados PCR 7 días;5;
+16/06/2020;Cádiz;Hospitalizados;589;
+16/06/2020;Cádiz;Total UCI;84;
+16/06/2020;Cádiz;Fallecidos;163;
+16/06/2020;Cádiz;Curados;1324;
+16/06/2020;Cádiz;Confirmados total;1589;
+16/06/2020;Córdoba;Confirmados PCR;1350;
+16/06/2020;Córdoba;Confirmados PCR 14 días;7;
+16/06/2020;Córdoba;Confirmados PCR 7 días;1;
+16/06/2020;Córdoba;Hospitalizados;563;
+16/06/2020;Córdoba;Total UCI;77;
+16/06/2020;Córdoba;Fallecidos;117;
+16/06/2020;Córdoba;Curados;1601;
+16/06/2020;Córdoba;Confirmados total;1751;
+16/06/2020;Granada;Confirmados PCR;2465;
+16/06/2020;Granada;Confirmados PCR 14 días;10;
+16/06/2020;Granada;Confirmados PCR 7 días;3;
+16/06/2020;Granada;Hospitalizados;1209;
+16/06/2020;Granada;Total UCI;135;
+16/06/2020;Granada;Fallecidos;286;
+16/06/2020;Granada;Curados;2914;
+16/06/2020;Granada;Confirmados total;3269;
+16/06/2020;Huelva;Confirmados PCR;407;
+16/06/2020;Huelva;Confirmados PCR 14 días;1;
+16/06/2020;Huelva;Confirmados PCR 7 días;0;
+16/06/2020;Huelva;Hospitalizados;222;
+16/06/2020;Huelva;Total UCI;30;
+16/06/2020;Huelva;Fallecidos;48;
+16/06/2020;Huelva;Curados;478;
+16/06/2020;Huelva;Confirmados total;533;
+16/06/2020;Jaén;Confirmados PCR;1474;
+16/06/2020;Jaén;Confirmados PCR 14 días;8;
+16/06/2020;Jaén;Confirmados PCR 7 días;5;
+16/06/2020;Jaén;Hospitalizados;769;
+16/06/2020;Jaén;Total UCI;91;
+16/06/2020;Jaén;Fallecidos;186;
+16/06/2020;Jaén;Curados;1676;
+16/06/2020;Jaén;Confirmados total;1965;
+16/06/2020;Málaga;Confirmados PCR;2840;
+16/06/2020;Málaga;Confirmados PCR 14 días;39;
+16/06/2020;Málaga;Confirmados PCR 7 días;10;
+16/06/2020;Málaga;Hospitalizados;1496;
+16/06/2020;Málaga;Total UCI;168;
+16/06/2020;Málaga;Fallecidos;288;
+16/06/2020;Málaga;Curados;3161;
+16/06/2020;Málaga;Confirmados total;4587;
+16/06/2020;Sevilla;Confirmados PCR;2497;
+16/06/2020;Sevilla;Confirmados PCR 14 días;23;
+16/06/2020;Sevilla;Confirmados PCR 7 días;6;
+16/06/2020;Sevilla;Hospitalizados;1211;
+16/06/2020;Sevilla;Total UCI;152;
+16/06/2020;Sevilla;Fallecidos;289;
+16/06/2020;Sevilla;Curados;2847;
+16/06/2020;Sevilla;Confirmados total;3167;
+15/06/2020;Andalucía;Confirmados PCR;12842;
+15/06/2020;Andalucía;Confirmados PCR 14 días;135;
+15/06/2020;Andalucía;Confirmados PCR 7 días;33;
+15/06/2020;Andalucía;Hospitalizados;6303;
+15/06/2020;Andalucía;Total UCI;777;
+15/06/2020;Andalucía;Fallecidos;1432;
+15/06/2020;Andalucía;Curados;14610;
+15/06/2020;Andalucía;Confirmados total;17660;
+15/06/2020;Almería;Confirmados PCR;531;
+15/06/2020;Almería;Confirmados PCR 14 días;18;
+15/06/2020;Almería;Confirmados PCR 7 días;2;
+15/06/2020;Almería;Hospitalizados;247;
+15/06/2020;Almería;Total UCI;41;
+15/06/2020;Almería;Fallecidos;54;
+15/06/2020;Almería;Curados;716;
+15/06/2020;Almería;Confirmados total;804;
+15/06/2020;Cádiz;Confirmados PCR;1282;
+15/06/2020;Cádiz;Confirmados PCR 14 días;16;
+15/06/2020;Cádiz;Confirmados PCR 7 días;5;
+15/06/2020;Cádiz;Hospitalizados;589;
+15/06/2020;Cádiz;Total UCI;84;
+15/06/2020;Cádiz;Fallecidos;163;
+15/06/2020;Cádiz;Curados;1305;
+15/06/2020;Cádiz;Confirmados total;1588;
+15/06/2020;Córdoba;Confirmados PCR;1350;
+15/06/2020;Córdoba;Confirmados PCR 14 días;10;
+15/06/2020;Córdoba;Confirmados PCR 7 días;1;
+15/06/2020;Córdoba;Hospitalizados;563;
+15/06/2020;Córdoba;Total UCI;77;
+15/06/2020;Córdoba;Fallecidos;117;
+15/06/2020;Córdoba;Curados;1592;
+15/06/2020;Córdoba;Confirmados total;1751;
+15/06/2020;Granada;Confirmados PCR;2464;
+15/06/2020;Granada;Confirmados PCR 14 días;10;
+15/06/2020;Granada;Confirmados PCR 7 días;2;
+15/06/2020;Granada;Hospitalizados;1206;
+15/06/2020;Granada;Total UCI;134;
+15/06/2020;Granada;Fallecidos;287;
+15/06/2020;Granada;Curados;2905;
+15/06/2020;Granada;Confirmados total;3268;
+15/06/2020;Huelva;Confirmados PCR;407;
+15/06/2020;Huelva;Confirmados PCR 14 días;4;
+15/06/2020;Huelva;Confirmados PCR 7 días;0;
+15/06/2020;Huelva;Hospitalizados;222;
+15/06/2020;Huelva;Total UCI;30;
+15/06/2020;Huelva;Fallecidos;48;
+15/06/2020;Huelva;Curados;477;
+15/06/2020;Huelva;Confirmados total;533;
+15/06/2020;Jaén;Confirmados PCR;1474;
+15/06/2020;Jaén;Confirmados PCR 14 días;13;
+15/06/2020;Jaén;Confirmados PCR 7 días;5;
+15/06/2020;Jaén;Hospitalizados;769;
+15/06/2020;Jaén;Total UCI;91;
+15/06/2020;Jaén;Fallecidos;186;
+15/06/2020;Jaén;Curados;1668;
+15/06/2020;Jaén;Confirmados total;1965;
+15/06/2020;Málaga;Confirmados PCR;2840;
+15/06/2020;Málaga;Confirmados PCR 14 días;44;
+15/06/2020;Málaga;Confirmados PCR 7 días;12;
+15/06/2020;Málaga;Hospitalizados;1497;
+15/06/2020;Málaga;Total UCI;168;
+15/06/2020;Málaga;Fallecidos;288;
+15/06/2020;Málaga;Curados;3105;
+15/06/2020;Málaga;Confirmados total;4587;
+15/06/2020;Sevilla;Confirmados PCR;2494;
+15/06/2020;Sevilla;Confirmados PCR 14 días;20;
+15/06/2020;Sevilla;Confirmados PCR 7 días;6;
+15/06/2020;Sevilla;Hospitalizados;1210;
+15/06/2020;Sevilla;Total UCI;152;
+15/06/2020;Sevilla;Fallecidos;289;
+15/06/2020;Sevilla;Curados;2842;
+15/06/2020;Sevilla;Confirmados total;3164;
+14/06/2020;Andalucía;Confirmados PCR;12840;
+14/06/2020;Andalucía;Confirmados PCR 14 días;140;
+14/06/2020;Andalucía;Confirmados PCR 7 días;33;
+14/06/2020;Andalucía;Hospitalizados;6303;
+14/06/2020;Andalucía;Total UCI;777;
+14/06/2020;Andalucía;Fallecidos;1432;
+14/06/2020;Andalucía;Curados;14611;
+14/06/2020;Andalucía;Confirmados total;17658;
+14/06/2020;Almería;Confirmados PCR;531;
+14/06/2020;Almería;Confirmados PCR 14 días;20;
+14/06/2020;Almería;Confirmados PCR 7 días;2;
+14/06/2020;Almería;Hospitalizados;247;
+14/06/2020;Almería;Total UCI;41;
+14/06/2020;Almería;Fallecidos;54;
+14/06/2020;Almería;Curados;716;
+14/06/2020;Almería;Confirmados total;804;
+14/06/2020;Cádiz;Confirmados PCR;1282;
+14/06/2020;Cádiz;Confirmados PCR 14 días;18;
+14/06/2020;Cádiz;Confirmados PCR 7 días;5;
+14/06/2020;Cádiz;Hospitalizados;589;
+14/06/2020;Cádiz;Total UCI;84;
+14/06/2020;Cádiz;Fallecidos;163;
+14/06/2020;Cádiz;Curados;1305;
+14/06/2020;Cádiz;Confirmados total;1588;
+14/06/2020;Córdoba;Confirmados PCR;1350;
+14/06/2020;Córdoba;Confirmados PCR 14 días;10;
+14/06/2020;Córdoba;Confirmados PCR 7 días;2;
+14/06/2020;Córdoba;Hospitalizados;563;
+14/06/2020;Córdoba;Total UCI;77;
+14/06/2020;Córdoba;Fallecidos;117;
+14/06/2020;Córdoba;Curados;1592;
+14/06/2020;Córdoba;Confirmados total;1751;
+14/06/2020;Granada;Confirmados PCR;2465;
+14/06/2020;Granada;Confirmados PCR 14 días;11;
+14/06/2020;Granada;Confirmados PCR 7 días;3;
+14/06/2020;Granada;Hospitalizados;1206;
+14/06/2020;Granada;Total UCI;134;
+14/06/2020;Granada;Fallecidos;287;
+14/06/2020;Granada;Curados;2906;
+14/06/2020;Granada;Confirmados total;3269;
+14/06/2020;Huelva;Confirmados PCR;407;
+14/06/2020;Huelva;Confirmados PCR 14 días;4;
+14/06/2020;Huelva;Confirmados PCR 7 días;0;
+14/06/2020;Huelva;Hospitalizados;222;
+14/06/2020;Huelva;Total UCI;30;
+14/06/2020;Huelva;Fallecidos;48;
+14/06/2020;Huelva;Curados;477;
+14/06/2020;Huelva;Confirmados total;533;
+14/06/2020;Jaén;Confirmados PCR;1472;
+14/06/2020;Jaén;Confirmados PCR 14 días;12;
+14/06/2020;Jaén;Confirmados PCR 7 días;3;
+14/06/2020;Jaén;Hospitalizados;769;
+14/06/2020;Jaén;Total UCI;91;
+14/06/2020;Jaén;Fallecidos;186;
+14/06/2020;Jaén;Curados;1668;
+14/06/2020;Jaén;Confirmados total;1963;
+14/06/2020;Málaga;Confirmados PCR;2839;
+14/06/2020;Málaga;Confirmados PCR 14 días;45;
+14/06/2020;Málaga;Confirmados PCR 7 días;12;
+14/06/2020;Málaga;Hospitalizados;1497;
+14/06/2020;Málaga;Total UCI;168;
+14/06/2020;Málaga;Fallecidos;288;
+14/06/2020;Málaga;Curados;3105;
+14/06/2020;Málaga;Confirmados total;4586;
+14/06/2020;Sevilla;Confirmados PCR;2494;
+14/06/2020;Sevilla;Confirmados PCR 14 días;20;
+14/06/2020;Sevilla;Confirmados PCR 7 días;6;
+14/06/2020;Sevilla;Hospitalizados;1210;
+14/06/2020;Sevilla;Total UCI;152;
+14/06/2020;Sevilla;Fallecidos;289;
+14/06/2020;Sevilla;Curados;2842;
+14/06/2020;Sevilla;Confirmados total;3164;
+13/06/2020;Andalucía;Confirmados PCR;12836;
+13/06/2020;Andalucía;Confirmados PCR 14 días;143;
+13/06/2020;Andalucía;Confirmados PCR 7 días;37;
+13/06/2020;Andalucía;Hospitalizados;6302;
+13/06/2020;Andalucía;Total UCI;777;
+13/06/2020;Andalucía;Fallecidos;1431;
+13/06/2020;Andalucía;Curados;14606;
+13/06/2020;Andalucía;Confirmados total;17654;
+13/06/2020;Almería;Confirmados PCR;530;
+13/06/2020;Almería;Confirmados PCR 14 días;21;
+13/06/2020;Almería;Confirmados PCR 7 días;1;
+13/06/2020;Almería;Hospitalizados;247;
+13/06/2020;Almería;Total UCI;41;
+13/06/2020;Almería;Fallecidos;54;
+13/06/2020;Almería;Curados;715;
+13/06/2020;Almería;Confirmados total;803;
+13/06/2020;Cádiz;Confirmados PCR;1281;
+13/06/2020;Cádiz;Confirmados PCR 14 días;17;
+13/06/2020;Cádiz;Confirmados PCR 7 días;4;
+13/06/2020;Cádiz;Hospitalizados;589;
+13/06/2020;Cádiz;Total UCI;84;
+13/06/2020;Cádiz;Fallecidos;163;
+13/06/2020;Cádiz;Curados;1305;
+13/06/2020;Cádiz;Confirmados total;1587;
+13/06/2020;Córdoba;Confirmados PCR;1349;
+13/06/2020;Córdoba;Confirmados PCR 14 días;9;
+13/06/2020;Córdoba;Confirmados PCR 7 días;2;
+13/06/2020;Córdoba;Hospitalizados;562;
+13/06/2020;Córdoba;Total UCI;77;
+13/06/2020;Córdoba;Fallecidos;117;
+13/06/2020;Córdoba;Curados;1592;
+13/06/2020;Córdoba;Confirmados total;1750;
+13/06/2020;Granada;Confirmados PCR;2465;
+13/06/2020;Granada;Confirmados PCR 14 días;12;
+13/06/2020;Granada;Confirmados PCR 7 días;3;
+13/06/2020;Granada;Hospitalizados;1206;
+13/06/2020;Granada;Total UCI;134;
+13/06/2020;Granada;Fallecidos;287;
+13/06/2020;Granada;Curados;2906;
+13/06/2020;Granada;Confirmados total;3269;
+13/06/2020;Huelva;Confirmados PCR;407;
+13/06/2020;Huelva;Confirmados PCR 14 días;4;
+13/06/2020;Huelva;Confirmados PCR 7 días;0;
+13/06/2020;Huelva;Hospitalizados;222;
+13/06/2020;Huelva;Total UCI;30;
+13/06/2020;Huelva;Fallecidos;48;
+13/06/2020;Huelva;Curados;477;
+13/06/2020;Huelva;Confirmados total;533;
+13/06/2020;Jaén;Confirmados PCR;1472;
+13/06/2020;Jaén;Confirmados PCR 14 días;13;
+13/06/2020;Jaén;Confirmados PCR 7 días;4;
+13/06/2020;Jaén;Hospitalizados;769;
+13/06/2020;Jaén;Total UCI;91;
+13/06/2020;Jaén;Fallecidos;186;
+13/06/2020;Jaén;Curados;1668;
+13/06/2020;Jaén;Confirmados total;1963;
+13/06/2020;Málaga;Confirmados PCR;2838;
+13/06/2020;Málaga;Confirmados PCR 14 días;47;
+13/06/2020;Málaga;Confirmados PCR 7 días;16;
+13/06/2020;Málaga;Hospitalizados;1497;
+13/06/2020;Málaga;Total UCI;168;
+13/06/2020;Málaga;Fallecidos;287;
+13/06/2020;Málaga;Curados;3104;
+13/06/2020;Málaga;Confirmados total;4585;
+13/06/2020;Sevilla;Confirmados PCR;2494;
+13/06/2020;Sevilla;Confirmados PCR 14 días;20;
+13/06/2020;Sevilla;Confirmados PCR 7 días;7;
+13/06/2020;Sevilla;Hospitalizados;1210;
+13/06/2020;Sevilla;Total UCI;152;
+13/06/2020;Sevilla;Fallecidos;289;
+13/06/2020;Sevilla;Curados;2839;
+13/06/2020;Sevilla;Confirmados total;3164;
+12/06/2020;Andalucía;Confirmados PCR;12829;
+12/06/2020;Andalucía;Confirmados PCR 14 días;151;
+12/06/2020;Andalucía;Confirmados PCR 7 días;45;
+12/06/2020;Andalucía;Hospitalizados;6300;
+12/06/2020;Andalucía;Total UCI;775;
+12/06/2020;Andalucía;Fallecidos;1429;
+12/06/2020;Andalucía;Curados;14473;
+12/06/2020;Andalucía;Confirmados total;17636;
+12/06/2020;Almería;Confirmados PCR;530;
+12/06/2020;Almería;Confirmados PCR 14 días;23;
+12/06/2020;Almería;Confirmados PCR 7 días;6;
+12/06/2020;Almería;Hospitalizados;246;
+12/06/2020;Almería;Total UCI;41;
+12/06/2020;Almería;Fallecidos;54;
+12/06/2020;Almería;Curados;712;
+12/06/2020;Almería;Confirmados total;802;
+12/06/2020;Cádiz;Confirmados PCR;1281;
+12/06/2020;Cádiz;Confirmados PCR 14 días;18;
+12/06/2020;Cádiz;Confirmados PCR 7 días;6;
+12/06/2020;Cádiz;Hospitalizados;588;
+12/06/2020;Cádiz;Total UCI;83;
+12/06/2020;Cádiz;Fallecidos;161;
+12/06/2020;Cádiz;Curados;1286;
+12/06/2020;Cádiz;Confirmados total;1582;
+12/06/2020;Córdoba;Confirmados PCR;1349;
+12/06/2020;Córdoba;Confirmados PCR 14 días;10;
+12/06/2020;Córdoba;Confirmados PCR 7 días;4;
+12/06/2020;Córdoba;Hospitalizados;563;
+12/06/2020;Córdoba;Total UCI;76;
+12/06/2020;Córdoba;Fallecidos;117;
+12/06/2020;Córdoba;Curados;1586;
+12/06/2020;Córdoba;Confirmados total;1750;
+12/06/2020;Granada;Confirmados PCR;2465;
+12/06/2020;Granada;Confirmados PCR 14 días;15;
+12/06/2020;Granada;Confirmados PCR 7 días;4;
+12/06/2020;Granada;Hospitalizados;1206;
+12/06/2020;Granada;Total UCI;134;
+12/06/2020;Granada;Fallecidos;287;
+12/06/2020;Granada;Curados;2893;
+12/06/2020;Granada;Confirmados total;3269;
+12/06/2020;Huelva;Confirmados PCR;407;
+12/06/2020;Huelva;Confirmados PCR 14 días;4;
+12/06/2020;Huelva;Confirmados PCR 7 días;0;
+12/06/2020;Huelva;Hospitalizados;222;
+12/06/2020;Huelva;Total UCI;30;
+12/06/2020;Huelva;Fallecidos;48;
+12/06/2020;Huelva;Curados;474;
+12/06/2020;Huelva;Confirmados total;532;
+12/06/2020;Jaén;Confirmados PCR;1472;
+12/06/2020;Jaén;Confirmados PCR 14 días;15;
+12/06/2020;Jaén;Confirmados PCR 7 días;4;
+12/06/2020;Jaén;Hospitalizados;769;
+12/06/2020;Jaén;Total UCI;91;
+12/06/2020;Jaén;Fallecidos;186;
+12/06/2020;Jaén;Curados;1645;
+12/06/2020;Jaén;Confirmados total;1963;
+12/06/2020;Málaga;Confirmados PCR;2834;
+12/06/2020;Málaga;Confirmados PCR 14 días;47;
+12/06/2020;Málaga;Confirmados PCR 7 días;16;
+12/06/2020;Málaga;Hospitalizados;1497;
+12/06/2020;Málaga;Total UCI;168;
+12/06/2020;Málaga;Fallecidos;287;
+12/06/2020;Málaga;Curados;3039;
+12/06/2020;Málaga;Confirmados total;4576;
+12/06/2020;Sevilla;Confirmados PCR;2491;
+12/06/2020;Sevilla;Confirmados PCR 14 días;19;
+12/06/2020;Sevilla;Confirmados PCR 7 días;5;
+12/06/2020;Sevilla;Hospitalizados;1209;
+12/06/2020;Sevilla;Total UCI;152;
+12/06/2020;Sevilla;Fallecidos;289;
+12/06/2020;Sevilla;Curados;2838;
+12/06/2020;Sevilla;Confirmados total;3162;
 11/06/2020;Andalucía;Confirmados PCR;12820;
 11/06/2020;Andalucía;Confirmados PCR 14 días;155;
 11/06/2020;Andalucía;Confirmados PCR 7 días;46;
@@ -792,6 +1800,1686 @@ Fecha;Territorio;Medida;Valor;
 01/06/2020;Sevilla;Curados;2648;
 01/06/2020;Sevilla;Confirmados total;3139;
 
+          
+               
+                    
+               
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
           
                
                     
