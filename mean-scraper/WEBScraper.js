@@ -59,13 +59,20 @@ async function scrapePrevalencia(url) {
 
 function addComunidad(rawTxt, comunidad, siglas, siguiente) {
         const soloCom = rawTxt.substring(rawTxt.indexOf(comunidad), rawTxt.indexOf(siguiente));
-        const Hosp = soloCom.substring(soloCom.lastIndexOf(comunidad)+comunidad.length+1, soloCom.indexOf('hos'));
+        let Hosp = soloCom.substring(soloCom.lastIndexOf(comunidad)+comunidad.length+1, soloCom.indexOf('hos'));
         let UCI = soloCom.substring(soloCom.indexOf('que')+3, soloCom.indexOf('enUCI'));
+        if(soloCom.includes('y')){
+                UCI = soloCom.substring(soloCom.indexOf('y')+1, soloCom.indexOf('enUCI'));
+        }
+        console.log(soloCom);
         if(soloCom.includes('ninguno')){
                 UCI = 0;
         }
+        if(soloCom.includes('ningunahosp')){
+                Hosp = 0, UCI = 0;
+        }
         var res = '"'+siglas+'Hosp": '+Hosp+ ', "'+siglas+'UCI":'+UCI;
-
+        console.log(res);
         return res;
 }    
 
@@ -108,9 +115,9 @@ async function postPrevalenciaJSON(url) {
         })
 }
 
-var prevURL_26_06 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/?.html';
+var prevURL_29_06 = 'https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/?.html';
 
-postPrevalenciaJSON(prevURL_26_06);
+postPrevalenciaJSON(prevURL_29_06);
 
 
 
