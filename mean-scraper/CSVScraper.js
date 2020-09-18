@@ -50,7 +50,7 @@ function scrapResidencias(Fecha){
 }
 
 function scrapTerritorios(){
-    fs.readFile('TerritoriosCVS/terJunio.txt', 'utf-8', function(err, data) {
+    fs.readFile('TerritoriosCVS/terJulio.txt', 'utf-8', function(err, data) {
         if (err) throw err;
         let newValue = data.replace(/\s/g, '');
         newValue = newValue.split(";");
@@ -69,7 +69,7 @@ function scrapTerritorios(){
             let finalParts = [];
             for(var i = 0; i<32*9; i+=32){
                 let dataInJSON;    
-                dataInJSON = JSON.parse('{ "Territorio": "'+newValue[j+i+5]+'", "ConfirmadosPCR": '+newValue[j+i+7]+', "ConfirmadosPCR14d": '+newValue[j+i+11]+', "ConfirmadosPCR7d": '+newValue[j+i+15]+', "Hospitalizados": '+newValue[j+i+19]+', "TotalUCI": '+newValue[j+i+23]+', "Fallecimientos": '+newValue[j+i+27]+', "Curados": '+newValue[j+i+31]+', "ConfirmadosTotal": '+newValue[j+i+35]+'}');
+                dataInJSON = JSON.parse('{ "Territorio": "'+newValue[j+i+5]+'", "ConfirmadosPCR": '+newValue[j+i+7]+', "ConfirmadosPCR14d": '+newValue[j+i+11]+', "ConfirmadosPCR7d": '+newValue[j+i+15]+', "ConfirmadosTotal": '+newValue[j+i+19]+', "Hospitalizados": '+newValue[j+i+23]+', "TotalUCI": '+newValue[j+i+27]+', "Fallecimientos": '+newValue[j+i+31]+', "Curados": '+newValue[j+i+35]+'}');
                 finalParts.push(dataInJSON);
             }
             let finalJSON = {"Date": convertToJSONDate(newValue[j+4]), "Fecha": newValue[j+4], "Territorios": finalParts };
@@ -92,7 +92,7 @@ function scrapTerritorios(){
 }
 
 scrapTerritorios();
-// scrapResidencias("17/06/2020");
+// scrapResidencias("09/07/2020");
 
 //For terAbril.txt
 // for(var j = 0; j<(newValue.length-5); j+=24*9){
