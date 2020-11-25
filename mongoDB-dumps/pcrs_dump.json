@@ -5072,4 +5072,5244 @@
   },
   "Fecha": "27/05/2020",
   "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed0cc73d86c034c38f985d8"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 237906,
+      "Nuevos": 182,
+      "IA": "15,03"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12639,
+      "Nuevos": 7,
+      "IA": "1,64"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5656,
+      "Nuevos": 18,
+      "IA": "19,18"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2400,
+      "Nuevos": 1,
+      "IA": "2,25"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2124,
+      "Nuevos": 1,
+      "IA": "9,13"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2327,
+      "Nuevos": 1,
+      "IA": "2,55"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2297,
+      "Nuevos": 5,
+      "IA": "6,88"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17068,
+      "Nuevos": 0,
+      "IA": "19,68"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 18682,
+      "Nuevos": 8,
+      "IA": "23,25"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 58427,
+      "Nuevos": 39,
+      "IA": "39,39"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 129,
+      "Nuevos": 0,
+      "IA": "14,15"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11160,
+      "Nuevos": 8,
+      "IA": "5,58"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2961,
+      "Nuevos": 3,
+      "IA": "2,62"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9115,
+      "Nuevos": 3,
+      "IA": "3,15"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 68451,
+      "Nuevos": 67,
+      "IA": "25,33"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 121,
+      "Nuevos": 0,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1593,
+      "Nuevos": 3,
+      "IA": "3,28"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5223,
+      "Nuevos": 17,
+      "IA": "20,64"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13489,
+      "Nuevos": 1,
+      "IA": "7,65"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4044,
+      "Nuevos": 0,
+      "IA": "8,52"
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-28T00:00:00Z"
+  },
+  "Fecha": "28/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3a3c27be66625c8a691ab"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 238564,
+      "Nuevos": 187,
+      "IA": "14,79"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12655,
+      "Nuevos": 7,
+      "IA": "1,71"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5671,
+      "Nuevos": 14,
+      "IA": "18,49"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2401,
+      "Nuevos": 1,
+      "IA": "1,66"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2129,
+      "Nuevos": 1,
+      "IA": "6,61"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2333,
+      "Nuevos": 5,
+      "IA": "2,65"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2298,
+      "Nuevos": 1,
+      "IA": "6,71"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17122,
+      "Nuevos": 3,
+      "IA": "19,68"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 18747,
+      "Nuevos": 7,
+      "IA": "23,71"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 58699,
+      "Nuevos": 47,
+      "IA": "39,62"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 145,
+      "Nuevos": 6,
+      "IA": "33,03"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11191,
+      "Nuevos": 11,
+      "IA": "5,60"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2963,
+      "Nuevos": 2,
+      "IA": "2,62"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9117,
+      "Nuevos": 1,
+      "IA": "3,11"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 68597,
+      "Nuevos": 61,
+      "IA": "24,01"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 121,
+      "Nuevos": 0,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1595,
+      "Nuevos": 1,
+      "IA": "2,88"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5238,
+      "Nuevos": 15,
+      "IA": "19,72"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13494,
+      "Nuevos": 2,
+      "IA": "6,61"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4048,
+      "Nuevos": 2,
+      "IA": "9,15"
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-29T00:00:00Z"
+  },
+  "Fecha": "29/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3a3ca7be66625c8a691ac"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 239228,
+      "Nuevos": 271,
+      "IA": "14,65"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12668,
+      "Nuevos": 8,
+      "IA": "1,63"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5680,
+      "Nuevos": 9,
+      "IA": "17,28"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2421,
+      "Nuevos": 19,
+      "IA": "3,42"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2137,
+      "Nuevos": 0,
+      "IA": "6,00"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2343,
+      "Nuevos": 9,
+      "IA": "2,88"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2298,
+      "Nuevos": 0,
+      "IA": "6,71"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17184,
+      "Nuevos": 7,
+      "IA": "20,37"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 18804,
+      "Nuevos": 12,
+      "IA": "23,67"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59003,
+      "Nuevos": 88,
+      "IA": "39,74"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 145,
+      "Nuevos": 0,
+      "IA": "33,03"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11199,
+      "Nuevos": 5,
+      "IA": "5,14"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2964,
+      "Nuevos": 0,
+      "IA": "2,44"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9120,
+      "Nuevos": 1,
+      "IA": "2,85"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 68740,
+      "Nuevos": 95,
+      "IA": "23,52"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 121,
+      "Nuevos": 0,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1597,
+      "Nuevos": 1,
+      "IA": "2,61"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5247,
+      "Nuevos": 9,
+      "IA": "19,87"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13506,
+      "Nuevos": 5,
+      "IA": "6,25"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4051,
+      "Nuevos": 3,
+      "IA": "7,89"
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-30T00:00:00Z"
+  },
+  "Fecha": "30/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed53db08699510094360db6"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 239429,
+      "Nuevos": 96,
+      "IA": "14,77"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12673,
+      "Nuevos": 5,
+      "IA": "1,57"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5691,
+      "Nuevos": 11,
+      "IA": "17,21"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2424,
+      "Nuevos": 2,
+      "IA": "3,72"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2141,
+      "Nuevos": 0,
+      "IA": "5,92"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2345,
+      "Nuevos": 2,
+      "IA": "2,74"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2303,
+      "Nuevos": 2,
+      "IA": "6,88"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17234,
+      "Nuevos": 6,
+      "IA": "21,60"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 18863,
+      "Nuevos": 17,
+      "IA": "24,63"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59013,
+      "Nuevos": 10,
+      "IA": "39,74"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 145,
+      "Nuevos": 0,
+      "IA": "33,03"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11201,
+      "Nuevos": 0,
+      "IA": "4,60"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2966,
+      "Nuevos": 2,
+      "IA": "2,53"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9119,
+      "Nuevos": 0,
+      "IA": "2,67"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 68830,
+      "Nuevos": 32,
+      "IA": "24,36"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 121,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1597,
+      "Nuevos": 0,
+      "IA": "2,54"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5254,
+      "Nuevos": 7,
+      "IA": "20,02"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13508,
+      "Nuevos": 0,
+      "IA": "5,75"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4051,
+      "Nuevos": 0,
+      "IA": "7,58"
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-31T00:00:00Z"
+  },
+  "Fecha": "31/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed541468699510094360dbb"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 239638,
+      "Nuevos": 71,
+      "IA": "13,87"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12679,
+      "Nuevos": 3,
+      "IA": "1,59"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5695,
+      "Nuevos": 4,
+      "IA": "16,52"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2425,
+      "Nuevos": 2,
+      "IA": "3,52"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2142,
+      "Nuevos": 1,
+      "IA": "5,83"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2347,
+      "Nuevos": 1,
+      "IA": "2,79"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2303,
+      "Nuevos": 0,
+      "IA": "6,54"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17259,
+      "Nuevos": 3,
+      "IA": "21,99"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 18907,
+      "Nuevos": 11,
+      "IA": "25,84"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59019,
+      "Nuevos": 16,
+      "IA": "34,23"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 146,
+      "Nuevos": 1,
+      "IA": "33,03"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11228,
+      "Nuevos": 6,
+      "IA": "4,80"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2966,
+      "Nuevos": 0,
+      "IA": "2,44"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9129,
+      "Nuevos": 0,
+      "IA": "2,89"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 68852,
+      "Nuevos": 18,
+      "IA": "24,16"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 121,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1599,
+      "Nuevos": 0,
+      "IA": "2,28"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5259,
+      "Nuevos": 5,
+      "IA": "17,12"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13511,
+      "Nuevos": 0,
+      "IA": "5,66"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4051,
+      "Nuevos": 0,
+      "IA": "7,58"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-01T00:00:00Z"
+  },
+  "Fecha": "01/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed7ba953e334d499c353e19"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 239932,
+      "Nuevos": 137,
+      "IA": "13,32"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12708,
+      "Nuevos": 12,
+      "IA": "1,72"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5711,
+      "Nuevos": 8,
+      "IA": "15,46"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2425,
+      "Nuevos": 0,
+      "IA": "3,23"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2150,
+      "Nuevos": 1,
+      "IA": "5,22"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2351,
+      "Nuevos": 4,
+      "IA": "2,93"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2314,
+      "Nuevos": 2,
+      "IA": "6,88"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17310,
+      "Nuevos": 0,
+      "IA": "22,23"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 18925,
+      "Nuevos": 0,
+      "IA": "24,92"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59035,
+      "Nuevos": 17,
+      "IA": "32,25"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 155,
+      "Nuevos": 9,
+      "IA": "41,28"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11238,
+      "Nuevos": 1,
+      "IA": "4,70"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2971,
+      "Nuevos": 4,
+      "IA": "2,62"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9130,
+      "Nuevos": 0,
+      "IA": "2,56"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 68960,
+      "Nuevos": 73,
+      "IA": "23,38"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 122,
+      "Nuevos": 1,
+      "IA": "1,16"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1603,
+      "Nuevos": 2,
+      "IA": "2,48"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5259,
+      "Nuevos": 1,
+      "IA": "16,20"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13513,
+      "Nuevos": 1,
+      "IA": "4,80"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4052,
+      "Nuevos": 1,
+      "IA": "6,00"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-02T00:00:00Z"
+  },
+  "Fecha": "02/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed899bef8bcd23d7c2f604f"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 240326,
+      "Nuevos": 219,
+      "IA": "12,67"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12726,
+      "Nuevos": 10,
+      "IA": "1,78"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5731,
+      "Nuevos": 20,
+      "IA": "15,16"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2425,
+      "Nuevos": 0,
+      "IA": "3,13"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2157,
+      "Nuevos": 2,
+      "IA": "5,05"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2357,
+      "Nuevos": 5,
+      "IA": "2,65"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2316,
+      "Nuevos": 2,
+      "IA": "6,20"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17355,
+      "Nuevos": 2,
+      "IA": "21,15"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 18956,
+      "Nuevos": 4,
+      "IA": "23,88"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59112,
+      "Nuevos": 38,
+      "IA": "29,98"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 155,
+      "Nuevos": 0,
+      "IA": "40,11"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11254,
+      "Nuevos": 13,
+      "IA": "4,58"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2974,
+      "Nuevos": 2,
+      "IA": "2,62"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9132,
+      "Nuevos": 2,
+      "IA": "2,37"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 69112,
+      "Nuevos": 112,
+      "IA": "22,75"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 122,
+      "Nuevos": 0,
+      "IA": "1,16"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1605,
+      "Nuevos": 2,
+      "IA": "2,28"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5261,
+      "Nuevos": 2,
+      "IA": "15,13"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13523,
+      "Nuevos": 3,
+      "IA": "4,48"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4053,
+      "Nuevos": 0,
+      "IA": "5,37"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-03T00:00:00Z"
+  },
+  "Fecha": "03/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eda07c8be725b35743f9d0d"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 240660,
+      "Nuevos": 195,
+      "IA": "12,24"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12743,
+      "Nuevos": 9,
+      "IA": "1,68"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5734,
+      "Nuevos": 3,
+      "IA": "14,10"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2425,
+      "Nuevos": 0,
+      "IA": "3,13"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2164,
+      "Nuevos": 0,
+      "IA": "4,87"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2361,
+      "Nuevos": 4,
+      "IA": "2,60"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2316,
+      "Nuevos": 0,
+      "IA": "5,85"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17393,
+      "Nuevos": 4,
+      "IA": "20,96"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19009,
+      "Nuevos": 14,
+      "IA": "24,34"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59163,
+      "Nuevos": 51,
+      "IA": "29,21"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 7,
+      "IA": "48,36"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11265,
+      "Nuevos": 4,
+      "IA": "4,06"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2973,
+      "Nuevos": 0,
+      "IA": "2,34"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9134,
+      "Nuevos": 1,
+      "IA": "2,04"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 69236,
+      "Nuevos": 87,
+      "IA": "21,40"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 122,
+      "Nuevos": 0,
+      "IA": "1,16"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1613,
+      "Nuevos": 5,
+      "IA": "2,54"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5265,
+      "Nuevos": 4,
+      "IA": "15,29"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13527,
+      "Nuevos": 2,
+      "IA": "4,21"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4054,
+      "Nuevos": 0,
+      "IA": "5,68"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-04T00:00:00Z"
+  },
+  "Fecha": "04/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eddf79b49657c37a4915fdc"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 240978,
+      "Nuevos": 177,
+      "IA": "11,81"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12759,
+      "Nuevos": 3,
+      "IA": "1,69"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5757,
+      "Nuevos": 22,
+      "IA": "14,17"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2424,
+      "Nuevos": 0,
+      "IA": "3,03"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2110,
+      "Nuevos": 0,
+      "IA": "4,78"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2362,
+      "Nuevos": 1,
+      "IA": "2,37"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2320,
+      "Nuevos": 4,
+      "IA": "5,85"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17431,
+      "Nuevos": 6,
+      "IA": "21,35"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19042,
+      "Nuevos": 2,
+      "IA": "23,38"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59182,
+      "Nuevos": 19,
+      "IA": "26,93"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "44,82"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11285,
+      "Nuevos": 9,
+      "IA": "4,06"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2976,
+      "Nuevos": 2,
+      "IA": "2,44"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9146,
+      "Nuevos": 2,
+      "IA": "1,74"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 69423,
+      "Nuevos": 94,
+      "IA": "21,58"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 122,
+      "Nuevos": 0,
+      "IA": "1,16"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1616,
+      "Nuevos": 1,
+      "IA": "2,48"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5275,
+      "Nuevos": 10,
+      "IA": "16,05"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13529,
+      "Nuevos": 0,
+      "IA": "3,67"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4056,
+      "Nuevos": 2,
+      "IA": "5,37"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-05T00:00:00Z"
+  },
+  "Fecha": "05/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eddf7ac49657c37a4915fdd"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 241310,
+      "Nuevos": 164,
+      "IA": "11,25"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12776,
+      "Nuevos": 8,
+      "IA": "1,81"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5770,
+      "Nuevos": 12,
+      "IA": "13,95"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2426,
+      "Nuevos": 2,
+      "IA": "3,23"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2118,
+      "Nuevos": 1,
+      "IA": "4,70"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2364,
+      "Nuevos": 2,
+      "IA": "2,32"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2320,
+      "Nuevos": 0,
+      "IA": "5,85"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17472,
+      "Nuevos": 2,
+      "IA": "20,02"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19104,
+      "Nuevos": 4,
+      "IA": "23,13"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59199,
+      "Nuevos": 24,
+      "IA": "24,03"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "44,82"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11300,
+      "Nuevos": 11,
+      "IA": "3,88"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2977,
+      "Nuevos": 1,
+      "IA": "2,15"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9144,
+      "Nuevos": 0,
+      "IA": "1,44"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 69562,
+      "Nuevos": 86,
+      "IA": "21,76"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 122,
+      "Nuevos": 0,
+      "IA": "1,16"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1616,
+      "Nuevos": 0,
+      "IA": "2,28"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5285,
+      "Nuevos": 10,
+      "IA": "16,97"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13535,
+      "Nuevos": 1,
+      "IA": "3,26"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4057,
+      "Nuevos": 0,
+      "IA": "5,37"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-06T00:00:00Z"
+  },
+  "Fecha": "06/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eddf7d749657c37a4915fde"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 241550,
+      "Nuevos": 102,
+      "IA": "11,52"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12783,
+      "Nuevos": 3,
+      "IA": "1,81"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5781,
+      "Nuevos": 11,
+      "IA": "13,49"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2427,
+      "Nuevos": 1,
+      "IA": "3,13"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2125,
+      "Nuevos": 0,
+      "IA": "4,35"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2369,
+      "Nuevos": 5,
+      "IA": "2,51"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2321,
+      "Nuevos": 1,
+      "IA": "5,68"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17505,
+      "Nuevos": 3,
+      "IA": "20,22"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19161,
+      "Nuevos": 3,
+      "IA": "24,09"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59209,
+      "Nuevos": 10,
+      "IA": "25,18"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "44,82"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11314,
+      "Nuevos": 6,
+      "IA": "3,98"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2977,
+      "Nuevos": 0,
+      "IA": "2,15"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9145,
+      "Nuevos": 0,
+      "IA": "1,04"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 69641,
+      "Nuevos": 49,
+      "IA": "22,24"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 122,
+      "Nuevos": 0,
+      "IA": "1,16"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1616,
+      "Nuevos": 0,
+      "IA": "2,01"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5288,
+      "Nuevos": 3,
+      "IA": "15,29"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13542,
+      "Nuevos": 3,
+      "IA": "3,40"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4061,
+      "Nuevos": 4,
+      "IA": "6,63"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-07T00:00:00Z"
+  },
+  "Fecha": "07/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edf480cddacc52f14c11d30"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 241717,
+      "Nuevos": 48,
+      "IA": "11,58"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12785,
+      "Nuevos": 1,
+      "IA": "1,79"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5785,
+      "Nuevos": 4,
+      "IA": "13,49"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2429,
+      "Nuevos": 2,
+      "IA": "3,13"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2133,
+      "Nuevos": 0,
+      "IA": "4,96"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2370,
+      "Nuevos": 1,
+      "IA": "2,46"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2323,
+      "Nuevos": 2,
+      "IA": "5,33"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17543,
+      "Nuevos": 0,
+      "IA": "21,25"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19181,
+      "Nuevos": 5,
+      "IA": "24,34"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59215,
+      "Nuevos": 6,
+      "IA": "24,76"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "44,82"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11332,
+      "Nuevos": 9,
+      "IA": "3,90"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2977,
+      "Nuevos": 0,
+      "IA": "2,15"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9141,
+      "Nuevos": 1,
+      "IA": "1,00"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 69695,
+      "Nuevos": 8,
+      "IA": "22,78"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 122,
+      "Nuevos": 0,
+      "IA": "1,16"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1619,
+      "Nuevos": 0,
+      "IA": "1,81"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5294,
+      "Nuevos": 6,
+      "IA": "15,29"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13548,
+      "Nuevos": 2,
+      "IA": "3,58"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4062,
+      "Nuevos": 1,
+      "IA": "6,63"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-08T00:00:00Z"
+  },
+  "Fecha": "08/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee07fc7c2ee384fd0bc4b80"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 241966,
+      "Nuevos": 84,
+      "IA": "11,20"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12791,
+      "Nuevos": 3,
+      "IA": "1,77"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5792,
+      "Nuevos": 5,
+      "IA": "12,13"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2430,
+      "Nuevos": 1,
+      "IA": "3,23"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2135,
+      "Nuevos": 2,
+      "IA": "4,96"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2372,
+      "Nuevos": 1,
+      "IA": "2,28"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2324,
+      "Nuevos": 1,
+      "IA": "4,47"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17609,
+      "Nuevos": 1,
+      "IA": "22,58"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19193,
+      "Nuevos": 4,
+      "IA": "23,17"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59232,
+      "Nuevos": 17,
+      "IA": "22,97"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "40,11"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11342,
+      "Nuevos": 1,
+      "IA": "3,88"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2978,
+      "Nuevos": 1,
+      "IA": "1,97"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9148,
+      "Nuevos": 1,
+      "IA": "0,96"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 69804,
+      "Nuevos": 45,
+      "IA": "22,77"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 122,
+      "Nuevos": 0,
+      "IA": "1,16"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1619,
+      "Nuevos": 0,
+      "IA": "1,81"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5295,
+      "Nuevos": 1,
+      "IA": "14,67"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13555,
+      "Nuevos": 0,
+      "IA": "3,58"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4062,
+      "Nuevos": 0,
+      "IA": "5,68"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-09T00:00:00Z"
+  },
+  "Fecha": "09/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee338d0322cc93c501486be"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 242280,
+      "Nuevos": 167,
+      "IA": "10,66"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12800,
+      "Nuevos": 5,
+      "IA": "1,78"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5806,
+      "Nuevos": 14,
+      "IA": "12,05"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2431,
+      "Nuevos": 0,
+      "IA": "3,23"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2137,
+      "Nuevos": 0,
+      "IA": "4,44"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2372,
+      "Nuevos": 0,
+      "IA": "2,14"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2324,
+      "Nuevos": 0,
+      "IA": "3,96"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17640,
+      "Nuevos": 7,
+      "IA": "21,45"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19222,
+      "Nuevos": 3,
+      "IA": "21,25"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59298,
+      "Nuevos": 36,
+      "IA": "21,28"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "38,93"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11361,
+      "Nuevos": 13,
+      "IA": "3,92"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2982,
+      "Nuevos": 4,
+      "IA": "2,15"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9153,
+      "Nuevos": 3,
+      "IA": "1,00"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 69895,
+      "Nuevos": 62,
+      "IA": "21,82"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 122,
+      "Nuevos": 0,
+      "IA": "1,16"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1624,
+      "Nuevos": 2,
+      "IA": "2,01"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5299,
+      "Nuevos": 4,
+      "IA": "14,22"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13588,
+      "Nuevos": 13,
+      "IA": "4,35"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4063,
+      "Nuevos": 1,
+      "IA": "6,00"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-10T00:00:00Z"
+  },
+  "Fecha": "10/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee338da322cc93c501486bf"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 242707,
+      "Nuevos": 156,
+      "IA": "10,36"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12804,
+      "Nuevos": 1,
+      "IA": "1,66"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5812,
+      "Nuevos": 7,
+      "IA": "11,22"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2431,
+      "Nuevos": 0,
+      "IA": "3,13"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2142,
+      "Nuevos": 1,
+      "IA": "4,18"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2371,
+      "Nuevos": 1,
+      "IA": "2,00"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2327,
+      "Nuevos": 3,
+      "IA": "3,61"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17702,
+      "Nuevos": 13,
+      "IA": "22,14"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19254,
+      "Nuevos": 5,
+      "IA": "20,88"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59423,
+      "Nuevos": 27,
+      "IA": "20,05"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "28,31"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11381,
+      "Nuevos": 15,
+      "IA": "3,98"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2983,
+      "Nuevos": 1,
+      "IA": "1,97"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9154,
+      "Nuevos": 1,
+      "IA": "0,93"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 70051,
+      "Nuevos": 72,
+      "IA": "21,84"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 122,
+      "Nuevos": 0,
+      "IA": "1,16"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1626,
+      "Nuevos": 0,
+      "IA": "1,87"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5303,
+      "Nuevos": 4,
+      "IA": "12,38"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13595,
+      "Nuevos": 5,
+      "IA": "4,48"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4063,
+      "Nuevos": 0,
+      "IA": "6,00"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-11T00:00:00Z"
+  },
+  "Fecha": "11/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee73bfbb176a90a6ca2c5df"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 243209,
+      "Nuevos": 155,
+      "IA": "10,10"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12814,
+      "Nuevos": 5,
+      "IA": "1,63"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5833,
+      "Nuevos": 8,
+      "IA": "11,22"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 4,
+      "IA": "3,32"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2146,
+      "Nuevos": 5,
+      "IA": "3,74"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2374,
+      "Nuevos": 2,
+      "IA": "1,81"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2327,
+      "Nuevos": 0,
+      "IA": "3,44"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17740,
+      "Nuevos": 1,
+      "IA": "20,41"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19296,
+      "Nuevos": 2,
+      "IA": "19,59"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59593,
+      "Nuevos": 33,
+      "IA": "19,04"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "21,23"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11389,
+      "Nuevos": 9,
+      "IA": "3,84"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2984,
+      "Nuevos": 1,
+      "IA": "1,78"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9157,
+      "Nuevos": 2,
+      "IA": "0,96"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 70231,
+      "Nuevos": 74,
+      "IA": "22,68"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 122,
+      "Nuevos": 0,
+      "IA": "1,16"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1628,
+      "Nuevos": 0,
+      "IA": "1,87"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5308,
+      "Nuevos": 4,
+      "IA": "10,85"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13603,
+      "Nuevos": 2,
+      "IA": "4,44"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4066,
+      "Nuevos": 3,
+      "IA": "5,68"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-12T00:00:00Z"
+  },
+  "Fecha": "12/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee73c03b176a90a6ca2c5e0"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 243605,
+      "Nuevos": 130,
+      "IA": "9,52"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12823,
+      "Nuevos": 4,
+      "IA": "1,58"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5836,
+      "Nuevos": 3,
+      "IA": "10,54"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2437,
+      "Nuevos": 0,
+      "IA": "1,56"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2152,
+      "Nuevos": 3,
+      "IA": "3,83"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2377,
+      "Nuevos": 3,
+      "IA": "1,49"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2332,
+      "Nuevos": 2,
+      "IA": "3,79"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17776,
+      "Nuevos": 4,
+      "IA": "18,79"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19324,
+      "Nuevos": 3,
+      "IA": "17,80"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59706,
+      "Nuevos": 21,
+      "IA": "17,30"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "21,23"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11393,
+      "Nuevos": 3,
+      "IA": "3,54"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2985,
+      "Nuevos": 1,
+      "IA": "1,78"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9158,
+      "Nuevos": 1,
+      "IA": "0,85"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 70398,
+      "Nuevos": 75,
+      "IA": "22,59"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 123,
+      "Nuevos": 1,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1628,
+      "Nuevos": 0,
+      "IA": "1,67"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5311,
+      "Nuevos": 3,
+      "IA": "9,94"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13616,
+      "Nuevos": 2,
+      "IA": "4,71"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4067,
+      "Nuevos": 1,
+      "IA": "5,05"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-13T00:00:00Z"
+  },
+  "Fecha": "13/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee73c0cb176a90a6ca2c5e1"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 243928,
+      "Nuevos": 48,
+      "IA": "9,43"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12827,
+      "Nuevos": 3,
+      "IA": "1,47"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5840,
+      "Nuevos": 4,
+      "IA": "10,01"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2437,
+      "Nuevos": 0,
+      "IA": "1,37"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2154,
+      "Nuevos": 0,
+      "IA": "4,00"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2378,
+      "Nuevos": 0,
+      "IA": "1,44"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2334,
+      "Nuevos": 2,
+      "IA": "3,79"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17803,
+      "Nuevos": 0,
+      "IA": "17,91"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19343,
+      "Nuevos": 3,
+      "IA": "16,54"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59820,
+      "Nuevos": 7,
+      "IA": "17,56"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "21,23"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11404,
+      "Nuevos": 8,
+      "IA": "3,52"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2987,
+      "Nuevos": 2,
+      "IA": "1,78"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9159,
+      "Nuevos": 1,
+      "IA": "0,81"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 70521,
+      "Nuevos": 12,
+      "IA": "22,60"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 124,
+      "Nuevos": 1,
+      "IA": "3,47"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1629,
+      "Nuevos": 1,
+      "IA": "1,74"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5311,
+      "Nuevos": 0,
+      "IA": "8,87"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13626,
+      "Nuevos": 3,
+      "IA": "5,03"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4068,
+      "Nuevos": 1,
+      "IA": "5,37"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-14T00:00:00Z"
+  },
+  "Fecha": "14/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee897a910f0d61a00afcd73"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 244109,
+      "Nuevos": 40,
+      "IA": "9,44"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12830,
+      "Nuevos": 1,
+      "IA": "1,39"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5842,
+      "Nuevos": 3,
+      "IA": "9,93"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2437,
+      "Nuevos": 0,
+      "IA": "1,17"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2157,
+      "Nuevos": 0,
+      "IA": "4,09"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2378,
+      "Nuevos": 0,
+      "IA": "1,39"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2334,
+      "Nuevos": 0,
+      "IA": "3,79"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17811,
+      "Nuevos": 0,
+      "IA": "17,36"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19353,
+      "Nuevos": 0,
+      "IA": "16,09"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59897,
+      "Nuevos": 17,
+      "IA": "18,19"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "20,05"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11418,
+      "Nuevos": 3,
+      "IA": "3,62"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2988,
+      "Nuevos": 1,
+      "IA": "1,87"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9160,
+      "Nuevos": 1,
+      "IA": "0,85"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 70570,
+      "Nuevos": 12,
+      "IA": "22,23"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 124,
+      "Nuevos": 0,
+      "IA": "3,47"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1629,
+      "Nuevos": 0,
+      "IA": "1,74"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5311,
+      "Nuevos": 0,
+      "IA": "8,10"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13638,
+      "Nuevos": 1,
+      "IA": "5,57"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4069,
+      "Nuevos": 1,
+      "IA": "5,68"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-15T00:00:00Z"
+  },
+  "Fecha": "15/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee9f992285a82310888c37f"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 244328,
+      "Nuevos": 76,
+      "IA": "9,18"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12835,
+      "Nuevos": 2,
+      "IA": "1,22"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5845,
+      "Nuevos": 2,
+      "IA": "9,55"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2438,
+      "Nuevos": 1,
+      "IA": "1,27"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2163,
+      "Nuevos": 3,
+      "IA": "4,35"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2382,
+      "Nuevos": 1,
+      "IA": "1,35"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2336,
+      "Nuevos": 2,
+      "IA": "3,79"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17828,
+      "Nuevos": 1,
+      "IA": "17,02"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19365,
+      "Nuevos": 2,
+      "IA": "15,13"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 59944,
+      "Nuevos": 14,
+      "IA": "18,08"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "9,44"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11421,
+      "Nuevos": 0,
+      "IA": "3,48"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2990,
+      "Nuevos": 2,
+      "IA": "1,69"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9161,
+      "Nuevos": 1,
+      "IA": "0,89"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 70675,
+      "Nuevos": 42,
+      "IA": "21,43"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 124,
+      "Nuevos": 0,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1629,
+      "Nuevos": 0,
+      "IA": "1,61"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5312,
+      "Nuevos": 1,
+      "IA": "8,10"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13648,
+      "Nuevos": 2,
+      "IA": "5,75"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4069,
+      "Nuevos": 0,
+      "IA": "5,37"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-16T00:00:00Z"
+  },
+  "Fecha": "16/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eec7c47edc5ae0718d68c8b"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 244683,
+      "Nuevos": 141,
+      "IA": "8,87"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12839,
+      "Nuevos": 3,
+      "IA": "1,08"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5850,
+      "Nuevos": 5,
+      "IA": "8,34"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2436,
+      "Nuevos": 0,
+      "IA": "1,08"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2165,
+      "Nuevos": 0,
+      "IA": "3,91"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2382,
+      "Nuevos": 0,
+      "IA": "1,16"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2338,
+      "Nuevos": 2,
+      "IA": "3,79"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17845,
+      "Nuevos": 6,
+      "IA": "15,99"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19407,
+      "Nuevos": 24,
+      "IA": "15,29"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 60030,
+      "Nuevos": 23,
+      "IA": "17,72"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "8,26"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11431,
+      "Nuevos": 3,
+      "IA": "3,26"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2992,
+      "Nuevos": 1,
+      "IA": "1,78"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9164,
+      "Nuevos": 1,
+      "IA": "0,89"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 70799,
+      "Nuevos": 65,
+      "IA": "20,68"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 124,
+      "Nuevos": 0,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1631,
+      "Nuevos": 1,
+      "IA": "1,47"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5359,
+      "Nuevos": 6,
+      "IA": "8,71"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13658,
+      "Nuevos": 0,
+      "IA": "5,80"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4070,
+      "Nuevos": 1,
+      "IA": "5,37"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-17T00:00:00Z"
+  },
+  "Fecha": "17/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eec7c51edc5ae0718d68c8c"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 245268,
+      "Nuevos": 143,
+      "IA": "8,77"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12844,
+      "Nuevos": 6,
+      "IA": "0,97"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5855,
+      "Nuevos": 5,
+      "IA": "8,49"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,98"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2167,
+      "Nuevos": 2,
+      "IA": "3,74"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2398,
+      "Nuevos": 14,
+      "IA": "1,67"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2341,
+      "Nuevos": 3,
+      "IA": "4,30"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17894,
+      "Nuevos": 5,
+      "IA": "14,86"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19434,
+      "Nuevos": 2,
+      "IA": "14,21"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 60340,
+      "Nuevos": 16,
+      "IA": "18,68"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11441,
+      "Nuevos": 4,
+      "IA": "3,24"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 2999,
+      "Nuevos": 7,
+      "IA": "2,44"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9164,
+      "Nuevos": 2,
+      "IA": "0,85"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 70934,
+      "Nuevos": 69,
+      "IA": "19,54"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 124,
+      "Nuevos": 0,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1631,
+      "Nuevos": 0,
+      "IA": "1,07"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5364,
+      "Nuevos": 5,
+      "IA": "8,87"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13670,
+      "Nuevos": 3,
+      "IA": "6,11"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4070,
+      "Nuevos": 0,
+      "IA": "5,05"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-18T00:00:00Z"
+  },
+  "Fecha": "18/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0761facd393457cec5d45"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 245575,
+      "Nuevos": 154,
+      "IA": "8,44"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12864,
+      "Nuevos": 18,
+      "IA": "1,08"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5880,
+      "Nuevos": 25,
+      "IA": "8,72"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,98"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2169,
+      "Nuevos": 0,
+      "IA": "3,57"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2402,
+      "Nuevos": 4,
+      "IA": "1,81"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2342,
+      "Nuevos": 1,
+      "IA": "3,79"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17894,
+      "Nuevos": 0,
+      "IA": "12,79"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19466,
+      "Nuevos": 6,
+      "IA": "14,09"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 60450,
+      "Nuevos": 32,
+      "IA": "17,98"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11451,
+      "Nuevos": 5,
+      "IA": "3,06"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3000,
+      "Nuevos": 1,
+      "IA": "2,25"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9169,
+      "Nuevos": 3,
+      "IA": "0,93"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 71007,
+      "Nuevos": 44,
+      "IA": "18,52"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 124,
+      "Nuevos": 0,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1638,
+      "Nuevos": 4,
+      "IA": "1,41"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5370,
+      "Nuevos": 7,
+      "IA": "8,41"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13679,
+      "Nuevos": 2,
+      "IA": "6,43"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4072,
+      "Nuevos": 2,
+      "IA": "4,73"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-19T00:00:00Z"
+  },
+  "Fecha": "19/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0762aacd393457cec5d46"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 245938,
+      "Nuevos": 134,
+      "IA": "7,90"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12875,
+      "Nuevos": 6,
+      "IA": "1,06"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5898,
+      "Nuevos": 18,
+      "IA": "9,02"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,78"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2174,
+      "Nuevos": 3,
+      "IA": "3,65"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2402,
+      "Nuevos": 0,
+      "IA": "1,76"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2342,
+      "Nuevos": 0,
+      "IA": "3,61"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17940,
+      "Nuevos": 6,
+      "IA": "12,74"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19485,
+      "Nuevos": 4,
+      "IA": "12,17"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 60530,
+      "Nuevos": 25,
+      "IA": "15,66"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11476,
+      "Nuevos": 11,
+      "IA": "3,10"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3001,
+      "Nuevos": 2,
+      "IA": "2,25"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9167,
+      "Nuevos": 1,
+      "IA": "0,78"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 71144,
+      "Nuevos": 45,
+      "IA": "18,08"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 124,
+      "Nuevos": 0,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1638,
+      "Nuevos": 0,
+      "IA": "1,27"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5378,
+      "Nuevos": 8,
+      "IA": "8,10"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13693,
+      "Nuevos": 4,
+      "IA": "6,75"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4073,
+      "Nuevos": 1,
+      "IA": "5,05"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-20T00:00:00Z"
+  },
+  "Fecha": "20/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef07634acd393457cec5d47"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 246272,
+      "Nuevos": 141,
+      "IA": "8,08"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12884,
+      "Nuevos": 8,
+      "IA": "1,07"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5931,
+      "Nuevos": 33,
+      "IA": "10,69"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,68"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2179,
+      "Nuevos": 0,
+      "IA": "3,83"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2414,
+      "Nuevos": 12,
+      "IA": "2,09"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2344,
+      "Nuevos": 1,
+      "IA": "3,96"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17965,
+      "Nuevos": 6,
+      "IA": "12,99"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19499,
+      "Nuevos": 6,
+      "IA": "12,13"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 60645,
+      "Nuevos": 23,
+      "IA": "16,19"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11479,
+      "Nuevos": 1,
+      "IA": "2,84"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3006,
+      "Nuevos": 5,
+      "IA": "2,72"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9174,
+      "Nuevos": 6,
+      "IA": "1,04"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 71223,
+      "Nuevos": 32,
+      "IA": "18,08"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 124,
+      "Nuevos": 0,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1645,
+      "Nuevos": 4,
+      "IA": "1,67"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5381,
+      "Nuevos": 3,
+      "IA": "8,10"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13708,
+      "Nuevos": 1,
+      "IA": "7,11"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4073,
+      "Nuevos": 0,
+      "IA": "3,79"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-21T00:00:00Z"
+  },
+  "Fecha": "21/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef5b28c2c8af52c08369418"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 246504,
+      "Nuevos": 125,
+      "IA": "8,30"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12892,
+      "Nuevos": 3,
+      "IA": "1,13"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 5964,
+      "Nuevos": 33,
+      "IA": "12,81"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,49"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2187,
+      "Nuevos": 1,
+      "IA": "4,52"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2414,
+      "Nuevos": 0,
+      "IA": "2,04"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2344,
+      "Nuevos": 0,
+      "IA": "3,61"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17987,
+      "Nuevos": 4,
+      "IA": "13,53"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19516,
+      "Nuevos": 3,
+      "IA": "12,34"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 60714,
+      "Nuevos": 24,
+      "IA": "16,55"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11486,
+      "Nuevos": 3,
+      "IA": "2,74"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3010,
+      "Nuevos": 4,
+      "IA": "3,09"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9174,
+      "Nuevos": 0,
+      "IA": "1,00"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 71248,
+      "Nuevos": 17,
+      "IA": "18,13"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 127,
+      "Nuevos": 3,
+      "IA": "5,78"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1653,
+      "Nuevos": 4,
+      "IA": "2,14"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5402,
+      "Nuevos": 21,
+      "IA": "10,39"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13715,
+      "Nuevos": 5,
+      "IA": "7,07"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4073,
+      "Nuevos": 0,
+      "IA": "3,47"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-22T00:00:00Z"
+  },
+  "Fecha": "22/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef5b2952c8af52c08369419"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 246752,
+      "Nuevos": 108,
+      "IA": "8,10"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12895,
+      "Nuevos": 1,
+      "IA": "1,11"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 6011,
+      "Nuevos": 45,
+      "IA": "15,84"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,39"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2188,
+      "Nuevos": 0,
+      "IA": "4,35"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2415,
+      "Nuevos": 0,
+      "IA": "2,04"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2344,
+      "Nuevos": null,
+      "IA": "3,44"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17987,
+      "Nuevos": null,
+      "IA": "11,71"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19527,
+      "Nuevos": 2,
+      "IA": "11,42"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 60754,
+      "Nuevos": 15,
+      "IA": "15,93"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11494,
+      "Nuevos": 2,
+      "IA": "2,84"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3011,
+      "Nuevos": 1,
+      "IA": "3,09"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9175,
+      "Nuevos": 0,
+      "IA": "0,93"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 71359,
+      "Nuevos": 25,
+      "IA": "17,75"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 126,
+      "Nuevos": 0,
+      "IA": "4,62"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1653,
+      "Nuevos": 0,
+      "IA": "1,87"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5415,
+      "Nuevos": 13,
+      "IA": "12,23"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13727,
+      "Nuevos": 4,
+      "IA": "6,79"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4073,
+      "Nuevos": 0,
+      "IA": "3,47"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-23T00:00:00Z"
+  },
+  "Fecha": "23/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef5b29d2c8af52c0836941a"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 247086,
+      "Nuevos": 196,
+      "IA": "7,93"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12917,
+      "Nuevos": 19,
+      "IA": "1,26"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 6060,
+      "Nuevos": 49,
+      "IA": "18,42"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,39"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2189,
+      "Nuevos": 0,
+      "IA": "4,35"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2421,
+      "Nuevos": 6,
+      "IA": "2,32"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2351,
+      "Nuevos": 2,
+      "IA": "4,65"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 17987,
+      "Nuevos": 0,
+      "IA": "9,79"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19563,
+      "Nuevos": 13,
+      "IA": "11,42"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 60847,
+      "Nuevos": 28,
+      "IA": "15,35"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 164,
+      "Nuevos": 1,
+      "IA": "1,18"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11501,
+      "Nuevos": 3,
+      "IA": "2,62"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3017,
+      "Nuevos": 6,
+      "IA": "3,28"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9178,
+      "Nuevos": 3,
+      "IA": "0,89"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 71434,
+      "Nuevos": 50,
+      "IA": "16,99"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 126,
+      "Nuevos": 0,
+      "IA": "4,62"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1655,
+      "Nuevos": 1,
+      "IA": "1,87"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5426,
+      "Nuevos": 11,
+      "IA": "13,15"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13742,
+      "Nuevos": 4,
+      "IA": "6,75"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4073,
+      "Nuevos": 0,
+      "IA": "3,16"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-24T00:00:00Z"
+  },
+  "Fecha": "24/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef5b2a52c8af52c0836941b"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 247486,
+      "Nuevos": 157,
+      "IA": "7,74"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12957,
+      "Nuevos": 32,
+      "IA": "1,66"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 6112,
+      "Nuevos": 47,
+      "IA": "21,83"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,39"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2191,
+      "Nuevos": 0,
+      "IA": "4,18"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2423,
+      "Nuevos": 2,
+      "IA": "2,32"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2351,
+      "Nuevos": 0,
+      "IA": "4,13"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 18021,
+      "Nuevos": 0,
+      "IA": "8,17"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19585,
+      "Nuevos": 2,
+      "IA": "11,04"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 60927,
+      "Nuevos": 11,
+      "IA": "14,11"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11509,
+      "Nuevos": 3,
+      "IA": "2,50"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3019,
+      "Nuevos": 2,
+      "IA": "3,37"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9186,
+      "Nuevos": 7,
+      "IA": "1,15"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 71579,
+      "Nuevos": 39,
+      "IA": "16,72"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 126,
+      "Nuevos": 0,
+      "IA": "4,62"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1657,
+      "Nuevos": 2,
+      "IA": "1,94"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5426,
+      "Nuevos": 0,
+      "IA": "12,53"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13745,
+      "Nuevos": 9,
+      "IA": "6,39"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4074,
+      "Nuevos": 1,
+      "IA": "3,47"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-25T00:00:00Z"
+  },
+  "Fecha": "25/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef9a8bf49dfc4085c765008"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 247905,
+      "Nuevos": 191,
+      "IA": "7,81"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 12984,
+      "Nuevos": 12,
+      "IA": "1,90"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 6228,
+      "Nuevos": 72,
+      "IA": "27,51"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2194,
+      "Nuevos": 1,
+      "IA": "3,91"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2426,
+      "Nuevos": 3,
+      "IA": "2,41"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2351,
+      "Nuevos": 0,
+      "IA": "3,61"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 18024,
+      "Nuevos": 0,
+      "IA": "8,31"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19607,
+      "Nuevos": 2,
+      "IA": "10,88"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 61073,
+      "Nuevos": 36,
+      "IA": "14,19"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11512,
+      "Nuevos": 0,
+      "IA": "2,24"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3025,
+      "Nuevos": 6,
+      "IA": "3,75"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9193,
+      "Nuevos": 4,
+      "IA": "1,33"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 71632,
+      "Nuevos": 41,
+      "IA": "15,73"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 126,
+      "Nuevos": 0,
+      "IA": "4,62"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1658,
+      "Nuevos": 1,
+      "IA": "1,94"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5442,
+      "Nuevos": 7,
+      "IA": "14,37"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13756,
+      "Nuevos": 5,
+      "IA": "6,34"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4076,
+      "Nuevos": 1,
+      "IA": "3,16"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-26T00:00:00Z"
+  },
+  "Fecha": "26/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef9a8c849dfc4085c765009"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 248469,
+      "Nuevos": 191,
+      "IA": "7,86"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 13027,
+      "Nuevos": 18,
+      "IA": "2,34"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 6255,
+      "Nuevos": 28,
+      "IA": "29,33"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2201,
+      "Nuevos": 6,
+      "IA": "3,83"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2427,
+      "Nuevos": 1,
+      "IA": "2,28"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2351,
+      "Nuevos": 0,
+      "IA": "3,27"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 18076,
+      "Nuevos": 0,
+      "IA": "10,28"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19634,
+      "Nuevos": 9,
+      "IA": "10,88"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 61229,
+      "Nuevos": 72,
+      "IA": "14,07"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11531,
+      "Nuevos": 3,
+      "IA": "2,24"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3026,
+      "Nuevos": 0,
+      "IA": "3,75"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9199,
+      "Nuevos": 5,
+      "IA": "1,52"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 71839,
+      "Nuevos": 36,
+      "IA": "14,78"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 126,
+      "Nuevos": 0,
+      "IA": "3,47"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1658,
+      "Nuevos": 0,
+      "IA": "1,94"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5450,
+      "Nuevos": 8,
+      "IA": "15,13"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13766,
+      "Nuevos": 5,
+      "IA": "5,98"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4076,
+      "Nuevos": 0,
+      "IA": "2,84"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-27T00:00:00Z"
+  },
+  "Fecha": "27/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef9a8d349dfc4085c76500a"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 248770,
+      "Nuevos": 118,
+      "IA": "8,23"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 13045,
+      "Nuevos": 12,
+      "IA": "2,50"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 6304,
+      "Nuevos": 48,
+      "IA": "32,52"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2205,
+      "Nuevos": 0,
+      "IA": "4,00"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2427,
+      "Nuevos": 0,
+      "IA": "2,18"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2362,
+      "Nuevos": 7,
+      "IA": "4,82"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 18094,
+      "Nuevos": 0,
+      "IA": "9,94"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19634,
+      "Nuevos": 0,
+      "IA": "10,42"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 61355,
+      "Nuevos": 14,
+      "IA": "15,26"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11537,
+      "Nuevos": 2,
+      "IA": "2,18"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3026,
+      "Nuevos": 0,
+      "IA": "3,56"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9202,
+      "Nuevos": 2,
+      "IA": "1,59"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 71881,
+      "Nuevos": 20,
+      "IA": "15,19"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 126,
+      "Nuevos": 0,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1672,
+      "Nuevos": 4,
+      "IA": "2,81"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5459,
+      "Nuevos": 9,
+      "IA": "16,51"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13767,
+      "Nuevos": 0,
+      "IA": "5,62"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4076,
+      "Nuevos": 0,
+      "IA": "2,53"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-28T00:00:00Z"
+  },
+  "Fecha": "28/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5efef02d9eaa3b3bf0e873da"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 248970,
+      "Nuevos": 84,
+      "IA": "8,47"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 13080,
+      "Nuevos": 32,
+      "IA": "2,90"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 6319,
+      "Nuevos": 15,
+      "IA": "33,43"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2206,
+      "Nuevos": 0,
+      "IA": "3,74"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2427,
+      "Nuevos": 0,
+      "IA": "2,14"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2362,
+      "Nuevos": 1,
+      "IA": "4,82"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 18120,
+      "Nuevos": 6,
+      "IA": "10,77"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19665,
+      "Nuevos": 2,
+      "IA": "11,50"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 61417,
+      "Nuevos": 11,
+      "IA": "15,65"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11541,
+      "Nuevos": 1,
+      "IA": "2,20"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3027,
+      "Nuevos": 0,
+      "IA": "3,65"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9206,
+      "Nuevos": 4,
+      "IA": "1,78"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 71885,
+      "Nuevos": 4,
+      "IA": "15,01"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 126,
+      "Nuevos": 0,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1680,
+      "Nuevos": 4,
+      "IA": "3,35"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5463,
+      "Nuevos": 4,
+      "IA": "17,12"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13772,
+      "Nuevos": 0,
+      "IA": "5,39"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4076,
+      "Nuevos": 0,
+      "IA": "2,21"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-29T00:00:00Z"
+  },
+  "Fecha": "29/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5efef0359eaa3b3bf0e873db"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 249271,
+      "Nuevos": 99,
+      "IA": "8,50"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 13102,
+      "Nuevos": 9,
+      "IA": "3,14"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 6330,
+      "Nuevos": 10,
+      "IA": "34,11"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2209,
+      "Nuevos": 4,
+      "IA": "4,00"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2427,
+      "Nuevos": 0,
+      "IA": "2,09"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2362,
+      "Nuevos": 0,
+      "IA": "4,47"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 18158,
+      "Nuevos": 1,
+      "IA": "11,31"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19685,
+      "Nuevos": 2,
+      "IA": "11,21"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 61494,
+      "Nuevos": 26,
+      "IA": "15,61"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11579,
+      "Nuevos": 6,
+      "IA": "2,86"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3030,
+      "Nuevos": 3,
+      "IA": "3,75"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9215,
+      "Nuevos": 3,
+      "IA": "2,04"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 71950,
+      "Nuevos": 29,
+      "IA": "14,12"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 126,
+      "Nuevos": 0,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1684,
+      "Nuevos": 4,
+      "IA": "3,55"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5463,
+      "Nuevos": 0,
+      "IA": "16,97"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13783,
+      "Nuevos": 2,
+      "IA": "5,39"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4076,
+      "Nuevos": 0,
+      "IA": "2,21"
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-30T00:00:00Z"
+  },
+  "Fecha": "30/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5efef03e9eaa3b3bf0e873dc"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 249659,
+      "Nuevos": 149,
+      "IA": "8,47"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 13139,
+      "Nuevos": 21,
+      "IA": "3,53"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 6353,
+      "Nuevos": 20,
+      "IA": "35,47"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2216,
+      "Nuevos": 4,
+      "IA": "4,61"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2432,
+      "Nuevos": 5,
+      "IA": "2,23"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2363,
+      "Nuevos": 1,
+      "IA": "4,30"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 18160,
+      "Nuevos": 2,
+      "IA": "9,99"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19730,
+      "Nuevos": 6,
+      "IA": "10,00"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 61639,
+      "Nuevos": 17,
+      "IA": "15,92"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11588,
+      "Nuevos": 4,
+      "IA": "2,88"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3033,
+      "Nuevos": 5,
+      "IA": "3,93"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9222,
+      "Nuevos": 5,
+      "IA": "2,26"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 72033,
+      "Nuevos": 40,
+      "IA": "13,31"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 126,
+      "Nuevos": 0,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1690,
+      "Nuevos": 6,
+      "IA": "3,82"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5468,
+      "Nuevos": 5,
+      "IA": "16,81"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13792,
+      "Nuevos": 7,
+      "IA": "5,39"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4077,
+      "Nuevos": 1,
+      "IA": "2,21"
+    }
+  ],
+  "Date": {
+    "$date": "2020-07-01T00:00:00Z"
+  },
+  "Fecha": "01/07/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5efef0479eaa3b3bf0e873dd"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 250103,
+      "Nuevos": 134,
+      "IA": "8,74"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 13123,
+      "Nuevos": 15,
+      "IA": "3,62"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 6380,
+      "Nuevos": 26,
+      "IA": "37,14"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2220,
+      "Nuevos": 1,
+      "IA": "4,70"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2431,
+      "Nuevos": 0,
+      "IA": "1,53"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2364,
+      "Nuevos": 1,
+      "IA": "3,96"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 18187,
+      "Nuevos": 3,
+      "IA": "10,23"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19750,
+      "Nuevos": 0,
+      "IA": "9,75"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 61888,
+      "Nuevos": 28,
+      "IA": "17,93"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11616,
+      "Nuevos": 10,
+      "IA": "3,08"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3040,
+      "Nuevos": 6,
+      "IA": "3,93"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9239,
+      "Nuevos": 7,
+      "IA": "2,82"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 72096,
+      "Nuevos": 25,
+      "IA": "12,35"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 126,
+      "Nuevos": 0,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1693,
+      "Nuevos": 2,
+      "IA": "3,82"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5476,
+      "Nuevos": 8,
+      "IA": "17,27"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13798,
+      "Nuevos": 1,
+      "IA": "5,16"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4078,
+      "Nuevos": 1,
+      "IA": "2,53"
+    }
+  ],
+  "Date": {
+    "$date": "2020-07-02T00:00:00Z"
+  },
+  "Fecha": "02/07/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06d945f29f67479c84f8ce"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 250545,
+      "Nuevos": 174,
+      "IA": "8,76"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 13205,
+      "Nuevos": 9,
+      "IA": "3,57"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 6412,
+      "Nuevos": 31,
+      "IA": "37,52"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2228,
+      "Nuevos": 1,
+      "IA": "4,96"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2436,
+      "Nuevos": 1,
+      "IA": "1,58"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2364,
+      "Nuevos": 0,
+      "IA": "3,79"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 18209,
+      "Nuevos": 8,
+      "IA": "10,67"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19753,
+      "Nuevos": 0,
+      "IA": "9,38"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 62057,
+      "Nuevos": 42,
+      "IA": "18,62"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11630,
+      "Nuevos": 7,
+      "IA": "2,96"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3047,
+      "Nuevos": 7,
+      "IA": "4,50"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9251,
+      "Nuevos": 11,
+      "IA": "3,19"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 72168,
+      "Nuevos": 50,
+      "IA": "11,65"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 126,
+      "Nuevos": 0,
+      "IA": "2,31"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1697,
+      "Nuevos": 3,
+      "IA": "3,75"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5477,
+      "Nuevos": 1,
+      "IA": "16,36"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13809,
+      "Nuevos": 3,
+      "IA": "5,07"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4078,
+      "Nuevos": 0,
+      "IA": "1,89"
+    }
+  ],
+  "Date": {
+    "$date": "2020-07-03T00:00:00Z"
+  },
+  "Fecha": "03/07/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06d957f29f67479c84f8cf"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 251789,
+      "Nuevos": 78,
+      "IA": "9,82"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 13259,
+      "Nuevos": 7,
+      "IA": "3,91"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 6495,
+      "Nuevos": 13,
+      "IA": "37,22"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2238,
+      "Nuevos": 0,
+      "IA": "4,44"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2441,
+      "Nuevos": 0,
+      "IA": "1,16"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2368,
+      "Nuevos": 1,
+      "IA": "3,27"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 18273,
+      "Nuevos": 8,
+      "IA": "10,63"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19770,
+      "Nuevos": 0,
+      "IA": "8,42"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 62797,
+      "Nuevos": 18,
+      "IA": "25,64"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11666,
+      "Nuevos": 4,
+      "IA": "3,18"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3064,
+      "Nuevos": 1,
+      "IA": "5,06"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9330,
+      "Nuevos": 5,
+      "IA": "5,85"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 72269,
+      "Nuevos": 16,
+      "IA": "10,58"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 126,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1706,
+      "Nuevos": 2,
+      "IA": "3,55"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5483,
+      "Nuevos": 3,
+      "IA": "12,38"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13828,
+      "Nuevos": 0,
+      "IA": "4,62"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4078,
+      "Nuevos": 0,
+      "IA": "1,58"
+    }
+  ],
+  "Date": {
+    "$date": "2020-07-06T00:00:00Z"
+  },
+  "Fecha": "06/07/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06d961f29f67479c84f8d0"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 252130,
+      "Nuevos": 124,
+      "IA": "10,01"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 13275,
+      "Nuevos": 11,
+      "IA": "4,08"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 6519,
+      "Nuevos": 26,
+      "IA": "35,47"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2435,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2239,
+      "Nuevos": 0,
+      "IA": "4,52"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2443,
+      "Nuevos": 1,
+      "IA": "1,25"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2368,
+      "Nuevos": 0,
+      "IA": "3,27"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 18291,
+      "Nuevos": 6,
+      "IA": "11,46"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19773,
+      "Nuevos": 0,
+      "IA": "7,71"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 62943,
+      "Nuevos": 36,
+      "IA": "26,40"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11685,
+      "Nuevos": 8,
+      "IA": "3,36"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3066,
+      "Nuevos": 2,
+      "IA": "5,15"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9336,
+      "Nuevos": 2,
+      "IA": "6,08"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 72336,
+      "Nuevos": 22,
+      "IA": "10,69"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 126,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1709,
+      "Nuevos": 2,
+      "IA": "3,68"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5486,
+      "Nuevos": 2,
+      "IA": "10,85"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13859,
+      "Nuevos": 6,
+      "IA": "5,57"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4078,
+      "Nuevos": 0,
+      "IA": "1,58"
+    }
+  ],
+  "Date": {
+    "$date": "2020-07-07T00:00:00Z"
+  },
+  "Fecha": "07/07/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06d96cf29f67479c84f8d1"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Total": 252513,
+      "Nuevos": 257,
+      "IA": "9,89"
+    },
+    {
+      "CCAA": "Andalucía",
+      "Total": 13303,
+      "Nuevos": 28,
+      "IA": "4,08"
+    },
+    {
+      "CCAA": "Aragón",
+      "Total": 6578,
+      "Nuevos": 60,
+      "IA": "35,93"
+    },
+    {
+      "CCAA": "Asturias",
+      "Total": 2436,
+      "Nuevos": 1,
+      "IA": "0,10"
+    },
+    {
+      "CCAA": "Baleares",
+      "Total": 2240,
+      "Nuevos": 1,
+      "IA": "4,35"
+    },
+    {
+      "CCAA": "Canarias",
+      "Total": 2444,
+      "Nuevos": 0,
+      "IA": "1,02"
+    },
+    {
+      "CCAA": "Cantabria",
+      "Total": 2369,
+      "Nuevos": 1,
+      "IA": "3,10"
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Total": 18307,
+      "Nuevos": 2,
+      "IA": "12,00"
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Total": 19778,
+      "Nuevos": 2,
+      "IA": "6,54"
+    },
+    {
+      "CCAA": "Cataluña",
+      "Total": 63042,
+      "Nuevos": 52,
+      "IA": "25,68"
+    },
+    {
+      "CCAA": "Ceuta",
+      "Total": 163,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Total": 11701,
+      "Nuevos": 7,
+      "IA": "3,40"
+    },
+    {
+      "CCAA": "Extremadura",
+      "Total": 3076,
+      "Nuevos": 10,
+      "IA": "5,53"
+    },
+    {
+      "CCAA": "Galicia",
+      "Total": 9371,
+      "Nuevos": 35,
+      "IA": "7,26"
+    },
+    {
+      "CCAA": "Madrid",
+      "Total": 72409,
+      "Nuevos": 35,
+      "IA": "10,14"
+    },
+    {
+      "CCAA": "Melilla",
+      "Total": 126,
+      "Nuevos": 0,
+      "IA": "0,00"
+    },
+    {
+      "CCAA": "Murcia",
+      "Total": 1717,
+      "Nuevos": 6,
+      "IA": "4,15"
+    },
+    {
+      "CCAA": "Navarra",
+      "Total": 5490,
+      "Nuevos": 4,
+      "IA": "9,78"
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Total": 13884,
+      "Nuevos": 12,
+      "IA": "6,34"
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Total": 4079,
+      "Nuevos": 1,
+      "IA": "1,89"
+    }
+  ],
+  "Date": {
+    "$date": "2020-07-08T00:00:00Z"
+  },
+  "Fecha": "08/07/2020",
+  "__v": 0
 }]

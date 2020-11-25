@@ -7637,4 +7637,7644 @@
   },
   "Fecha": "27/05/2020",
   "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed0cc4ed86c034c38f985d7"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 123804,
+      "Hosp7d": 301,
+      "UCI": 11389,
+      "UCI7d": 11,
+      "Fallecidos": 27119,
+      "Fallecidos7d": 38
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6260,
+      "Hosp7d": 13,
+      "UCI": 770,
+      "UCI7d": 1,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2643,
+      "Hosp7d": 14,
+      "UCI": 267,
+      "UCI7d": 1,
+      "Fallecidos": 826,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1098,
+      "Hosp7d": 3,
+      "UCI": 122,
+      "UCI7d": 0,
+      "Fallecidos": 310,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1163,
+      "Hosp7d": 6,
+      "UCI": 165,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 946,
+      "Hosp7d": 3,
+      "UCI": 179,
+      "UCI7d": 0,
+      "Fallecidos": 151,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1042,
+      "Hosp7d": 5,
+      "UCI": 79,
+      "UCI7d": 0,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9254,
+      "Hosp7d": 23,
+      "UCI": 647,
+      "UCI7d": 3,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8568,
+      "Hosp7d": 27,
+      "UCI": 547,
+      "UCI7d": 0,
+      "Fallecidos": 1922,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29220,
+      "Hosp7d": 76,
+      "UCI": 2978,
+      "UCI7d": 1,
+      "Fallecidos": 5584,
+      "Fallecidos7d": 8
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 12,
+      "Hosp7d": 2,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5744,
+      "Hosp7d": 9,
+      "UCI": 733,
+      "UCI7d": 1,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1765,
+      "Hosp7d": 9,
+      "UCI": 110,
+      "UCI7d": 0,
+      "Fallecidos": 507,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2917,
+      "Hosp7d": 1,
+      "UCI": 329,
+      "UCI7d": 1,
+      "Fallecidos": 608,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 41972,
+      "Hosp7d": 94,
+      "UCI": 3544,
+      "UCI7d": 3,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 680,
+      "Hosp7d": 1,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2036,
+      "Hosp7d": 2,
+      "UCI": 135,
+      "UCI7d": 0,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6957,
+      "Hosp7d": 10,
+      "UCI": 574,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1483,
+      "Hosp7d": 3,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 360,
+      "Fallecidos7d": 5
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-28T00:00:00Z"
+  },
+  "Fecha": "28/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3a3a27be66625c8a691a9"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 123891,
+      "Hosp7d": 286,
+      "UCI": 11397,
+      "UCI7d": 12,
+      "Fallecidos": 27121,
+      "Fallecidos7d": 39
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6261,
+      "Hosp7d": 11,
+      "UCI": 770,
+      "UCI7d": 1,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2643,
+      "Hosp7d": 14,
+      "UCI": 267,
+      "UCI7d": 1,
+      "Fallecidos": 826,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1097,
+      "Hosp7d": 2,
+      "UCI": 122,
+      "UCI7d": 0,
+      "Fallecidos": 310,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1163,
+      "Hosp7d": 1,
+      "UCI": 165,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 946,
+      "Hosp7d": 3,
+      "UCI": 179,
+      "UCI7d": 0,
+      "Fallecidos": 151,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1042,
+      "Hosp7d": 5,
+      "UCI": 79,
+      "UCI7d": 0,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9280,
+      "Hosp7d": 26,
+      "UCI": 649,
+      "UCI7d": 4,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8576,
+      "Hosp7d": 30,
+      "UCI": 547,
+      "UCI7d": 0,
+      "Fallecidos": 1922,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29254,
+      "Hosp7d": 68,
+      "UCI": 2982,
+      "UCI7d": 2,
+      "Fallecidos": 5584,
+      "Fallecidos7d": 8
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 12,
+      "Hosp7d": 1,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5739,
+      "Hosp7d": 10,
+      "UCI": 735,
+      "UCI7d": 1,
+      "Fallecidos": 1334,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1766,
+      "Hosp7d": 9,
+      "UCI": 110,
+      "UCI7d": 0,
+      "Fallecidos": 507,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2918,
+      "Hosp7d": 1,
+      "UCI": 329,
+      "UCI7d": 1,
+      "Fallecidos": 608,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 41993,
+      "Hosp7d": 89,
+      "UCI": 3544,
+      "UCI7d": 2,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 680,
+      "Hosp7d": 0,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2036,
+      "Hosp7d": 2,
+      "UCI": 135,
+      "UCI7d": 0,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6957,
+      "Hosp7d": 10,
+      "UCI": 574,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1484,
+      "Hosp7d": 4,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 360,
+      "Fallecidos7d": 5
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-29T00:00:00Z"
+  },
+  "Fecha": "29/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed3a3b27be66625c8a691aa"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 123987,
+      "Hosp7d": 287,
+      "UCI": 11404,
+      "UCI7d": 10,
+      "Fallecidos": 27125,
+      "Fallecidos7d": 43
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6261,
+      "Hosp7d": 7,
+      "UCI": 772,
+      "UCI7d": 1,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2644,
+      "Hosp7d": 13,
+      "UCI": 267,
+      "UCI7d": 0,
+      "Fallecidos": 826,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1097,
+      "Hosp7d": 2,
+      "UCI": 122,
+      "UCI7d": 0,
+      "Fallecidos": 310,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1168,
+      "Hosp7d": 6,
+      "UCI": 165,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 948,
+      "Hosp7d": 5,
+      "UCI": 180,
+      "UCI7d": 1,
+      "Fallecidos": 151,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1042,
+      "Hosp7d": 4,
+      "UCI": 79,
+      "UCI7d": 0,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9292,
+      "Hosp7d": 25,
+      "UCI": 650,
+      "UCI7d": 3,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8581,
+      "Hosp7d": 31,
+      "UCI": 548,
+      "UCI7d": 1,
+      "Fallecidos": 1923,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29291,
+      "Hosp7d": 73,
+      "UCI": 2984,
+      "UCI7d": 2,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 13
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 12,
+      "Hosp7d": 1,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5747,
+      "Hosp7d": 7,
+      "UCI": 735,
+      "UCI7d": 1,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1768,
+      "Hosp7d": 3,
+      "UCI": 110,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2919,
+      "Hosp7d": 2,
+      "UCI": 329,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42011,
+      "Hosp7d": 88,
+      "UCI": 3544,
+      "UCI7d": 1,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 683,
+      "Hosp7d": 3,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2036,
+      "Hosp7d": 2,
+      "UCI": 135,
+      "UCI7d": 0,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6959,
+      "Hosp7d": 11,
+      "UCI": 574,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1484,
+      "Hosp7d": 4,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 360,
+      "Fallecidos7d": 2
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-30T00:00:00Z"
+  },
+  "Fecha": "30/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed53d9f8699510094360db5"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 123871,
+      "Hosp7d": 263,
+      "UCI": 11400,
+      "UCI7d": 9,
+      "Fallecidos": 27127,
+      "Fallecidos7d": 39
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6262,
+      "Hosp7d": 6,
+      "UCI": 772,
+      "UCI7d": 1,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2645,
+      "Hosp7d": 13,
+      "UCI": 267,
+      "UCI7d": 0,
+      "Fallecidos": 826,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1107,
+      "Hosp7d": 6,
+      "UCI": 124,
+      "UCI7d": 0,
+      "Fallecidos": 310,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1168,
+      "Hosp7d": 5,
+      "UCI": 165,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 949,
+      "Hosp7d": 6,
+      "UCI": 180,
+      "UCI7d": 1,
+      "Fallecidos": 151,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1043,
+      "Hosp7d": 5,
+      "UCI": 79,
+      "UCI7d": 0,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9303,
+      "Hosp7d": 22,
+      "UCI": 651,
+      "UCI7d": 2,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8590,
+      "Hosp7d": 38,
+      "UCI": 549,
+      "UCI7d": 2,
+      "Fallecidos": 1924,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29132,
+      "Hosp7d": 54,
+      "UCI": 2976,
+      "UCI7d": 2,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 11
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 12,
+      "Hosp7d": 1,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5747,
+      "Hosp7d": 5,
+      "UCI": 735,
+      "UCI7d": 0,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1768,
+      "Hosp7d": 3,
+      "UCI": 110,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2924,
+      "Hosp7d": 3,
+      "UCI": 329,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42014,
+      "Hosp7d": 77,
+      "UCI": 3544,
+      "UCI7d": 1,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 683,
+      "Hosp7d": 3,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2037,
+      "Hosp7d": 3,
+      "UCI": 135,
+      "UCI7d": 0,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6959,
+      "Hosp7d": 9,
+      "UCI": 574,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1484,
+      "Hosp7d": 4,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 361,
+      "Fallecidos7d": 2
+    }
+  ],
+  "Date": {
+    "$date": "2020-05-31T00:00:00Z"
+  },
+  "Fecha": "31/05/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed5413a8699510094360dba"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 123879,
+      "Hosp7d": 245,
+      "UCI": 11399,
+      "UCI7d": 9,
+      "Fallecidos": 27127,
+      "Fallecidos7d": 35
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6263,
+      "Hosp7d": 6,
+      "UCI": 772,
+      "UCI7d": 1,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2645,
+      "Hosp7d": 11,
+      "UCI": 267,
+      "UCI7d": 0,
+      "Fallecidos": 826,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1107,
+      "Hosp7d": 6,
+      "UCI": 124,
+      "UCI7d": 0,
+      "Fallecidos": 310,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1164,
+      "Hosp7d": 1,
+      "UCI": 165,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 949,
+      "Hosp7d": 6,
+      "UCI": 180,
+      "UCI7d": 1,
+      "Fallecidos": 151,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1043,
+      "Hosp7d": 5,
+      "UCI": 79,
+      "UCI7d": 0,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9307,
+      "Hosp7d": 19,
+      "UCI": 651,
+      "UCI7d": 3,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8593,
+      "Hosp7d": 39,
+      "UCI": 549,
+      "UCI7d": 2,
+      "Fallecidos": 1924,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29133,
+      "Hosp7d": 47,
+      "UCI": 2976,
+      "UCI7d": 1,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 11
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 13,
+      "Hosp7d": 2,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5747,
+      "Hosp7d": 4,
+      "UCI": 735,
+      "UCI7d": 0,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1768,
+      "Hosp7d": 4,
+      "UCI": 109,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2927,
+      "Hosp7d": 7,
+      "UCI": 329,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42017,
+      "Hosp7d": 69,
+      "UCI": 3544,
+      "UCI7d": 1,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 677,
+      "Hosp7d": 3,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2037,
+      "Hosp7d": 2,
+      "UCI": 135,
+      "UCI7d": 0,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6961,
+      "Hosp7d": 11,
+      "UCI": 574,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1484,
+      "Hosp7d": 3,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 361,
+      "Fallecidos7d": 2
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-01T00:00:00Z"
+  },
+  "Fecha": "01/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed7bab83e334d499c353e1a"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 123974,
+      "Hosp7d": 243,
+      "UCI": 11413,
+      "UCI7d": 11,
+      "Fallecidos": 27127,
+      "Fallecidos7d": 34
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6268,
+      "Hosp7d": 10,
+      "UCI": 772,
+      "UCI7d": 1,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2656,
+      "Hosp7d": 12,
+      "UCI": 270,
+      "UCI7d": 0,
+      "Fallecidos": 826,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1108,
+      "Hosp7d": 7,
+      "UCI": 124,
+      "UCI7d": 0,
+      "Fallecidos": 310,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1186,
+      "Hosp7d": 1,
+      "UCI": 171,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 950,
+      "Hosp7d": 4,
+      "UCI": 180,
+      "UCI7d": 1,
+      "Fallecidos": 151,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1045,
+      "Hosp7d": 4,
+      "UCI": 79,
+      "UCI7d": 0,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9314,
+      "Hosp7d": 20,
+      "UCI": 651,
+      "UCI7d": 4,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8599,
+      "Hosp7d": 38,
+      "UCI": 550,
+      "UCI7d": 3,
+      "Fallecidos": 1924,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29142,
+      "Hosp7d": 38,
+      "UCI": 2976,
+      "UCI7d": 0,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 9
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 2,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5745,
+      "Hosp7d": 4,
+      "UCI": 735,
+      "UCI7d": 0,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 7,
+      "UCI": 110,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2930,
+      "Hosp7d": 6,
+      "UCI": 329,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42041,
+      "Hosp7d": 73,
+      "UCI": 3546,
+      "UCI7d": 1,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 677,
+      "Hosp7d": 3,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2038,
+      "Hosp7d": 3,
+      "UCI": 136,
+      "UCI7d": 1,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6961,
+      "Hosp7d": 9,
+      "UCI": 574,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1484,
+      "Hosp7d": 2,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 361,
+      "Fallecidos7d": 2
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-02T00:00:00Z"
+  },
+  "Fecha": "02/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed899b1f8bcd23d7c2f604e"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124013,
+      "Hosp7d": 221,
+      "UCI": 11415,
+      "UCI7d": 10,
+      "Fallecidos": 27128,
+      "Fallecidos7d": 63
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6275,
+      "Hosp7d": 17,
+      "UCI": 772,
+      "UCI7d": 1,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2657,
+      "Hosp7d": 12,
+      "UCI": 270,
+      "UCI7d": 0,
+      "Fallecidos": 826,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1110,
+      "Hosp7d": 9,
+      "UCI": 124,
+      "UCI7d": 0,
+      "Fallecidos": 310,
+      "Fallecidos7d": 9
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1186,
+      "Hosp7d": 1,
+      "UCI": 171,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 949,
+      "Hosp7d": 4,
+      "UCI": 180,
+      "UCI7d": 1,
+      "Fallecidos": 151,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1046,
+      "Hosp7d": 4,
+      "UCI": 79,
+      "UCI7d": 0,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9323,
+      "Hosp7d": 16,
+      "UCI": 651,
+      "UCI7d": 3,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8606,
+      "Hosp7d": 32,
+      "UCI": 550,
+      "UCI7d": 3,
+      "Fallecidos": 1925,
+      "Fallecidos7d": 28
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29154,
+      "Hosp7d": 39,
+      "UCI": 2977,
+      "UCI7d": 1,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 8
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 2,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5745,
+      "Hosp7d": 6,
+      "UCI": 736,
+      "UCI7d": 0,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 5,
+      "UCI": 110,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2930,
+      "Hosp7d": 6,
+      "UCI": 329,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42041,
+      "Hosp7d": 53,
+      "UCI": 3546,
+      "UCI7d": 0,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 677,
+      "Hosp7d": 3,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2038,
+      "Hosp7d": 3,
+      "UCI": 136,
+      "UCI7d": 1,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6962,
+      "Hosp7d": 7,
+      "UCI": 574,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1484,
+      "Hosp7d": 2,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 361,
+      "Fallecidos7d": 1
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-03T00:00:00Z"
+  },
+  "Fecha": "03/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eda07dabe725b35743f9d0e"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124227,
+      "Hosp7d": 166,
+      "UCI": 11426,
+      "UCI7d": 11,
+      "Fallecidos": 27133,
+      "Fallecidos7d": 56
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6299,
+      "Hosp7d": 19,
+      "UCI": 772,
+      "UCI7d": 0,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2659,
+      "Hosp7d": 8,
+      "UCI": 270,
+      "UCI7d": 0,
+      "Fallecidos": 826,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1110,
+      "Hosp7d": 6,
+      "UCI": 124,
+      "UCI7d": 0,
+      "Fallecidos": 311,
+      "Fallecidos7d": 9
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1186,
+      "Hosp7d": 1,
+      "UCI": 171,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 948,
+      "Hosp7d": 3,
+      "UCI": 180,
+      "UCI7d": 1,
+      "Fallecidos": 151,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1046,
+      "Hosp7d": 3,
+      "UCI": 79,
+      "UCI7d": 0,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9337,
+      "Hosp7d": 8,
+      "UCI": 653,
+      "UCI7d": 2,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8685,
+      "Hosp7d": 37,
+      "UCI": 550,
+      "UCI7d": 4,
+      "Fallecidos": 1928,
+      "Fallecidos7d": 25
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29168,
+      "Hosp7d": 20,
+      "UCI": 2978,
+      "UCI7d": 0,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 7
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 2,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5794,
+      "Hosp7d": 3,
+      "UCI": 740,
+      "UCI7d": 0,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 3,
+      "UCI": 110,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2932,
+      "Hosp7d": 7,
+      "UCI": 329,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42068,
+      "Hosp7d": 35,
+      "UCI": 3550,
+      "UCI7d": 3,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 680,
+      "Hosp7d": 3,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2038,
+      "Hosp7d": 2,
+      "UCI": 136,
+      "UCI7d": 1,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6963,
+      "Hosp7d": 5,
+      "UCI": 574,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1484,
+      "Hosp7d": 1,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 362,
+      "Fallecidos7d": 2
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-04T00:00:00Z"
+  },
+  "Fecha": "04/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eddf74549657c37a4915fd9"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124244,
+      "Hosp7d": 162,
+      "UCI": 11432,
+      "UCI7d": 14,
+      "Fallecidos": 27134,
+      "Fallecidos7d": 52
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6301,
+      "Hosp7d": 17,
+      "UCI": 772,
+      "UCI7d": 0,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2666,
+      "Hosp7d": 13,
+      "UCI": 272,
+      "UCI7d": 2,
+      "Fallecidos": 826,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1110,
+      "Hosp7d": 6,
+      "UCI": 125,
+      "UCI7d": 0,
+      "Fallecidos": 312,
+      "Fallecidos7d": 10
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1166,
+      "Hosp7d": 2,
+      "UCI": 168,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 948,
+      "Hosp7d": 4,
+      "UCI": 180,
+      "UCI7d": 1,
+      "Fallecidos": 151,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1047,
+      "Hosp7d": 3,
+      "UCI": 79,
+      "UCI7d": 0,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9345,
+      "Hosp7d": 11,
+      "UCI": 656,
+      "UCI7d": 3,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8686,
+      "Hosp7d": 30,
+      "UCI": 551,
+      "UCI7d": 3,
+      "Fallecidos": 1928,
+      "Fallecidos7d": 21
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29175,
+      "Hosp7d": 16,
+      "UCI": 2979,
+      "UCI7d": 0,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 7
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 2,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5791,
+      "Hosp7d": 4,
+      "UCI": 740,
+      "UCI7d": 0,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 3,
+      "UCI": 110,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2932,
+      "Hosp7d": 5,
+      "UCI": 329,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42079,
+      "Hosp7d": 38,
+      "UCI": 3551,
+      "UCI7d": 4,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 682,
+      "Hosp7d": 1,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2038,
+      "Hosp7d": 2,
+      "UCI": 136,
+      "UCI7d": 1,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6963,
+      "Hosp7d": 5,
+      "UCI": 574,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1485,
+      "Hosp7d": 0,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 362,
+      "Fallecidos7d": 2
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-05T00:00:00Z"
+  },
+  "Fecha": "05/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eddf75d49657c37a4915fda"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124302,
+      "Hosp7d": 169,
+      "UCI": 11604,
+      "UCI7d": 15,
+      "Fallecidos": 27135,
+      "Fallecidos7d": 67
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6304,
+      "Hosp7d": 20,
+      "UCI": 788,
+      "UCI7d": 0,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2667,
+      "Hosp7d": 13,
+      "UCI": 272,
+      "UCI7d": 2,
+      "Fallecidos": 826,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1110,
+      "Hosp7d": 5,
+      "UCI": 125,
+      "UCI7d": 0,
+      "Fallecidos": 313,
+      "Fallecidos7d": 11
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1167,
+      "Hosp7d": 2,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 948,
+      "Hosp7d": 2,
+      "UCI": 184,
+      "UCI7d": 0,
+      "Fallecidos": 151,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1047,
+      "Hosp7d": 3,
+      "UCI": 79,
+      "UCI7d": 0,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9352,
+      "Hosp7d": 14,
+      "UCI": 658,
+      "UCI7d": 3,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8691,
+      "Hosp7d": 25,
+      "UCI": 621,
+      "UCI7d": 3,
+      "Fallecidos": 1928,
+      "Fallecidos7d": 16
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29196,
+      "Hosp7d": 23,
+      "UCI": 2975,
+      "UCI7d": 1,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 2,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5790,
+      "Hosp7d": 4,
+      "UCI": 739,
+      "UCI7d": 0,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 3,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2932,
+      "Hosp7d": 4,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42100,
+      "Hosp7d": 42,
+      "UCI": 3593,
+      "UCI7d": 5,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 24
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 682,
+      "Hosp7d": 1,
+      "UCI": 115,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2038,
+      "Hosp7d": 2,
+      "UCI": 136,
+      "UCI7d": 1,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6963,
+      "Hosp7d": 3,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1485,
+      "Hosp7d": 1,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 362,
+      "Fallecidos7d": 3
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-06T00:00:00Z"
+  },
+  "Fecha": "06/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eddf78849657c37a4915fdb"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124323,
+      "Hosp7d": 148,
+      "UCI": 11608,
+      "UCI7d": 14,
+      "Fallecidos": 27136,
+      "Fallecidos7d": 72
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6306,
+      "Hosp7d": 19,
+      "UCI": 788,
+      "UCI7d": 0,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2667,
+      "Hosp7d": 11,
+      "UCI": 272,
+      "UCI7d": 2,
+      "Fallecidos": 826,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1111,
+      "Hosp7d": 2,
+      "UCI": 125,
+      "UCI7d": 0,
+      "Fallecidos": 314,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1167,
+      "Hosp7d": 2,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 949,
+      "Hosp7d": 2,
+      "UCI": 184,
+      "UCI7d": 0,
+      "Fallecidos": 151,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1049,
+      "Hosp7d": 3,
+      "UCI": 79,
+      "UCI7d": 0,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9355,
+      "Hosp7d": 15,
+      "UCI": 661,
+      "UCI7d": 4,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8694,
+      "Hosp7d": 20,
+      "UCI": 621,
+      "UCI7d": 2,
+      "Fallecidos": 1928,
+      "Fallecidos7d": 9
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29197,
+      "Hosp7d": 20,
+      "UCI": 2975,
+      "UCI7d": 1,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 9
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 1,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5792,
+      "Hosp7d": 5,
+      "UCI": 739,
+      "UCI7d": 0,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 1,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2932,
+      "Hosp7d": 4,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42104,
+      "Hosp7d": 38,
+      "UCI": 3594,
+      "UCI7d": 4,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 39
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 682,
+      "Hosp7d": 1,
+      "UCI": 115,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2039,
+      "Hosp7d": 2,
+      "UCI": 136,
+      "UCI7d": 1,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6963,
+      "Hosp7d": 1,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1486,
+      "Hosp7d": 1,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 362,
+      "Fallecidos7d": 2
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-07T00:00:00Z"
+  },
+  "Fecha": "07/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edf47fbddacc52f14c11d2f"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124348,
+      "Hosp7d": 145,
+      "UCI": 11611,
+      "UCI7d": 14,
+      "Fallecidos": 27136,
+      "Fallecidos7d": 56
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6306,
+      "Hosp7d": 17,
+      "UCI": 788,
+      "UCI7d": 0,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2668,
+      "Hosp7d": 11,
+      "UCI": 272,
+      "UCI7d": 1,
+      "Fallecidos": 826,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1113,
+      "Hosp7d": 2,
+      "UCI": 125,
+      "UCI7d": 0,
+      "Fallecidos": 314,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1167,
+      "Hosp7d": 1,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 951,
+      "Hosp7d": 4,
+      "UCI": 184,
+      "UCI7d": 0,
+      "Fallecidos": 151,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1050,
+      "Hosp7d": 4,
+      "UCI": 80,
+      "UCI7d": 1,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9358,
+      "Hosp7d": 15,
+      "UCI": 662,
+      "UCI7d": 4,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8700,
+      "Hosp7d": 18,
+      "UCI": 621,
+      "UCI7d": 1,
+      "Fallecidos": 1928,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29200,
+      "Hosp7d": 19,
+      "UCI": 2976,
+      "UCI7d": 2,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 1,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5795,
+      "Hosp7d": 9,
+      "UCI": 739,
+      "UCI7d": 0,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 1,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2932,
+      "Hosp7d": 3,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42106,
+      "Hosp7d": 34,
+      "UCI": 3594,
+      "UCI7d": 4,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 31
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 682,
+      "Hosp7d": 1,
+      "UCI": 115,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2039,
+      "Hosp7d": 2,
+      "UCI": 136,
+      "UCI7d": 1,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6965,
+      "Hosp7d": 1,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1486,
+      "Hosp7d": 2,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 362,
+      "Fallecidos7d": 3
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-08T00:00:00Z"
+  },
+  "Fecha": "08/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee07fbdc2ee384fd0bc4b7f"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124407,
+      "Hosp7d": 149,
+      "UCI": 11614,
+      "UCI7d": 12,
+      "Fallecidos": 27136,
+      "Fallecidos7d": 50
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6304,
+      "Hosp7d": 13,
+      "UCI": 788,
+      "UCI7d": 0,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2674,
+      "Hosp7d": 15,
+      "UCI": 273,
+      "UCI7d": 1,
+      "Fallecidos": 826,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1113,
+      "Hosp7d": 2,
+      "UCI": 125,
+      "UCI7d": 0,
+      "Fallecidos": 314,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1167,
+      "Hosp7d": 1,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 951,
+      "Hosp7d": 3,
+      "UCI": 184,
+      "UCI7d": 0,
+      "Fallecidos": 151,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1051,
+      "Hosp7d": 4,
+      "UCI": 80,
+      "UCI7d": 1,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9365,
+      "Hosp7d": 19,
+      "UCI": 662,
+      "UCI7d": 4,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8706,
+      "Hosp7d": 20,
+      "UCI": 622,
+      "UCI7d": 1,
+      "Fallecidos": 1928,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29210,
+      "Hosp7d": 19,
+      "UCI": 2977,
+      "UCI7d": 3,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5797,
+      "Hosp7d": 10,
+      "UCI": 739,
+      "UCI7d": 0,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2932,
+      "Hosp7d": 3,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42132,
+      "Hosp7d": 34,
+      "UCI": 3594,
+      "UCI7d": 2,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 23
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 682,
+      "Hosp7d": 1,
+      "UCI": 115,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2039,
+      "Hosp7d": 1,
+      "UCI": 136,
+      "UCI7d": 0,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6968,
+      "Hosp7d": 2,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1486,
+      "Hosp7d": 2,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 362,
+      "Fallecidos7d": 3
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-09T00:00:00Z"
+  },
+  "Fecha": "09/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee338b7322cc93c501486bc"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124479,
+      "Hosp7d": 139,
+      "UCI": 11613,
+      "UCI7d": 12,
+      "Fallecidos": 27136,
+      "Fallecidos7d": 40
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6305,
+      "Hosp7d": 8,
+      "UCI": 788,
+      "UCI7d": 0,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2675,
+      "Hosp7d": 12,
+      "UCI": 273,
+      "UCI7d": 1,
+      "Fallecidos": 826,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1116,
+      "Hosp7d": 2,
+      "UCI": 126,
+      "UCI7d": 0,
+      "Fallecidos": 314,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1168,
+      "Hosp7d": 1,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 951,
+      "Hosp7d": 3,
+      "UCI": 184,
+      "UCI7d": 0,
+      "Fallecidos": 151,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1050,
+      "Hosp7d": 3,
+      "UCI": 80,
+      "UCI7d": 1,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9375,
+      "Hosp7d": 17,
+      "UCI": 660,
+      "UCI7d": 4,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8710,
+      "Hosp7d": 22,
+      "UCI": 622,
+      "UCI7d": 2,
+      "Fallecidos": 1928,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29224,
+      "Hosp7d": 17,
+      "UCI": 2977,
+      "UCI7d": 3,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5799,
+      "Hosp7d": 8,
+      "UCI": 739,
+      "UCI7d": 0,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2932,
+      "Hosp7d": 2,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42161,
+      "Hosp7d": 33,
+      "UCI": 3594,
+      "UCI7d": 1,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 14
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 682,
+      "Hosp7d": 1,
+      "UCI": 115,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2039,
+      "Hosp7d": 1,
+      "UCI": 136,
+      "UCI7d": 0,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6976,
+      "Hosp7d": 7,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1486,
+      "Hosp7d": 2,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 362,
+      "Fallecidos7d": 3
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-10T00:00:00Z"
+  },
+  "Fecha": "10/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee338c2322cc93c501486bd"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124536,
+      "Hosp7d": 151,
+      "UCI": 11617,
+      "UCI7d": 10,
+      "Fallecidos": 27136,
+      "Fallecidos7d": 32
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6306,
+      "Hosp7d": 5,
+      "UCI": 789,
+      "UCI7d": 1,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2674,
+      "Hosp7d": 8,
+      "UCI": 273,
+      "UCI7d": 1,
+      "Fallecidos": 826,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1114,
+      "Hosp7d": 2,
+      "UCI": 126,
+      "UCI7d": 0,
+      "Fallecidos": 314,
+      "Fallecidos7d": 7
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1168,
+      "Hosp7d": 0,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 950,
+      "Hosp7d": 3,
+      "UCI": 184,
+      "UCI7d": 0,
+      "Fallecidos": 151,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1052,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 1,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9377,
+      "Hosp7d": 17,
+      "UCI": 660,
+      "UCI7d": 3,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8712,
+      "Hosp7d": 19,
+      "UCI": 622,
+      "UCI7d": 2,
+      "Fallecidos": 1928,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29252,
+      "Hosp7d": 31,
+      "UCI": 2979,
+      "UCI7d": 1,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5802,
+      "Hosp7d": 10,
+      "UCI": 740,
+      "UCI7d": 0,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2932,
+      "Hosp7d": 1,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42188,
+      "Hosp7d": 43,
+      "UCI": 3594,
+      "UCI7d": 1,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 10
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 682,
+      "Hosp7d": 0,
+      "UCI": 115,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2039,
+      "Hosp7d": 1,
+      "UCI": 136,
+      "UCI7d": 0,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6971,
+      "Hosp7d": 5,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1487,
+      "Hosp7d": 4,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 362,
+      "Fallecidos7d": 2
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-11T00:00:00Z"
+  },
+  "Fecha": "11/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee73bdbb176a90a6ca2c5dc"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124584,
+      "Hosp7d": 141,
+      "UCI": 11617,
+      "UCI7d": 10,
+      "Fallecidos": 27136,
+      "Fallecidos7d": 25
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6307,
+      "Hosp7d": 5,
+      "UCI": 789,
+      "UCI7d": 1,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2677,
+      "Hosp7d": 11,
+      "UCI": 273,
+      "UCI7d": 1,
+      "Fallecidos": 826,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1115,
+      "Hosp7d": 3,
+      "UCI": 127,
+      "UCI7d": 0,
+      "Fallecidos": 314,
+      "Fallecidos7d": 7
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1168,
+      "Hosp7d": 0,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 950,
+      "Hosp7d": 3,
+      "UCI": 184,
+      "UCI7d": 0,
+      "Fallecidos": 151,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1052,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 1,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9378,
+      "Hosp7d": 12,
+      "UCI": 660,
+      "UCI7d": 2,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8719,
+      "Hosp7d": 17,
+      "UCI": 622,
+      "UCI7d": 1,
+      "Fallecidos": 1928,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29264,
+      "Hosp7d": 25,
+      "UCI": 2979,
+      "UCI7d": 1,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5805,
+      "Hosp7d": 11,
+      "UCI": 741,
+      "UCI7d": 1,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2933,
+      "Hosp7d": 1,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42208,
+      "Hosp7d": 42,
+      "UCI": 3595,
+      "UCI7d": 2,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 679,
+      "Hosp7d": 0,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2040,
+      "Hosp7d": 1,
+      "UCI": 136,
+      "UCI7d": 0,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6971,
+      "Hosp7d": 5,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 3,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 362,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-12T00:00:00Z"
+  },
+  "Fecha": "12/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee73be5b176a90a6ca2c5dd"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124622,
+      "Hosp7d": 125,
+      "UCI": 11619,
+      "UCI7d": 7,
+      "Fallecidos": 27136,
+      "Fallecidos7d": 27
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6310,
+      "Hosp7d": 5,
+      "UCI": 789,
+      "UCI7d": 0,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2677,
+      "Hosp7d": 6,
+      "UCI": 273,
+      "UCI7d": 0,
+      "Fallecidos": 826,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1116,
+      "Hosp7d": 3,
+      "UCI": 127,
+      "UCI7d": 0,
+      "Fallecidos": 314,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1171,
+      "Hosp7d": 3,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 950,
+      "Hosp7d": 3,
+      "UCI": 184,
+      "UCI7d": 0,
+      "Fallecidos": 151,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1052,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 1,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9385,
+      "Hosp7d": 11,
+      "UCI": 660,
+      "UCI7d": 1,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8723,
+      "Hosp7d": 18,
+      "UCI": 622,
+      "UCI7d": 1,
+      "Fallecidos": 1928,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29270,
+      "Hosp7d": 21,
+      "UCI": 2980,
+      "UCI7d": 1,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5803,
+      "Hosp7d": 8,
+      "UCI": 741,
+      "UCI7d": 1,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2933,
+      "Hosp7d": 1,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42222,
+      "Hosp7d": 35,
+      "UCI": 3596,
+      "UCI7d": 2,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 7
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 44,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 679,
+      "Hosp7d": 0,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2040,
+      "Hosp7d": 2,
+      "UCI": 136,
+      "UCI7d": 0,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6973,
+      "Hosp7d": 5,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 2,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 362,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-13T00:00:00Z"
+  },
+  "Fecha": "13/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee73befb176a90a6ca2c5de"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124631,
+      "Hosp7d": 110,
+      "UCI": 11619,
+      "UCI7d": 5,
+      "Fallecidos": 27136,
+      "Fallecidos7d": 26
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6311,
+      "Hosp7d": 6,
+      "UCI": 789,
+      "UCI7d": 0,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2677,
+      "Hosp7d": 5,
+      "UCI": 273,
+      "UCI7d": 0,
+      "Fallecidos": 826,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1116,
+      "Hosp7d": 1,
+      "UCI": 127,
+      "UCI7d": 0,
+      "Fallecidos": 314,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1171,
+      "Hosp7d": 3,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 950,
+      "Hosp7d": 2,
+      "UCI": 184,
+      "UCI7d": 0,
+      "Fallecidos": 151,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1053,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 1,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9385,
+      "Hosp7d": 12,
+      "UCI": 660,
+      "UCI7d": 1,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8723,
+      "Hosp7d": 14,
+      "UCI": 622,
+      "UCI7d": 1,
+      "Fallecidos": 1928,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29270,
+      "Hosp7d": 16,
+      "UCI": 2980,
+      "UCI7d": 0,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5803,
+      "Hosp7d": 5,
+      "UCI": 741,
+      "UCI7d": 1,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2934,
+      "Hosp7d": 2,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42227,
+      "Hosp7d": 33,
+      "UCI": 3596,
+      "UCI7d": 1,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 1,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 679,
+      "Hosp7d": 0,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2040,
+      "Hosp7d": 1,
+      "UCI": 136,
+      "UCI7d": 0,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6973,
+      "Hosp7d": 5,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 2,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 362,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-14T00:00:00Z"
+  },
+  "Fecha": "14/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee8977110f0d61a00afcd72"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124642,
+      "Hosp7d": 94,
+      "UCI": 11620,
+      "UCI7d": 3,
+      "Fallecidos": 27136,
+      "Fallecidos7d": 25
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6311,
+      "Hosp7d": 6,
+      "UCI": 789,
+      "UCI7d": 0,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2677,
+      "Hosp7d": 6,
+      "UCI": 273,
+      "UCI7d": 0,
+      "Fallecidos": 826,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1116,
+      "Hosp7d": 1,
+      "UCI": 128,
+      "UCI7d": 0,
+      "Fallecidos": 314,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1170,
+      "Hosp7d": 2,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 950,
+      "Hosp7d": 0,
+      "UCI": 184,
+      "UCI7d": 0,
+      "Fallecidos": 151,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1054,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9388,
+      "Hosp7d": 9,
+      "UCI": 660,
+      "UCI7d": 1,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8724,
+      "Hosp7d": 12,
+      "UCI": 622,
+      "UCI7d": 0,
+      "Fallecidos": 1928,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29270,
+      "Hosp7d": 11,
+      "UCI": 2980,
+      "UCI7d": 0,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5805,
+      "Hosp7d": 4,
+      "UCI": 741,
+      "UCI7d": 1,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2934,
+      "Hosp7d": 2,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42230,
+      "Hosp7d": 30,
+      "UCI": 3596,
+      "UCI7d": 1,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 1,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 679,
+      "Hosp7d": 0,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2041,
+      "Hosp7d": 2,
+      "UCI": 136,
+      "UCI7d": 0,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6974,
+      "Hosp7d": 5,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 1,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 362,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-15T00:00:00Z"
+  },
+  "Fecha": "15/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee9f975285a82310888c37e"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124683,
+      "Hosp7d": 86,
+      "UCI": 11624,
+      "UCI7d": 6,
+      "Fallecidos": 27136,
+      "Fallecidos7d": 25
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6312,
+      "Hosp7d": 7,
+      "UCI": 789,
+      "UCI7d": 0,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2677,
+      "Hosp7d": 4,
+      "UCI": 273,
+      "UCI7d": 0,
+      "Fallecidos": 826,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 128,
+      "UCI7d": 0,
+      "Fallecidos": 314,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1171,
+      "Hosp7d": 3,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 950,
+      "Hosp7d": 0,
+      "UCI": 184,
+      "UCI7d": 0,
+      "Fallecidos": 151,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1053,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9389,
+      "Hosp7d": 8,
+      "UCI": 660,
+      "UCI7d": 1,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8727,
+      "Hosp7d": 11,
+      "UCI": 622,
+      "UCI7d": 0,
+      "Fallecidos": 1928,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29278,
+      "Hosp7d": 9,
+      "UCI": 2982,
+      "UCI7d": 2,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5804,
+      "Hosp7d": 2,
+      "UCI": 742,
+      "UCI7d": 1,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2935,
+      "Hosp7d": 2,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42255,
+      "Hosp7d": 30,
+      "UCI": 3597,
+      "UCI7d": 2,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 7
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 1,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 679,
+      "Hosp7d": 0,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2041,
+      "Hosp7d": 2,
+      "UCI": 136,
+      "UCI7d": 0,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6976,
+      "Hosp7d": 4,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 1,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 362,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-16T00:00:00Z"
+  },
+  "Fecha": "16/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eec7c30edc5ae0718d68c89"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124732,
+      "Hosp7d": 97,
+      "UCI": 11630,
+      "UCI7d": 10,
+      "Fallecidos": 27136,
+      "Fallecidos7d": 30
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6314,
+      "Hosp7d": 8,
+      "UCI": 789,
+      "UCI7d": 0,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2679,
+      "Hosp7d": 3,
+      "UCI": 273,
+      "UCI7d": 0,
+      "Fallecidos": 826,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 314,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1171,
+      "Hosp7d": 3,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 950,
+      "Hosp7d": 0,
+      "UCI": 184,
+      "UCI7d": 0,
+      "Fallecidos": 151,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1053,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9391,
+      "Hosp7d": 7,
+      "UCI": 660,
+      "UCI7d": 1,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8735,
+      "Hosp7d": 15,
+      "UCI": 624,
+      "UCI7d": 2,
+      "Fallecidos": 1928,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29284,
+      "Hosp7d": 14,
+      "UCI": 2983,
+      "UCI7d": 3,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5806,
+      "Hosp7d": 2,
+      "UCI": 743,
+      "UCI7d": 1,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2935,
+      "Hosp7d": 2,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42269,
+      "Hosp7d": 32,
+      "UCI": 3598,
+      "UCI7d": 3,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 7
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 1,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 679,
+      "Hosp7d": 0,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2045,
+      "Hosp7d": 2,
+      "UCI": 136,
+      "UCI7d": 0,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6985,
+      "Hosp7d": 4,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 2,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 362,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-17T00:00:00Z"
+  },
+  "Fecha": "17/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eec7c3bedc5ae0718d68c8a"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124779,
+      "Hosp7d": 89,
+      "UCI": 11630,
+      "UCI7d": 9,
+      "Fallecidos": 27136,
+      "Fallecidos7d": 52
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6314,
+      "Hosp7d": 7,
+      "UCI": 789,
+      "UCI7d": 0,
+      "Fallecidos": 1404,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2680,
+      "Hosp7d": 4,
+      "UCI": 273,
+      "UCI7d": 0,
+      "Fallecidos": 826,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 314,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1170,
+      "Hosp7d": 2,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 209,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 950,
+      "Hosp7d": 0,
+      "UCI": 184,
+      "UCI7d": 0,
+      "Fallecidos": 151,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1053,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 202,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9393,
+      "Hosp7d": 5,
+      "UCI": 660,
+      "UCI7d": 1,
+      "Fallecidos": 2945,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8742,
+      "Hosp7d": 12,
+      "UCI": 624,
+      "UCI7d": 2,
+      "Fallecidos": 1928,
+      "Fallecidos7d": 13
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29301,
+      "Hosp7d": 11,
+      "UCI": 2983,
+      "UCI7d": 2,
+      "Fallecidos": 5587,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5804,
+      "Hosp7d": 2,
+      "UCI": 742,
+      "UCI7d": 1,
+      "Fallecidos": 1332,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 508,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2935,
+      "Hosp7d": 2,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 609,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42289,
+      "Hosp7d": 34,
+      "UCI": 3599,
+      "UCI7d": 3,
+      "Fallecidos": 8691,
+      "Fallecidos7d": 25
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 1,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 679,
+      "Hosp7d": 0,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2045,
+      "Hosp7d": 2,
+      "UCI": 136,
+      "UCI7d": 0,
+      "Fallecidos": 490,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6988,
+      "Hosp7d": 5,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1424,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 0,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 362,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-18T00:00:00Z"
+  },
+  "Fecha": "18/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef075fbacd393457cec5d42"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124806,
+      "Hosp7d": 97,
+      "UCI": 11633,
+      "UCI7d": 8,
+      "Fallecidos": 28315,
+      "Fallecidos7d": 40
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6314,
+      "Hosp7d": 5,
+      "UCI": 789,
+      "UCI7d": 0,
+      "Fallecidos": 1426,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2682,
+      "Hosp7d": 5,
+      "UCI": 273,
+      "UCI7d": 0,
+      "Fallecidos": 911,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 333,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1170,
+      "Hosp7d": 1,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 953,
+      "Hosp7d": 2,
+      "UCI": 185,
+      "UCI7d": 1,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1053,
+      "Hosp7d": 1,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9393,
+      "Hosp7d": 4,
+      "UCI": 660,
+      "UCI7d": 0,
+      "Fallecidos": 3022,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8748,
+      "Hosp7d": 15,
+      "UCI": 625,
+      "UCI7d": 3,
+      "Fallecidos": 2775,
+      "Fallecidos7d": 9
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29303,
+      "Hosp7d": 13,
+      "UCI": 2983,
+      "UCI7d": 2,
+      "Fallecidos": 5662,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5806,
+      "Hosp7d": 2,
+      "UCI": 742,
+      "UCI7d": 0,
+      "Fallecidos": 1430,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2936,
+      "Hosp7d": 4,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42300,
+      "Hosp7d": 36,
+      "UCI": 3600,
+      "UCI7d": 2,
+      "Fallecidos": 8416,
+      "Fallecidos7d": 17
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 1,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 679,
+      "Hosp7d": 0,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 147,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2044,
+      "Hosp7d": 3,
+      "UCI": 136,
+      "UCI7d": 0,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6989,
+      "Hosp7d": 5,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1554,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 0,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 365,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-19T00:00:00Z"
+  },
+  "Fecha": "19/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef07607acd393457cec5d43"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124855,
+      "Hosp7d": 101,
+      "UCI": 11637,
+      "UCI7d": 6,
+      "Fallecidos": 28322,
+      "Fallecidos7d": 36
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6316,
+      "Hosp7d": 5,
+      "UCI": 789,
+      "UCI7d": 0,
+      "Fallecidos": 1426,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2682,
+      "Hosp7d": 3,
+      "UCI": 273,
+      "UCI7d": 0,
+      "Fallecidos": 911,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 333,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1170,
+      "Hosp7d": 0,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 953,
+      "Hosp7d": 2,
+      "UCI": 185,
+      "UCI7d": 1,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1053,
+      "Hosp7d": 1,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9405,
+      "Hosp7d": 8,
+      "UCI": 660,
+      "UCI7d": 0,
+      "Fallecidos": 3022,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8752,
+      "Hosp7d": 17,
+      "UCI": 625,
+      "UCI7d": 2,
+      "Fallecidos": 2776,
+      "Fallecidos7d": 7
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29310,
+      "Hosp7d": 16,
+      "UCI": 2985,
+      "UCI7d": 2,
+      "Fallecidos": 5666,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5806,
+      "Hosp7d": 4,
+      "UCI": 742,
+      "UCI7d": 0,
+      "Fallecidos": 1431,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2935,
+      "Hosp7d": 2,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42324,
+      "Hosp7d": 37,
+      "UCI": 3602,
+      "UCI7d": 1,
+      "Fallecidos": 8416,
+      "Fallecidos7d": 13
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 1,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 679,
+      "Hosp7d": 0,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 147,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2044,
+      "Hosp7d": 1,
+      "UCI": 136,
+      "UCI7d": 0,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6990,
+      "Hosp7d": 4,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1555,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 0,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 365,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-20T00:00:00Z"
+  },
+  "Fecha": "20/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef0760facd393457cec5d44"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124871,
+      "Hosp7d": 99,
+      "UCI": 11637,
+      "UCI7d": 5,
+      "Fallecidos": 28323,
+      "Fallecidos7d": 29
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6317,
+      "Hosp7d": 5,
+      "UCI": 789,
+      "UCI7d": 0,
+      "Fallecidos": 1426,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2683,
+      "Hosp7d": 4,
+      "UCI": 273,
+      "UCI7d": 0,
+      "Fallecidos": 911,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 333,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1170,
+      "Hosp7d": 0,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 953,
+      "Hosp7d": 2,
+      "UCI": 185,
+      "UCI7d": 1,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1054,
+      "Hosp7d": 1,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9408,
+      "Hosp7d": 9,
+      "UCI": 660,
+      "UCI7d": 0,
+      "Fallecidos": 3022,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8755,
+      "Hosp7d": 16,
+      "UCI": 625,
+      "UCI7d": 1,
+      "Fallecidos": 2777,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29311,
+      "Hosp7d": 14,
+      "UCI": 2985,
+      "UCI7d": 2,
+      "Fallecidos": 5666,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5807,
+      "Hosp7d": 4,
+      "UCI": 742,
+      "UCI7d": 0,
+      "Fallecidos": 1431,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2935,
+      "Hosp7d": 1,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42325,
+      "Hosp7d": 35,
+      "UCI": 3602,
+      "UCI7d": 1,
+      "Fallecidos": 8416,
+      "Fallecidos7d": 12
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 679,
+      "Hosp7d": 0,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 147,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2044,
+      "Hosp7d": 1,
+      "UCI": 136,
+      "UCI7d": 0,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6994,
+      "Hosp7d": 7,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1555,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 0,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 365,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-21T00:00:00Z"
+  },
+  "Fecha": "21/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef5b2642c8af52c08369414"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124880,
+      "Hosp7d": 150,
+      "UCI": 11638,
+      "UCI7d": 10,
+      "Fallecidos": 28324,
+      "Fallecidos7d": 21
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6319,
+      "Hosp7d": 8,
+      "UCI": 789,
+      "UCI7d": 0,
+      "Fallecidos": 1426,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2685,
+      "Hosp7d": 8,
+      "UCI": 273,
+      "UCI7d": 0,
+      "Fallecidos": 911,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 333,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1170,
+      "Hosp7d": 1,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 953,
+      "Hosp7d": 3,
+      "UCI": 185,
+      "UCI7d": 1,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1054,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9408,
+      "Hosp7d": 12,
+      "UCI": 660,
+      "UCI7d": 0,
+      "Fallecidos": 3022,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8757,
+      "Hosp7d": 27,
+      "UCI": 625,
+      "UCI7d": 1,
+      "Fallecidos": 2778,
+      "Fallecidos7d": 6
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29311,
+      "Hosp7d": 20,
+      "UCI": 2985,
+      "UCI7d": 3,
+      "Fallecidos": 5666,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5807,
+      "Hosp7d": 4,
+      "UCI": 743,
+      "UCI7d": 1,
+      "Fallecidos": 1431,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2935,
+      "Hosp7d": 1,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42326,
+      "Hosp7d": 50,
+      "UCI": 3602,
+      "UCI7d": 4,
+      "Fallecidos": 8416,
+      "Fallecidos7d": 8
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 680,
+      "Hosp7d": 1,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 147,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2045,
+      "Hosp7d": 2,
+      "UCI": 136,
+      "UCI7d": 0,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6994,
+      "Hosp7d": 10,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1555,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 1,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 365,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-22T00:00:00Z"
+  },
+  "Fecha": "22/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef5b26d2c8af52c08369415"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124925,
+      "Hosp7d": 151,
+      "UCI": 11643,
+      "UCI7d": 13,
+      "Fallecidos": 28325,
+      "Fallecidos7d": 14
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6319,
+      "Hosp7d": 7,
+      "UCI": 789,
+      "UCI7d": 0,
+      "Fallecidos": 1426,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2683,
+      "Hosp7d": 6,
+      "UCI": 273,
+      "UCI7d": 0,
+      "Fallecidos": 911,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 333,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1170,
+      "Hosp7d": 1,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 953,
+      "Hosp7d": 2,
+      "UCI": 185,
+      "UCI7d": 1,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1054,
+      "Hosp7d": 1,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9408,
+      "Hosp7d": 10,
+      "UCI": 660,
+      "UCI7d": 0,
+      "Fallecidos": 3022,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8761,
+      "Hosp7d": 23,
+      "UCI": 627,
+      "UCI7d": 3,
+      "Fallecidos": 2779,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29315,
+      "Hosp7d": 14,
+      "UCI": 2985,
+      "UCI7d": 2,
+      "Fallecidos": 5666,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5808,
+      "Hosp7d": 4,
+      "UCI": 743,
+      "UCI7d": 1,
+      "Fallecidos": 1431,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1772,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2935,
+      "Hosp7d": 0,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42364,
+      "Hosp7d": 72,
+      "UCI": 3605,
+      "UCI7d": 6,
+      "Fallecidos": 8416,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 680,
+      "Hosp7d": 1,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 147,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2045,
+      "Hosp7d": 2,
+      "UCI": 136,
+      "UCI7d": 0,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6994,
+      "Hosp7d": 8,
+      "UCI": 578,
+      "UCI7d": 0,
+      "Fallecidos": 1555,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 0,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 365,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-23T00:00:00Z"
+  },
+  "Fecha": "23/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef5b2782c8af52c08369416"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124964,
+      "Hosp7d": 150,
+      "UCI": 11650,
+      "UCI7d": 16,
+      "Fallecidos": 28327,
+      "Fallecidos7d": 10
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6321,
+      "Hosp7d": 6,
+      "UCI": 790,
+      "UCI7d": 1,
+      "Fallecidos": 1426,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2686,
+      "Hosp7d": 7,
+      "UCI": 273,
+      "UCI7d": 0,
+      "Fallecidos": 911,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 333,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1170,
+      "Hosp7d": 1,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 953,
+      "Hosp7d": 2,
+      "UCI": 185,
+      "UCI7d": 1,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1055,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9408,
+      "Hosp7d": 7,
+      "UCI": 660,
+      "UCI7d": 0,
+      "Fallecidos": 3022,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8765,
+      "Hosp7d": 20,
+      "UCI": 627,
+      "UCI7d": 3,
+      "Fallecidos": 2780,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29322,
+      "Hosp7d": 15,
+      "UCI": 2986,
+      "UCI7d": 1,
+      "Fallecidos": 5666,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5810,
+      "Hosp7d": 5,
+      "UCI": 744,
+      "UCI7d": 2,
+      "Fallecidos": 1432,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1773,
+      "Hosp7d": 1,
+      "UCI": 139,
+      "UCI7d": 1,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2935,
+      "Hosp7d": 0,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42379,
+      "Hosp7d": 69,
+      "UCI": 3606,
+      "UCI7d": 5,
+      "Fallecidos": 8416,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 680,
+      "Hosp7d": 1,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 147,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2045,
+      "Hosp7d": 2,
+      "UCI": 137,
+      "UCI7d": 1,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6998,
+      "Hosp7d": 12,
+      "UCI": 579,
+      "UCI7d": 1,
+      "Fallecidos": 1555,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 0,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 365,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-24T00:00:00Z"
+  },
+  "Fecha": "24/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef5b2802c8af52c08369417"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 124998,
+      "Hosp7d": 146,
+      "UCI": 11651,
+      "UCI7d": 14,
+      "Fallecidos": 28330,
+      "Fallecidos7d": 11
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6322,
+      "Hosp7d": 7,
+      "UCI": 790,
+      "UCI7d": 1,
+      "Fallecidos": 1426,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2687,
+      "Hosp7d": 8,
+      "UCI": 273,
+      "UCI7d": 0,
+      "Fallecidos": 911,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 334,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1171,
+      "Hosp7d": 2,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 953,
+      "Hosp7d": 2,
+      "UCI": 185,
+      "UCI7d": 1,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1055,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9415,
+      "Hosp7d": 6,
+      "UCI": 661,
+      "UCI7d": 0,
+      "Fallecidos": 3020,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8768,
+      "Hosp7d": 15,
+      "UCI": 627,
+      "UCI7d": 2,
+      "Fallecidos": 2783,
+      "Fallecidos7d": 7
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29324,
+      "Hosp7d": 14,
+      "UCI": 2986,
+      "UCI7d": 1,
+      "Fallecidos": 5666,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5811,
+      "Hosp7d": 5,
+      "UCI": 744,
+      "UCI7d": 2,
+      "Fallecidos": 1432,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1773,
+      "Hosp7d": 1,
+      "UCI": 139,
+      "UCI7d": 1,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2936,
+      "Hosp7d": 1,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42393,
+      "Hosp7d": 68,
+      "UCI": 3606,
+      "UCI7d": 4,
+      "Fallecidos": 8417,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 682,
+      "Hosp7d": 3,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 147,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2045,
+      "Hosp7d": 2,
+      "UCI": 137,
+      "UCI7d": 1,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6999,
+      "Hosp7d": 10,
+      "UCI": 579,
+      "UCI7d": 1,
+      "Fallecidos": 1555,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 0,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 365,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-25T00:00:00Z"
+  },
+  "Fecha": "25/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef9a89b49dfc4085c765005"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 125030,
+      "Hosp7d": 147,
+      "UCI": 11651,
+      "UCI7d": 12,
+      "Fallecidos": 28338,
+      "Fallecidos7d": 11
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6324,
+      "Hosp7d": 9,
+      "UCI": 790,
+      "UCI7d": 1,
+      "Fallecidos": 1426,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2709,
+      "Hosp7d": 16,
+      "UCI": 274,
+      "UCI7d": 0,
+      "Fallecidos": 912,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 334,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1171,
+      "Hosp7d": 1,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 953,
+      "Hosp7d": 0,
+      "UCI": 185,
+      "UCI7d": 0,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1055,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9400,
+      "Hosp7d": 0,
+      "UCI": 659,
+      "UCI7d": 0,
+      "Fallecidos": 3024,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8773,
+      "Hosp7d": 20,
+      "UCI": 627,
+      "UCI7d": 2,
+      "Fallecidos": 2783,
+      "Fallecidos7d": 7
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29326,
+      "Hosp7d": 10,
+      "UCI": 2986,
+      "UCI7d": 0,
+      "Fallecidos": 5668,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5811,
+      "Hosp7d": 4,
+      "UCI": 744,
+      "UCI7d": 2,
+      "Fallecidos": 1432,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1774,
+      "Hosp7d": 2,
+      "UCI": 139,
+      "UCI7d": 1,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2936,
+      "Hosp7d": 1,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42407,
+      "Hosp7d": 69,
+      "UCI": 3607,
+      "UCI7d": 4,
+      "Fallecidos": 8418,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 682,
+      "Hosp7d": 3,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 147,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2046,
+      "Hosp7d": 2,
+      "UCI": 137,
+      "UCI7d": 1,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 6999,
+      "Hosp7d": 8,
+      "UCI": 579,
+      "UCI7d": 1,
+      "Fallecidos": 1555,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 0,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 365,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-26T00:00:00Z"
+  },
+  "Fecha": "26/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef9a8a549dfc4085c765006"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 125081,
+      "Hosp7d": 150,
+      "UCI": 11643,
+      "UCI7d": 17,
+      "Fallecidos": 28341,
+      "Fallecidos7d": 13
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6325,
+      "Hosp7d": 6,
+      "UCI": 791,
+      "UCI7d": 2,
+      "Fallecidos": 1426,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2707,
+      "Hosp7d": 13,
+      "UCI": 274,
+      "UCI7d": 0,
+      "Fallecidos": 912,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 334,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1172,
+      "Hosp7d": 1,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 953,
+      "Hosp7d": 0,
+      "UCI": 185,
+      "UCI7d": 0,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1055,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9407,
+      "Hosp7d": 8,
+      "UCI": 645,
+      "UCI7d": 0,
+      "Fallecidos": 3024,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8782,
+      "Hosp7d": 24,
+      "UCI": 628,
+      "UCI7d": 3,
+      "Fallecidos": 2783,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29342,
+      "Hosp7d": 16,
+      "UCI": 2989,
+      "UCI7d": 3,
+      "Fallecidos": 5668,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5812,
+      "Hosp7d": 4,
+      "UCI": 744,
+      "UCI7d": 2,
+      "Fallecidos": 1432,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1774,
+      "Hosp7d": 2,
+      "UCI": 139,
+      "UCI7d": 1,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2936,
+      "Hosp7d": 1,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42423,
+      "Hosp7d": 62,
+      "UCI": 3608,
+      "UCI7d": 4,
+      "Fallecidos": 8420,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 682,
+      "Hosp7d": 3,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 147,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2046,
+      "Hosp7d": 2,
+      "UCI": 137,
+      "UCI7d": 1,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 7001,
+      "Hosp7d": 6,
+      "UCI": 579,
+      "UCI7d": 1,
+      "Fallecidos": 1555,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 0,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 366,
+      "Fallecidos7d": 1
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-27T00:00:00Z"
+  },
+  "Fecha": "27/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef9a8b149dfc4085c765007"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 125105,
+      "Hosp7d": 137,
+      "UCI": 11658,
+      "UCI7d": 16,
+      "Fallecidos": 28343,
+      "Fallecidos7d": 13
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6328,
+      "Hosp7d": 8,
+      "UCI": 791,
+      "UCI7d": 2,
+      "Fallecidos": 1426,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2711,
+      "Hosp7d": 16,
+      "UCI": 274,
+      "UCI7d": 0,
+      "Fallecidos": 912,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 334,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1172,
+      "Hosp7d": 1,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 953,
+      "Hosp7d": 0,
+      "UCI": 185,
+      "UCI7d": 0,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1056,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9419,
+      "Hosp7d": 10,
+      "UCI": 660,
+      "UCI7d": 1,
+      "Fallecidos": 3024,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8782,
+      "Hosp7d": 20,
+      "UCI": 628,
+      "UCI7d": 3,
+      "Fallecidos": 2783,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29343,
+      "Hosp7d": 16,
+      "UCI": 2989,
+      "UCI7d": 3,
+      "Fallecidos": 5669,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5812,
+      "Hosp7d": 5,
+      "UCI": 744,
+      "UCI7d": 2,
+      "Fallecidos": 1432,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1774,
+      "Hosp7d": 2,
+      "UCI": 139,
+      "UCI7d": 1,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2936,
+      "Hosp7d": 1,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42425,
+      "Hosp7d": 46,
+      "UCI": 3608,
+      "UCI7d": 2,
+      "Fallecidos": 8421,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 683,
+      "Hosp7d": 3,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 147,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2046,
+      "Hosp7d": 2,
+      "UCI": 137,
+      "UCI7d": 1,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 7001,
+      "Hosp7d": 5,
+      "UCI": 579,
+      "UCI7d": 1,
+      "Fallecidos": 1555,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 0,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 366,
+      "Fallecidos7d": 1
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-28T00:00:00Z"
+  },
+  "Fecha": "28/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5efef0009eaa3b3bf0e873d6"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 125132,
+      "Hosp7d": 137,
+      "UCI": 11661,
+      "UCI7d": 15,
+      "Fallecidos": 28346,
+      "Fallecidos7d": 12
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6329,
+      "Hosp7d": 7,
+      "UCI": 791,
+      "UCI7d": 2,
+      "Fallecidos": 1426,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2712,
+      "Hosp7d": 15,
+      "UCI": 274,
+      "UCI7d": 0,
+      "Fallecidos": 912,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 334,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1172,
+      "Hosp7d": 1,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 953,
+      "Hosp7d": 0,
+      "UCI": 185,
+      "UCI7d": 0,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1056,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9435,
+      "Hosp7d": 18,
+      "UCI": 662,
+      "UCI7d": 1,
+      "Fallecidos": 3025,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8785,
+      "Hosp7d": 21,
+      "UCI": 630,
+      "UCI7d": 4,
+      "Fallecidos": 2784,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29343,
+      "Hosp7d": 11,
+      "UCI": 2989,
+      "UCI7d": 3,
+      "Fallecidos": 5669,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5814,
+      "Hosp7d": 6,
+      "UCI": 744,
+      "UCI7d": 1,
+      "Fallecidos": 1432,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1774,
+      "Hosp7d": 2,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2936,
+      "Hosp7d": 2,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42428,
+      "Hosp7d": 42,
+      "UCI": 3608,
+      "UCI7d": 2,
+      "Fallecidos": 8421,
+      "Fallecidos7d": 5
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 684,
+      "Hosp7d": 4,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 147,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2046,
+      "Hosp7d": 1,
+      "UCI": 137,
+      "UCI7d": 1,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 7001,
+      "Hosp7d": 5,
+      "UCI": 579,
+      "UCI7d": 1,
+      "Fallecidos": 1556,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 0,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 366,
+      "Fallecidos7d": 1
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-29T00:00:00Z"
+  },
+  "Fecha": "29/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5efef00a9eaa3b3bf0e873d7"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 125183,
+      "Hosp7d": 153,
+      "UCI": 11664,
+      "UCI7d": 11,
+      "Fallecidos": 28355,
+      "Fallecidos7d": 20
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6332,
+      "Hosp7d": 9,
+      "UCI": 791,
+      "UCI7d": 1,
+      "Fallecidos": 1427,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2712,
+      "Hosp7d": 14,
+      "UCI": 274,
+      "UCI7d": 0,
+      "Fallecidos": 912,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 334,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1172,
+      "Hosp7d": 1,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 953,
+      "Hosp7d": 0,
+      "UCI": 185,
+      "UCI7d": 0,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1057,
+      "Hosp7d": 4,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9440,
+      "Hosp7d": 17,
+      "UCI": 664,
+      "UCI7d": 1,
+      "Fallecidos": 3026,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8789,
+      "Hosp7d": 19,
+      "UCI": 630,
+      "UCI7d": 3,
+      "Fallecidos": 2784,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29352,
+      "Hosp7d": 12,
+      "UCI": 2990,
+      "UCI7d": 2,
+      "Fallecidos": 5670,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5816,
+      "Hosp7d": 7,
+      "UCI": 744,
+      "UCI7d": 1,
+      "Fallecidos": 1432,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1776,
+      "Hosp7d": 4,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2936,
+      "Hosp7d": 2,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42449,
+      "Hosp7d": 51,
+      "UCI": 3608,
+      "UCI7d": 2,
+      "Fallecidos": 8425,
+      "Fallecidos7d": 8
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 688,
+      "Hosp7d": 8,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 147,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2047,
+      "Hosp7d": 2,
+      "UCI": 137,
+      "UCI7d": 1,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 7000,
+      "Hosp7d": 3,
+      "UCI": 579,
+      "UCI7d": 0,
+      "Fallecidos": 1558,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1488,
+      "Hosp7d": 0,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 366,
+      "Fallecidos7d": 1
+    }
+  ],
+  "Date": {
+    "$date": "2020-06-30T00:00:00Z"
+  },
+  "Fecha": "30/06/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5efef0139eaa3b3bf0e873d8"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 125222,
+      "Hosp7d": 151,
+      "UCI": 11664,
+      "UCI7d": 9,
+      "Fallecidos": 28363,
+      "Fallecidos7d": 19
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6334,
+      "Hosp7d": 11,
+      "UCI": 791,
+      "UCI7d": 1,
+      "Fallecidos": 1428,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2712,
+      "Hosp7d": 11,
+      "UCI": 274,
+      "UCI7d": 0,
+      "Fallecidos": 912,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 334,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1172,
+      "Hosp7d": 1,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 953,
+      "Hosp7d": 0,
+      "UCI": 185,
+      "UCI7d": 0,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1057,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9441,
+      "Hosp7d": 18,
+      "UCI": 664,
+      "UCI7d": 1,
+      "Fallecidos": 3026,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8797,
+      "Hosp7d": 19,
+      "UCI": 630,
+      "UCI7d": 3,
+      "Fallecidos": 2787,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29356,
+      "Hosp7d": 11,
+      "UCI": 2990,
+      "UCI7d": 2,
+      "Fallecidos": 5671,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5818,
+      "Hosp7d": 7,
+      "UCI": 744,
+      "UCI7d": 0,
+      "Fallecidos": 1432,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1776,
+      "Hosp7d": 3,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2937,
+      "Hosp7d": 3,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42465,
+      "Hosp7d": 50,
+      "UCI": 3608,
+      "UCI7d": 2,
+      "Fallecidos": 8426,
+      "Fallecidos7d": 7
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 691,
+      "Hosp7d": 10,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 147,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2047,
+      "Hosp7d": 2,
+      "UCI": 137,
+      "UCI7d": 0,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 7001,
+      "Hosp7d": 2,
+      "UCI": 579,
+      "UCI7d": 0,
+      "Fallecidos": 1560,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1489,
+      "Hosp7d": 1,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 366,
+      "Fallecidos7d": 1
+    }
+  ],
+  "Date": {
+    "$date": "2020-07-01T00:00:00Z"
+  },
+  "Fecha": "01/07/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5efef01d9eaa3b3bf0e873d9"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 125217,
+      "Hosp7d": 136,
+      "UCI": 11667,
+      "UCI7d": 11,
+      "Fallecidos": 28368,
+      "Fallecidos7d": 24
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6328,
+      "Hosp7d": 11,
+      "UCI": 790,
+      "UCI7d": 0,
+      "Fallecidos": 1428,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2716,
+      "Hosp7d": 12,
+      "UCI": 274,
+      "UCI7d": 0,
+      "Fallecidos": 912,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 334,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1172,
+      "Hosp7d": 1,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 953,
+      "Hosp7d": 0,
+      "UCI": 185,
+      "UCI7d": 0,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1057,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9416,
+      "Hosp7d": 6,
+      "UCI": 665,
+      "UCI7d": 2,
+      "Fallecidos": 3026,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8798,
+      "Hosp7d": 15,
+      "UCI": 630,
+      "UCI7d": 3,
+      "Fallecidos": 2787,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29369,
+      "Hosp7d": 20,
+      "UCI": 2991,
+      "UCI7d": 3,
+      "Fallecidos": 5673,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5819,
+      "Hosp7d": 8,
+      "UCI": 744,
+      "UCI7d": 0,
+      "Fallecidos": 1432,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1775,
+      "Hosp7d": 2,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2937,
+      "Hosp7d": 2,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42472,
+      "Hosp7d": 43,
+      "UCI": 3610,
+      "UCI7d": 3,
+      "Fallecidos": 8428,
+      "Fallecidos7d": 9
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 692,
+      "Hosp7d": 10,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2047,
+      "Hosp7d": 2,
+      "UCI": 137,
+      "UCI7d": 0,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 7001,
+      "Hosp7d": 1,
+      "UCI": 579,
+      "UCI7d": 0,
+      "Fallecidos": 1560,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1489,
+      "Hosp7d": 1,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 366,
+      "Fallecidos7d": 1
+    }
+  ],
+  "Date": {
+    "$date": "2020-07-02T00:00:00Z"
+  },
+  "Fecha": "02/07/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06d911f29f67479c84f8ca"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 125484,
+      "Hosp7d": 141,
+      "UCI": 11704,
+      "UCI7d": 13,
+      "Fallecidos": 28385,
+      "Fallecidos7d": 21
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6342,
+      "Hosp7d": 9,
+      "UCI": 795,
+      "UCI7d": 2,
+      "Fallecidos": 1433,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2717,
+      "Hosp7d": 10,
+      "UCI": 274,
+      "UCI7d": 0,
+      "Fallecidos": 912,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 334,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1173,
+      "Hosp7d": 1,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 953,
+      "Hosp7d": 0,
+      "UCI": 185,
+      "UCI7d": 0,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1057,
+      "Hosp7d": 2,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9424,
+      "Hosp7d": 8,
+      "UCI": 665,
+      "UCI7d": 1,
+      "Fallecidos": 3026,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8798,
+      "Hosp7d": 13,
+      "UCI": 631,
+      "UCI7d": 4,
+      "Fallecidos": 2787,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29370,
+      "Hosp7d": 13,
+      "UCI": 2991,
+      "UCI7d": 1,
+      "Fallecidos": 5673,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5819,
+      "Hosp7d": 8,
+      "UCI": 744,
+      "UCI7d": 0,
+      "Fallecidos": 1432,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1775,
+      "Hosp7d": 1,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2937,
+      "Hosp7d": 2,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42713,
+      "Hosp7d": 60,
+      "UCI": 3641,
+      "UCI7d": 5,
+      "Fallecidos": 8439,
+      "Fallecidos7d": 7
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 692,
+      "Hosp7d": 10,
+      "UCI": 112,
+      "UCI7d": 0,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2047,
+      "Hosp7d": 1,
+      "UCI": 137,
+      "UCI7d": 0,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 7002,
+      "Hosp7d": 2,
+      "UCI": 579,
+      "UCI7d": 0,
+      "Fallecidos": 1561,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1489,
+      "Hosp7d": 1,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 366,
+      "Fallecidos7d": 1
+    }
+  ],
+  "Date": {
+    "$date": "2020-07-03T00:00:00Z"
+  },
+  "Fecha": "03/07/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06d920f29f67479c84f8cb"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 125572,
+      "Hosp7d": 138,
+      "UCI": 11706,
+      "UCI7d": 10,
+      "Fallecidos": 28388,
+      "Fallecidos7d": 12
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6350,
+      "Hosp7d": 13,
+      "UCI": 795,
+      "UCI7d": 2,
+      "Fallecidos": 1433,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2723,
+      "Hosp7d": 11,
+      "UCI": 274,
+      "UCI7d": 0,
+      "Fallecidos": 913,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 334,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1173,
+      "Hosp7d": 0,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 954,
+      "Hosp7d": 1,
+      "UCI": 186,
+      "UCI7d": 1,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1057,
+      "Hosp7d": 1,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9459,
+      "Hosp7d": 21,
+      "UCI": 664,
+      "UCI7d": 0,
+      "Fallecidos": 3027,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8805,
+      "Hosp7d": 11,
+      "UCI": 631,
+      "UCI7d": 1,
+      "Fallecidos": 2787,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29379,
+      "Hosp7d": 11,
+      "UCI": 2992,
+      "UCI7d": 1,
+      "Fallecidos": 5674,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5822,
+      "Hosp7d": 7,
+      "UCI": 744,
+      "UCI7d": 0,
+      "Fallecidos": 1432,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1775,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2940,
+      "Hosp7d": 4,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42726,
+      "Hosp7d": 43,
+      "UCI": 3641,
+      "UCI7d": 4,
+      "Fallecidos": 8439,
+      "Fallecidos7d": 3
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 692,
+      "Hosp7d": 8,
+      "UCI": 113,
+      "UCI7d": 1,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2049,
+      "Hosp7d": 3,
+      "UCI": 137,
+      "UCI7d": 0,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 7003,
+      "Hosp7d": 3,
+      "UCI": 579,
+      "UCI7d": 0,
+      "Fallecidos": 1561,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1489,
+      "Hosp7d": 1,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 366,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-07-06T00:00:00Z"
+  },
+  "Fecha": "06/07/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06d92bf29f67479c84f8cc"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 125616,
+      "Hosp7d": 157,
+      "UCI": 11706,
+      "UCI7d": 7,
+      "Fallecidos": 28392,
+      "Fallecidos7d": 9
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6354,
+      "Hosp7d": 16,
+      "UCI": 795,
+      "UCI7d": 1,
+      "Fallecidos": 1433,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2723,
+      "Hosp7d": 11,
+      "UCI": 274,
+      "UCI7d": 0,
+      "Fallecidos": 913,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 334,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1173,
+      "Hosp7d": 0,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 954,
+      "Hosp7d": 1,
+      "UCI": 186,
+      "UCI7d": 1,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1057,
+      "Hosp7d": 0,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9468,
+      "Hosp7d": 26,
+      "UCI": 664,
+      "UCI7d": 0,
+      "Fallecidos": 3028,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8804,
+      "Hosp7d": 10,
+      "UCI": 631,
+      "UCI7d": 1,
+      "Fallecidos": 2788,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29383,
+      "Hosp7d": 13,
+      "UCI": 2992,
+      "UCI7d": 1,
+      "Fallecidos": 5675,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5827,
+      "Hosp7d": 11,
+      "UCI": 744,
+      "UCI7d": 0,
+      "Fallecidos": 1432,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1773,
+      "Hosp7d": 0,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2941,
+      "Hosp7d": 5,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42742,
+      "Hosp7d": 46,
+      "UCI": 3641,
+      "UCI7d": 2,
+      "Fallecidos": 8440,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 695,
+      "Hosp7d": 7,
+      "UCI": 113,
+      "UCI7d": 1,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2049,
+      "Hosp7d": 2,
+      "UCI": 137,
+      "UCI7d": 0,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 7008,
+      "Hosp7d": 8,
+      "UCI": 579,
+      "UCI7d": 0,
+      "Fallecidos": 1561,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1489,
+      "Hosp7d": 1,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 366,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-07-07T00:00:00Z"
+  },
+  "Fecha": "07/07/2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f06d937f29f67479c84f8cd"
+  },
+  "CCAAs": [
+    {
+      "CCAA": "ESPAÑA",
+      "Hospitalizados": 125630,
+      "Hosp7d": 137,
+      "UCI": 11707,
+      "UCI7d": 6,
+      "Fallecidos": 28396,
+      "Fallecidos7d": 9
+    },
+    {
+      "CCAA": "Andalucía",
+      "Hospitalizados": 6355,
+      "Hosp7d": 15,
+      "UCI": 795,
+      "UCI7d": 1,
+      "Fallecidos": 1434,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Aragón",
+      "Hospitalizados": 2724,
+      "Hosp7d": 12,
+      "UCI": 274,
+      "UCI7d": 0,
+      "Fallecidos": 913,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Asturias",
+      "Hospitalizados": 1117,
+      "Hosp7d": 0,
+      "UCI": 129,
+      "UCI7d": 0,
+      "Fallecidos": 334,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Baleares",
+      "Hospitalizados": 1173,
+      "Hosp7d": 0,
+      "UCI": 169,
+      "UCI7d": 0,
+      "Fallecidos": 224,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Canarias",
+      "Hospitalizados": 954,
+      "Hosp7d": 1,
+      "UCI": 186,
+      "UCI7d": 1,
+      "Fallecidos": 162,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Cantabria",
+      "Hospitalizados": 1057,
+      "Hosp7d": 0,
+      "UCI": 80,
+      "UCI7d": 0,
+      "Fallecidos": 216,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_La_Mancha",
+      "Hospitalizados": 9470,
+      "Hosp7d": 24,
+      "UCI": 664,
+      "UCI7d": 0,
+      "Fallecidos": 3029,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Castilla_y_León",
+      "Hospitalizados": 8804,
+      "Hosp7d": 8,
+      "UCI": 631,
+      "UCI7d": 1,
+      "Fallecidos": 2788,
+      "Fallecidos7d": 1
+    },
+    {
+      "CCAA": "Cataluña",
+      "Hospitalizados": 29387,
+      "Hosp7d": 9,
+      "UCI": 2993,
+      "UCI7d": 2,
+      "Fallecidos": 5675,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Ceuta",
+      "Hospitalizados": 14,
+      "Hosp7d": 0,
+      "UCI": 4,
+      "UCI7d": 0,
+      "Fallecidos": 4,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "C._Valenciana",
+      "Hospitalizados": 5830,
+      "Hosp7d": 10,
+      "UCI": 744,
+      "UCI7d": 0,
+      "Fallecidos": 1432,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Extremadura",
+      "Hospitalizados": 1774,
+      "Hosp7d": 1,
+      "UCI": 138,
+      "UCI7d": 0,
+      "Fallecidos": 519,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Galicia",
+      "Hospitalizados": 2941,
+      "Hosp7d": 4,
+      "UCI": 336,
+      "UCI7d": 0,
+      "Fallecidos": 619,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Madrid",
+      "Hospitalizados": 42747,
+      "Hosp7d": 39,
+      "UCI": 3641,
+      "UCI7d": 0,
+      "Fallecidos": 8441,
+      "Fallecidos7d": 4
+    },
+    {
+      "CCAA": "Melilla",
+      "Hospitalizados": 45,
+      "Hosp7d": 0,
+      "UCI": 3,
+      "UCI7d": 0,
+      "Fallecidos": 2,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Murcia",
+      "Hospitalizados": 688,
+      "Hosp7d": 2,
+      "UCI": 113,
+      "UCI7d": 1,
+      "Fallecidos": 148,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "Navarra",
+      "Hospitalizados": 2051,
+      "Hosp7d": 4,
+      "UCI": 137,
+      "UCI7d": 0,
+      "Fallecidos": 528,
+      "Fallecidos7d": 0
+    },
+    {
+      "CCAA": "País_Vasco",
+      "Hospitalizados": 7009,
+      "Hosp7d": 7,
+      "UCI": 579,
+      "UCI7d": 0,
+      "Fallecidos": 1562,
+      "Fallecidos7d": 2
+    },
+    {
+      "CCAA": "La_Rioja",
+      "Hospitalizados": 1490,
+      "Hosp7d": 1,
+      "UCI": 91,
+      "UCI7d": 0,
+      "Fallecidos": 366,
+      "Fallecidos7d": 0
+    }
+  ],
+  "Date": {
+    "$date": "2020-07-08T00:00:00Z"
+  },
+  "Fecha": "08/07/2020",
+  "__v": 0
 }]
