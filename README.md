@@ -1,7 +1,7 @@
 # ancovid-charts
 Webapp for charts making and display about covid-19 mainly in Andalucía.
 
-Arquitecture: MEAN (MongoDB-Express-Angular-Node.js).
+Architecture: MEAN (MongoDB-Express-Angular-Node.js).
 
 mean-scraper: to scrap data from gobernment websites and other sources like pdfs or .csv files.
 
